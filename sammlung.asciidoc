@@ -17,5 +17,9 @@ Angenommen der Sprachgebrauch des Begriffs "Denken" änderte sich in der angedeu
 5.
 Es gelingt Musikstücke aus neuronalen Aktivierungsmustern zu rekonstruieren. Der Text eines Liedes kann Wort für Wort erkannt werden. Aber nicht nur die Wörter sondern auch die Sprachmelodie, die Intonation, die Betonung. Bisher ist das Verfahren relativ invasiv: die Elektroden müssen unterhalb der Schädeldecke direkt auf den Gehirn angebracht werden. Die Rekonstruktion erfolgt im Moment auch (noch) nicht instantan, sondern bedarf eines länger andauernden Rechenprozesses. Aber immerhin ist man damit in der Lage, ohne den Probanten zu fragen das Stück zu erkennen das er / sie gehört haben muß. 
 
+6.
+Was hörst du? Let it be von den Beatles. Stimmt gar nicht. Du hörst Satisfaction von den Stones. Ich erkenne das aufgrund deines neuronalen Erregungsmusters. Das könnte ein durchaus mögliches zukünftiges Szenario sein. Korrepondiert das neuronale Erregungsmuster dem Musikstück? Man kann das Musikstück aus dem neuronalen Muster rekonstruieren. Könnte man nicht auch ein ganz anderes Musikstück aus dem Muster rekonstruieren. Sicher. Aber wir sind an einer Rekonstruktion interessiert, die zu unserem sonst üblichen Sprachgebrauch paßt. Die Korrespondenz wird durch mein Computerprogramm hergestellt. Neuronale Muster werden zunehmend mehr Bedeutung für unser Handeln gewinnen. Ist der Patient bei Bewußtsein? Seine Gehirnaktivitäten entsprechen dem eines Menschen bei Bewußtsein. Die lebenserhaltenden Apparate dürfen also nicht abgestellt werden. Man kann sich vorstellen, daß diese Überprüfung der Gehirnaktivitäten irgendwann rechtsrelevant wird (is sie wahrscheinlich schon). Der prinzipielle Punkt dieser Überlegungen bleibt aber valide: Kausalität ersetzt nicht Sprachpraxis. In unserer Sprachpraxis spielt Kausalität eine Rolle. Aber die Rolle wird durch uns bestimmt.
+
+
 [index]
 == Index
