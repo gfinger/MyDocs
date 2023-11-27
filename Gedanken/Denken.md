@@ -1,0 +1,24 @@
+---
+tags:
+  - denken
+  - Wittgenstein
+  - Psychologie
+---
+
+1.
+Eigentlich ironisch, daß posthum Wittgenstein  eine Philosophie der Psychologie zugeschrieben wird. Hat er das selber so genannt? Wittgenstein will wie immer der Fliege den Ausweg aus dem Fliegenglas zeigen: Für den korrekten Gebrauch von "Ich denke, wir sollten nach Hause gehen" (((Denken))) ist ein wie auch immer gearteter "innerer" Zustand nicht wesentlich. Eine psychologische Untersuchung des Sprechenden wird bei der Verwendung des Satzes keine Rolle spielen.
+
+2.
+Angenommen die Psychologie (oder die Cognitive Science) würde zu dem Ergebnis kommen, ((Denken)) sei dies oder das auf mentaler Ebene (oder auf der Ebene des zenralen Nervensystems) würden wir akzeptieren, daß die Wissenschaft uns sagt: "du glaubst daß du denkst, aber in Wirklichkeit denkst du gar nicht". Würden wir das akzeptieren? Vielleicht. Vielleicht würde sich unser Sprachgebrauch so ändern, daß wir immer ein wissenschaftliches Gerät, einen "Denk-Detektor" zu Hilfe nähmen, wenn jemand sagt, er denke das und das. Ich halte das für wenig wahrscheinlich, aber warum sollte ich das ausschließen? Unser Sprachgebrauch unterliegt Änderungen. Regeln (((Regel))) sind in die Zukunft offen. Sie können so oder anders fortgesetzt werden. Mein Punkt ist nicht, daß der Begriff "denken" in einer ganz bestimmten Weise gebraucht wird, sondern daß der Begriff nur dadurch, daß er mit bestimmten Gewohnheiten verbunden ist, eine Relevanz erhält. Man könnte sagen, er erhält dadurch seine ((Bedeutung)), wenn der Begriff "Bedeutung" im Zusammenhang mit philosophischen Texten nicht zu irreführenden Assoziation führte. Der Begriff "Denken" wird in einem ((Sprachspiel)) verwendet, entsprechend gewisser Regeln. That's All!
+
+3.
+Auch der Begriff des "Sprachspiels" ist eigentlich zu eng. Die Sprache ist eingebettet in eine generelle Praxis kommunikativen Handelns. Der Mensch ist keineswegs das einzige Tier, das solche Praxen verwendet. Bei höheren Tieren wie Katze und Hund ist das offensichtlich. Aber auch bei weniger "intelligenten" Tieren finden sich Formen des kommunikativen Handelns, etwa bei Fischschwärmen, oder auch bei Insekten. Insofern darf man wohl annehmen, daß menschliche Sprachspiele das Ergebnis eines evolutionären Prozesses (((Evolution))) sind.
+
+4.
+Angenommen der Sprachgebrauch des Begriffs "Denken" änderte sich in der angedeuteten Art und Weise, daß eine psychologische oder neurologische Ermittlung (((Neuroscience))) darin eine Rolle spielte, dann, denke ich, würden wir dennoch einen alternativen Begriff brauchen, der ohne diese wissenschaftliche Überprüfung auskäme. Warum sollte mich der "innere Zustand" meines Gegenübers interessieren, wenn ich frage "denkst du, wir sollten jetzt nach Hause gehen"? Was auch immer der wissenschaftliche Apparat dazu sagt, ich will einfach nur wissen, ob mein Gegenüber bereit ist, jetzt zu gehen, und wenn er/sie seine/ihre Sachen packt, die Jacke anzieht, die Tür aufmacht und geht, ist das völlig ausreichend, was auch immer Psychologen oder Mediziner dazu sagen.
+
+5.
+Es gelingt Musikstücke aus neuronalen Aktivierungsmustern (((Neuroscience))) zu rekonstruieren. Der Text eines Liedes kann Wort für Wort erkannt werden. Aber nicht nur die Wörter sondern auch die Sprachmelodie, die Intonation, die Betonung. Bisher ist das Verfahren relativ invasiv: die Elektroden müssen unterhalb der Schädeldecke direkt auf den Gehirn angebracht werden. Die Rekonstruktion erfolgt im Moment auch (noch) nicht instantan, sondern bedarf eines länger andauernden Rechenprozesses. Aber immerhin ist man damit in der Lage, ohne den Probanten zu fragen das Stück zu erkennen das er / sie gehört haben muß. 
+
+6.
+"Was hörst du?" - "Let it be von den Beatles." - "Stimmt gar nicht. Du hörst Satisfaction von den Stones. Ich erkenne das aufgrund deines neuronalen Erregungsmusters." (((Neuroscience))) Das könnte ein durchaus mögliches zukünftiges Szenario sein. Korrepondiert (((Korrespondenz))) das neuronale Erregungsmuster dem Musikstück? Man kann das Musikstück aus dem neuronalen Muster rekonstruieren. Könnte man nicht auch ein ganz anderes Musikstück aus dem Muster rekonstruieren. Sicher. Aber wir sind an einer Rekonstruktion interessiert, die zu unserem sonst üblichen Sprachgebrauch paßt. Die ((Korrespondenz)) wird durch mein Computerprogramm hergestellt. Neuronale Muster werden zunehmend mehr Bedeutung für unser Handeln gewinnen. Ist der Patient bei Bewußtsein? Seine Gehirnaktivitäten entsprechen dem eines Menschen bei Bewußtsein. Die lebenserhaltenden Apparate dürfen also nicht abgestellt werden. Man kann sich vorstellen, daß diese Überprüfung der Gehirnaktivitäten irgendwann rechtsrelevant wird (is sie wahrscheinlich schon). Der prinzipielle Punkt dieser Überlegungen bleibt aber valide: ((Kausalität)) ersetzt nicht Sprachpraxis. In unserer Sprachpraxis spielt Kausalität eine Rolle. Aber die Rolle wird durch uns bestimmt.

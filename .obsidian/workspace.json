@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a99b75b1d6a1f99a",
+        "id": "effc08a561a544aa",
         "type": "tabs",
         "children": [
           {
-            "id": "d6c21139e4d28c6e",
+            "id": "0e0c4292b2b4c710",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GeschichteDerMathematik.md",
+                "file": "Gedanken/Wahrheitstheorien.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GeschichteDerMathematik.md",
+                "file": "Gedanken/Wahrheitstheorien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GeschichteDerMathematik.md",
+                "file": "Gedanken/Wahrheitstheorien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GeschichteDerMathematik.md"
+                "file": "Gedanken/Wahrheitstheorien.md"
               }
             }
           }
@@ -146,9 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d6c21139e4d28c6e",
+  "active": "0e0c4292b2b4c710",
   "lastOpenFiles": [
-    "README.md",
-    "GeschichteDerMathematik.md"
+    "GeschichteDerMathematik.md",
+    "Gedanken/Wahrheitstheorien.md",
+    "Dataviews/Wittgenstein.md",
+    "Dataviews",
+    "Gedanken/Denken.md",
+    "Gedanken/Unsortiert.md",
+    "Gedanken/Denken",
+    "Gedanken",
+    "untitled folder",
+    "Unsortiert.pdf",
+    "sammlung.md",
+    "VonDerFreiheitDerDenkendenMenschen.md",
+    "GeschichteDerMathematik.pdf",
+    "README.md"
   ]
 }
