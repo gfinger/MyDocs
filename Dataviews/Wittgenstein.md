@@ -1,6 +1,0 @@
-
-```dataview
-list from #Wittgenstein 
-```
-
-

@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gedanken/Wahrheitstheorien.md",
+                "file": "Dataviews/Books/Wittgenstein.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gedanken/Wahrheitstheorien.md",
+                "file": "Dataviews/Books/Wittgenstein.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gedanken/Wahrheitstheorien.md",
+                "file": "Dataviews/Books/Wittgenstein.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gedanken/Wahrheitstheorien.md"
+                "file": "Dataviews/Books/Wittgenstein.md"
               }
             }
           }
@@ -148,19 +148,39 @@
   },
   "active": "0e0c4292b2b4c710",
   "lastOpenFiles": [
+    "Gedanken/Autorität der Menschenrechte.md",
+    "Dataviews/Books/Wittgenstein.md",
+    "Alltagspsychologie/Neuronale Bestimmung des Gehörten.md",
+    "Dataviews/Names/Wittgenstein.md",
+    "Dataviews/Books/Denken.md",
+    "Dataviews/Names/Rorty.md",
+    "Dataviews/Names/Dawkins.md",
+    "Dataviews/Names",
+    "Alltagspsychologie/Sprachpraxis und Kausalität.md",
+    "Dataviews/Books",
+    "Dataviews/Books/Wahrheit.md",
+    "Wahrheit/Wahrheitstheorien und Sprachpraxis.md",
+    "Wahrheit/Wahrheitstheorien.md",
+    "Wahrheit/Äquivalenzprinzip als Triviale Wahrheitstheorie.md",
+    "Gedanken/Sprache und Evolution.md",
+    "Wahrheit",
+    "VonDerFreiheitDerDenkendenMenschen.md",
     "GeschichteDerMathematik.md",
-    "Gedanken/Wahrheitstheorien.md",
-    "Dataviews/Wittgenstein.md",
+    "Gedanken/Extremer Szientismus.md",
+    "Gedanken/Kritik des Extremen Szientismus.md",
+    "Gedanken/Autorität des Pragmatismus.md",
+    "Alltagspsychologie/Sprachspiele und Non-verbale Kommunikation.md",
+    "Alltagspsychologie/Gebrauch des Wortes Denken.md",
+    "Alltagspsychologie/Relevanz der Alltagspsychologie.md",
+    "Folk-Psychologie/Untitled",
+    "Alltagspsychologie/Wittgenstein zur Philosophie der Psychologie.md",
+    "Alltagspsychologie",
     "Dataviews",
-    "Gedanken/Denken.md",
-    "Gedanken/Unsortiert.md",
     "Gedanken/Denken",
     "Gedanken",
     "untitled folder",
     "Unsortiert.pdf",
     "sammlung.md",
-    "VonDerFreiheitDerDenkendenMenschen.md",
-    "GeschichteDerMathematik.pdf",
     "README.md"
   ]
 }
