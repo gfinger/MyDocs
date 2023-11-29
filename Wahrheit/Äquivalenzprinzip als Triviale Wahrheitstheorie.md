@@ -23,3 +23,7 @@ Dies ist nichts anderes als __Alfred Tarskis__ Wahrheitskriterium [^1][^2]
 >  $s\,\, ist\,wahr\,\leftrightarrow\,\,p$
 
 Diese Wahrheitsbegriff von Tarski liegt der mathematischen _Modelltheorie_ zu Grunde, in der Sätze eines formalen Systems relativ zu einem Modell interpretiert werden. Man könnte Tarskis Wahrheitsdefinition eine _triviale Wahrheitstheorie_ nennen. Nicht dass die Definition der Wahrheit innerhalb einer formalisierten Arithmetik trivial einfach wäre, aber sie bringt außer dem trivialen Äquivalenzprinzip (3) keine weiteren Erkenntnisse hervor, was genau diese Eigenschaft sei. 
+
+
+[^1]: Tarski, Alfred: Der Wahrheitsbegriff in den formalisierten Sprachen. 1931
+[^2]: Reformuliert in einer Sprache, die erlaubt über Eigenschaften zu quantifizieren
