@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataviews/Books/Wahrheit.md",
+                "file": "Dataviews/ToC/Topics/Mathematik.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataviews/Books/Wahrheit.md",
+                "file": "Dataviews/ToC/Topics/Mathematik.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dataviews/Books/Wahrheit.md",
+                "file": "Dataviews/ToC/Topics/Mathematik.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataviews/Books/Wahrheit.md"
+                "file": "Dataviews/ToC/Topics/Mathematik.md"
               }
             }
           }
@@ -148,29 +148,33 @@
   },
   "active": "adf47db0e59455e1",
   "lastOpenFiles": [
+    "Mathematik/Erweiterung und Rekonstruktion.md",
+    "Dataviews/ToC/Topics/Wahrheit.md",
+    "Dataviews/ToC/Names/Wittgenstein.md",
+    "Dataviews/ToC/Topics/Mathematik.md",
+    "Dataviews/ToC/Topics/Denken.md",
+    "Mathematik/Rationale Rekonstruktion der Natürlichen Zahlen.md",
+    "Mathematik/GeschichteDerMathematik.md",
     "Wahrheit/Äquivalenzprinzip als Triviale Wahrheitstheorie.md",
-    "Wahrheit/Wahrheitstheorien und Sprachpraxis.md",
+    "Gedanken/Autorität der Menschenrechte.md",
+    "Mathematik",
     "Dataviews/Books/Wahrheit.md",
+    "Wahrheit/Wahrheitstheorien und Sprachpraxis.md",
     "Dataviews/Books/Denken.md",
     "Alltagspsychologie/Sprachpraxis und Kausalität.md",
     "Alltagspsychologie/Wittgenstein zur Philosophie der Psychologie.md",
     "Alltagspsychologie/Sprachspiele und Non-verbale Kommunikation.md",
-    "Dataviews/ToC/Topics/Denken.md",
     "Dataviews/ToC/Topics",
-    "Dataviews/ToC/Names/Wittgenstein.md",
     "Dataviews/ToC",
     "Dataviews/ToC/Names/Dawkins.md",
     "Dataviews/ToC/Names/Rorty.md",
-    "Dataviews/ToC/Topics/Wahrheit.md",
-    "Gedanken/Autorität der Menschenrechte.md",
     "Alltagspsychologie/Neuronale Bestimmung des Gehörten.md",
     "Dataviews/ToC/Names",
     "Dataviews/Books",
     "Wahrheit/Wahrheitstheorien.md",
     "Gedanken/Sprache und Evolution.md",
     "Wahrheit",
-    "VonDerFreiheitDerDenkendenMenschen.md",
-    "GeschichteDerMathematik.md",
+    "Wahrheit/VonDerFreiheitDerDenkendenMenschen.md",
     "Gedanken/Extremer Szientismus.md",
     "Gedanken/Kritik des Extremen Szientismus.md",
     "Gedanken/Autorität des Pragmatismus.md",
@@ -179,9 +183,6 @@
     "Folk-Psychologie/Untitled",
     "Alltagspsychologie",
     "Dataviews",
-    "Gedanken/Denken",
-    "Gedanken",
-    "sammlung.md",
-    "README.md"
+    "Gedanken/Denken"
   ]
 }
