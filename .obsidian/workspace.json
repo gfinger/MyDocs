@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataviews/ToC/Topics/Mathematik.md",
-                "mode": "preview",
+                "file": "Alltagspsychologie/Die Auflösung des Leib-Seele Problems.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataviews/ToC/Topics/Mathematik.md",
+                "file": "Alltagspsychologie/Die Auflösung des Leib-Seele Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dataviews/ToC/Topics/Mathematik.md",
+                "file": "Alltagspsychologie/Die Auflösung des Leib-Seele Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataviews/ToC/Topics/Mathematik.md"
+                "file": "Alltagspsychologie/Die Auflösung des Leib-Seele Problems.md"
               }
             }
           }
@@ -148,27 +148,30 @@
   },
   "active": "adf47db0e59455e1",
   "lastOpenFiles": [
+    "Dataviews/ToC/Topics/Denken.md",
+    "Alltagspsychologie/Die Auflösung des Leib-Seele Problems.md",
+    "Gedanken/Autorität der Menschenrechte.md",
+    "Alltagspsychologie/Wittgenstein zur Philosophie der Psychologie.md",
+    "Alltagspsychologie/Sprachspiele und Non-verbale Kommunikation.md",
+    "Alltagspsychologie/Sprachpraxis und Kausalität.md",
+    "Alltagspsychologie/Relevanz der Alltagspsychologie.md",
+    "Alltagspsychologie/Neuronale Bestimmung des Gehörten.md",
+    "Alltagspsychologie/Gebrauch des Wortes Denken.md",
+    "Dataviews/Books/Denken.md",
+    "Dataviews/ToC/Topics/Mathematik.md",
     "Mathematik/Erweiterung und Rekonstruktion.md",
     "Dataviews/ToC/Topics/Wahrheit.md",
     "Dataviews/ToC/Names/Wittgenstein.md",
-    "Dataviews/ToC/Topics/Mathematik.md",
-    "Dataviews/ToC/Topics/Denken.md",
     "Mathematik/Rationale Rekonstruktion der Natürlichen Zahlen.md",
     "Mathematik/GeschichteDerMathematik.md",
     "Wahrheit/Äquivalenzprinzip als Triviale Wahrheitstheorie.md",
-    "Gedanken/Autorität der Menschenrechte.md",
     "Mathematik",
     "Dataviews/Books/Wahrheit.md",
     "Wahrheit/Wahrheitstheorien und Sprachpraxis.md",
-    "Dataviews/Books/Denken.md",
-    "Alltagspsychologie/Sprachpraxis und Kausalität.md",
-    "Alltagspsychologie/Wittgenstein zur Philosophie der Psychologie.md",
-    "Alltagspsychologie/Sprachspiele und Non-verbale Kommunikation.md",
     "Dataviews/ToC/Topics",
     "Dataviews/ToC",
     "Dataviews/ToC/Names/Dawkins.md",
     "Dataviews/ToC/Names/Rorty.md",
-    "Alltagspsychologie/Neuronale Bestimmung des Gehörten.md",
     "Dataviews/ToC/Names",
     "Dataviews/Books",
     "Wahrheit/Wahrheitstheorien.md",
@@ -177,9 +180,6 @@
     "Wahrheit/VonDerFreiheitDerDenkendenMenschen.md",
     "Gedanken/Extremer Szientismus.md",
     "Gedanken/Kritik des Extremen Szientismus.md",
-    "Gedanken/Autorität des Pragmatismus.md",
-    "Alltagspsychologie/Gebrauch des Wortes Denken.md",
-    "Alltagspsychologie/Relevanz der Alltagspsychologie.md",
     "Folk-Psychologie/Untitled",
     "Alltagspsychologie",
     "Dataviews",
