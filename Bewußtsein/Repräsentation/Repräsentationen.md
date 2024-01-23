@@ -16,6 +16,8 @@ document: Repräsentation
 	- Codiert ein Byte eine Zahl zwischen 0 und 64 oder ein Schriftzeichen in ASCII Codierung?
 - Zahlen
 	- Gödelzahlen repräsentieren einen formalen Ausdruck und/oder Zahlen
+- Sprachliche Zeichensysteme
+	- Sätze repräsentieren Gedanken (?)
 - Visueller Cortex
 	- In einer biologischen Theorie der Funktionsweise des Gehirns können bestimmte Areale im Gehirn als Repräsentation von Formen, Farben, Objekten, Begriffen betrachtet werde.
 	- Für die biologische Person selbst sind Hirnstrukturen keine Repräsentationen.
