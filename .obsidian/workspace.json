@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alltagspsychologie/Die Auflösung des Leib-Seele Problems.md",
+                "file": "Bewußtsein/Untitled.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alltagspsychologie/Die Auflösung des Leib-Seele Problems.md",
+                "file": "Bewußtsein/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alltagspsychologie/Die Auflösung des Leib-Seele Problems.md",
+                "file": "Bewußtsein/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alltagspsychologie/Die Auflösung des Leib-Seele Problems.md"
+                "file": "Bewußtsein/Untitled.md"
               }
             }
           }
@@ -146,10 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adf47db0e59455e1",
+  "active": "e71ba0843a5255ae",
   "lastOpenFiles": [
+    "Bewußtsein/Repräsentation/Repräsentationen.md",
+    "Bewußtsein/Untitled.md",
+    "Bewußtsein/Repräsentation/Die Auflösung des Leib-Seele Problems.md",
+    "Dataviews/ToC/Topics/Repräsentation.md",
+    "Dataviews/ToC/Topics/Wahrheit.md",
+    "Dataviews/ToC/Topics/Mathematik.md",
     "Dataviews/ToC/Topics/Denken.md",
-    "Alltagspsychologie/Die Auflösung des Leib-Seele Problems.md",
+    "Dataviews/ToC/Names/Dawkins.md",
+    "Dataviews/Books/Denken.md",
+    "Bewußtsein/Repräsentation",
+    "Bewußtsein",
     "Gedanken/Autorität der Menschenrechte.md",
     "Alltagspsychologie/Wittgenstein zur Philosophie der Psychologie.md",
     "Alltagspsychologie/Sprachspiele und Non-verbale Kommunikation.md",
@@ -157,10 +166,7 @@
     "Alltagspsychologie/Relevanz der Alltagspsychologie.md",
     "Alltagspsychologie/Neuronale Bestimmung des Gehörten.md",
     "Alltagspsychologie/Gebrauch des Wortes Denken.md",
-    "Dataviews/Books/Denken.md",
-    "Dataviews/ToC/Topics/Mathematik.md",
     "Mathematik/Erweiterung und Rekonstruktion.md",
-    "Dataviews/ToC/Topics/Wahrheit.md",
     "Dataviews/ToC/Names/Wittgenstein.md",
     "Mathematik/Rationale Rekonstruktion der Natürlichen Zahlen.md",
     "Mathematik/GeschichteDerMathematik.md",
@@ -170,19 +176,13 @@
     "Wahrheit/Wahrheitstheorien und Sprachpraxis.md",
     "Dataviews/ToC/Topics",
     "Dataviews/ToC",
-    "Dataviews/ToC/Names/Dawkins.md",
     "Dataviews/ToC/Names/Rorty.md",
     "Dataviews/ToC/Names",
     "Dataviews/Books",
     "Wahrheit/Wahrheitstheorien.md",
     "Gedanken/Sprache und Evolution.md",
     "Wahrheit",
-    "Wahrheit/VonDerFreiheitDerDenkendenMenschen.md",
-    "Gedanken/Extremer Szientismus.md",
-    "Gedanken/Kritik des Extremen Szientismus.md",
     "Folk-Psychologie/Untitled",
-    "Alltagspsychologie",
-    "Dataviews",
-    "Gedanken/Denken"
+    "Alltagspsychologie"
   ]
 }
