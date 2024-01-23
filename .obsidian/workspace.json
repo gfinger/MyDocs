@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bewußtsein/Untitled.md",
+                "file": "Philosophisches Tagebuch/2024-01-23.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bewußtsein/Untitled.md",
+                "file": "Philosophisches Tagebuch/2024-01-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bewußtsein/Untitled.md",
+                "file": "Philosophisches Tagebuch/2024-01-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bewußtsein/Untitled.md"
+                "file": "Philosophisches Tagebuch/2024-01-23.md"
               }
             }
           }
@@ -146,10 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e71ba0843a5255ae",
+  "active": "adf47db0e59455e1",
   "lastOpenFiles": [
-    "Bewußtsein/Repräsentation/Repräsentationen.md",
     "Bewußtsein/Untitled.md",
+    "Philosophisches Tagebuch/2024-01-23.md",
+    "Philosophisches Tagebuch",
+    "Bewußtsein/Repräsentation/Repräsentationen.md",
     "Bewußtsein/Repräsentation/Die Auflösung des Leib-Seele Problems.md",
     "Dataviews/ToC/Topics/Repräsentation.md",
     "Dataviews/ToC/Topics/Wahrheit.md",
@@ -180,9 +182,7 @@
     "Dataviews/ToC/Names",
     "Dataviews/Books",
     "Wahrheit/Wahrheitstheorien.md",
-    "Gedanken/Sprache und Evolution.md",
     "Wahrheit",
-    "Folk-Psychologie/Untitled",
-    "Alltagspsychologie"
+    "Folk-Psychologie/Untitled"
   ]
 }
