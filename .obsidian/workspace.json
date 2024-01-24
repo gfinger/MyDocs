@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophisches Tagebuch/2024-01-23.md",
+                "file": "Philosophisches Tagebuch/2024-02-24.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophisches Tagebuch/2024-01-23.md",
+                "file": "Philosophisches Tagebuch/2024-02-24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophisches Tagebuch/2024-01-23.md",
+                "file": "Philosophisches Tagebuch/2024-02-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophisches Tagebuch/2024-01-23.md"
+                "file": "Philosophisches Tagebuch/2024-02-24.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "adf47db0e59455e1",
   "lastOpenFiles": [
-    "Bewußtsein/Repräsentation/Repräsentationen.md",
     "Philosophisches Tagebuch/2024-01-23.md",
+    "Philosophisches Tagebuch/2024-02-24.md",
+    "Bewußtsein/Repräsentation/Repräsentationen.md",
     "Bewußtsein/Untitled.md",
     "Philosophisches Tagebuch",
     "Bewußtsein/Repräsentation/Die Auflösung des Leib-Seele Problems.md",
@@ -181,7 +182,6 @@
     "Dataviews/ToC/Names/Rorty.md",
     "Dataviews/ToC/Names",
     "Dataviews/Books",
-    "Wahrheit/Wahrheitstheorien.md",
     "Wahrheit",
     "Folk-Psychologie/Untitled"
   ]
