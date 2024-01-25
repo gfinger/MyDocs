@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Philosophisches Tagebuch/2024-02-24.md",
+                "file": "Philosophisches Tagebuch/2024-01-25.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophisches Tagebuch/2024-02-24.md",
+                "file": "Philosophisches Tagebuch/2024-01-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophisches Tagebuch/2024-02-24.md",
+                "file": "Philosophisches Tagebuch/2024-01-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Philosophisches Tagebuch/2024-02-24.md"
+                "file": "Philosophisches Tagebuch/2024-01-25.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "adf47db0e59455e1",
   "lastOpenFiles": [
+    "Philosophisches Tagebuch/2024-01-24.md",
+    "Philosophisches Tagebuch/2024-01-25.md",
     "Philosophisches Tagebuch/2024-01-23.md",
-    "Philosophisches Tagebuch/2024-02-24.md",
     "Bewußtsein/Repräsentation/Repräsentationen.md",
     "Bewußtsein/Untitled.md",
     "Philosophisches Tagebuch",
@@ -179,7 +180,6 @@
     "Wahrheit/Wahrheitstheorien und Sprachpraxis.md",
     "Dataviews/ToC/Topics",
     "Dataviews/ToC",
-    "Dataviews/ToC/Names/Rorty.md",
     "Dataviews/ToC/Names",
     "Dataviews/Books",
     "Wahrheit",
