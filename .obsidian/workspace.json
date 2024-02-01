@@ -11,12 +11,8 @@
             "id": "adf47db0e59455e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophisches Tagebuch/2024-02-01.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophisches Tagebuch/2024-02-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophisches Tagebuch/2024-02-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Philosophisches Tagebuch/2024-02-01.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,8 +140,8 @@
   },
   "active": "adf47db0e59455e1",
   "lastOpenFiles": [
-    "Philosophisches Tagebuch/2024-01-31.md",
     "Philosophisches Tagebuch/2024-02-01.md",
+    "Philosophisches Tagebuch/2024-01-31.md",
     "Philosophisches Tagebuch/2024-01-30.md",
     "Philosophisches Tagebuch/2024-01-29.md",
     "Philosophisches Tagebuch/2024-01-26.md",
