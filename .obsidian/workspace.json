@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "adf47db0e59455e1",
+  "active": "e71ba0843a5255ae",
   "lastOpenFiles": [
+    "Geschichte/Kolonialismus",
+    "Geschichte",
     "Philosophisches Tagebuch/2024-02-02.md",
     "Philosophisches Tagebuch/2024-02-01.md",
     "Philosophisches Tagebuch/2024-01-31.md",
@@ -177,13 +179,11 @@
     "Alltagspsychologie/Relevanz der Alltagspsychologie.md",
     "Alltagspsychologie/Neuronale Bestimmung des Gehörten.md",
     "Alltagspsychologie/Gebrauch des Wortes Denken.md",
-    "Mathematik/Erweiterung und Rekonstruktion.md",
     "Mathematik",
     "Dataviews/ToC/Topics",
     "Dataviews/ToC",
     "Dataviews/ToC/Names",
     "Dataviews/Books",
-    "Wahrheit",
-    "Folk-Psychologie/Untitled"
+    "Wahrheit"
   ]
 }
