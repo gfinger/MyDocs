@@ -19,7 +19,7 @@ for (let p of pages3){
     dv.header(3, (p.years)["from"] + "-" + p.years["to"])
   }
   let text1 = (await dv.io.load(p.file.path))
-  dv.paragraph("<small>" + dv.fileLink(p.file.name,false) + "<small>");
+  dv.paragraph("<bold>" + dv.fileLink(p.file.name,false) + "</bold>");
   let text2 = text1.split("---")[2].split("\n")[1]
   dv.span(text2); // note body
   dv.paragraph("<small>" + p.file.tags + "</small>")

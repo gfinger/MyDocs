@@ -2,4 +2,5 @@
 - Mura di Pavia
 - Sella Plicatilis
 - Navigliaccio
-- 
+- Broletto
+- Idroscalo

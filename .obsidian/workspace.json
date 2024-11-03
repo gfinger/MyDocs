@@ -4,65 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "7237bc09b4e822bf",
+        "id": "aa7c98694db5c6dc",
         "type": "tabs",
         "children": [
           {
-            "id": "0b4a1b2d0f04ec7f",
+            "id": "c46dba716de83e54",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spätantike/Timeline/Langobarden/Personen/Teodolinda.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "632fec8b2e533c2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spätantike/Timeline/Langobarden/Personen/Cuniperto.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "66d9fc303e8994f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spätantike/Timeline/Langobarden/Personen/Cuniperto.md",
+                "file": "History/Lorsch/Wandmalereien im Obergeschoss der Torhalle.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               }
             }
-          },
-          {
-            "id": "7b87f832a931a678",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Spätantike/Langobarden Könige.canvas",
-                "viewState": {
-                  "x": -768.5,
-                  "y": -1005,
-                  "zoom": -1.2041848028637714
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Langobarden",
+                "query": "tag:Langobarden",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spätantike/Langobarden Könige.canvas",
+                "file": "History/Lorsch/Wandmalereien im Obergeschoss der Torhalle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spätantike/Langobarden Könige.canvas",
+                "file": "History/Lorsch/Wandmalereien im Obergeschoss der Torhalle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spätantike/Langobarden Könige.canvas"
+                "file": "History/Lorsch/Wandmalereien im Obergeschoss der Torhalle.md"
               }
             }
           }
@@ -190,44 +148,45 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "7b87f832a931a678",
+  "active": "c46dba716de83e54",
   "lastOpenFiles": [
-    "Spätantike/Timeline/Langobarden/Personen/Cunincperga.md",
-    "Reisen/Pavia/Chiesa, Monastero Sant'Agata al Monte.md",
-    "Spätantike/Langobarden Könige.canvas",
-    "Reisen/Pavia/Basilica San Salvatore.md",
-    "Spätantike/Timeline/Langobarden/Personen/Ariperto II.md",
-    "Spätantike/Timeline/Langobarden/Personen/Liutperto.md",
-    "Spätantike/Timeline/Langobarden/Personen/Ragimperto.md",
-    "Spätantike/Timeline/Langobarden/Personen/Cuniperto.md",
-    "Spätantike/Timeline/Langobarden/Personen/Teodolinda.md",
-    "Spätantike/Timeline/Langobarden/Personen/Gundoaldo.md",
-    "Spätantike/Timeline/Langobarden/Personen/Rodoaldo.md",
-    "Spätantike/Timeline/Langobarden/Personen/Ariperto I.md",
-    "Spätantike/Timeline/Langobarden/Personen/Godeperto.md",
-    "Reisen/Pavia/Torre Civica.md",
-    "Reisen/Pavia/Archeologischen Museum.md",
-    "Spätantike/Timeline/Langobarden/Personen/Alachis.md",
-    "Spätantike/Timeline/Langobarden/Personen/Alboin.md",
-    "Spätantike/Timeline/Langobarden/Personen/Pertarito.md",
-    "Spätantike/Timeline/Langobarden/Langobarden erobern Pavia.md",
-    "Spätantike/Timeline/Goten/Niederlage der Goten.md",
-    "Spätantike/Timeline/Langobarden/Langobarden im Friaul.md",
-    "Spätantike/Timeline/Langobarden/Personen",
-    "Reisen/Pavia/Bombardement des Ponte Coperto 1944.md",
-    "Reisen/Pavia/Untitled mindmap.md",
-    "3.md",
-    "Reisen/Pavia/Pavia.md",
-    "Reisen/Pavia/Türme in Pavia.md",
-    "Reisen/Pavia",
-    "Reisen",
-    "Spätantike/Timeline/Kaiser",
-    "Spätantike/Timeline/Päpste",
-    "Spätantike/Kaiser",
-    "Spätantike/Päpste",
-    "Spätantike/Timeline/Goten",
-    "Spätantike/Timeline/Langobarden",
-    "Spätantike/Timeline",
-    "Ledoux Conscious Awareness  2024-01-26.png"
+    "History/Lorsch/Personen/Ludwig der Jüngere.md",
+    "History/Lorsch/Personen/Ludwig der Deutsche.md",
+    "History/Lorsch/Personen/Cancor.md",
+    "History/Lorsch/Personen/Chrodegang.md",
+    "History/Lorsch/Personen/Karl der Große.md",
+    "History/Lorsch/Wandmalereien im Obergeschoss der Torhalle.md",
+    "History/Lorsch/Ereignisse/Gotischer Umbau des Dachs der Torhalle.md",
+    "History/Lorsch/Ereignisse/Brand des Kloster Lorsch.md",
+    "History/Lorsch/Ereignisse/Weihe der Konventskirche.md",
+    "Markwhen/Markwhen 9-23-2024 17.18.35.mw",
+    "Markwhen",
+    "History/Lorsch/Ereignisse/Stiftung des Kloster Lorsch.md",
+    "History/Lorsch/Ereignisse/Translation der Reliquien des Heiligen Nazarius.md",
+    "History/Lorsch/Ereignisse/Übertragung des Klosters an den König.md",
+    "History/Lorsch/Ereignisse/Eingliederung des Klosters in die Diözese Mainz.md",
+    "History/Lorsch/Ereignisse/Bestattung Ludwig des Deutschen.md",
+    "History/Lorsch/Personen/Papst Paul I..md",
+    "History/Lorsch/Ereignisse/Plünderung und Zerstörung des Klosters.md",
+    "History/Lorsch/Personen/Williswinth.md",
+    "History/Lorsch/Orte/Hofgut Lauresham.md",
+    "History/Timeline.md",
+    "History/Langobarden/Ereignisse/Langobarden erobern Pavia.md",
+    "History/Lorsch/Orte",
+    "History/Langobarden/Personen/Alboin.md",
+    "History/Langobarden/Personen/Agilulfo.md",
+    "History/Lorsch/Ereignisse",
+    "History/Langobarden/Ereignisse",
+    "History/Langobarden Könige.canvas",
+    "History/Lorsch/Personen",
+    "History/Untitled.md",
+    "History/Lorsch",
+    "History/Langobarden/Personen/Adaloaldo.md",
+    "History/Römische Kaiser/Kaiser Justin II.md",
+    "Philosophie",
+    "History/Langobarden/Personen/Teodolinda.md",
+    "Geschichte",
+    "History/Langobarden/Personen",
+    "Philosophie/Ledoux Conscious Awareness  2024-01-26.png"
   ]
 }
