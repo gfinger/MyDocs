@@ -4,8 +4,7 @@ died: 782
 persons:
   - Cancor
 tags:
-  - Kloster
-  - Lorsch
+  - Kloster Lorsch
   - Rupertinger
 ---
 

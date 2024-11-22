@@ -4,20 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "aa7c98694db5c6dc",
+        "id": "776bbea2b9dffcdc",
         "type": "tabs",
         "children": [
           {
-            "id": "c46dba716de83e54",
+            "id": "8c663e0ceb8f2620",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Lorsch/Wandmalereien im Obergeschoss der Torhalle.md",
+                "file": "History/Lorsch/Orte/Torhalle/Wikipedia.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
-              }
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wikipedia"
             }
           }
         ]
@@ -40,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Lorsch/Wandmalereien im Obergeschoss der Torhalle.md",
+                "file": "History/Lorsch/Orte/Torhalle/Wikipedia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Wikipedia"
             }
           },
           {
@@ -103,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Lorsch/Wandmalereien im Obergeschoss der Torhalle.md",
+                "file": "History/Lorsch/Orte/Torhalle/Wikipedia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Wikipedia"
             }
           },
           {
@@ -117,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Lorsch/Wandmalereien im Obergeschoss der Torhalle.md"
-              }
+                "file": "History/Lorsch/Orte/Torhalle/Wikipedia.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Wikipedia"
             }
           }
         ]
@@ -148,14 +164,24 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "c46dba716de83e54",
+  "active": "8c663e0ceb8f2620",
   "lastOpenFiles": [
-    "History/Lorsch/Personen/Ludwig der Jüngere.md",
-    "History/Lorsch/Personen/Ludwig der Deutsche.md",
+    "History/Lorsch/Orte/Torhalle/Wandmalereien im Obergeschoss der Torhalle.md",
+    "History/Lorsch/Orte/Torhalle/Wikipedia.md",
+    "History/Lorsch/Orte/Torhalle",
     "History/Lorsch/Personen/Cancor.md",
+    "History/Lorsch/Personen/Ludwig der Deutsche.md",
     "History/Lorsch/Personen/Chrodegang.md",
     "History/Lorsch/Personen/Karl der Große.md",
-    "History/Lorsch/Wandmalereien im Obergeschoss der Torhalle.md",
+    "History/Langobarden Könige.canvas",
+    "History/Langobarden/Personen/Ansprando.md",
+    "History/Langobarden/Personen/Pertarito.md",
+    "Philosophie/ToC/Names/Dawkins.md",
+    "Philosophie/Gedanken/Extremer Szientismus.md",
+    "Philosophisches Tagebuch/2024-07-29.md",
+    "Philosophisches Tagebuch",
+    "Philosophie/Philosophisches Tagebuch/2024-07-29.md",
+    "History/Lorsch/Personen/Ludwig der Jüngere.md",
     "History/Lorsch/Ereignisse/Gotischer Umbau des Dachs der Torhalle.md",
     "History/Lorsch/Ereignisse/Brand des Kloster Lorsch.md",
     "History/Lorsch/Ereignisse/Weihe der Konventskirche.md",
@@ -170,23 +196,12 @@
     "History/Lorsch/Ereignisse/Plünderung und Zerstörung des Klosters.md",
     "History/Lorsch/Personen/Williswinth.md",
     "History/Lorsch/Orte/Hofgut Lauresham.md",
-    "History/Timeline.md",
-    "History/Langobarden/Ereignisse/Langobarden erobern Pavia.md",
     "History/Lorsch/Orte",
-    "History/Langobarden/Personen/Alboin.md",
-    "History/Langobarden/Personen/Agilulfo.md",
     "History/Lorsch/Ereignisse",
     "History/Langobarden/Ereignisse",
-    "History/Langobarden Könige.canvas",
     "History/Lorsch/Personen",
-    "History/Untitled.md",
     "History/Lorsch",
-    "History/Langobarden/Personen/Adaloaldo.md",
-    "History/Römische Kaiser/Kaiser Justin II.md",
     "Philosophie",
-    "History/Langobarden/Personen/Teodolinda.md",
-    "Geschichte",
-    "History/Langobarden/Personen",
     "Philosophie/Ledoux Conscious Awareness  2024-01-26.png"
   ]
 }
