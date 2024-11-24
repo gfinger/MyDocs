@@ -1,5 +1,3 @@
-# Kunigunde
-## Minst
 1898 - 1984
 Karl Josef Minst
 Ehrenbürger von Lorsch, Träger des Bundesverdienstkreuzes
