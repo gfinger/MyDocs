@@ -8,3 +8,12 @@ Säulen, Kapitelle, Fries und Arkaden treten vor einer Fassade aus Sandsteinkach
 ### Die Innenräume
 Das Erdgeschoss bildet durch die offenen Tore auf der West- und Ostseite ein lichtes Portal. Die Wände der Schmalseiten sind aus einfachen Bruchsteinen aufgemauert und weiß verputzt. In Sandstein eingefasste, hölzerne Türen geben Zugang zu den Treppentürmen, die ins Obergeschoss führen.
 Auch das Obergeschoss ist wie die Durchgangshalle darunter nicht weiter baulich unterteilt, sondern bildet einen großer Raum, der durch insgesamt acht Fenster viel Licht erhält. Alle vier Seiten zeigen Reste von Bemalungen auf weißem Putz. In die Wand auf der Ostseite ist in der Mitte eine etwa zwei Meter breite Nische ausgebrochen, in die einmal ein Altar eingelassen war, der  heute nicht mehr vorhanden ist. Der Raum wird durch eine hölzerne Tonnendecke zum Dach hin abgeschlossen.
+
+### Offene Fragen
+#### Stand die Torhalle im Atrium? 
+Nein! Die nördliche Seite des "großen" Atriums war bereits abgerissen. Vgl. Lammers.
+#### Ist der Sarg wirklich von Ludwig dem Deutschen? -> ionische Säulen
+#### Steine der Ecclesia Varia? -> Ähnlichkeit im Baustil?
+Stand die Ecclesia Varia in unmittelbarer Nähe der Torhalle? Vgl. Lammers.
+#### Funktion
+#### Baujahr
