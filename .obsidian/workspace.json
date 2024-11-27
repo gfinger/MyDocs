@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "776bbea2b9dffcdc",
+        "id": "e9521c43f012eb0d",
         "type": "tabs",
         "children": [
           {
-            "id": "8c663e0ceb8f2620",
+            "id": "2fec3bd7fffd608e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Lorsch/Orte/Torhalle/Wikipedia.md",
+                "file": "History/Lorsch/Literatur.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wikipedia"
+              "title": "Literatur"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Lorsch/Orte/Torhalle/Wikipedia.md",
+                "file": "History/Lorsch/Literatur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Wikipedia"
+              "title": "Backlinks for Literatur"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Lorsch/Orte/Torhalle/Wikipedia.md",
+                "file": "History/Lorsch/Literatur.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Wikipedia"
+              "title": "Outgoing links from Literatur"
             }
           },
           {
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Lorsch/Orte/Torhalle/Wikipedia.md"
+                "file": "History/Lorsch/Literatur.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Wikipedia"
+              "title": "Outline of Literatur"
             }
           }
         ]
@@ -164,13 +164,18 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "8c663e0ceb8f2620",
+  "active": "2fec3bd7fffd608e",
   "lastOpenFiles": [
+    "@jacobsenLorscherTorhalleProblem1985.md",
+    "History/Lorsch/Literatur.md",
+    "Untitled.md",
+    "Untitled",
+    "Bibliography.bib",
+    "History/Lorsch/Orte/Torhalle/Wikipedia.md",
     "History/Lorsch/Personen/Minst.md",
     "History/Lorsch/Personen/Mist.md",
     "History/Lorsch/Personen/Kunigunde.md",
     "History/Lorsch/Orte/Torhalle/Wandmalereien im Obergeschoss der Torhalle.md",
-    "History/Lorsch/Orte/Torhalle/Wikipedia.md",
     "History/Lorsch/Orte/Torhalle",
     "History/Lorsch/Personen/Cancor.md",
     "History/Lorsch/Personen/Ludwig der Deutsche.md",
@@ -194,15 +199,10 @@
     "History/Lorsch/Ereignisse/Translation der Reliquien des Heiligen Nazarius.md",
     "History/Lorsch/Ereignisse/Übertragung des Klosters an den König.md",
     "History/Lorsch/Ereignisse/Eingliederung des Klosters in die Diözese Mainz.md",
-    "History/Lorsch/Ereignisse/Bestattung Ludwig des Deutschen.md",
-    "History/Lorsch/Personen/Papst Paul I..md",
-    "History/Lorsch/Ereignisse/Plünderung und Zerstörung des Klosters.md",
     "History/Lorsch/Orte",
     "History/Lorsch/Ereignisse",
     "History/Langobarden/Ereignisse",
     "History/Lorsch/Personen",
-    "History/Lorsch",
-    "Philosophie",
     "Philosophie/Ledoux Conscious Awareness  2024-01-26.png"
   ]
 }
