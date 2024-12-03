@@ -1,14 +1,3 @@
-
-## Beschreibung des Bauwerks
-### Die Außenseite
-Die Torhalle befindet sich auf der westlichen Seite des Klosterareals. Sie ist ein relativ kleines Bauwerk : 10,9 Meter breit, 7,2 Meter tief und bis zum First etwa 14 Meter hoch. An beiden Schmalseiten befinden sich etwa 3 Meter breite, halbrunde Treppentürme. Die Längsachse verläuft mit wenigen Grad Abweichung von Nord nach Süd. Dahinter sieht man östlich in etwa 80 Metern Entfernung den Rest der früheren Klosterkirche. Die Architektur der Torhalle ist weitgehend symmetrisch zur Längs- wie zur Querachse.
-Die Vorder- und  Rückseite der Torhalle sind reich dekoriert mit antikisierenden Bauelementen auf einer ornamentalen Fassade aus roten, beigen und weißen Steinen. Die Schmalseiten mit ihren Treppentürmen sind schmucklos. Vertikal ist die Halle in zwei Stockwerke und ein hohes Giebeldach gegliedert. Auf dem Dachfirst ist  auf der nördlichen Seite ein Glockentürmchen aufgesetzt. Über die ganze Breite des Erdgeschosses bilden drei offene, halbrunde Tore einen lichten Durchgang, der in einer Achse mit dem dahinter liegenden Kirchenportal beide Gebäude optisch verbindet. Links und rechts werden die Tore von Halbsäulen eingerahmt. Bögen und Pfosten der Tore sind ebenso wie die Säulen aus kräftigen roten bis rotbraunen Sandsteinen aufgebaut. Die Säulen enden in Kompositkapitellen aus weißem Kalkstein, auf denen ein schmaler Fries aus hellem Sandstein mit Blattornamenten liegt, der Ober- und Untergeschoss trennt. Vor der Fassade des Obergeschosses treten flache Arkaden hervor, die jeweils aus kannelierten, monolithischen, roten Sandstein-Pilastern mit ionischen Kalkstein-Kapitellen und Dreiecksgiebeln, wiederum aus kanneliertem Sandstein, zusammengesetzt sind. Die neun Arkaden des Obergeschosses sind regelmäßig über den drei Toren im Untergeschoss angeordnet. Auf der Westseite sind in der zweiten, fünften und achten Arkade, mittig über den Torbögen darunter, schmale Fenster integriert. Auf der Ostseite dagegen fehlt das Fenster über dem mittleren Tor.
-Säulen, Kapitelle, Fries und Arkaden treten vor einer Fassade aus Sandsteinkacheln verschiedener Farben hervor. Im Obergeschoss sind dies rote Sechsecke verbunden durch helle Dreiecke. Darunter im Untergeschoss sind dies bis zur Höhe der Tore auf den Spitzen stehende Quadrate, abwechselnd weiß und rot. Die geometrisch schwierigeren Zwickel der Torbögen füllen recht- und dreieckige Kacheln unterschiedlicher Breite, wiederum in weiß und rot. Die prächtige, auffällige Dekoration läßt erkennen, dass es sich bei der Torhalle nicht um ein gewöhnliches Gebäude sondern um ein Schmuckstück handelt, dass bei Bewohnern und Besuchern des Klosters Erstaunen und Bewunderung bewirken soll. Eine Funktion, die die Torhalle bis heute erfüllt.
-
-### Die Innenräume
-Das Erdgeschoss bildet durch die offenen Tore auf der West- und Ostseite ein lichtes Portal. Die Wände der Schmalseiten sind aus einfachen Bruchsteinen aufgemauert und weiß verputzt. In Sandstein eingefasste, hölzerne Türen geben Zugang zu den Treppentürmen, die ins Obergeschoss führen.
-Auch das Obergeschoss ist wie die Durchgangshalle darunter nicht weiter baulich unterteilt, sondern bildet einen großer Raum, der durch insgesamt acht Fenster viel Licht erhält. Alle vier Seiten zeigen Reste von Bemalungen auf weißem Putz. In die Wand auf der Ostseite ist in der Mitte eine etwa zwei Meter breite Nische ausgebrochen, in die einmal ein Altar eingelassen war, der  heute nicht mehr vorhanden ist. Der Raum wird durch eine hölzerne Tonnendecke zum Dach hin abgeschlossen.
-
 ### Offene Fragen
 #### Stand die Torhalle im Atrium? 
 Nein! Die nördliche Seite des "großen" Atriums war bereits abgerissen. Vgl. Lammers.
@@ -17,3 +6,5 @@ Nein! Die nördliche Seite des "großen" Atriums war bereits abgerissen. Vgl. La
 Stand die Ecclesia Varia in unmittelbarer Nähe der Torhalle? Vgl. Lammers.
 #### Funktion
 #### Baujahr
+
+
