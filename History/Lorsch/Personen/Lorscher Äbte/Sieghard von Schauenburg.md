@@ -13,7 +13,7 @@ persons:
 monk:
   - Hirsau
 abbot:
-  - Kloster Lorsch: von 1167 - 1198
+  - Kloster Lorsch: 1167 - 1198
 tags:
   - Kloster Lorsch
 ---

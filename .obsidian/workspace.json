@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "647a679e468cf215",
+        "id": "d7ff6c3a2ae30c17",
         "type": "tabs",
         "children": [
           {
-            "id": "5d2c5fa6ff7b2c8a",
+            "id": "87dd998c868c7d3b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Lorsch/Ereignisse/Bau der Torhalle.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Bau der Torhalle"
+              "title": "New tab"
             }
           }
         ]
@@ -53,12 +48,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Langobarden",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -164,45 +159,45 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "5d2c5fa6ff7b2c8a",
+  "active": "87dd998c868c7d3b",
   "lastOpenFiles": [
+    "History/Untitled mindmap.md",
+    "History/Lorsch/Personen/Lorscher Äbte/Chrodegang.md",
+    "History/Lorsch/Zeittafel/Zeittafel.md",
+    "History/Päpste/Papst Johannes III.md",
+    "History/Päpste/Papst Paul I..md",
+    "History/Lorsch/Ereignisse/Weihe der Konventskirche.md",
+    "History/Lorsch/Ereignisse/Translation der Reliquien des Heiligen Nazarius.md",
+    "History/Lorsch/Zeittafel/765.md",
+    "History/Lorsch/Ereignisse/Erster Brand des Kloster Lorsch.md",
+    "History/Lorsch/Orte/Kloster Gorze.md",
+    "History/Lorsch/Orte/Kloster Lorsch.md",
+    "History/Lorsch/Orte/Metz.md",
+    "History/Lorsch/Ereignisse/Stiftung des Kloster Lorsch.md",
+    "History/Lorsch/Ereignisse/Übertragung des Klosters an den König.md",
+    "History/Lorsch/Personen/Lorscher Äbte/Gundeland.md",
+    "History/Lorsch/Zeittafel/778.md",
+    "History/Lorsch/Personen/Rupertiner/Williswinth.md",
+    "History/Lorsch/Personen/Rupertiner/Rupert I..md",
+    "History/Lorsch/Personen/Rupertiner/Cancor.md",
+    "History/Lorsch/Personen/Rupertiner/Angila.md",
+    "History/Lorsch/Zeittafel/764.md",
+    "History/Lorsch/Zeittafel",
+    "History/Lorsch/Orte/Altenmünster.md",
+    "History/Lorsch/Orte/Hofgut Lauresham.md",
+    "History/Lorsch/Orte/Wormsgau.md",
+    "History/Timeline.md",
+    "History/Lorsch/Orte/Oberrheingau.md",
+    "History/Lorsch/Personen/Rupertiner",
+    "History/Lorsch/Personen/Lorscher Äbte",
+    "History/Lorsch/Buch/Klöster und Herrschaft",
     "Markwhen/Markwhen 12-10-2024 11.07.00.mw",
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem.html",
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/xterm-LZoznX6r.css",
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/webcontainer.fc837ba8.js",
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/v3",
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/translateSandbox.html",
-    "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/translateSandbox(3).html",
-    "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/translateSandbox(2).html",
-    "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/translateSandbox(1).html",
-    "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/timeline.html",
-    "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/tailwind-compat-Bwh-BmjE.css",
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/calendar1.png",
-    "History/Lorsch/Ereignisse/Bau der Torhalle.md",
-    "History/Lorsch/Personen/Sieghard von Schauenburg.md",
-    "History/Lorsch/Personen/Ludwig das Kind.md",
-    "History/Lorsch/Personen/Karlmann, Sohn Ludwigs des Deutschen.md",
-    "History/Lorsch/Personen/Karl Josef Minst.md",
-    "History/Lorsch/Personen/Cancor.md",
-    "History/Lorsch/Personen/Chrodegang.md",
-    "History/Lorsch/Personen/Arnulf von Kärnten.md",
-    "History/Lorsch/Orte/Ecclesia Varia.md",
-    "History/Lorsch/Personen/Papst Paul I..md",
-    "History/Lorsch/Personen/Ludwig der Jüngere.md",
-    "History/Lorsch/Personen/Ludwig der Deutsche.md",
-    "History/Lorsch/Personen/Karl der Große.md",
-    "History/Lorsch/Personen/Williswinth.md",
-    "History/Lorsch/Buch/Wirtschaftliche Bedeutung des Klosters.md",
-    "History/Lorsch/Buch/Nibelungenepos.md",
-    "History/Lorsch/Buch/Merian.md",
-    "History/Lorsch/Orte/Torhalle/Wikipedia.md",
-    "History/Lorsch/Buch/Chat GPT 29.11.24.md",
-    "History/Lorsch/Buch/Kloster Lorsch im Vergleich zu anderen Klöstern.md",
-    "History/Lorsch/Buch/Bildungseinrichtung.md",
-    "History/Lorsch/Buch/Zank um das Kloster.md",
-    "History/Lorsch/Buch/Konzept.md",
-    "History/Lorsch/Buch/Nazarius.md",
-    "History/Lorsch/Buch/Bergung, Rekonstruktion und Zerstörung historischer Artefakte im Laufe der Jahrhunderte.md",
     "History/Langobarden Könige.canvas",
     "Philosophie/Ledoux Conscious Awareness  2024-01-26.png"
   ]
