@@ -1,0 +1,2 @@
+[[Richbod]] schmückt die Altäre des heiligen Johannes des Täufers, der heilgen Maria und des heiligen Petrus [Einleitung, Regesten, Chronik](zotero://select/library/items/GZSQVSNI)Vermerk 17a
+Geweiht dem Heiligen Stephan (?) 

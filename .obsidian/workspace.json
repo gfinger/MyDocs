@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d7ff6c3a2ae30c17",
+        "id": "2b146e63e6ceb5ed",
         "type": "tabs",
         "children": [
           {
-            "id": "87dd998c868c7d3b",
+            "id": "7364d91433623649",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "History/Lorsch/Buch/Karolingische Renaissance versus Humanistische Renaissance.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Karolingische Renaissance versus Humanistische Renaissance"
             }
           }
         ]
@@ -159,35 +164,36 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "87dd998c868c7d3b",
+  "active": "7364d91433623649",
   "lastOpenFiles": [
-    "History/Untitled mindmap.md",
-    "History/Lorsch/Personen/Lorscher Äbte/Chrodegang.md",
-    "History/Lorsch/Zeittafel/Zeittafel.md",
-    "History/Päpste/Papst Johannes III.md",
-    "History/Päpste/Papst Paul I..md",
-    "History/Lorsch/Ereignisse/Weihe der Konventskirche.md",
-    "History/Lorsch/Ereignisse/Translation der Reliquien des Heiligen Nazarius.md",
-    "History/Lorsch/Zeittafel/765.md",
-    "History/Lorsch/Ereignisse/Erster Brand des Kloster Lorsch.md",
-    "History/Lorsch/Orte/Kloster Gorze.md",
-    "History/Lorsch/Orte/Kloster Lorsch.md",
-    "History/Lorsch/Orte/Metz.md",
+    "History/Lorsch/Buch/Karolingische Renaissance.md",
+    "History/Lorsch/Buch/Karolingische Renaissance versus Humanistische Renaissance.md",
+    "History/Lorsch/Buch/Arzneibuch.md",
     "History/Lorsch/Ereignisse/Stiftung des Kloster Lorsch.md",
-    "History/Lorsch/Ereignisse/Übertragung des Klosters an den König.md",
-    "History/Lorsch/Personen/Lorscher Äbte/Gundeland.md",
-    "History/Lorsch/Zeittafel/778.md",
+    "wordpress.tgz",
+    "History/Lorsch/Zeittafel/764.md",
     "History/Lorsch/Personen/Rupertiner/Williswinth.md",
-    "History/Lorsch/Personen/Rupertiner/Rupert I..md",
     "History/Lorsch/Personen/Rupertiner/Cancor.md",
     "History/Lorsch/Personen/Rupertiner/Angila.md",
-    "History/Lorsch/Zeittafel/764.md",
+    "History/Lorsch/Orte/Ecclesia Triplex.md",
+    "History/Lorsch/Personen/Lorscher Äbte/Richbod.md",
+    "History/Lorsch/Personen/Alkuin.md",
+    "History/Lorsch/Personen/Lorscher Äbte/Sieghard von Schauenburg.md",
+    "History/Lorsch/Personen/Lorscher Äbte/Helmerich.md",
+    "History/Lorsch/Personen/Lorscher Äbte/Gundeland.md",
+    "History/Lorsch/Personen/Lorscher Äbte/Chrodegang.md",
+    "History/Lorsch/Personen/Lorscher Äbte/Adalung.md",
+    "History/Lorsch/Zeittafel/796.md",
+    "History/Lorsch/Orte/Kloster St. Martin Tours.md",
+    "History/Lorsch/Orte/Kloster Lorsch.md",
+    "History/Lorsch/Orte/Klostermauer.md",
+    "History/Lorsch/Orte/Basilika St. Nazarius.md",
+    "History/Lorsch/Zeittafel/834.md",
+    "History/Lorsch/Zeittafel/784.md",
+    "History/Lorsch/Zeittafel/804.md",
+    "History/Lorsch/Zeittafel/791.md",
+    "History/Lorsch/Zeittafel/794.md",
     "History/Lorsch/Zeittafel",
-    "History/Lorsch/Orte/Altenmünster.md",
-    "History/Lorsch/Orte/Hofgut Lauresham.md",
-    "History/Lorsch/Orte/Wormsgau.md",
-    "History/Timeline.md",
-    "History/Lorsch/Orte/Oberrheingau.md",
     "History/Lorsch/Personen/Rupertiner",
     "History/Lorsch/Personen/Lorscher Äbte",
     "History/Lorsch/Buch/Klöster und Herrschaft",
@@ -196,7 +202,6 @@
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/xterm-LZoznX6r.css",
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/webcontainer.fc837ba8.js",
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/v3",
-    "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/translateSandbox.html",
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/calendar1.png",
     "History/Langobarden Könige.canvas",
     "Philosophie/Ledoux Conscious Awareness  2024-01-26.png"
