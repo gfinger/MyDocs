@@ -7,5 +7,5 @@ Schöpfung des mittelrheinischen Raumes.
 
 # Wolfgang Hochbruck
 [Die Verbindung des Klosters Lorsch zum Nibelungenlied](zotero://select/library/items/57ZQGI3Y)
-Sehr spekulativ: Orale Tradition der Weitergabe von Heldenliedern. Karl der Große läßt sich Heldenlieder vortragen. Abt Richbod zu Lorsch läßt Sammlung von Heldenliedern anlegen, die mit zum Grundstock der Quellen des Nibelungenlieds gehören. Bearbeitung im 13. Jahrhundert könnte zusätzlichen lokalen Bezug eingebracht haben.
+Sehr spekulativ: Orale Tradition der Weitergabe von Heldenliedern. Karl der Große läßt sich Heldenlieder vortragen und aufzeichnen (Vita Karoli 29). Abt Richbod zu Lorsch läßt Sammlung von Heldenliedern anlegen, die mit zum Grundstock der Quellen des Nibelungenlieds gehören. Bearbeitung im 13. Jahrhundert könnte zusätzlichen lokalen Bezug eingebracht haben.
 
