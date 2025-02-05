@@ -15,14 +15,36 @@
               "state": {
                 "file": "History/Lorsch/Buch/Bibliothek und Scriptorium.md",
                 "mode": "source",
+                "source": true,
                 "backlinks": true,
-                "source": true
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Bibliothek und Scriptorium"
             }
+          },
+          {
+            "id": "ed1d8cabc997f155",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +63,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -164,10 +187,12 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "7364d91433623649",
+  "active": "ed1d8cabc997f155",
   "lastOpenFiles": [
-    "History/Lorsch/Buch/Karolingische Renaissance versus Humanistische Renaissance.md",
+    "History/Lorsch/Buch/Handreichungen.md",
+    "History/Lorsch/Buch/Bibliothek Karls des Großen.md",
     "History/Lorsch/Buch/Bibliothek und Scriptorium.md",
+    "History/Lorsch/Buch/Karolingische Renaissance versus Humanistische Renaissance.md",
     "History/Lorsch/Buch/Arzneibuch.md",
     "History/Lorsch/Buch/Karolingische Renaissance.md",
     "History/Lorsch/Ereignisse/Stiftung des Kloster Lorsch.md",
@@ -191,8 +216,6 @@
     "History/Lorsch/Orte/Basilika St. Nazarius.md",
     "History/Lorsch/Zeittafel/834.md",
     "History/Lorsch/Zeittafel/784.md",
-    "History/Lorsch/Zeittafel/804.md",
-    "History/Lorsch/Zeittafel/791.md",
     "History/Lorsch/Zeittafel",
     "History/Lorsch/Personen/Rupertiner",
     "History/Lorsch/Personen/Lorscher Äbte",

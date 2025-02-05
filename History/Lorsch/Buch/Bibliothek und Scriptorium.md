@@ -1,3 +1,9 @@
+## Fragen
+- Erwähnung im Codex?
+
+## Interessant
+- Pal. 1877 (Katalog der Bücher des Lorscher Klosters, Catalogus codicum monasterii Laureshamensis) enthält auch eine Liste der Bücher in der Bibliothek von Fulda (Catalogus codicum monasterii Fuldensis).
+
 ## Antike Schriftsteller
 
 ### Wiener Livius
@@ -73,3 +79,9 @@ Die liturgische Prachthandschrift mit den Evangelienlektionen des Kirchenjahres 
 ### Paulus Diaconus, Expositio Artis Donati
 
 https://geschichtsquellen.de/werk/3887
+
+### Martianus Capella
+
+Lehrbuch der 7 freien Künste
+
+Hauptpfeiler des Bilungswesens
