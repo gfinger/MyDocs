@@ -1,6 +1,14 @@
 ## Fragen
 - Erwähnung im Codex?
 
+## Erwähnungen im Codex
+Band 5: Schenkungsurkunden werden in der Bibliothek des Heiligen Nazarius aufbewahrt. https://digi.ub.uni-heidelberg.de/diglit/minst1971bd5/0268/image,info
+
+Band 1: 
+- Abt Samuel (837-856) entnimmt Bücher aus der Bibliothek, wahrscheinlich um sie seinem Bischofssitz in Worms bzw. dem Stift Neuhausen zuzuführen. https://digi.ub.uni-heidelberg.de/diglit/minst1966bd1/0092/image,info
+- Hirsauer Mönche entwenden eine nicht unbeträchtliche Anzahl von Büchern aus der Bibliothek, um 1107. https://digi.ub.uni-heidelberg.de/diglit/minst1966bd1/0204/image,info
+
+
 ## Interessant
 - Pal. 1877 (Katalog der Bücher des Lorscher Klosters, Catalogus codicum monasterii Laureshamensis) enthält auch eine Liste der Bücher in der Bibliothek von Fulda (Catalogus codicum monasterii Fuldensis).
 
@@ -75,9 +83,14 @@ Die liturgische Prachthandschrift mit den Evangelienlektionen des Kirchenjahres 
 
 
 ## Grammatik
+### Aelius Donatus: Ars Minor
+https://bibliotheca-laureshamensis-digital.de/bav/bav_pal_lat_1719/0050/image,info
+
+### Priscian Institutiones Grammaticae
+http://bibliotheca-laureshamensis-digital.de/view/ubg_ms1703_124/0001
 
 ### Paulus Diaconus, Expositio Artis Donati
-
+https://bibliotheca-laureshamensis-digital.de/bav/bav_pal_lat_1746/0061/image,info
 https://geschichtsquellen.de/werk/3887
 
 ### Martianus Capella

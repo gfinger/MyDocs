@@ -30,21 +30,8 @@
               "icon": "lucide-file",
               "title": "Bibliothek und Scriptorium"
             }
-          },
-          {
-            "id": "ed1d8cabc997f155",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,7 +174,7 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "ed1d8cabc997f155",
+  "active": "7364d91433623649",
   "lastOpenFiles": [
     "History/Lorsch/Buch/Handreichungen.md",
     "History/Lorsch/Buch/Bibliothek Karls des Großen.md",
