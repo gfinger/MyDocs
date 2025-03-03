@@ -4,28 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2b146e63e6ceb5ed",
+        "id": "4c95d4c939a61f58",
         "type": "tabs",
         "children": [
           {
-            "id": "7364d91433623649",
+            "id": "e7b69bed78f54c24",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "History/Lorsch/Buch/Bibliothek und Scriptorium.md",
                 "mode": "source",
-                "source": true,
                 "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Bibliothek und Scriptorium"
@@ -50,8 +41,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -63,12 +53,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "tag:Langobarden",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -104,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Lorsch/Literatur.md",
+                "file": "History/Lorsch/Buch/Bibliothek und Scriptorium.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Literatur"
+              "title": "Backlinks for Bibliothek und Scriptorium"
             }
           },
           {
@@ -174,44 +164,44 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "7364d91433623649",
+  "active": "e7b69bed78f54c24",
   "lastOpenFiles": [
-    "History/Lorsch/Buch/Handreichungen.md",
-    "History/Lorsch/Buch/Bibliothek Karls des Großen.md",
     "History/Lorsch/Buch/Bibliothek und Scriptorium.md",
-    "History/Lorsch/Buch/Karolingische Renaissance versus Humanistische Renaissance.md",
-    "History/Lorsch/Buch/Arzneibuch.md",
-    "History/Lorsch/Buch/Karolingische Renaissance.md",
-    "History/Lorsch/Ereignisse/Stiftung des Kloster Lorsch.md",
-    "wordpress.tgz",
+    "History/Lorsch/Ereignisse/Bau der Torhalle.md",
+    "History/Päpste/Papst Paul I..md",
+    "History/Lorsch/Zeittafel/834.md",
+    "History/Lorsch/Zeittafel/804.md",
+    "History/Lorsch/Zeittafel/796.md",
+    "History/Lorsch/Zeittafel/794.md",
+    "History/Lorsch/Zeittafel/791.md",
+    "History/Lorsch/Zeittafel/784.md",
+    "History/Lorsch/Zeittafel/778.md",
+    "History/Lorsch/Zeittafel/765.md",
     "History/Lorsch/Zeittafel/764.md",
+    "History/Lorsch/Zeittafel",
     "History/Lorsch/Personen/Rupertiner/Williswinth.md",
+    "History/Lorsch/Personen/Rupertiner/Rupert I..md",
     "History/Lorsch/Personen/Rupertiner/Cancor.md",
     "History/Lorsch/Personen/Rupertiner/Angila.md",
-    "History/Lorsch/Orte/Ecclesia Triplex.md",
-    "History/Lorsch/Personen/Lorscher Äbte/Richbod.md",
-    "History/Lorsch/Personen/Alkuin.md",
+    "History/Lorsch/Personen/Rupertiner",
     "History/Lorsch/Personen/Lorscher Äbte/Sieghard von Schauenburg.md",
+    "History/Lorsch/Personen/Lorscher Äbte/Richbod.md",
     "History/Lorsch/Personen/Lorscher Äbte/Helmerich.md",
     "History/Lorsch/Personen/Lorscher Äbte/Gundeland.md",
     "History/Lorsch/Personen/Lorscher Äbte/Chrodegang.md",
     "History/Lorsch/Personen/Lorscher Äbte/Adalung.md",
-    "History/Lorsch/Zeittafel/796.md",
-    "History/Lorsch/Orte/Kloster St. Martin Tours.md",
-    "History/Lorsch/Orte/Kloster Lorsch.md",
-    "History/Lorsch/Orte/Klostermauer.md",
-    "History/Lorsch/Orte/Basilika St. Nazarius.md",
-    "History/Lorsch/Zeittafel/834.md",
-    "History/Lorsch/Zeittafel/784.md",
-    "History/Lorsch/Zeittafel",
-    "History/Lorsch/Personen/Rupertiner",
     "History/Lorsch/Personen/Lorscher Äbte",
+    "History/Lorsch/Personen/Alkuin.md",
+    "History/Lorsch/Orte/Wormsgau.md",
+    "History/Lorsch/Orte/Oberrheingau.md",
+    "History/Lorsch/Orte/Metz.md",
     "History/Lorsch/Buch/Klöster und Herrschaft",
     "Markwhen/Markwhen 12-10-2024 11.07.00.mw",
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem.html",
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/xterm-LZoznX6r.css",
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/webcontainer.fc837ba8.js",
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/v3",
+    "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/translateSandbox.html",
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/calendar1.png",
     "History/Langobarden Könige.canvas",
     "Philosophie/Ledoux Conscious Awareness  2024-01-26.png"

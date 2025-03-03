@@ -11,6 +11,8 @@ Dieses Bildungsprogramm wie in dem Capitular Admonitio Generalis (789) und dem B
 
 Bis Mitte des 9. Jahrhunderts wuchs die Bibliothek unter den Äbten Richbod, Adalung (804-837) und Samuel (837-856) auf mehrere hundert Bände an.
 
+Hervorzuheben ist eine Schenkung von 27 Büchern (25 kleinere Schriften des Augustinus und 2 Werke des Niceta von Remesiana) aus dem Nachlass des früheren Lorscher Mönchs Gerward, der unter Ludwig dem Frommen Bibliothekar der Hofbibliothek wurde. Von Gerward stammt möglicherweise auch der Vergilius Palatinus und die Historien Justins. (Bischoff S.64-65)
+
 Vier erhaltene Kataloge aus dem 9. Jahrhundert dokumentieren den Bestand der frühmittelalterlichen Bibliothek.
 
 Ein Epitaph, der Grabstein eines Lehrers, aus dem 9. Jahrhundert belegt das Vorhandensein eines Schulbetriebs im Kloster.
@@ -21,11 +23,31 @@ In den folgenden Jahren wurden zunehmend Codices aus der Bibliothek zu Gunsten a
 
 Im späten 15. Jahrhundert, als das Amt Starkenburg und damit das Kloster Lorsch an die Kurpfalz verpfändet wurde, gelangte die Klosterbibliothek unter die Kontrolle des pfälzischen Kurfürsten und den Kanzler der Heidelberger Universität und Wormser Bischof Johann von Dalberg. Wie Falk vermutet, kamen Handschriften aus Lorsch in dieser Zeit in die Bibliothek Dalbergs in Ladenburg. (Falk 50-51).
 
-Unter dem Pfälzer Kurfürst Ottheinrich wurde das Kloster Lorsch aufgelöst. Die Bibliothek wurde nach Heidelberg in die Bibliotheca Palatina überführt, und mit dieser unter den im 30-jährigen Krieg siegreichen Bayern 1623 dem Papst zum Geschenk gemacht. Mehr als die Hälfte der ehemals Lorscher Handschriften kamen auf diese Weise in die Vatikanische Bibliothek.
+Unter dem Pfälzer Kurfürst Ottheinrich wurde das Kloster Lorsch aufgelöst. Die Bibliothek wurde nach Heidelberg in die Bibliotheca Palatina überführt, und mit dieser unter den im 30-jährigen Krieg siegreichen Bayern 1623 dem Papst Gregor XV. zum Geschenk gemacht. Mehr als die Hälfte der ehemals Lorscher Handschriften kamen auf diese Weise in die Vatikanische Bibliothek.
 
 ## Kataloge
 
+Der Katalog III entstand vermutlich in der Zeit des Abtes Eigilbert (856-864).
+
+### Skriptorium
+Das Kopieren einer Handschrift dauerte oft Wochen und Monate und wurde entweder von einem Mönch alleine oder von mehreren gemeinsam durchgeführt. Für die Mönche bedeutet das Schreiben harte Arbeit, die ihnen die benediktinische Ordensregel "ora et labora" auferlegte. 
+
+In den ersten hundert Jahren des Bestehens des Skriptoriums veränderte sich der Schreibstil der Handschriften. Der Paläograph und Historiker Bernhard Bischoff unterscheidet vier verschiedene Schriftstile:
+- Der "Ältere Lorscher Stil" entwickelt sich aus dem Schriftstil des Königshofs am Ende des 9. Jahrhunderts. Aus dieser Zeit sind heute noch über 20 Handschriften vorhanden.
+- Übergangsschrift
+- Saint-Vaast-Stil
+- Ab 820 findet der "Jüngere Lorscher Stil" Verwendung. In diesem Stil sind heute noch etwa 100 Handschriften vorhanden.
+
+Im 10. Jahrhundert verlor das Skriptorium an Bedeutung.
+Im 11. Jahrhundert finden sich hochwertige Kalligraphien.
+
+Das Lorscher Skriptorium produzierte Manuskripte nicht nur zum Verbleib in der eigenen Bibliothek, sondern auch im Auftrag anderer Klöster (Beispiel Reichenau).
+
+Umgekehrt lieh man sich auch Werke anderer Bibliotheken aus (Beispiel Fulda), um sie zu kopieren und der eigenen Sammlung hinzuzufügen.
+
+
 ## Manuskripte der Bibliothek
+Aus der Zeit von der Gründung der Skriptoriums bis zum Ende des 9 Jahrhunderts sind etwa 200 Codices, Faszikel und Fragmente erhalten. Aus der Zeit vor der Gründung haben über 10 Handschriften ihren Weg zu uns gefunden, die älteste aus dem 5. Jahrhundert (Vergilius Palatinus).
 
 ## Bedeutung in der frühen Neuzeit
 
@@ -34,9 +56,26 @@ Von 2010 bis 2014 wurden unter der Leitung der Universitätsbibliothek Heidelber
 
 
 # Notizen
-## Fragen
-- Erwähnung im Codex?
+## Andere Klosterbibliotheken im 9. Jhd.
+- St. Martin in Tours
+- Reims
+- St. Denis
+- Corbie
+- Fleury
+- Sankt Gallen
+- Fulda: große Übereinstimmung der ersten Bibliothekskataloge Fuldas und Lorschs.
+- Freising
+- Salzburg
+- Reichenau
+- Bobbio
 
+### Namen
+Richbod: 4. Abt und wahrscheinlicher Begründer der Bibliothek
+
+Adalung: 5. Abt. Einführung des "Jüngeren Lorscher Stils". Aufschwung der Tätigkeit des Skriptoriums.
+Gerward: Lorscher Professe, später Pfalzbibliothekar Ludwigs des Frommen
+
+Gerhoh: Lorscher Mönch, der von Hrabanus Maurus als "geliebter Bruder, der die Schlüssel der hochgelobten Bibliothek besitzt" bezeichnet wird (Bischoff S.62-63)
 ## Erwähnungen im Codex
 Band 5: Schenkungsurkunden werden in der Bibliothek des Heiligen Nazarius aufbewahrt. https://digi.ub.uni-heidelberg.de/diglit/minst1971bd5/0268/image,info
 
@@ -59,6 +98,8 @@ Die Wiener Handschrift der Österreichischen Nationalbibliothek enthält die nur
 Vergilius, Opera
 
 Der „Vergilius Palatinus“ der Vatikanischen Bibliothek gehört zu den sieben (spät-)antiken Hauptzeugen des Gesamtwerks des römischen „Nationaldichters“. Vermutlich gelangte der Codex aus dem Nachlass Gerwards, des Pfalzbibliothekars Kaiser Ludwigs des Frommen, um 860 in die Lorscher Klosterbibliothek. Hier bewunderte Sebastian Münster (1488-1552), verleitet vom hohen Alter, ihn als eigenhändige Abschrift Vergils.
+
+Pergamenthandschrift aus dem 5. Jahrhundert geschrieben im Stil der Capitalis Rustica.
 
 ### Vergilius Historiographus
 Vergilius; Dares Phrygius; Liber historiae Francorum
@@ -137,4 +178,4 @@ https://bibliotheca-laureshamensis-digital.de/bav/bav_pal_lat_1753/0158/image,in
 
 Lehrbuch der 7 freien Künste
 
-Hauptpfeiler des Bilungswesens
+Hauptpfeiler des Bildungswesens
