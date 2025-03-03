@@ -1,3 +1,39 @@
+# Text
+## Einleitung
+Schon wenige Jahre nach der Gründung  erhielt das Kloster Lorsch am Ende des 8. Jahrhunderts ein Skriptorium und eine Bibliothek, um den karolingischen Bildungsauftrag erfüllen zu können. Die Bibliothek blieb bis ins frühe 17. Jahrhundert erhalten, bis der Buchbestand der Bibliotheca Palatina in Heidelberg einverleibt wurde. 
+
+## Geschichte
+Schon mit den ersten Mönchen aus Gorze, die Bischof Chrodegang von Metz 765 nach Lorsch entsandte, erhielt das Kloster Lorsch erste für die Liturgie und die seelsorgerische Arbeit notwendigen Codices.
+
+Der systematische Aufbau einer sich an der Hofbibliothek Karls des Großen orientierenden Bibliothek erfolgte unter dem Abt Richbod (784-804). Richbod war zuvor am Hofe Karls Schüler des Alkuin von York, wo er aktiv an der Entwicklung des Programs der karolingischen Bildungsreform beteiligt war. 
+
+Dieses Bildungsprogramm wie in dem Capitular Admonitio Generalis (789) und dem Brief De Litteris Colendis (um 787) unter maßgeblicher Beteiligung Alkuins Ausdruck fand forderte Bischöfe und Klöster auf, für fehlerfreie Abschriften der christlichen Schriften in korrektem Latein zu sorgen, und die dafür notwendigen Ausbildungseinrichtungen aufzubauen. Alle an der Vermittlung der christlichen Lehre beteiligten Personen sollten ordentliches Latein lesen, verstehen und sprechen können, und in der Lage sein, Gläubigen die grundlegenden Glaubenstexte im Sinne der katholischen Dogmatik auslegen und erklären zu können.
+
+Bis Mitte des 9. Jahrhunderts wuchs die Bibliothek unter den Äbten Richbod, Adalung (804-837) und Samuel (837-856) auf mehrere hundert Bände an.
+
+Vier erhaltene Kataloge aus dem 9. Jahrhundert dokumentieren den Bestand der frühmittelalterlichen Bibliothek.
+
+Ein Epitaph, der Grabstein eines Lehrers, aus dem 9. Jahrhundert belegt das Vorhandensein eines Schulbetriebs im Kloster.
+
+In der nachkarolingischen Zeit verliert das Skriptorium an Bedeutung und die Bibliothek wird kaum nennenswert erweitert. Hervorzuheben ist die Herstellung von Evangelien und weiteren prachtvollen Handschriften unter Abt Udalrich (1056-1075).
+
+In den folgenden Jahren wurden zunehmend Codices aus der Bibliothek zu Gunsten anderer Klöster entnommen. So beklagt der Chronist des Codicis Laureshamensis, dass Hirsauer Mönche um 1107 eine nicht unbeträchtliche Anzahl von Büchern entwendet hätten. Zisterzienser, die von 1232 bis 1245 das Kloster erfolglos zu reformieren versuchten, brachten einig patristische Werke in ihr Heimatkloster in Eberbach. In der daran anschließenden Zeit unter der Leitung der Prämonstratenser gelangten mindestens drei Manuskripte aus dem 9. Jahrhundert  in deren Kloster Arnstein an der Lahn.
+
+Im späten 15. Jahrhundert, als das Amt Starkenburg und damit das Kloster Lorsch an die Kurpfalz verpfändet wurde, gelangte die Klosterbibliothek unter die Kontrolle des pfälzischen Kurfürsten und den Kanzler der Heidelberger Universität und Wormser Bischof Johann von Dalberg. Wie Falk vermutet, kamen Handschriften aus Lorsch in dieser Zeit in die Bibliothek Dalbergs in Ladenburg. (Falk 50-51).
+
+Unter dem Pfälzer Kurfürst Ottheinrich wurde das Kloster Lorsch aufgelöst. Die Bibliothek wurde nach Heidelberg in die Bibliotheca Palatina überführt, und mit dieser unter den im 30-jährigen Krieg siegreichen Bayern 1623 dem Papst zum Geschenk gemacht. Mehr als die Hälfte der ehemals Lorscher Handschriften kamen auf diese Weise in die Vatikanische Bibliothek.
+
+## Kataloge
+
+## Manuskripte der Bibliothek
+
+## Bedeutung in der frühen Neuzeit
+
+## Bibliotheca Laureshamensis - Digital
+Von 2010 bis 2014 wurden unter der Leitung der Universitätsbibliothek Heidelberg, finanziert durch die Verwaltung Staatliche Schlösser und Gärten Hessen, die heute noch erhaltenen, in 73 verschiedene Bibliotheken weltweit verstreuten Handschriften digitalisiert, mit wissenschaftlichen Beschreibungen annotiert und online verfügbar gemacht. Über das Online-Portal bibliotheca-laureshamensis-digital.de kann nunmehr jedermann nach Werken antiker und frühmittelalterlichen Autoren, die sich dank des Fleißes der Lorscher Mönche erhalten haben, suchen und die alten Handschriften in bester Qualität betrachten. 
+
+
+# Notizen
 ## Fragen
 - Erwähnung im Codex?
 
@@ -92,6 +128,10 @@ http://bibliotheca-laureshamensis-digital.de/view/ubg_ms1703_124/0001
 ### Paulus Diaconus, Expositio Artis Donati
 https://bibliotheca-laureshamensis-digital.de/bav/bav_pal_lat_1746/0061/image,info
 https://geschichtsquellen.de/werk/3887
+
+### Adhelm von Sherborne
+https://bibliotheca-laureshamensis-digital.de/bav/bav_pal_lat_1753/0158/image,info
+
 
 ### Martianus Capella
 
