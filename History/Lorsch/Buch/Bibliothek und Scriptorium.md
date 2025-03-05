@@ -9,7 +9,7 @@ Der systematische Aufbau einer sich an der Hofbibliothek Karls des Großen orien
 
 Dieses Bildungsprogramm wie in dem Capitular Admonitio Generalis (789) und dem Brief De Litteris Colendis (um 787) unter maßgeblicher Beteiligung Alkuins Ausdruck fand forderte Bischöfe und Klöster auf, für fehlerfreie Abschriften der christlichen Schriften in korrektem Latein zu sorgen, und die dafür notwendigen Ausbildungseinrichtungen aufzubauen. Alle an der Vermittlung der christlichen Lehre beteiligten Personen sollten ordentliches Latein lesen, verstehen und sprechen können, und in der Lage sein, Gläubigen die grundlegenden Glaubenstexte im Sinne der katholischen Dogmatik auslegen und erklären zu können.
 
-Bis Mitte des 9. Jahrhunderts wuchs die Bibliothek unter den Äbten Richbod, Adalung (804-837) und Samuel (837-856) auf mehrere hundert Bände an.
+Bis Mitte des 9. Jahrhunderts wuchs die Bibliothek unter den Äbten Richbod, Adalung (804-837) und Samuel (837-856) rasant auf mehrere hundert Bände an.
 
 Hervorzuheben ist eine Schenkung von 27 Büchern (25 kleinere Schriften des Augustinus und 2 Werke des Niceta von Remesiana) aus dem Nachlass des früheren Lorscher Mönchs Gerward, der unter Ludwig dem Frommen Bibliothekar der Hofbibliothek wurde. Von Gerward stammt möglicherweise auch der Vergilius Palatinus und die Historien Justins. (Bischoff S.64-65)
 
@@ -17,17 +17,30 @@ Vier erhaltene Kataloge aus dem 9. Jahrhundert dokumentieren den Bestand der fr�
 
 Ein Epitaph, der Grabstein eines Lehrers, aus dem 9. Jahrhundert belegt das Vorhandensein eines Schulbetriebs im Kloster.
 
-In der nachkarolingischen Zeit verliert das Skriptorium an Bedeutung und die Bibliothek wird kaum nennenswert erweitert. Hervorzuheben ist die Herstellung von Evangelien und weiteren prachtvollen Handschriften unter Abt Udalrich (1056-1075).
+In der nachkarolingischen Zeit verliert das Skriptorium an Bedeutung und die Bibliothek wird kaum nennenswert erweitert. Hervorzuheben ist die Herstellung von reich geschmückten Evangeliaren und weiteren prachtvollen Handschriften unter den Äbten Saleman (972-999) und Udalrich (1056-1075).
 
-In den folgenden Jahren wurden zunehmend Codices aus der Bibliothek zu Gunsten anderer Klöster entnommen. So beklagt der Chronist des Codicis Laureshamensis, dass Hirsauer Mönche um 1107 eine nicht unbeträchtliche Anzahl von Büchern entwendet hätten. Zisterzienser, die von 1232 bis 1245 das Kloster erfolglos zu reformieren versuchten, brachten einig patristische Werke in ihr Heimatkloster in Eberbach. In der daran anschließenden Zeit unter der Leitung der Prämonstratenser gelangten mindestens drei Manuskripte aus dem 9. Jahrhundert  in deren Kloster Arnstein an der Lahn.
+Das Wesen der mittelalterlichen Buchreproduktion brachte es mit sich, dass der Bibliotheksbestand nicht statisch stabil bleiben konnte. Manuskripte des einen Klosters wurden an andere Klöster verliehen, damit sie dort kopiert würden. Dabei kam es vor, dass diese absichtlich, oder weil die Bibliothekare einfach den Überblick verloren, nicht zurückgegeben wurden. Ein anderer Grund für Fluktuation ist, dass die Mächtigen genauso wie sie den Klöstern gerne Bücher schenkten, solche auch gerne an sich nahmen, wenn es an anderen ihnen lieben Orten an Literatur fehlte. Außerdem mussten immer wieder neu gegründete Bibliotheken mit Büchern ausgestattet werden.
+
+In den ersten zweihundert Jahren seines Bestehens hat Lorsch stark von diesem Buchtransfer profitiert. Ab dem Ende des 10. Jahrhunderts werden in zunehmendem Maße Abgänge beklagt.
+
+Besuche der Kaiser Ottos III. und Heinrichs II. waren möglicherweise dafür verantwortlich, dass einige Lorscher Codices, darunter das Lorscher Arzneibuch, ihren Weg in die Dombibliothek nach Bamberg gefunden haben.
+
+Der Chronist des Codicis Laureshamensis berichtet, dass Hirsauer Mönche um 1107 eine nicht unbeträchtliche Anzahl von Büchern entwendet hätten. 
+Zisterzienser, die von 1232 bis 1245 das Kloster erfolglos zu reformieren versuchten, brachten einig patristische Werke in ihr Heimatkloster in Eberbach. 
+In der daran anschließenden Zeit unter der Leitung der Prämonstratenser gelangten mindestens drei Manuskripte aus dem 9. Jahrhundert  in deren Kloster Arnstein an der Lahn.
 
 Im späten 15. Jahrhundert, als das Amt Starkenburg und damit das Kloster Lorsch an die Kurpfalz verpfändet wurde, gelangte die Klosterbibliothek unter die Kontrolle des pfälzischen Kurfürsten und den Kanzler der Heidelberger Universität und Wormser Bischof Johann von Dalberg. Wie Falk vermutet, kamen Handschriften aus Lorsch in dieser Zeit in die Bibliothek Dalbergs in Ladenburg. (Falk 50-51).
 
 Unter dem Pfälzer Kurfürst Ottheinrich wurde das Kloster Lorsch aufgelöst. Die Bibliothek wurde nach Heidelberg in die Bibliotheca Palatina überführt, und mit dieser unter den im 30-jährigen Krieg siegreichen Bayern 1623 dem Papst Gregor XV. zum Geschenk gemacht. Mehr als die Hälfte der ehemals Lorscher Handschriften kamen auf diese Weise in die Vatikanische Bibliothek.
 
 ## Kataloge
-
-Der Katalog III entstand vermutlich in der Zeit des Abtes Eigilbert (856-864).
+Aus der Zeit zwischen 830 und 860 sind vier Kataloge, die den Schriftenbestand der Bibliothek festhalten, überliefert. Drei davon sind unvollständig. Der jüngste von 860 ist komplett. Er enthält 450 Einträge.
+Die 4 Kataloge dienten verschiedenen Zwecken. Der älteste scheint vom Bibliothek fortlaufend aktualisiert worden zu sein. Darin wurde radiert und ergänzt.
+Der zweite Katalog scheint von einem westfränkischen Schreiber erstellt worden zu sein. Möglicherweise war er zur Information darüber gedacht, welche Werke man in Lorsch kopieren könne.
+Der dritte Katalog, um 850 erstellt, ist ein Kurzverzeichnis, und möglicherweise zur Orientierung in der Bibliothek gedacht. Er entstand vermutlich in der Zeit des Abtes Eigilbert (856-864).
+Der um 860 entstandene vierte Katalog ist der vollständigste und ausführlichste.  In ihm ist die Schenkung des Gerward ergänzt.
+Die Einträge in den Katalogen sind nicht, wie man das heute machen würde, alphabetisch nach dem Namen des Autors oder dem Titel sortiert, sondern in vier Sparten aufgeteilt: Für die Liturgie benötigte und biblische Bücher, Werke der Kirchenväter, Geschichtsschreibung und Schulliteratur, zu der auch die antiken Autoren gezählt wurden.
+Zu jedem Eintrag wird der Autor und der Werktitel. Zusätzlich wird nicht selten der Inhalt relativ detailliert dargestellt. 
 
 ### Skriptorium
 Das Kopieren einer Handschrift dauerte oft Wochen und Monate und wurde entweder von einem Mönch alleine oder von mehreren gemeinsam durchgeführt. Für die Mönche bedeutet das Schreiben harte Arbeit, die ihnen die benediktinische Ordensregel "ora et labora" auferlegte. 
@@ -39,14 +52,21 @@ In den ersten hundert Jahren des Bestehens des Skriptoriums veränderte sich der
 - Ab 820 findet der "Jüngere Lorscher Stil" Verwendung. In diesem Stil sind heute noch etwa 100 Handschriften vorhanden.
 
 Im 10. Jahrhundert verlor das Skriptorium an Bedeutung.
+Unter Abt Saleman (972-999) wurden hochwertige Buchdeckel mit Elfenbein- und Silberverkleidungen für liturgische Codices angefertigt. 
 Im 11. Jahrhundert finden sich hochwertige Kalligraphien.
 
 Das Lorscher Skriptorium produzierte Manuskripte nicht nur zum Verbleib in der eigenen Bibliothek, sondern auch im Auftrag anderer Klöster (Beispiel Reichenau).
 
 Umgekehrt lieh man sich auch Werke anderer Bibliotheken aus (Beispiel Fulda), um sie zu kopieren und der eigenen Sammlung hinzuzufügen.
 
+Die fränkische geistliche Aristokratie am Hofe, an den Bischofssitzen und in den Klöstern stand in permanentem Kontakt, sei es durch Reisen oder Briefe. Dadurch wußte man wahrscheinlich sehr gut, welches Kloster besondere Schätze verwahrte, die man gerne kopieren wollte.
+
 
 ## Manuskripte der Bibliothek
+Im 12. Jahrhundert befanden sich in der Lorscher Bibliothek mehr als ein halbes Tausend dickleibige Codices. Oft waren verschiedene Texte verwandten Inhalts zusammengebunden. Nicht alle dieser Codices befanden sich notwendigerweise in der eigentlichen Bibliothek. Für die Liturgie benötigte Messbücher und Evangeliare verblieben wahrscheinlich unter Aufsicht des Küsters in den Kirchen beziehungsweise in den dazugehörigen Sakristeien. Bücher für den Schulbetrieb, Grammatische Schriften und Werke der antiken Dichtkunst, hatten ihren Platz möglicherweise in den Schulräumen. In der Schreibstube befanden sich sicher die gerade zu kopierenden Texte. Aus der großen Zahl der im Klosterbesitz befindlichen Bücher läßt sich aber sicher auf die Existenz eines dedizierten Raumes zu ihrer Aufbewahrung schließen.
+
+Im Sankt Gallener Klosterplan grenzt Bibliothek und Skriptorium an den Altarraum der Klosterkirche an. In unmittelbarer Nähe zur Konventskirche würde man diese entsprechend auch in Lorsch erwarten. Allerdings wurden die Folianten der Lorscher Bibliothek vom Brand, der 1090 die Hauptkirche in Schutt und Asche legte, verschont. 
+
 Aus der Zeit von der Gründung der Skriptoriums bis zum Ende des 9 Jahrhunderts sind etwa 200 Codices, Faszikel und Fragmente erhalten. Aus der Zeit vor der Gründung haben über 10 Handschriften ihren Weg zu uns gefunden, die älteste aus dem 5. Jahrhundert (Vergilius Palatinus).
 
 ## Bedeutung in der frühen Neuzeit
@@ -73,9 +93,12 @@ Von 2010 bis 2014 wurden unter der Leitung der Universitätsbibliothek Heidelber
 Richbod: 4. Abt und wahrscheinlicher Begründer der Bibliothek
 
 Adalung: 5. Abt. Einführung des "Jüngeren Lorscher Stils". Aufschwung der Tätigkeit des Skriptoriums.
+
 Gerward: Lorscher Professe, später Pfalzbibliothekar Ludwigs des Frommen
 
 Gerhoh: Lorscher Mönch, der von Hrabanus Maurus als "geliebter Bruder, der die Schlüssel der hochgelobten Bibliothek besitzt" bezeichnet wird (Bischoff S.62-63)
+
+Meister des Registrum Gregorii: Buchilustrator in Lorsch (Bischoff S.67-68)
 ## Erwähnungen im Codex
 Band 5: Schenkungsurkunden werden in der Bibliothek des Heiligen Nazarius aufbewahrt. https://digi.ub.uni-heidelberg.de/diglit/minst1971bd5/0268/image,info
 
