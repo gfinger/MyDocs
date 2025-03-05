@@ -50,7 +50,8 @@ Hatte die Kathedralbibliothek von York geleitet
 #### Karl
 - Rundschreiben aus dem Jahr 780 mit der Aufforderung seltene Bücher abzuschreiben und an die Hofbibliothek zu liefern.
 - Bücher aus dem Langobardenfeldzug (?) (Ravenna, Säulen nach Aachen)
--- Vergil aus Ravenna, dann Aachen, dann Lorsch?
+-- Vergil aus Ravenna, dann Aachen, dann Lorsch? (Bischoff Hofbibliothek S.46)
+- Viele Werke der Hofbibliothek war schon eine Generation nach Karl weit verbreitet
 
 
 #### Interessantes

@@ -63,9 +63,11 @@ Die fränkische geistliche Aristokratie am Hofe, an den Bischofssitzen und in de
 
 
 ## Manuskripte der Bibliothek
-Im 12. Jahrhundert befanden sich in der Lorscher Bibliothek mehr als ein halbes Tausend dickleibige Codices. Oft waren verschiedene Texte verwandten Inhalts zusammengebunden. Nicht alle dieser Codices befanden sich notwendigerweise in der eigentlichen Bibliothek. Für die Liturgie benötigte Messbücher und Evangeliare verblieben wahrscheinlich unter Aufsicht des Küsters in den Kirchen beziehungsweise in den dazugehörigen Sakristeien. Bücher für den Schulbetrieb, Grammatische Schriften und Werke der antiken Dichtkunst, hatten ihren Platz möglicherweise in den Schulräumen. In der Schreibstube befanden sich sicher die gerade zu kopierenden Texte. Aus der großen Zahl der im Klosterbesitz befindlichen Bücher läßt sich aber sicher auf die Existenz eines dedizierten Raumes zu ihrer Aufbewahrung schließen.
+Im 12. Jahrhundert befanden sich in der Lorscher Bibliothek mehr als ein halbes Tausend dickleibige Codices. Oft waren verschiedene Texte verwandten Inhalts zusammengebunden. Nicht alle dieser Codices befanden sich notwendigerweise in der eigentlichen Bibliothek. Für die Liturgie benötigte Messbücher und Evangeliare verblieben unter Aufsicht des Küsters in den Kirchen und den  Sakristeien. Bücher für den Schulbetrieb, Grammatische Schriften und Werke der antiken Dichtkunst, hatten ihren Platz möglicherweise in den Schulräumen. In der Schreibstube befanden sich sicher die gerade zu kopierenden Texte. Aus der großen Zahl der im Klosterbesitz befindlichen Bücher läßt sich aber sicher auf die Existenz eines dedizierten Raumes zu ihrer Aufbewahrung schließen.
 
-Im Sankt Gallener Klosterplan grenzt Bibliothek und Skriptorium an den Altarraum der Klosterkirche an. In unmittelbarer Nähe zur Konventskirche würde man diese entsprechend auch in Lorsch erwarten. Allerdings wurden die Folianten der Lorscher Bibliothek vom Brand, der 1090 die Hauptkirche in Schutt und Asche legte, verschont. 
+Im Sankt Gallener Klosterplan grenzt Bibliothek und Skriptorium an den Altarraum der Klosterkirche an. In unmittelbarer Nähe zur Konventskirche würde man diese entsprechend auch in Lorsch erwarten. Allerdings wurden die Folianten der Lorscher Bibliothek vom Brand, der 1090 die Hauptkirche in Schutt und Asche legte, verschont, was gegen eine unmittelbare Nähe zur Kirche sprechen könnte.
+
+Verschiedentlich wurde auch die Auffassung vertreten, dass die Bibliothek im Obergeschoss der Torhalle untergebracht gewesen sei. (Christian Beutler, Kerstin Merkel) Dagegen spricht allerdings, die mittlerweile auf das späte 9. Jahrhundert datierte Bauzeit dieses schmucken Gebäudes, also gut hundert Jahre nach Einrichtung der Bibliothek.  
 
 Aus der Zeit von der Gründung der Skriptoriums bis zum Ende des 9 Jahrhunderts sind etwa 200 Codices, Faszikel und Fragmente erhalten. Aus der Zeit vor der Gründung haben über 10 Handschriften ihren Weg zu uns gefunden, die älteste aus dem 5. Jahrhundert (Vergilius Palatinus).
 
@@ -109,8 +111,13 @@ Band 1:
 
 ## Interessant
 - Pal. 1877 (Katalog der Bücher des Lorscher Klosters, Catalogus codicum monasterii Laureshamensis) enthält auch eine Liste der Bücher in der Bibliothek von Fulda (Catalogus codicum monasterii Fuldensis).
+- 
+
+## Gesetzestexte
+Justinian ?? 
 
 ## Antike Schriftsteller
+Cicero, Seneca
 
 ### Wiener Livius
 Livius, Ab urbe condita libri xli-xlv
@@ -137,6 +144,7 @@ Biblia, Libri sapientales et didactici
 Der Palimpsestcodex Pal. lat. 24 aus der Vatikanischen Bibliothek, der ursprünglich mit Texten römischer Klassiker beschrieben war und nach deren Radierung mit Schriften des Alten Testaments im 7. Jh. wiederbeschrieben wurde, enthält Überreste mehrerer Handschriften, die teilweise bis ins 4. Jh. zurückreichen. Er zählt damit zu den ältesten erhaltenen Pergamenthandschriften des Abendlandes. Außerdem sind manche der römischen Klassiker nur hier überliefert, darunter Fragmente von Livius und Seneca.
 
 ## Geschichtsschreibung
+Isidor von Sevilla
 
 ### Heidelberger Gregor von Tours
 Gregorius Turonensis, Historiae; (Ps.-)Fredegarius
@@ -156,7 +164,13 @@ https://geschichtsquellen.de/werk/309?mark=%28%3Fis%29%28Lorsch%29
 
 Das „Lorscher Arzneibuch“ wurde um 800 im Kloster Lorsch geschrieben und im Juni 2013 von der UNESCO zum Weltdokumentenerbe erklärt und in das Register „Memory of the World“ aufgenommen. Es gilt als die älteste medizinische Handschrift des abendländischen Mittelalters und als „Meilenstein der Medizingeschichte“. Neben einer Sammlung von 482 Arzneimittelrezepten enthält der Codex eine anonym verfasste Einleitung (foll. 1r-5r), in welcher der Autor die Medizin als Geste der Nächstenliebe und Barmherzigkeit rechtfertigt.
 
+## Heiligenviten
+
+## Zeitgenössische Autoren
+Hrabanus Maurus, Einhard
+
 ## Liturgische Texte
+Augustinus, Hieronymus, Ambrosius, Origines, Gregor der Große
 
 ### Lorscher Evangeliar
 
