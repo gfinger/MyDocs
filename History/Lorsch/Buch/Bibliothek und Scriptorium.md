@@ -29,9 +29,9 @@ Der Chronist des Codicis Laureshamensis berichtet, dass Hirsauer Mönche um 1107
 Zisterzienser, die von 1232 bis 1245 das Kloster erfolglos zu reformieren versuchten, brachten einig patristische Werke in ihr Heimatkloster in Eberbach. 
 In der daran anschließenden Zeit unter der Leitung der Prämonstratenser gelangten mindestens drei Manuskripte aus dem 9. Jahrhundert  in deren Kloster Arnstein an der Lahn.
 
-Im späten 15. Jahrhundert, als das Amt Starkenburg und damit das Kloster Lorsch an die Kurpfalz verpfändet wurde, gelangte die Klosterbibliothek unter die Kontrolle des pfälzischen Kurfürsten und den Kanzler der Heidelberger Universität und Wormser Bischof Johann von Dalberg. Wie Falk vermutet, kamen Handschriften aus Lorsch in dieser Zeit in die Bibliothek Dalbergs in Ladenburg. (Falk 50-51).
+Im späten 15. Jahrhundert, als das Amt Starkenburg und damit das Kloster Lorsch an die Kurpfalz verpfändet wurde, gelangte die Klosterbibliothek unter die Kontrolle des pfälzischen Kurfürsten und den Kanzler der Heidelberger Universität und Wormser Bischof Johann von Dalberg. Wie Falk vermutet, kamen Handschriften aus Lorsch in dieser Zeit in die Bibliothek Dalbergs in Ladenburg. (Falk 50-51). Andere Autoren vermuten sogar, dass schon 1479 der komplette Bestand der Lorscher Bibliothek der Dalbergschen Bibliothek einverleibt wurde. (Selzer S.97, von Bloh S.36)
 
-Unter dem Pfälzer Kurfürst Ottheinrich wurde das Kloster Lorsch aufgelöst. Die Bibliothek wurde nach Heidelberg in die Bibliotheca Palatina überführt, und mit dieser unter den im 30-jährigen Krieg siegreichen Bayern 1623 dem Papst Gregor XV. zum Geschenk gemacht. Mehr als die Hälfte der ehemals Lorscher Handschriften kamen auf diese Weise in die Vatikanische Bibliothek.
+Unter dem Pfälzer Kurfürst Ottheinrich wurde 1557 in Folge der Reformation das Kloster Lorsch aufgelöst. Spätestens zu diesem Zeitpunkt wanderte der Buchschatz Lorschs in die kurpfälzische Bibliothek, die Bibliotheca Palatina, die in der Heilig-Geist-Kirche in Heidelberg untergebracht war.  Im 30-jährigen Krieg machten die siegreichen Bayern 1623 dem Papst Gregor XV. die Palatina zum Geschenk. Mehr als die Hälfte der ehemals Lorscher Handschriften kamen auf diese Weise in die Vatikanische Bibliothek, wo die meisten noch heute verwahrt werden.
 
 ## Kataloge
 Aus der Zeit zwischen 830 und 860 sind vier Kataloge, die den Schriftenbestand der Bibliothek festhalten, überliefert. Drei davon sind unvollständig. Der jüngste von 860 ist komplett. Er enthält 450 Einträge.
@@ -72,6 +72,8 @@ Verschiedentlich wurde auch die Auffassung vertreten, dass die Bibliothek im Obe
 Aus der Zeit von der Gründung der Skriptoriums bis zum Ende des 9 Jahrhunderts sind etwa 200 Codices, Faszikel und Fragmente erhalten. Aus der Zeit vor der Gründung haben über 10 Handschriften ihren Weg zu uns gefunden, die älteste aus dem 5. Jahrhundert (Vergilius Palatinus).
 
 ## Bedeutung in der frühen Neuzeit
+Als im November 1461 Lorsch als Teil des Oberamtes Starkenburg vom Mainzer Erzbischof an den Pfalzgraf bei Rhein Friedrich I. verpfändet wird, rückt die Bibliothek des Klosters in den Blick humanistischer Gelehrter des kurpfälzischen Hofs. Diese waren vor allen Dingen an den antiken Autoren interessiert. Schon 
+
 
 ## Bibliotheca Laureshamensis - Digital
 Von 2010 bis 2014 wurden unter der Leitung der Universitätsbibliothek Heidelberg, finanziert durch die Verwaltung Staatliche Schlösser und Gärten Hessen, die heute noch erhaltenen, in 73 verschiedene Bibliotheken weltweit verstreuten Handschriften digitalisiert, mit wissenschaftlichen Beschreibungen annotiert und online verfügbar gemacht. Über das Online-Portal bibliotheca-laureshamensis-digital.de kann nunmehr jedermann nach Werken antiker und frühmittelalterlichen Autoren, die sich dank des Fleißes der Lorscher Mönche erhalten haben, suchen und die alten Handschriften in bester Qualität betrachten. 
@@ -101,6 +103,11 @@ Gerward: Lorscher Professe, später Pfalzbibliothekar Ludwigs des Frommen
 Gerhoh: Lorscher Mönch, der von Hrabanus Maurus als "geliebter Bruder, der die Schlüssel der hochgelobten Bibliothek besitzt" bezeichnet wird (Bischoff S.62-63)
 
 Meister des Registrum Gregorii: Buchilustrator in Lorsch (Bischoff S.67-68)
+
+## Nutzung der Bibliothek
+Die Lorscher Klosterschule hat keine bedeutenden Autoren hervorgebracht. Für Gelehrte war die Klosterbibliothek dennoch ein Hort des Wissens und literarischer Schätze, den sie gerne aufsuchten, um dort zu lesen und zu exzerpieren. Tino Licht belegt dies für Sedulius Scottus in den 40er Jahren des 9. Jahrunderts. Auch Theodulf von Orlèans war in Lorsch, wahrscheinlich während seiner frühen Jahre 791/792 am Hofe Karls des Großen. (Licht S.140; Müller S.49)
+
+
 ## Erwähnungen im Codex
 Band 5: Schenkungsurkunden werden in der Bibliothek des Heiligen Nazarius aufbewahrt. https://digi.ub.uni-heidelberg.de/diglit/minst1971bd5/0268/image,info
 
@@ -194,6 +201,14 @@ Eine liturgische Prachthandschrift aus Lorsch, ein Sakramentar des 9. Jh., ist i
 Die liturgische Prachthandschrift mit den Evangelienlektionen des Kirchenjahres bietet vier ganzseitige mit Gold geschmückte Evangelistenbilder, zwei Initialzierseiten auf Purpurgrund und zahlreiche gold-silberne Rankeninitialen. Über eine Inskription auf [Blatt 2r](https://bibliotheca-laureshamensis-digital.de/view/bl_harley2970/0011 "Online-Präsentation, Harley 2970, Blatt 2r"), die sich auch in vier weiteren Handschriften findet, ist der Codex als Stiftung eines „Oudalricus peccator“ ausgewiesen, der mit Udalrich, 1056-1075 Abt von Lorsch, identifiziert wird.
 
 ### Lorscher Beichte
+
+### Homiliare
+Der fränkische König Karl der Grosse beauftragte Paulus, eine neue und bessere Predigtsammlung für das nächtliche Stundengebet zusammenzustellen. Solche Predigtsammmlungen werden Homiliare genannt.
+
+De Doctrina Chritiana, Augustinus: https://bibliotheca-laureshamensis-digital.de/bav/bav_pal_lat_189/0005/image,info
+Aus der Schenkung von Gerward.
+https://bibliotheca-laureshamensis-digital.de/bav/bav_pal_lat_188/0007/image,info
+Herstellungsort: Lorsch, um 800
 
 
 ## Grammatik
