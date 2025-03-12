@@ -67,12 +67,24 @@ Im 12. Jahrhundert befanden sich in der Lorscher Bibliothek mehr als ein halbes 
 
 Im Sankt Gallener Klosterplan grenzt Bibliothek und Skriptorium an den Altarraum der Klosterkirche an. In unmittelbarer Nähe zur Konventskirche würde man diese entsprechend auch in Lorsch erwarten. Allerdings wurden die Folianten der Lorscher Bibliothek vom Brand, der 1090 die Hauptkirche in Schutt und Asche legte, verschont, was gegen eine unmittelbare Nähe zur Kirche sprechen könnte.
 
-Verschiedentlich wurde auch die Auffassung vertreten, dass die Bibliothek im Obergeschoss der Torhalle untergebracht gewesen sei. (Christian Beutler, Kerstin Merkel) Dagegen spricht allerdings, die mittlerweile auf das späte 9. Jahrhundert datierte Bauzeit dieses schmucken Gebäudes, also gut hundert Jahre nach Einrichtung der Bibliothek.  
+Verschiedentlich wurde auch die Auffassung vertreten, dass die Bibliothek im Obergeschoss der Torhalle untergebracht gewesen sei (Christian Beutler, Kerstin Merkel). Neben der Tatsache, dass die Torhalle weit von der Klausur entfernt war, spricht die mittlerweile auf das späte 9. Jahrhundert datierte Bauzeit dieses schmucken Gebäudes, also lange nach Gründung der Bibliothek, gegen diese These.
 
 Aus der Zeit von der Gründung der Skriptoriums bis zum Ende des 9 Jahrhunderts sind etwa 200 Codices, Faszikel und Fragmente erhalten. Aus der Zeit vor der Gründung haben über 10 Handschriften ihren Weg zu uns gefunden, die älteste aus dem 5. Jahrhundert (Vergilius Palatinus).
 
 ## Bedeutung in der frühen Neuzeit
-Als im November 1461 Lorsch als Teil des Oberamtes Starkenburg vom Mainzer Erzbischof an den Pfalzgraf bei Rhein Friedrich I. verpfändet wird, rückt die Bibliothek des Klosters in den Blick humanistischer Gelehrter des kurpfälzischen Hofs. Diese waren vor allen Dingen an den antiken Autoren interessiert. Schon 
+Als im November 1461 Lorsch als Teil des Oberamtes Starkenburg vom Mainzer Erzbischof an den Pfalzgraf bei Rhein Friedrich I. verpfändet wurde, rückte die Bibliothek des Klosters in den Blick humanistischer Gelehrter des kurpfälzischen Hofs. 
+
+Der erste der frühhumanistischen Entdecker der Schätze der Lorscher Bibliothek war ab 1465 Matthias Widman von Kemnat, Hofkaplan Friedrichs I., der möglicherweise einzelne Werke der Bibliothek an befreundete Gelehrte weiter verlieh (Aris S.816-17; von Bloh S.40; Häse S.44-47). 
+
+Ab 1496 war Johann Vigilius im Auftrag des pfälzischen Kurfürsten Philipp des Aufrichtigen für die Verwaltung der Lorscher Bibliothek zuständig. Er war Professor beider Rechte an der Universität Heidelberg. In einem Brief informierte er Conrad Celtis über die vielen sehr alten und besonders sehenswerten Bücher in Lorsch. Dem Wormser Bischofs Johann von Dalberg, dessen Bibliothek in Ladenburg er vorstand, empfahl er Bücher aus Lorsch zum Ankauf.
+
+1524 besuchte der Theologe, Mathematiker und Geograph Sebastian Münster die Lorscher Bibliothek.
+
+Ab 1526 verwandte Johannes Sichardus die Codices der Lorscher Bibliothek für erste Druckausgaben klassischer Autoren (Bischoff S.71-78). Über ihn wurde auch der Philologe und Verleger Beatus Rhenanus auf diese aufmerksam.
+
+Simon Grynaeus entdeckte in Lorsch eine Livius-Handschrift, von der er Philipp Melanchton 1527 in einem Brief berichtet (Aris S.817).
+
+Mathias Flacius Illyricus erwähnt, dass er in Lorsch eine Handschrift des Gregor von Tours benutzt habe (Aris D.817).
 
 
 ## Bibliotheca Laureshamensis - Digital
