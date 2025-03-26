@@ -42,11 +42,11 @@ Der um 860 entstandene vierte Katalog ist der vollständigste und ausführlichst
 Die Einträge in den Katalogen sind nicht, wie man das heute machen würde, alphabetisch nach dem Namen des Autors oder dem Titel sortiert, sondern in vier Sparten aufgeteilt: Für die Liturgie benötigte und biblische Bücher, Werke der Kirchenväter, Geschichtsschreibung und Schulliteratur, zu der auch die antiken Autoren gezählt wurden.
 Zu jedem Eintrag wird der Autor und der Werktitel. Zusätzlich wird nicht selten der Inhalt relativ detailliert dargestellt. 
 
-### Skriptorium
+## Skriptorium
 Das Kopieren einer Handschrift dauerte oft Wochen und Monate und wurde entweder von einem Mönch alleine oder von mehreren gemeinsam durchgeführt. Für die Mönche bedeutet das Schreiben harte Arbeit, die ihnen die benediktinische Ordensregel "ora et labora" auferlegte. 
 
 In den ersten hundert Jahren des Bestehens des Skriptoriums veränderte sich der Schreibstil der Handschriften. Der Paläograph und Historiker Bernhard Bischoff unterscheidet vier verschiedene Schriftstile:
-- Der "Ältere Lorscher Stil" entwickelt sich aus dem Schriftstil des Königshofs am Ende des 9. Jahrhunderts. Aus dieser Zeit sind heute noch über 20 Handschriften vorhanden.
+- Der "Ältere Lorscher Stil" entwickelt sich aus dem Schriftstil des Königshofs am Ende des 9. Jahrhunderts. Aus dieser Zeit sind heute noch über 20 Handschriften vorhanden. Der Stil ist sehr uneinheitlich, was möglicherweise einfach der Tatsache geschuldet war, dass die Zahl der Mönche in den ersten 50 Jahren des Bestehens des Klosters rasant von 20 in den Anfangsjahren auf 100 bis 150 Mitte des 9. Jahrhunderts gewachsen war, und möglicherweise die Mönche und damit auch die 8 bis 15 Scriptoren , die nach Lorsch kamen einen unterschiedlichen Bildungshintergrund hatten.
 - Übergangsschrift
 - Saint-Vaast-Stil
 - Ab 820 findet der "Jüngere Lorscher Stil" Verwendung. In diesem Stil sind heute noch etwa 100 Handschriften vorhanden.

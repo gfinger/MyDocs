@@ -6,6 +6,7 @@
       {
         "id": "4c95d4c939a61f58",
         "type": "tabs",
+        "dimension": 73.42657342657343,
         "children": [
           {
             "id": "e7b69bed78f54c24",
@@ -13,13 +14,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Lorsch/Buch/Bibliothek und Scriptorium.md",
+                "file": "History/Lorsch/Buch/Theodulf in Lorsch.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Bibliothek und Scriptorium"
+              "title": "Theodulf in Lorsch"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3818940b4778325f",
+        "type": "tabs",
+        "dimension": 26.573426573426573,
+        "children": [
+          {
+            "id": "449fcc0978519ce1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "History/Lorsch/Buch/Theodulf in Lorsch.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Theodulf in Lorsch"
             }
           }
         ]
@@ -41,7 +73,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -94,8 +127,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "History/Lorsch/Buch/Bibliothek und Scriptorium.md",
-                "collapseAll": false,
+                "file": "History/Lorsch/Buch/Theodulf in Lorsch.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -104,7 +137,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bibliothek und Scriptorium"
+              "title": "Backlinks for Theodulf in Lorsch"
             }
           },
           {
@@ -113,12 +146,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "History/Lorsch/Literatur.md",
+                "file": "History/Lorsch/Buch/Theodulf in Lorsch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Literatur"
+              "title": "Outgoing links from Theodulf in Lorsch"
             }
           },
           {
@@ -128,7 +161,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -140,13 +175,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "History/Lorsch/Literatur.md"
+                "file": "History/Lorsch/Buch/Theodulf in Lorsch.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Literatur"
+              "title": "Outline of Theodulf in Lorsch"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -167,6 +206,11 @@
   "active": "e7b69bed78f54c24",
   "lastOpenFiles": [
     "History/Lorsch/Buch/Bibliothek und Scriptorium.md",
+    "History/Lorsch/Buch/Theodulf in Lorsch.md",
+    "History/Lorsch/Buch/Karolingische Schriftkultur (Becker, Licht).md",
+    "History/Lorsch/Buch/Karolingische Renaissance versus Humanistische Renaissance.md",
+    "History/Lorsch/Buch/Karolingische Renaissance.md",
+    "Karolingische Schriftkultur (Becker, Licht).md",
     "History/Lorsch/Ereignisse/Bau der Torhalle.md",
     "History/Päpste/Papst Paul I..md",
     "History/Lorsch/Zeittafel/834.md",
@@ -189,12 +233,7 @@
     "History/Lorsch/Personen/Lorscher Äbte/Helmerich.md",
     "History/Lorsch/Personen/Lorscher Äbte/Gundeland.md",
     "History/Lorsch/Personen/Lorscher Äbte/Chrodegang.md",
-    "History/Lorsch/Personen/Lorscher Äbte/Adalung.md",
     "History/Lorsch/Personen/Lorscher Äbte",
-    "History/Lorsch/Personen/Alkuin.md",
-    "History/Lorsch/Orte/Wormsgau.md",
-    "History/Lorsch/Orte/Oberrheingau.md",
-    "History/Lorsch/Orte/Metz.md",
     "History/Lorsch/Buch/Klöster und Herrschaft",
     "Markwhen/Markwhen 12-10-2024 11.07.00.mw",
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem.html",
