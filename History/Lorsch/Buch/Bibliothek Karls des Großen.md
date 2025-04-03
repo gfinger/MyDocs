@@ -57,3 +57,7 @@ Hatte die Kathedralbibliothek von York geleitet
 #### Interessantes
 - Widmungseinträge sind für individuelle Abschriften und fallen beim Kopieren wieder weg
 - Personen aus Karls Umfeld haben mit großer Sicherheit Werke aus der Hofbibliothek kopieren lassen, wenn ihnen die Leitung von Klöstern übertragen wurde und sie den Auftrage hatten, Schulen zu gründen und Bibliotheken aufzubauen, z.b. Arn von Saint-Amand (783) und Salzburg (785), Richbod von Lorsch (784) und Trier (791/792), Leidrad von Lyon (798), Angilbert von Saint-Riquier (789). (Bischoff, Hofbibliothek S.47) 
+
+#### Was passierte mit Karls Bibliothek
+Bischoff vermutet, dass Bücher aus der königlichen Bibliothek zunächst bei Gerward, einem Mönch aus Lorsch, der später Bibliothekar Ludwig des Frommen wurde, landeten, der sie dann dem Kloster Lorsch vermachte.
+Die Bibliothek Karls bestand auch unter Ludwig weiter, und wurde später noch erweitert. 
