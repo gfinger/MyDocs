@@ -1,0 +1,138 @@
+<%-- [PAGE_INFO]
+    comment = #Please do not remove this struct. It's record contains some important information of edit. This struct will be removed automatically after you push edits.#
+    pageTitle = #Theodulf von Orléans#
+    pageID = #1296276#
+    revisionID = #254599948#
+    contentModel = #wikitext#
+    contentFormat = #text/x-wiki#
+[END_PAGE_INFO] --%>
+
+Die [[Datei:Germigny Des Pres 2007 01.jpg|miniatur|[[Kirche von Germigny-des-Prés]]wurde von Theodulf von Orléans gegründet. Das in der [[Kuppel|Kalotte]] der Ost[[apsis]] angebrachte, einzig erhaltene [[Karolingische Renaissance|karolingische]] [[Mosaik]] nördlich der Alpen zeigt die von Engeln umgebene [[Bundeslade]]]].
+
+'''Theodulf von Orléans''' (lat. '''Theodulfus Aurelianensis''', * um [[760]] in [[Saragossa]]? † [[821]] in [[Le Mans]]?) war ein [[Westgotenreich|westgotischer]] Theologe und Dichter, Berater [[Karl der Große|Karls des Großen]], [[Bischof]] von [[Orléans]] und Abt von [[Fleury (Abtei)|Fleury]].
+
+== Herkunft ==
+Generell gibt es zu den Lebensstationen Theodulfs nur selten eindeutige Angaben in den historischen Quellen und die Sekundärliteratur kommt oft zu unterschiedlichen Schlüssen. So reichen die Angaben zum Geburtsjahr von 750 <ref>{{Internetquelle |url=https://www.britannica.com/biography/Theodulf-of-Orleans|titel=Theodulf of Orleans|werk=Encyclopedia Britannica|datum=2024-04-11|sprache=en|zugriff=2025-03-29}}</ref> bis 769 <ref>{{Literatur | Autor=Christopher John Blakeman | Jahr=1991 | Titel=A commentary with introduction, text and translation, on selected poems of Theodulf of Orleans | Seiten=2}}</ref>, wobei die neuere Literatur das Geburtsjahr ''um 760'' sieht. Als Geburtsort wird [[Saragossa]] oder zumindest die [[Hispania Tarraconensis|Tarraconensis]] in Nord[[Spanien|spanien]] genannt. Nahezu unbestritten ist jedenfalls die [[Westgotenreich|westgotische]] Herkunft Theodulfs<ref>{{Literatur | Autor=Peter Brommer, Dieter Schaller | Datum=2012 | Titel=Theodulf von Orléans | Fundstelle=Spalte 764}}</ref><ref>{{Literatur | Autor=Ann Freeman | Titel=Theodulf of Orleans: a Visigoth at Charlemagne’s Court | Datum=1992 | Fundstelle=Absatz 3}}</ref><ref>{{Literatur | Autor=Rebecca Schmalholz | Datum=2022 | Titel=Verdichtete Botschaften. Wie Gelehrte um Karl den Großen in Gedichten kommunizierten| Seiten=47}}</ref>. 
+
+Aus seiner westgotischen Heimat musste Theodulf fliehen. Er selbst spricht davon, dass ihn ein großes Unglück zum Exilant hatte werden lassen<ref>{{MGH|Poetae|1|480|482}}</ref>. Das könnte auf die Vertreibung der christlichen Bevölkerung aus Saragossa durch den Emir von Cordoba im Jahr 782 hinweisen. Wahrscheinlich kam er in dieser Zeit nach [[Narbonne]], im von den [[Franken]] kontrollierten [[Septimanien]], wo er auf viele Landsleute traf<ref>{{Literatur | Autor=Ann Freeman | Titel=Theodulf of Orleans: a Visigoth at Charlemagne’s Court | Datum=1992 | Fundstelle=Absatz 4}}</ref>.
+
+== Am Hof Karls des Großen ==
+Irgendwann zwischen 785 und 790 kam Theodulf an den Hof [[Karl der Große|Karls des Großen]]<ref>{{Literatur | Autor=Peter Brommer, Dieter Schaller | Datum=2012 | Titel=Theodulf von Orléans | Fundstelle=Spalte 765}}</ref><ref>{{Literatur | Autor=Ann Freeman | Titel=Theodulf of Orleans: a Visigoth at Charlemagne’s Court | Datum=1992 | Fundstelle=Absatz 22}}</ref><ref>{{Literatur | Autor=Chris Fenner | Titel=Theodulf: Theologian at Charlemagne’s Court, Poet, and Bishop of Orléans | Seiten=14 | Datum=2012}}</ref>. Schnell machte er sich einen Namen als Dichter und Theologe. 
+
+== Libri Carolini ==
+Um 790 wurde er von Karl beauftragt, eine Erwiederung auf die Beschlüsse des [[Zweites Konzil von Nicäa|zweite Konzil von Nizäa]] von 787 zum [[Byzantinischer Bilderstreit|Bilderstreit]] zu erarbeiten. Karl und der Hof, und mit ihm Theodulf, nahmen von Weihnachten 791 bis Herbst 793 Quartier in [[Regensburg]]. In dieser Zeit beendete Theodulf die Arbeit an den [[Libri Carolini]], eben jener Gegenposition der Franken zum nizäianischen Konzils<ref>{{Literatur | Autor=Ann Freeman | Titel=Theodulf of Orleans: a Visigoth at Charlemagne’s Court | Datum=1992 | Fundstelle=Absatz 7}}</ref><ref>{{Literatur | Autor=Ann Freeman | Titel=Further studies in the “libri carolini” | Datum=1965 | Seiten=285}}</ref>. Möglicherweise wurde die Schrift anschließend einer finalen Redaktion durch Alkuin unterzogen<ref>{{Literatur | Autor=Peter Brommer, Dieter Schaller | Datum=2012 | Titel=Theodulf von Orléans |Fundstelle=Spalte764}}</ref><ref>{{Literatur | Autor=Ann Freeman |Titel=Further studies in the “libri carolini” | Datum=1965 | Seiten=289}}</ref>. Es kam jedenfalls nie zu einer formalen Anerkennung seitens des Hofes. Die Synode zu Frankfurt im Jahr 794 teilte die strikte Ablehnung Theodulfs der Bilderverehrung nicht und nahm eine abgeschwächte Position ein.
+
+== Bischof von Orleans ==
+Karl ernannte Theodulf um 798<ref>{{MGH|Epp|4|242|245}}</ref>) zum Bischof von [[Orléans]]. Zeitgleich wurde er auch Abt der Klöster [[Fleury (Abtei)|Saint-Benoît-de-Fleury]], [[St-Aignan (Orléans)|St-Aignan]] in Orléans und Saint-Liphard in [[Meung-sur-Loire]]<ref>{{Literatur | Autor=Peter Brommer, Dieter Schaller | Datum=2012 | Kapitel=Verfasser-Datenbank | Titel=Theodulf von Orléans | Verlag=De Gruyter | Ort=Berlin, New York | Seiten=2}}</ref>. 
+
+Um 800 und um 813 ließ er zur Neuordnung seiner Diözese zwei [[Kapitularien]] ausarbeiten, von denen das erste großen Einfluss in den mittelalterlichen Kapitularien und [[Kanon (Kirchenrecht)|Kanones]] erlangte und auch ins Altenglische übersetzt wurde. Die Geistlichen werden darin aufgefordert, die Predigt zur Belehrung des Volkes nicht zu vernachlässigen und die Kinder in  den Dörfern unentgeltlich zu unterrichten<ref>{{Literatur | Autor=Theodulf von Orléans | Titel=Erstes Kapitular | Fundstelle=cap 20 | Online=https://www.dmgh.de/mgh_capit_episc_1/index.htm#page/(116)/mode/1up}}</ref>. Auch kümmerte er sich um eine Reform der Klöster im Sinne des [[Benedikt von Aniane]].
+
+== Verhältnis zu Alkuin ==
+Theodulfs Verhältnis zu Alkuin war schon in der Zeit der ''Libri Carolini'' geprägt von nicht immer freundschaftlicher Rivalität sowohl als Dichter wie auch als Theologe und Berater Karls. 
+
+795 gab Karl beiden Gelehrten den Auftrag ein [[Epitaph]] für den 795 verstorbenen [[Hadrian I.]] zu dichten. Alkuin gewann<ref>{{Literatur | Autor=Christopher John Blakeman | Jahr=1991 | Titel=A commentary with introduction, text and translation, on selected poems of Theodulf of Orleans | Seiten=57}}</ref>, sicher nicht zur Freude Theodulfs.
+
+Aus dieser Zeit stammen Gedichte von Theodulf und Alkuin, in denen beide in Versform das Leben am Hof Karls des Großen und die Eigenheiten seiner Protagonisten schildern. Theodulf porträtiert Alkuin dabei als zahnlosen Greis mit einer Vorliebe für warme Milchbreie und spottet mit scharfzüngiger Ironie über die schwerfällige Machart seiner Gedichte. Alkuin wiederum greift eine Episode aus der [[Aeneis]] auf, um die Jüngeren – vermutlich Theodulf – zu warnen, dass der Alte noch längst nicht zum alten Eisen gehöre<ref>{{Literatur | Autor=Rebecca Schmalholz | Datum=2022 | Titel=Verdichtete Botschaften. Wie Gelehrte um Karl den Großen in Gedichten kommunizierten | Seiten=227-229, 235-236, 286-290}}</ref><ref>{{Literatur | Autor=Heinz Erich Stiene | Titel=Drei Beobachtungen zu karolingischen Gedichten | Datum=2005| Seiten=208-210}}</ref>.
+
+Um 801 eskalierte der Streit zwischen den beiden. 
+
+== Bautätigkeit ==
+Unter den Kirchen, die er in seiner Diözese erbauen ließ, befindet sich die am 3. Januar 806 geweihte [[Kirche von Germigny-des-Prés]], heute einer der ältesten erhaltenen Kirchenbauten Frankreichs, errichtet auf dem Grundriss eines griechischen Kreuzes nach dem Vorbild des Aachener Doms. In Germigny-des-Prés kann man noch heute die im Jahr 1820 wiederentdeckten und seither restaurierten Mosaike byzantinischen Stils betrachten, die auf ein von Theodulf beauftragtes Bildprogramm zurückgehen dürften<ref>{{Literatur | Autor=Ann Freeman, Paul Meyvaert | Sammelwerk=Gesta | Titel=The Meaning of Theodulf’s Apse Mosaic at Germigny-des-Prés | Datum=2001 }}</ref>.
+
+Leider nicht erhalten sind zwei Weltkarten im Refektorium des Bischofspalasts in Orleans sowie im Skriptorium von Saint-Riquier, die Theodulf in Auftrag gegeben haben soll. Wahrscheinlich waren diese eines der möglicherweise mehreren Vorbilder für eine Karte, die in einem Codex des Klosters Ripoll enthalten ist. Am Rande der Karte werden Verse Theodulfs wiedergegeben, die Bezug nehmend auf Abbildungen der Erde im Weltkreis (orbis) allegorisch das, was der Geist aus solchen Bildern der Welt erlernen kann, mit einem Festmahl für den Körper vergleichen.<ref>{{Literatur | Autor=Andreina Contessa |Titel=A Geography of Learning: The World of the Presumed Map of Theodulphe of Orleans and its Mid-Eleventh-Century Catalan Author | Seiten=61}}</ref><ref>{{Literatur | Autor=Pierre Riché | Titel=Die Welt der Karolinger | Seiten=18}}</ref>
+
+== Reisen im Auftrag Karls==
+798 war er gemeinsam mit [[Leidrad von Lyon]] als ''missus dominicus'', d.h. richterlicher Stellvertreter des Königs, in Südfrankreich, visitierte dort [[Septimanien]] und amtierte vorwiegend in [[Narbonne]]. Die Reise schildert er in seinem ''Carmen contra judices'', das die Verhältnisse im südlichen Frankenreich kritisiert und in seinen Ermahnungen an die Richter und Führer der Region eine Art [[Fürstenspiegel]] darstellt.
+
+Im Jahr 800 empfing Theodulf Karl in Orléans und begleitete ihn nach Rom, wo er [[Leo III. (Papst)|Papst Leo III.]] gegen seine römischen Ankläger verteidigte und an der Krönung Karls teilnahm. Papst Leo überreichte ihm das [[Pallium]] als Zeichen der erzbischöflichen Würde. 
+
+== Frühe Zeit unter Ludwig dem Frommen ==
+Als Karl 814 starb, war Theodulf unter den Zeugen seines Testaments. Auch zu Karls Sohn und Nachfolger [[Ludwig der Fromme|Ludwig dem Frommen]] stand er zunächst in guter Beziehung. Als [[Stephan IV. (Papst)|Papst Stephan IV.]] zur Krönung Ludwigs 816 nach [[Reims]] kam, gehörte Theodulf zu den geistlichen Würdenträgern, die dem Papst entgegengeschickt wurden. 
+
+== Haft und Exil ==
+Kurz darauf fiel er jedoch in Ungnade. Er wurde 817 der Mitwisserschaft an der Verschwörung von Ludwigs Neffen [[Bernhard (Italien)|Bernhard von Italien]] bezichtigt, 818 auf einer Synode in Aachen verurteilt und seiner Ämter enthoben und verbrachte die letzten drei Jahre seines Lebens in Haft und Exil in [[Angers]].
+
+Sein liturgisch bedeutsamer Hymnus ''Gloria, laus et honor'', der am Palmsonntag gesungen wird, soll nach einer von [[Jacobus de Voragine]] in die [[Legenda aurea]] übernommenen Legende während der Haft in Angers entstanden und von Theodulf am Fenster seiner Zelle so ergreifend gesungen worden sein, dass Ludwig, der in der Palmsonntagprozession von 821 unter dem Fenster vorüberkam, ihn aus der Haft begnadigte und wieder in sein Bischofsamt einsetzte. Ob es tatsächlich zu einer Begnadigung kam ist umstritten.
+
+Theodulf starb am 18. September 821.
+
+== Weitere Werke ==
+Theodulfs Nachruhm beruht vor allem auf seinen Gedichten, von denen rund 80 noch erhalten sind. Seine sprachlich-stilistischen Fähigkeiten heben ihn über das Können der Zeitgenossen hinaus. Auch am Königshof, insbesondere bei König Karl selbst, gewann er als Dichter und Theologe schnell großes Ansehen. 
+
+=== Gegen den Adoptianismus ===
+Ebenfalls 798 schlug [[Alkuin]] Karl vor, Theodulf an der Prüfung der Schriften des Bischofs [[Felix von Urgell]] gegen den [[Adoptianismus]] zu beteiligen, eine Schrift Theodulfs ist hierzu jedoch nicht erhalten.
+
+=== Edition der Bibel ===
+Unabhängig von Alkuin veranstaltete Theodulf um 800 eine eigene Revision des lateinischen Bibeltexts der [[Vulgata]] des [[Hieronymus (Kirchenvater)|Hieronymus]]. Dieser Arbeit, die in sechs Codices erhalten ist, werden von der modernen Forschung beachtliche Qualitäten zuerkannt. Im Unterschied zu Alkuins Text blieb sie jedoch weitgehend folgenlos.
+
+=== Der ''Filioque''-Streit ===
+Theodulf verfasste für Karl ein Gutachten ''De processione spiritus sanctu'' zum Streit über das „[[filioque]]“, der auf der [[Konzil von Aachen (809)|Aachener Synode von 809]] beraten wurde (wobei Kaiser Karl dann aber dem Gegengutachten des [[Arn von Salzburg]] den Vorzug gab), desgleichen um 812 ein Gutachten ''De ordine baptismi''.
+
+
+== Ausgaben ==
+* ''Theodulfi Carmina.'' In: {{MGH|Poetae|1|437|581}}
+* {{Literatur | Autor=Theodulf von Orléans | Herausgeber=Peter Brommer | Datum=1984 | Sammelwerk=MGH Capitula episcoporum | Titel=Erstes Kapitular | Band=1 | Seiten=73–142 | Online=https://www.dmgh.de/mgh_capit_episc_1/index.htm#page/(73)/mode/1up}}
+* {{Literatur | Autor=Theodulf von Orléans | Herausgeber=Peter Brommer | Datum=1984 | Sammelwerk=MGH Capitula episcoporum | Titel=Zweites Kapitular | Band=1 | Seiten=142–184 | Online=https://www.dmgh.de/mgh_capit_episc_1/index.htm#page/(142)/mode/1up}}
+* [[Jacques-Paul Migne|J. P. Migne]]: [[Patrologia Latina|''PL.'']] 105,105–380 (Nachdruck der Ausgabe der ''Opera omnia'' von Jacques Sirmond, Paris 1646.)
+* Guido Maria Dreves, Hymnographi latini / Lateinische Hymnendichter des Mittelalters, Zweite Folge, Leipzig 1907 (= Analecta hymnica medii aevi, 50), p.159–163
+* [[Hubert Bastgen]]: ''Libri Carolini sive Caroli Magni Capitulare de imaginibus.'' Hannover 1924 [Nachdr. 1979] (= MGH Concilia, Suppl. 2).
+* Ann Freeman / Paul Meyvaert, Opus Caroli regis contra synodum (Libri Carolini), Hannover 1998 (= MGH Concilia, T. 2, Suppl. 1) [ersetzt die Ausgabe von Bastgen]
+* Harald Willjung, Das Konzil von Aachen 809, Hannover 1998 (= MGH Concilia, T. 2, Suppl. 2), p.313–382 (Libellus de lite)
+* Arthur S. Napier, An Old English version of the Capitula of Theodulf together with the Latin Original, London 1916 (= Early English Text Society, Original Series, 150)
+* Hans Sauer, Theodulfi Capitula in England: die altenglischen Übersetzungen zusammen mit dem lateinischen Text, München 1978 (= Texte und Untersuchungen zur Englischen Philologie, 8)
+* Susan A. Keefe, Water and the Word: baptism and the education of the clergy in the Carolingian empire, II: Texts and Notes, Notre Dame 2002, p.280–321 (''De ordine baptismi'')
+
+== Literatur ==
+* Elisabeth Dahlhaus-Berg: ''Nova antiquitas et antiqua novitas: typologische Exegese und isidorianisches Geschichtsbild bei Theodulf von Orléans.'' Köln, Wien: Böhlau 1975, ISBN 3-412-12374-9
+* Paul Speck: ''Die Interpolationen in den Akten des Konzils von 787 und die Libri Carolini.'' Bonn: Habelt 1998, ISBN 3-7749-2879-7
+* {{BBKL|archiveurl=https://web.archive.org/web/20070613165749/http://www.bautz.de/bbkl/t/theodulf_v_o.shtml |band=11|spalten=1003-1008|autor=Andreas Kränzle|artikel=Theodulf}}
+* {{Literatur | Autor=Peter Brommer, Dieter Schaller | Datum=2012 | Sammelwerk=Verfasser-datenbank | Titel=Theodulf von Orléans | Verlag=De Gruyter | Ort=Berlin, New York | Online=https://www.degruyter.com/database/VDBO/entry/vdbo.vlma.4285/html?lang=en&srsltid=AfmBOoofOu4AsCpmJRNYaOFphrqnQWTqJVg13qQ6Cr0pUWvQFALf4ZUY | Abruf=2025-03-30}}
+* {{Literatur | Autor=Ann Freeman | Herausgeber=Jacques Fontaine, Christine Pellistrandi | Datum=1992 | Sammelwerk=L’Europe héritière de l’Espagne wisigothique | Titel=Theodulf of Orleans: a Visigoth at Charlemagne’s Court | Ort=Madrid | Online=https://books.openedition.org/cvz/2127 | ISBN=978-84-86839-33-8 | Abruf=2025-03-30 | Sprache=en}}
+* {{Literatur | Autor=Ann Freeman | Sammelwerk=Speculum-a Journal of Medieval Studies | Titel=Further studies in the “libri carolini” | Seiten=203–289 | Datum=1965 | Sprache=en}}>
+* {{Literatur | Autor=Ann Freeman, Paul Meyvaert | Sammelwerk=Gesta | Titel=The Meaning of Theodulf’s Apse Mosaic at Germigny-des-Prés | Band=40 | Nummer=2 | Seiten=125–139 | Verlag=[University of Chicago Press, International Center of Medieval Art] | Datum=2001 | ISSN=0016920X | DOI=10.2307/767242 | Sprache=en}}
+* {{Literatur | Autor=Rebecca Schmalholz | Datum=2022 | Titel=Verdichtete Botschaften. Wie Gelehrte um Karl den Großen in Gedichten kommunizierten | Ort=Zürch | Sammelwerk=Züricher Beiträge zur Geschichtswissenschft | Nummer=13 | Online=https://library.oapen.org/bitstream/id/60196327-b9ea-4340-b627-c2aeaae963dd/208530.pdf | Abruf=2025-03-30}}
+* {{Literatur | Autor=Christopher John Blakeman | Jahr=1991 | Titel=A commentary with introduction, text and translation, on selected poems of Theodulf of Orleans | Verlag=St. Andrews | Online=https://research-repository.st-andrews.ac.uk/handle/10023/2661 | Abruf=2025-03-31 | Sprache=en}}
+* {{Literatur | Autor=Chris Fenner | Sammelwerk=The Hymn | Titel=Theodulf: Theologian at Charlemagne’s Court, Poet, and Bishop of Orléans | Band=63 | Nummer=1 | Seiten=13–20 | Datum=2012| Sprache=en}}
+* {{Literatur | Autor=Andreina Contessa | Sammelwerk=Miscellanea Bibliothcae Apostolicae Vaticanae | Titel=A Geography of Learning: The World of the Presumed Map of Theodulphe of Orleans and its Mid-Eleventh-Century Catalan Author | Band=18 | Seiten=55–110 | Datum=2011 | Sprache=en}}
+* {{Literatur | Autor=Pierre Riché | Datum=1999 | Titel=Die Welt der Karolinger | Verlag=Reclam | Ort=Stuttgart | Auflage=2 | ISBN=3-15-010463-7}}
+* {{Literatur | Autor=Heinz Erich Stiene | Sammelwerk=Wiener Studien | Titel=Drei Beobachtungen zu karolingischen Gedichten | Band=118 | Seiten=193–211 | Datum=2005 | Online=http://www.jstor.org/stable/24751705| Abruf=2025-04-09}}
+
+== Einzelnachweise ==
+<references />
+
+== Weblinks ==
+{{Commonscat|Theodulfus|Theodulf von Orléans}}
+* {{Geschichtsquellen Person|118621750|Theodulfus episcopus Aurelianensis}}
+* {{DNB-Portal|118621750}}
+* [http://www.fh-augsburg.de/~harsch/Chronologia/Lspost09/Theodulfus/the_carm.html Texte aus den Carmina in der Bibliotheca Augustana] (lat.)
+* [http://perso.wanadoo.fr/police.daniel/Riboul/Germigny.htm Zu Germigny-des-Prés] (frz. und engl.)
+* [http://jfbradu.free.fr/mosaiques/index.htm Zu Germigny-des-Prés, von Jean-François Bradu] (frz. und span.)
+
+{{Folgenleiste
+|VORGÄNGER=[[Eucherius von Orléans|Eucherius]]
+|NACHFOLGER=[[Jonas von Orléans|Jonas]]
+|AMT=[[Liste der Bischöfe von Orléans|Bischof von Orléans]]
+|ZEIT=798–813}}
+
+{{Normdaten|TYP=p|GND=118621750|LCCN=n/82/207407|VIAF=72751795}}
+
+{{SORTIERUNG:Theodulf #Orleans}}
+[[Kategorie:Bischof von Orléans]]
+[[Kategorie:Römisch-katholischer Bischof (9. Jahrhundert)]]
+[[Kategorie:Abt]]
+[[Kategorie:Kirchenlieddichter]]
+[[Kategorie:Person um Karl den Großen]]
+[[Kategorie:Westgote]]
+[[Kategorie:Geboren im 8. Jahrhundert]]
+[[Kategorie:Gestorben 821]]
+[[Kategorie:Mann]]
+
+{{Personendaten
+|NAME=Theodulf von Orléans
+|ALTERNATIVNAMEN=Theodulfus Aurelianensis
+|KURZBESCHREIBUNG=westgotischer Gelehrter und Dichter, Berater Karls des Großen, Bischof von Orléans und Abt von Fleury
+|GEBURTSDATUM=750 oder 760
+|GEBURTSORT=
+|STERBEDATUM=821
+|STERBEORT=[[Le Mans]] oder [[Angers]]
+}}
