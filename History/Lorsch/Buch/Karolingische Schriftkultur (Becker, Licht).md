@@ -35,9 +35,20 @@ Hieronymus. Comentarii in evangelium Matthaei. Insulare Initialen. Insulare Herk
 Augustinus. De consensu evangelistarum. Insulare Minuskel. Pal.lat.195
 Gregorius Turonesis, Historiae Francorum. Pal.lat.864. Referenzobjekt.
 Der ältere Lorscher Stil festigt sich in den 790er Jahren. Weniger Varianten.
-
+Vorher Stilgemisch vieler unterschiedlich geschulter Hände: alemannisch, insular, diplomatische Schrift, Gäste, Besuche fremde Mitarbeit.
+Homogenisierung des Stils um 790.
+Metzer Stil.
 ### Übergangsstil
-800-820
+800-820 neuerliche Vielfalt.
+Möglicher Grund: Persönliche Beziehungen zu Saint Vaast in Arras.
+## Saint Vaast Stil 808 - 820
+Adalung, Abt in Lorsch 804-837, ab 808 Abt in Arras.
+Bibliothek von Saint Vaast nicht erhalten. Entwicklung des Skriptoriums schwer nachzuvollziehen. Scheint aber sehr produktiv gewesen zu sein, über den Eigenbedarf hinaus. Exportschlager waren hagiographische Texte zum Heiligen der Abtei Sanctus Vedastus. Mitwirkung von in Saint Vaast ausgebildeten Schreibern in Lorsch.
+Schwierig Schrift- und Bibliotheksheimat zu bestimmen. Entweder Arras oder Lorsch.
+Beispiel: Naturalis historia von Plinius d.Ä.
+## Jüngerer Lorscher Stil
+Lorscher Evangeliar stammt aus dem Skriptorium der Hofschule (wo?) um 814. Index im jüngeren Lorscher Stil.
+Alternative: Entweder wurde der Index nachträglich in Lorsch angefertigt, oder der Stil des Index wirkt stilbildent auf den jüngeren Lorscher Stil. 
 
 
 
