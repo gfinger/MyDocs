@@ -1,4 +1,5 @@
 ## Pierre Riché: Die Welt der Karolinger
+Im Bischofspalast von Orléans und im Skriptorium von Saint-Riquier lässt Theodulf Weltkarten anfertigen, um "den Geist der Gäste zu nähren, indem man es ihnen ermöglichte das riesige Universum in einer Verkleinerung kennenzulernen". Erhalten in einem Manuskript in Ripol (Poet III, S.297),
 798 zusammen mit Leidrad von Lyon Reise als Missus dominicus nach Vienne, Valence, Orange, Avignon, Nimes, Maguelonne, Bezieres, Narbonne, Carcassone, Arles, Marseille, Aix, Cavaillon. (Theodulf, Poet. I, Versus contra iudices, S. 493-520)
 
 ## Hermann Schefers: Ist est laudabilis ordo
