@@ -1,12 +1,17 @@
 {
     "spellright.language": [
-        "German_de_DE"
+        "de"
     ],
     "spellright.documentTypes": [
         "markdown",
         "latex",
         "plaintext",
-        "asciidoc"
+        "wikitext"
     ],
-    "asciidoc.antora.enableAntoraSupport": true
+    "asciidoc.antora.enableAntoraSupport": true,
+    "spellright.parserByClass": {
+        "wikitext": {
+            "parser": "plain"
+        }
+    }
 }
