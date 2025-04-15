@@ -12,24 +12,10 @@
             "id": "e7b69bed78f54c24",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Lorsch/Buch/Theodulf in Lorsch.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Theodulf in Lorsch"
+              "title": "New tab"
             }
           }
         ]
@@ -205,6 +191,14 @@
   },
   "active": "e71ba0843a5255ae",
   "lastOpenFiles": [
+    "History/Lorsch/Theodulf/Theodulf.md",
+    "History/Lorsch/Theodulf/Theodulf-Vortrag-Idee.md",
+    "History/Lorsch/Theodulf/Theodulf-ChatGPT1.md",
+    "History/Lorsch/Theodulf/Theodulf in Lorsch.md",
+    "History/Lorsch/Theodulf/Theodulf-Wiki-Orig.md",
+    "History/Lorsch/Theodulf",
+    "Theodulf-Wiki-Orig.md",
+    "History/Lorsch/Buch/Theodulf-Vortrag-Idee.md",
     "Theodulf von Orleans.wiki",
     "History/Lorsch/Buch/Theodulf.md",
     "History/Lorsch/Buch/Bibliothek und Scriptorium.md",
@@ -226,21 +220,13 @@
     "History/Lorsch/Zeittafel/764.md",
     "History/Lorsch/Zeittafel",
     "History/Lorsch/Personen/Rupertiner/Williswinth.md",
-    "History/Lorsch/Personen/Rupertiner/Rupert I..md",
-    "History/Lorsch/Personen/Rupertiner/Cancor.md",
-    "History/Lorsch/Personen/Rupertiner/Angila.md",
     "History/Lorsch/Personen/Rupertiner",
-    "History/Lorsch/Personen/Lorscher Äbte/Sieghard von Schauenburg.md",
-    "History/Lorsch/Personen/Lorscher Äbte/Richbod.md",
-    "History/Lorsch/Personen/Lorscher Äbte/Helmerich.md",
     "History/Lorsch/Personen/Lorscher Äbte",
     "History/Lorsch/Buch/Klöster und Herrschaft",
     "Markwhen/Markwhen 12-10-2024 11.07.00.mw",
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem.html",
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/xterm-LZoznX6r.css",
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/webcontainer.fc837ba8.js",
-    "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/v3",
-    "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/translateSandbox.html",
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/calendar1.png",
     "History/Langobarden Könige.canvas",
     "Philosophie/Ledoux Conscious Awareness  2024-01-26.png"
