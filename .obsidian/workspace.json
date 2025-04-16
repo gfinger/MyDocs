@@ -4,40 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "4c95d4c939a61f58",
+        "id": "78df6949bd136a1f",
         "type": "tabs",
-        "dimension": 73.42657342657343,
         "children": [
           {
-            "id": "e7b69bed78f54c24",
+            "id": "cccd658da53629b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "3818940b4778325f",
-        "type": "tabs",
-        "dimension": 26.573426573426573,
-        "children": [
-          {
-            "id": "449fcc0978519ce1",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
+              "type": "markdown",
               "state": {
-                "file": "History/Lorsch/Buch/Theodulf in Lorsch.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "History/Lorsch/Personen/Lorscher Äbte/Richbod.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-list",
-              "title": "Outline of Theodulf in Lorsch"
+              "icon": "lucide-file",
+              "title": "Richbod"
             }
           }
         ]
@@ -189,8 +180,26 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "e71ba0843a5255ae",
+  "active": "cccd658da53629b5",
   "lastOpenFiles": [
+    "History/Lorsch/Personen/Macarius.md",
+    "History/Lorsch/Personen/Lorscher Äbte/Richbod.md",
+    "History/Lorsch/Orte/Trier.md",
+    "History/Lorsch/Zeittafel/773.md",
+    "History/Lorsch/Personen/Alkuin.md",
+    "History/Lorsch/Zeittafel/792.md",
+    "History/Lorsch/Zeittafel/774.md",
+    "History/Lorsch/Buch/Theodulf in Lorsch.md",
+    "History/Lorsch/Personen/Richbod.md",
+    "History/Lorsch/Buch/Richbod.md",
+    "History/Lorsch/Personen/Theodulf/Theodulf.md",
+    "History/Lorsch/Personen/Theodulf/Theodulf-Wiki-Orig.md",
+    "History/Lorsch/Personen/Theodulf/Theodulf-Vortrag-Idee.md",
+    "History/Lorsch/Personen/Theodulf/Theodulf-ChatGPT1.md",
+    "History/Lorsch/Personen/Theodulf/Theodulf in Lorsch.md",
+    "History/Lorsch/Personen/Theodulf/Theodulf von Orleans.wiki",
+    "History/Lorsch/Personen/Theodulf",
+    "History/Lorsch/Theodulf/Theodulf von Orleans.wiki",
     "History/Lorsch/Theodulf/Theodulf.md",
     "History/Lorsch/Theodulf/Theodulf-Vortrag-Idee.md",
     "History/Lorsch/Theodulf/Theodulf-ChatGPT1.md",
@@ -202,31 +211,13 @@
     "Theodulf von Orleans.wiki",
     "History/Lorsch/Buch/Theodulf.md",
     "History/Lorsch/Buch/Bibliothek und Scriptorium.md",
-    "History/Lorsch/Buch/Theodulf in Lorsch.md",
     "History/Lorsch/Buch/Karolingische Schriftkultur (Becker, Licht).md",
     "History/Lorsch/Buch/Karolingische Renaissance versus Humanistische Renaissance.md",
-    "History/Lorsch/Buch/Karolingische Renaissance.md",
-    "Karolingische Schriftkultur (Becker, Licht).md",
-    "History/Lorsch/Ereignisse/Bau der Torhalle.md",
-    "History/Päpste/Papst Paul I..md",
-    "History/Lorsch/Zeittafel/834.md",
-    "History/Lorsch/Zeittafel/804.md",
-    "History/Lorsch/Zeittafel/796.md",
-    "History/Lorsch/Zeittafel/794.md",
-    "History/Lorsch/Zeittafel/791.md",
-    "History/Lorsch/Zeittafel/784.md",
-    "History/Lorsch/Zeittafel/778.md",
-    "History/Lorsch/Zeittafel/765.md",
-    "History/Lorsch/Zeittafel/764.md",
     "History/Lorsch/Zeittafel",
-    "History/Lorsch/Personen/Rupertiner/Williswinth.md",
     "History/Lorsch/Personen/Rupertiner",
     "History/Lorsch/Personen/Lorscher Äbte",
     "History/Lorsch/Buch/Klöster und Herrschaft",
     "Markwhen/Markwhen 12-10-2024 11.07.00.mw",
-    "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem.html",
-    "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/xterm-LZoznX6r.css",
-    "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/webcontainer.fc837ba8.js",
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/calendar1.png",
     "History/Langobarden Könige.canvas",
     "Philosophie/Ledoux Conscious Awareness  2024-01-26.png"

@@ -1,4 +1,4 @@
-ø [[735]] in York
+ø [[730]] - [[735]] in York
 † 19. Mai [[804]] in [[Kloster St. Martin Tours]]
 Lehrer von [[Richbod]]
 
