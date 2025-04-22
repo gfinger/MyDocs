@@ -29,3 +29,5 @@ Brommer, Peter and Schaller, Dieter. "Theodulf von Orléans". _Verfasser-Datenb
 
 Charles Cuissard gibt die Translation der Nazarius-Reliquien am 11.7.765 in der Gefolgschaft Karls des Großen als Datum an.
 Cuissard, Charles: Théodulfe, évêque d'Orléans, sa vie et ses oeuvres. S.58
+
+Thomas Schauerte vermutet die. Anwesenheit Theodulfs während eines Winterlagers Karls des Großen in [[Worms]] 

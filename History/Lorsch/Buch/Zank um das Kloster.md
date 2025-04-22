@@ -1,2 +1,0 @@
-- Erben des Stifters vs. Bruder des Beschenkten
-- Bischöfe vs. Äbte
