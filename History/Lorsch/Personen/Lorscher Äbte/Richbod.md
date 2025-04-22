@@ -51,3 +51,28 @@ Spolientransport von Trier (Konstantinische Aula) nach Aachen unter Karl ist bel
 Zusammenhang Richbods Ernennung zum Bischof von Trier 794 und Karls Aufenthalt in Frankfurt? (S.53)
 
 Richbod wird nicht explizit als Erzbischof genannt. Mögliche Konkurrenz mit Angilram, Bischof von Metz, der von Karl das Pallium erhalten hatte.
+
+## Knöpp: (Erz-) Bischof von Trier 791(?)-804
+Von 774 bis 778 8-mal als Urkundenschreiber belegt.
+Zweifel an der Autorenschaft R. an den Annales Laureshamenses seien durch Fichtenau widerlegt worden.
+Schüler Alkuins.
+Bautätigkeit:
+- Mauer um Klosterbezirk
+- Kreuzgang
+- neue Klausurgebäude aus Stein, u.a. Dormitorium
+- Eclesia Triplex (St. Stephanus)
+- Schranke um den Reliquienschrein des Nazarius aus Gold und Silber
+- Erhöhung des Fußbodens vor dem Altar durch bunten Marmor
+Anfang der Blütezeit Lorschs. Kulturelles Zentrum.
+791/2 oder vielleicht erst 794 Bischof von Trier
+Nennt sich in einer Urkunde des Jahres 800 nur Bischof (nicht Erzbischof).
+Name Macarius ist Anspielung auf Rich /reich).
+Alkuin bedauert, den Freund so lange nicht gesehen zu haben.
+Reger Austausch. Alkuin bittet um Übersendung von Schriften
+- Predigt Leos des Großen
+- Abhandlung Bedas über das Buch Tobias
+- Auszug aus der Schrift des Bischofs Beornrad von Sens über das Johannesevangelium
+Bitte um Fürbitte, Messkelch
+Bedeutung als Theologe wird aus der Empfehlung Alkuins deutich, Richbod solle (mit Theodulf und Paulinus von Aquileia) eine Erwiederung auf den Adoptianismus des Bischofs Felix von Urgellis.
+R ist echter Vertreter der karolingischen Renaissance (wg. Alkuins Spot auf seine Vorliebe für Vergil).
+Weiterführung der in Metz begonnenen Annalen, ab 785 in Lorsch, seit 791 in Trier.
