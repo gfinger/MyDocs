@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Lorsch/Personen/Lorscher Äbte/Richbod.md",
+                "file": "History/Langobarden/Personen/Gundoaldo.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Richbod"
+              "title": "Gundoaldo"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 240.5
   },
   "right": {
     "id": "8404d979b96688bf",
@@ -180,46 +180,46 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "e71ba0843a5255ae",
+  "active": "cccd658da53629b5",
   "lastOpenFiles": [
+    "History/Timeline.md",
+    "History/Langobarden/Personen/Agilulfo.md",
+    "History/Langobarden/Personen/Arioald.md",
+    "History/Langobarden/Personen/Adaloaldo.md",
+    "History/Langobarden Könige.canvas",
+    "History/Langobarden/Personen/Columban.md",
+    "History/Langobarden/Personen/Ariperto I.md",
+    "History/Langobarden/Personen/Ansprando.md",
+    "History/Langobarden/Personen/Gundeperga.md",
+    "History/Langobarden/Personen/Ragintruda.md",
+    "History/Langobarden/Personen/Ragimperto.md",
+    "History/Langobarden/Personen/Pertarito.md",
+    "History/Langobarden/Personen/Pemmo.md",
+    "History/Langobarden/Personen/Liutprando.md",
+    "History/Langobarden/Personen/Liutperto.md",
+    "History/Langobarden/Personen/Ildebrando.md",
+    "History/Langobarden/Personen/Gundoaldo.md",
+    "History/Lorsch/Personen/Lorscher Äbte/Richbod.md",
+    "History/Lorsch/Buch/Bibliothek].wikitext",
     "History/Lorsch/Personen/Lorscher Äbte/Samuel.md",
     "History/Lorsch/Personen/Äbte/Samuel.md",
     "History/Lorsch/Personen/Äbte",
     "History/Lorsch/Zeittafel/798.md",
-    "History/Lorsch/Personen/Lorscher Äbte/Richbod.md",
     "History/Lorsch/Personen/Theodulf/Theodulf.md",
     "History/Lorsch/Orte/Worms.md",
     "History/Lorsch/Personen/Theodulf/Theodulf in Lorsch.md",
     "History/Lorsch/Buch/Konzept Karolingisches Geistesleben.md",
     "History/Lorsch/Personen/Alkuin.md",
     "History/Lorsch/Buch/Karolingische Schriftkultur (Becker, Licht).md",
-    "History/Lorsch/Buch/Karolingische Renaissance versus Humanistische Renaissance.md",
-    "History/Lorsch/Buch/Kloster Lorsch im Vergleich zu anderen Klöstern.md",
-    "History/Lorsch/Buch/Zank um das Kloster.md",
-    "History/Lorsch/Buch/Karolingische Renaissance.md",
-    "History/Lorsch/Klöster und Herrschaft/Chat GPT 29.11.24.md",
-    "History/Lorsch/Sammelsurium/Handreichungen.md",
     "History/Lorsch/Sammelsurium",
-    "History/Lorsch/Rezeption/Bergung, Rekonstruktion und Zerstörung historischer Artefakte im Laufe der Jahrhunderte.md",
-    "History/Lorsch/Personen/Nazarius.md",
-    "History/Lorsch/Rezeption/Merian.md",
-    "History/Lorsch/Rezeption/Konzept Wirkungsgeschichte.md",
-    "History/Lorsch/Rezeption/Nibelungenepos.md",
-    "History/Lorsch/Rezeption/Das Kloster Lorsch als Baustein der deutsch-nationalen Erzählung.md",
     "History/Lorsch/Rezeption",
-    "History/Lorsch/Orte/Skriptorium/Bibliothek Karls des Großen.md",
-    "History/Lorsch/Orte/Skriptorium/Arzneibuch.md",
     "History/Lorsch/Orte/Skriptorium",
-    "History/Lorsch/Klöster und Herrschaft/Wirtschaftliche Bedeutung des Klosters.md",
-    "History/Lorsch/Klöster und Herrschaft/Fürstäbte.md",
     "History/Lorsch/Personen/Theodulf/Theodulf von Orleans.wiki",
     "History/Lorsch/Personen/Theodulf",
     "History/Lorsch/Theodulf/Theodulf von Orleans.wiki",
     "History/Lorsch/Theodulf",
     "Theodulf von Orleans.wiki",
-    "History/Lorsch/Zeittafel",
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/calendar1.png",
-    "History/Langobarden Könige.canvas",
     "Philosophie/Ledoux Conscious Awareness  2024-01-26.png"
   ]
 }

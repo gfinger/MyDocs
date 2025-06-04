@@ -1,0 +1,12 @@
+<%-- [PAGE_INFO]
+    comment = #Please do not remove this struct. It's record contains some important information of edit. This struct will be removed automatically after you push edits.#
+    pageTitle = #Benutzer:Gregor Karl/Bibliothek und Skriptorium des Klosters Lorsch#
+    pageID = #13366331#
+    revisionID = #252730096#
+    contentModel = #wikitext#
+    contentFormat = #text/x-wiki#
+[END_PAGE_INFO] --%>
+Die [[Bibliothek]] des [[Kloster Lorsch|Klosters Lorsch]] zählte im 9. Jahrhundert zu den bedeutendsten des [[Fränkisches Reich|Frankenreichs]]. Vom damaligen Bestand von etwa 450 bis 500 [[Codex|Codices]] sind heute noch mehr als 300 erhalten, verstreut in 73 Bibliotheken auf der ganzen Welt. Lorsch erfüllte damit eine wichtige Funktion bei der Umsetzung der [[Karolingische Renaissance|karolingischen Bildungsoffensive]].
+
+== Geschichte ==
+Schon mit der Gründung und der Entsendung der ersten Mönche aus [[Gorze]] unter Bischof [[Chrodegang]] von Metz im Jahr [[764]] erhielt das Lorscher Kloster einen Grundbestand an liturgischen und biblischen Büchern, die für das geistliche Klosterleben notwendig waren.

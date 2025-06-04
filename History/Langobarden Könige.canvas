@@ -22,12 +22,14 @@
 		{"id":"91c1023c804b0546","type":"file","file":"History/Langobarden/Personen/Ragintruda.md","x":-421,"y":508,"width":214,"height":139},
 		{"id":"85d07cb31451a5ef","type":"file","file":"History/Pavia/Santa Maria alle Pertiche.md","x":-29,"y":492,"width":229,"height":171,"color":"6"},
 		{"id":"e1b9838cba97de77","type":"file","file":"History/Langobarden/Personen/Agilulfo.md","x":-249,"y":-1962,"width":335,"height":162,"color":"4"},
-		{"id":"994cb505a950af9c","type":"file","file":"History/Langobarden/Personen/Adaloaldo.md","x":-427,"y":-1637,"width":243,"height":178,"color":"4"},
+		{"id":"994cb505a950af9c","type":"file","file":"History/Langobarden/Personen/Adaloaldo.md","x":-427,"y":-1637,"width":227,"height":178,"color":"4"},
 		{"id":"6daab892534e83ed","type":"file","file":"History/Langobarden/Personen/Cuniperto.md","x":-575,"y":-1130,"width":261,"height":155,"color":"4"},
 		{"id":"ccbdf2df1ac7c78d","type":"file","file":"History/Langobarden/Personen/Clefi.md","x":-684,"y":-2432,"width":266,"height":152,"color":"4"},
 		{"id":"44e5ab5c970785f0","type":"file","file":"History/Langobarden/Personen/Autari.md","x":-360,"y":-2181,"width":331,"height":152,"color":"4"},
-		{"id":"0d3c1d8fb6634208","x":139,"y":-2181,"width":364,"height":144,"type":"file","file":"History/Langobarden/Personen/Tochter von Clefi.md"},
-		{"id":"1521852def541435","x":-1184,"y":-2548,"width":289,"height":116,"color":"4","type":"file","file":"History/Langobarden/Personen/Alboin.md"}
+		{"id":"0d3c1d8fb6634208","type":"file","file":"History/Langobarden/Personen/Tochter von Clefi.md","x":139,"y":-2181,"width":364,"height":144},
+		{"id":"1521852def541435","type":"file","file":"History/Langobarden/Personen/Alboin.md","x":-1184,"y":-2548,"width":289,"height":116,"color":"4"},
+		{"id":"77a39e53defa2ffc","type":"file","file":"History/Langobarden/Personen/Gundeperga.md","x":-54,"y":-1617,"width":280,"height":139,"color":"4"},
+		{"id":"3f59dea1d1e917b7","x":40,"y":-1380,"width":245,"height":188,"color":"4","type":"file","file":"History/Langobarden/Personen/Arioald.md"}
 	],
 	"edges":[
 		{"id":"70c3ccc17b6d46fd","fromNode":"13f9fe4266863d8a","fromSide":"right","toNode":"6daab892534e83ed","toSide":"top","label":"Vater"},
@@ -64,6 +66,10 @@
 		{"id":"52a4e1836b02a4c7","fromNode":"44e5ab5c970785f0","fromSide":"left","toNode":"deadcd5d041342be","toSide":"top","label":"Mann"},
 		{"id":"68163519ef683538","fromNode":"ccbdf2df1ac7c78d","fromSide":"bottom","toNode":"44e5ab5c970785f0","toSide":"top","label":"Vater"},
 		{"id":"ce0b0dc68a44107e","fromNode":"ccbdf2df1ac7c78d","fromSide":"right","toNode":"0d3c1d8fb6634208","toSide":"top","label":"Vater"},
-		{"id":"9844878ea44c7d40","fromNode":"e1b9838cba97de77","fromSide":"right","toNode":"0d3c1d8fb6634208","toSide":"bottom","label":"Mann"}
+		{"id":"9844878ea44c7d40","fromNode":"e1b9838cba97de77","fromSide":"right","toNode":"0d3c1d8fb6634208","toSide":"bottom","label":"Mann"},
+		{"id":"8d0d19e0aaf9f726","fromNode":"994cb505a950af9c","fromSide":"right","toNode":"77a39e53defa2ffc","toSide":"left","label":"Bruder"},
+		{"id":"ef2d6259b18432f3","fromNode":"77a39e53defa2ffc","fromSide":"bottom","toNode":"3f59dea1d1e917b7","toSide":"top","label":"Ehefrau"},
+		{"id":"67ada897a410128a","fromNode":"e1b9838cba97de77","fromSide":"bottom","toNode":"77a39e53defa2ffc","toSide":"top","label":"Vater"},
+		{"id":"6936a12f2c7f9c33","fromNode":"deadcd5d041342be","fromSide":"bottom","toNode":"77a39e53defa2ffc","toSide":"top"}
 	]
 }

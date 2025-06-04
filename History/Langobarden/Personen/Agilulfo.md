@@ -1,3 +1,14 @@
+---
+years:
+  from: 590
+  to: 616
+persons:
+  - name: Agilulfo
+tags:
+  - König
+  - Langobarden
+---
+Langobardenkönig von 590 bis 616
 #### Tod
 616 in Milano
 #### König
