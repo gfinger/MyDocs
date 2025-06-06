@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Lorsch/Bibliothek/Kapitel/Schreiber.md",
+                "file": "History/Lorsch/Bibliothek/Kapitel/Kataloge.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Schreiber"
+              "title": "Kataloge"
             }
           }
         ]
@@ -182,21 +182,23 @@
   },
   "active": "cccd658da53629b5",
   "lastOpenFiles": [
-    "History/Lorsch/Bibliothek/Kapitel/Leiden des Schreibens.md",
-    "History/Lorsch/Bibliothek/Kapitel/Schreiber.md",
+    "History/Lorsch/Bibliothek/Kapitel/Was lesen, was schreiben?.md",
     "History/Lorsch/Bibliothek/Die Klosterbibliothek Lorschs.md",
     "History/Lorsch/Bibliothek/Bibliothek und Scriptorium.md",
+    "History/Lorsch/Bibliothek/Kapitel/Arzneibuch.md",
+    "History/Lorsch/Bibliothek/Kapitel/Kataloge.md",
+    "History/Lorsch/Bibliothek/Kapitel/Bibliothek Karls des Großen.md",
+    "History/Lorsch/Themensammlung/Karolingische Renaissance.md",
+    "History/Lorsch/Themensammlung/Karolingische Renaissance versus Humanistische Renaissance.md",
+    "History/Lorsch/Themensammlung/Karolingische Schriftkultur (Becker, Licht).md",
+    "History/Lorsch/Themensammlung/Konzept Karolingisches Geistesleben.md",
+    "History/Lorsch/Bibliothek/Kapitel/Leiden des Schreibens.md",
+    "History/Lorsch/Bibliothek/Kapitel/Schreiber.md",
     "History/Lorsch/Bibliothek/Kapitel/Rado.md",
     "History/Langobarden/Personen/Gundoaldo.md",
     "History/Lorsch/Bibliothek/Kapitel",
-    "History/Lorsch/Themensammlung/Konzept Karolingisches Geistesleben.md",
-    "History/Lorsch/Themensammlung/Karolingische Schriftkultur (Becker, Licht).md",
-    "History/Lorsch/Themensammlung/Karolingische Renaissance.md",
-    "History/Lorsch/Themensammlung/Karolingische Renaissance versus Humanistische Renaissance.md",
     "History/Lorsch/Themensammlung/Bibliothek].wikitext",
     "History/Lorsch/Themensammlung",
-    "History/Lorsch/Bibliothek/Bibliothek Karls des Großen.md",
-    "History/Lorsch/Bibliothek/Arzneibuch.md",
     "History/Lorsch/Bibliothek",
     "History/Lorsch/Orte/Skriptorium/Die Klosterbibliothek Lorschs.md",
     "History/Lorsch/Orte/Skriptorium/Die Klosterbibliothek Lorschs",
@@ -212,8 +214,6 @@
     "History/Langobarden/Personen/Ragintruda.md",
     "History/Langobarden/Personen/Ragimperto.md",
     "History/Langobarden/Personen/Pertarito.md",
-    "History/Langobarden/Personen/Pemmo.md",
-    "History/Langobarden/Personen/Liutprando.md",
     "History/Lorsch/Buch/Bibliothek].wikitext",
     "History/Lorsch/Personen/Äbte",
     "History/Lorsch/Sammelsurium",
