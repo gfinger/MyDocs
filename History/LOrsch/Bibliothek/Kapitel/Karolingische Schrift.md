@@ -1,3 +1,4 @@
+(Becker, Licht)
 ## Voraussetzungen
 ### Lokale Schriftkulturen
 Kontakte und Verbände von Schriftzentren, die sich aus der Entstehungs- und Institutionsgeschichte ergeben, sind ein starkes Bindeglied in den Erscheinungsformen der Handschriften und in den Überlieferungen der Texte.

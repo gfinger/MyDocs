@@ -4,7 +4,9 @@
 #### Cassiodor
 #### Columban
 ### Karolingerzeit
-#### Frühe Produktion
+#### ![[Karolingische Schrift]]
+#### Frühe Produktion 764-860
+#### Späte Produktion 860-1000
 ## Das Skriptorium
 ## Welche Bücher sind in Lorsch?
 ### ![[Kataloge]]
