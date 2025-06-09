@@ -28,4 +28,5 @@
 ### Lateinschule
 ### Kritische Editionen
 ### Computus
+### ![[Ausstattung neuer Pfarreien und Klöster]]
 ## Wo sind die Bücher heute?

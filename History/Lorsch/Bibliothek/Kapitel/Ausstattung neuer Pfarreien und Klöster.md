@@ -1,0 +1,3 @@
+#### Abt [[Samuel]]
+(837-856)
+Für die Gründung des Stifts Neuhausen bei Worms entnahm (evacuavit) der Abt Samuel aus der Bibliothek (armarium) des Klosters Lorsch Bücher. Der Lorscher Chronist aus dem 12. Jahrhundert betrachtet diesen Vorgang als Bücherraub, allerdings wird es sich um einen normalen Vorgang gehandelt haben, neue Kirchen oder Klöster mit den notwendigen liturgischen Büchern und Dubletten auszustatten. (Häse, Bücherverzeichnisse SS.21)

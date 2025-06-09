@@ -15,7 +15,8 @@ Güterschenkungen unter Samuel:
 Tauschverträge, Besitzabrundungen
 Interesse an Menzingen bei Bruchsal. Verwandtschaftliche Beziehungen (?)
 Lorscher Konvent zählt unter Abt Samuel mehr als 70 Mönche
-Hat möglicherweise Bücher aus der Bibliothek Lorschs zu seiner Stiftung in Neuhausen/Worms gebracht
+Hat möglicherweise Bücher aus der Bibliothek Lorschs zu seiner Stiftung in Neuhausen/Worms gebracht.
+Die Lorscher Bücherverzeichnisse, die zum Teil unter S. Amtszeit entstanden, verzeichnen keine größeren Verluste. Im Gegenteil: S. taucht im Katalog Ca10 als Kompilator von Auszügen aus den Werken Gregors des Großen genannt. 
 Lorsch verdankt S freundschaftlichen Beziehungen nach Fulda mehrere Handschriften.
 Erneuerung des Wormser Doms (brannte 872 erneut nieder, vom Blitz getroffen)
 847 Stiftung St. Cyriakus (Neuhausen)

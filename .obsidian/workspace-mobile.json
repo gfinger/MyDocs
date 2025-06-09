@@ -4,22 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "735b01e15d8d30b2",
+        "id": "21ebf17f4ac918bc",
         "type": "tabs",
         "children": [
           {
-            "id": "6feee6d8a8c606c0",
+            "id": "30df05ef4bc2a152",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Lorsch/Literatur.md",
+                "file": "History/Lorsch/Bibliothek/Kapitel/Ausstattung neuer Pfarreien und Klöster.md",
                 "mode": "source",
+                "source": true,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Literatur"
+              "title": "Ausstattung neuer Pfarreien und Klöster"
+            }
+          },
+          {
+            "id": "16e406db20b626e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Lorsch/Personen/Lorscher Äbte/Samuel.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Samuel"
             }
           }
         ]
@@ -37,7 +70,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -148,8 +182,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6feee6d8a8c606c0",
+  "active": "9c8300aa71a3058a",
   "lastOpenFiles": [
+    "History/Lorsch/Bibliothek/Die Klosterbibliothek Lorschs.md",
+    "History/Lorsch/Personen/Lorscher Äbte/Samuel.md",
+    "History/Lorsch/Bibliothek/Kapitel/Ausstattung neuer Pfarreien und Klöster.md",
+    "History/Lorsch/Bibliothek/Bibliothek und Scriptorium.md",
+    "History/Lorsch/Bibliothek/Kapitel/Kataloge.md",
+    "History/Lorsch/Personen/Lorscher Äbte/Adalung.md",
+    "History/LOrsch/Personen/Äbte/Samuel.md",
+    "History/Lorsch/Personen/Lorscher Äbte/Richbod.md",
+    "History/LOrsch/Personen/Äbte",
+    "History/LOrsch/Personen",
+    "History/LOrsch",
+    "History/Lorsch/Buch/Arzneibuch.md",
+    "Karolingische Schriftkultur (Becker, Licht).md",
+    "History/Lorsch/Buch/Nibelungenepos.md",
     "History/Lorsch/Literatur.md",
     "History/Pavia/Basilica San Salvatore.md"
   ]

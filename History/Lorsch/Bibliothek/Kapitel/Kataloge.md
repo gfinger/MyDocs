@@ -50,6 +50,7 @@ Orientierung im Codex auf der Titelseite
 Liste der Bücher im Nachlass von Gerward (gest. 860), früher Mönch in Lorsch, dann Hofbibliothekar Ludwigs des Frommen.
 27 Bände. Außergewöhnliche Qualität, aber nichts Neues (Ausnahme einiger Predigten des Augustinus).
 
+#### Katalog D
 #### Nach 860
 Weiterer Zuwachs kaum noch benötigt
 Ergänzungen wenn Codices beschädigt wurden oder verloren gingen.
