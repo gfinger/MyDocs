@@ -1,0 +1,2 @@
+#### Rechtfertigung bei Augustinus
+Sofern sie Wahrheiten lehren stammen diese von Gott. Die Heiden sind die unrechtmäßigen Besitzer. Aneignung durch Christen, um besseren Gebrauch davon zu machen, im Dienste der Bibelauslegung.
