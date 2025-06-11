@@ -11,10 +11,24 @@
             "id": "cccd658da53629b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "History/Lorsch/Bibliothek/Kapitel/Austausch von Büchern.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Austausch von Büchern"
             }
           }
         ]
@@ -168,9 +182,14 @@
   },
   "active": "cccd658da53629b5",
   "lastOpenFiles": [
+    "History/Lorsch/Bibliothek/Die Klosterbibliothek Lorschs.md",
+    "History/Lorsch/Bibliothek/Kapitel/Austausch von Büchern.md",
+    "History/Lorsch/Bibliothek/Bibliothek und Scriptorium.md",
     "History/Lorsch/Bibliothek/Kapitel/Was lesen, was schreiben?.md",
-    "History/Lorsch/Bibliothek/Kapitel/Späte Produktion 860-1000.md",
     "History/Lorsch/Bibliothek/Kapitel/Schreiber.md",
+    "History/Lorsch/Bibliothek/Kapitel/Lob des Rhabanus Maurus.md",
+    "History/Lorsch/Bibliothek/Kapitel/Ausstattung neuer Pfarreien und Klöster.md",
+    "History/Lorsch/Bibliothek/Kapitel/Späte Produktion 860-1000.md",
     "History/Lorsch/Bibliothek/Kapitel/Rado.md",
     "History/Lorsch/Bibliothek/Kapitel/Leiden des Schreibens.md",
     "History/Lorsch/Bibliothek/Kapitel/Kataloge.md",
@@ -178,8 +197,6 @@
     "History/Lorsch/Bibliothek/Kapitel/Bibliothek Karls des Großen.md",
     "History/Lorsch/Bibliothek/Kapitel/Arzneibuch.md",
     "History/Lorsch/Bibliothek/Kapitel",
-    "History/Lorsch/Bibliothek/Die Klosterbibliothek Lorschs.md",
-    "History/Lorsch/Bibliothek/Bibliothek und Scriptorium.md",
     "History/Lorsch/Bibliothek",
     "History/Lorsch/Personen/Lorscher Äbte/Samuel.md",
     "History/Lorsch/Themensammlung/Konzept Karolingisches Geistesleben.md",
@@ -197,9 +214,6 @@
     "History/Lorsch2/Bibliothek/Kapitel/Späte Produktion 860-1000.md",
     "History/Lorsch2/Bibliothek/Kapitel/Schreiber.md",
     "History/Lorsch2/Bibliothek/Kapitel/Rado.md",
-    "History/Lorsch2/Bibliothek/Kapitel/Leiden des Schreibens.md",
-    "History/Lorsch2/Bibliothek/Kapitel/Kataloge.md",
-    "History/Lorsch2/Bibliothek/Kapitel/Bibliothek Karls des Großen.md",
     "History/Lorsch2/Personen/Lorscher Äbte",
     "History/Lorsch2/Bibliothek/Kapitel",
     "History/Lorsch2/Personen",
