@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Lorsch/Bibliothek/Kapitel/Heidnische Autoren.md",
+                "file": "History/Lorsch/Bibliothek/Kapitel/Späte Produktion 860-1000.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Heidnische Autoren"
+              "title": "Späte Produktion 860-1000"
             }
           }
         ]
@@ -182,9 +182,10 @@
   },
   "active": "cccd658da53629b5",
   "lastOpenFiles": [
-    "History/Lorsch/Bibliothek/Kapitel/Arzneibuch.md",
-    "History/Lorsch/Bibliothek/Kapitel/Heidnische Autoren.md",
+    "History/Lorsch/Bibliothek/Kapitel/Aufbewahrungsort.md",
     "History/Lorsch/Bibliothek/Kapitel/Bildungsnetzwerk.md",
+    "History/Lorsch/Bibliothek/Kapitel/Heidnische Autoren.md",
+    "History/Lorsch/Bibliothek/Kapitel/Arzneibuch.md",
     "History/Lorsch/Bibliothek/Kapitel/Bibliothek Karls des Großen.md",
     "History/Lorsch/Bibliothek/Die Klosterbibliothek Lorschs.md",
     "History/Lorsch/Bibliothek/Bibliothek und Scriptorium.md",
@@ -213,7 +214,6 @@
     "History/Lorsch2/Personen/Lorscher Äbte/Samuel.md",
     "History/Lorsch2/Bibliothek/Kapitel/Was lesen, was schreiben?.md",
     "History/Lorsch2/Bibliothek/Kapitel/Späte Produktion 860-1000.md",
-    "History/Lorsch2/Bibliothek/Kapitel/Schreiber.md",
     "History/Lorsch2/Personen/Lorscher Äbte",
     "History/Lorsch2/Bibliothek/Kapitel",
     "History/Lorsch2/Personen",
