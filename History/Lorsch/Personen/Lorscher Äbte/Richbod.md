@@ -7,7 +7,7 @@ Bischof von [[Trier]] ab [[791]] oder [[792]]
 Vorgänger als Abt von Lorsch: [[Helmerich]]
 Nachfolger als Abt von Lorsch: [[Adalung]]
 
-Schüler von [[Alkuin]]
+Schüler von [[Alkuin]] (in Tour?)
 
 Läßt [[Klostermauer]] bauen
 Hölzerne Wohnhäuser der Mönche werden auf die Südseite der [[Basilika St. Nazarius]] verlegt
@@ -66,7 +66,7 @@ Bautätigkeit:
 Anfang der Blütezeit Lorschs. Kulturelles Zentrum.
 791/2 oder vielleicht erst 794 Bischof von Trier
 Nennt sich in einer Urkunde des Jahres 800 nur Bischof (nicht Erzbischof).
-Name Macarius ist Anspielung auf Rich /reich).
+Name Macarius ist Anspielung auf Rich (reich).
 Alkuin bedauert, den Freund so lange nicht gesehen zu haben.
 Reger Austausch. Alkuin bittet um Übersendung von Schriften
 - Predigt Leos des Großen
@@ -76,3 +76,11 @@ Bitte um Fürbitte, Messkelch
 Bedeutung als Theologe wird aus der Empfehlung Alkuins deutich, Richbod solle (mit Theodulf und Paulinus von Aquileia) eine Erwiederung auf den Adoptianismus des Bischofs Felix von Urgellis.
 R ist echter Vertreter der karolingischen Renaissance (wg. Alkuins Spot auf seine Vorliebe für Vergil).
 Weiterführung der in Metz begonnenen Annalen, ab 785 in Lorsch, seit 791 in Trier.
+
+
+## Semmler: Lorsch in der politischen und kirchlichen Welt der Karolinger
+Codices:
+- Martyrologium Hieronymianum
+- Neubearbeitung des stadtrömischen Festkalenders
+- Lorscher Arzneibuch
+- Adunatio Richbodoni episcopi (Praktischer Vollzug des Benediktregel) 
