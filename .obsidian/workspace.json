@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "78df6949bd136a1f",
+        "id": "7941daf6cb9d3089",
         "type": "tabs",
         "children": [
           {
-            "id": "cccd658da53629b5",
+            "id": "6d6aeafceb08875b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Lorsch/Bibliothek/Kapitel/Späte Produktion 860-1000.md",
+                "file": "History/Von Gregor bis Karl/Entwurf.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Späte Produktion 860-1000"
+              "title": "Entwurf"
             }
           }
         ]
@@ -180,45 +180,45 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "cccd658da53629b5",
+  "active": "6d6aeafceb08875b",
   "lastOpenFiles": [
-    "History/Lorsch/Bibliothek/Kapitel/Aufbewahrungsort.md",
-    "History/Lorsch/Bibliothek/Kapitel/Bildungsnetzwerk.md",
-    "History/Lorsch/Bibliothek/Kapitel/Heidnische Autoren.md",
-    "History/Lorsch/Bibliothek/Kapitel/Arzneibuch.md",
-    "History/Lorsch/Bibliothek/Kapitel/Bibliothek Karls des Großen.md",
-    "History/Lorsch/Bibliothek/Die Klosterbibliothek Lorschs.md",
-    "History/Lorsch/Bibliothek/Bibliothek und Scriptorium.md",
-    "History/Lorsch/Bibliothek/Kapitel/Was lesen, was schreiben?.md",
-    "History/Lorsch/Bibliothek/Kapitel/Schreiber.md",
-    "History/Lorsch/Bibliothek/Kapitel/Lob des Rhabanus Maurus.md",
-    "History/Lorsch/Bibliothek/Kapitel/Ausstattung neuer Pfarreien und Klöster.md",
-    "History/Lorsch/Bibliothek/Kapitel/Späte Produktion 860-1000.md",
-    "History/Lorsch/Bibliothek/Kapitel/Rado.md",
-    "History/Lorsch/Bibliothek/Kapitel/Leiden des Schreibens.md",
-    "History/Lorsch/Bibliothek/Kapitel/Kataloge.md",
-    "History/Lorsch/Bibliothek/Kapitel/Karolingische Schrift.md",
+    "History/Von Gregor bis Karl/San Vitale (Ravenna) - Pfalzkapelle (Aachen).md",
+    "History/Von Gregor bis Karl/Entwurf.md",
+    "History/Zeittafel/805.md",
+    "History/Von Gregor bis Karl/Theodulf/Theodulf-Wiki-Orig.md",
+    "History/Von Gregor bis Karl/Theodulf/Theodulf-Vortrag-Idee.md",
+    "History/Von Gregor bis Karl/Theodulf/Theodulf-ChatGPT1.md",
+    "History/Von Gregor bis Karl/Theodulf/Theodulf in Lorsch.md",
+    "History/Von Gregor bis Karl/Theodulf/Theodulf.md",
+    "History/Von Gregor bis Karl/Gregor der Große/Leben.md",
+    "History/Goten/Gotenkrieg.md",
+    "History/Zeittafel/561.md",
+    "History/Zeittafel/562.md",
+    "History/Zeittafel/555.md",
+    "History/Zeittafel/554.md",
+    "History/Zeittafel/553.md",
+    "History/Zeittafel/552.md",
+    "History/Zeittafel/550.md",
+    "History/Zeittafel/549.md",
+    "History/Zeittafel/547.md",
+    "History/Zeittafel/546.md",
+    "History/Zeittafel/544.md",
+    "History/Zeittafel/543.md",
+    "History/Zeittafel/540.md",
+    "History/Zeittafel/538.md",
+    "History/Zeittafel/537.md",
+    "History/Zeittafel/536.md",
+    "History/Langobarden Könige.canvas",
+    "History/Von Gregor bis Karl/Gregor der Große",
+    "History/Von Gregor bis Karl",
     "History/Lorsch/Bibliothek/Kapitel",
     "History/Lorsch/Bibliothek",
-    "History/Lorsch/Personen/Lorscher Äbte/Samuel.md",
-    "History/Lorsch/Themensammlung/Konzept Karolingisches Geistesleben.md",
-    "History/Lorsch/Themensammlung/Karolingische Renaissance.md",
-    "History/Lorsch/Themensammlung/Karolingische Renaissance versus Humanistische Renaissance.md",
     "History/Lorsch/Themensammlung/Bibliothek].wikitext",
     "History/Lorsch/Themensammlung",
-    "History/Lorsch2/Themensammlung/Konzept Karolingisches Geistesleben.md",
-    "History/Lorsch2/Themensammlung/Karolingische Renaissance.md",
-    "History/Lorsch2/Themensammlung/Karolingische Renaissance versus Humanistische Renaissance.md",
     "History/Lorsch2/Themensammlung/Bibliothek].wikitext",
     "History/Lorsch2/Themensammlung",
-    "History/Lorsch2/Personen/Lorscher Äbte/Samuel.md",
-    "History/Lorsch2/Bibliothek/Kapitel/Was lesen, was schreiben?.md",
-    "History/Lorsch2/Bibliothek/Kapitel/Späte Produktion 860-1000.md",
     "History/Lorsch2/Personen/Lorscher Äbte",
     "History/Lorsch2/Bibliothek/Kapitel",
-    "History/Lorsch2/Personen",
-    "History/Lorsch2/Bibliothek",
-    "History/Langobarden Könige.canvas",
     "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/calendar1.png",
     "Philosophie/Ledoux Conscious Awareness  2024-01-26.png"
   ]
