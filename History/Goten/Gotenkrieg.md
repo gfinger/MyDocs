@@ -21,7 +21,7 @@ Die Kämpfe zwischen Goten und Byzantinern nehmen an Härte und Grausamkeit zu u
 [[535]] zählte Rom immerhin noch 100.000 Einwohner, [[550]] war Rom ein Ruinenfeld und fast völlig entvölkert. Totila feierte seinen Erfolg indem er Wagenrennen im Circus Maximus abhalten ließ.
 [[551]] rückten die Byzantiner über Illyrien mit 30.000 Mann unter dem Feldherrn Narses nach Norditalien vor. Die Goten, stark geschwächt durch den lang anhaltenden Krieg, traten den Truppen Ostroms mit 20.000 Mann unweit des heutigen Perugia gegenüber. Totila fiel in der Schlacht von Busta Gallorum [[552]]. Die byzantinischen Truppen erobern erneut Rom. Totilas Nachfolger Teja lieferte den Oströmern noch eine letzte, blutige Schlacht am Fuße des Vesuvs. Teja fiel. Damit war der Kampf faktisch entschieden, auch wenn einige gotische Verbände noch entschlossenen Widerstand leisteten.
 Ein letztes Nachspiel hatte der Krieg durch das Eingreifen des merowingischen Dux von Alamannien Butilin, der [[553]] plündernd bis Messina vorstieß, aber bereits [[554]] von Narses vernichtend geschlagen wurde.
-[[554]] wird Italien dem Oströmischen Reich unter Führung eines Prätorianerpräfekten angegliedert (Pragmatic Sanction). [[555]] kapitulierten die letzten gotischen Truppen bei Salerno. Einige gotische Festungen halten sich bis [[562]] (Pavia [[561]]).
+[[554]] wird Italien dem Oströmischen Reich unter Führung eines Prätorianerpräfekten angegliedert. [[555]] kapitulierten die letzten gotischen Truppen bei Salerno. Einige gotische Festungen halten sich bis [[562]] (Pavia [[561]]).
 
 Der Krieg hatte für Italien schwerwiegende Auswirkungen: Kriegswirren, Hungernöte, Pest. Die spätantike Kultur kam damit vollständig zum erliegen.
 
