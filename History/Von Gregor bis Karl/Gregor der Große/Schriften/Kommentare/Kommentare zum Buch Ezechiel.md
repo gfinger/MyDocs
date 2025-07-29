@@ -1,0 +1,1 @@
+geschrieben nach der Rückkehr aus Konstantinopel

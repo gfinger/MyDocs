@@ -1,0 +1,1 @@
+geschrieben in der Zeit Gregors in Konstantinopel

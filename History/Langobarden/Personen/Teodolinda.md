@@ -1,6 +1,6 @@
 #### Geburt
-570 in Regensburg
+[[570]] in Regensburg
 #### Tod
-627 in Monza
+[[627]] in Monza
 #### Regentin
-616-624
+[[616]]-[[624]]

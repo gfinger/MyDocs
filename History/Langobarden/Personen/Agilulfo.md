@@ -12,7 +12,9 @@ Langobardenkönig von 590 bis 616
 #### Tod
 616 in Milano
 #### König
-591-616
+[[591]]-[[616]]
 
 Herzog von Turin
-Thüringischer Abstammun
+Thüringischer Abstammung
+
+Attackiert Rom [[593]]/[[594]]

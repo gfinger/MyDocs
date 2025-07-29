@@ -7,7 +7,7 @@ locations:
 tags:
     - Langobarden
 ---
-Langobarden erobern Pavia.
+[[572]] Langobarden erobern Pavia.
 
 ### Links
 [Langobarden](https://de.wikipedia.org/wiki/Langobarden)

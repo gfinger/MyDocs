@@ -1,0 +1,1 @@
+Ein frommer Asket habe gesehen, wie der gefesselte [[Theoderich]] von [[Symmachus]] und [[Papst Johannes I.]] in einen Vulkan der Liparischen Inseln geworfen wurde.

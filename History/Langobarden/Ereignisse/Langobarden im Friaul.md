@@ -9,7 +9,7 @@ locations:
 tags:
   - Langobarden
 ---
-Langobarden überqueren Julische Alpen geführt von König [[Alboin]] und erobern Forum Iulii (heute Cividale del Friuli).
+[[568]] Langobarden überqueren Julische Alpen geführt von König [[Alboin]] und erobern Forum Iulii (heute Cividale del Friuli).
 
 ### Links
 [Langobarden](https://de.wikipedia.org/wiki/Langobarden)

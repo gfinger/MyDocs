@@ -1,0 +1,2 @@
+Ab [[788]] wohnt er regelmäßig in Aachen.
+[[793]]/[[794]] neue Münzen, teilweise mit griechischer Legende (Karolus), wollte Untertanen in Ravenna und Süditalien, wo in Teilen immer noch Griechisch gesprochen wurde, beeindrucken. (Herrin, S. 441)

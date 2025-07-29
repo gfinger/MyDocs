@@ -1,4 +1,4 @@
 #### Tod
 756
 #### König
-749-756
+Langobardenkönig von [[749]] bis [[756]]

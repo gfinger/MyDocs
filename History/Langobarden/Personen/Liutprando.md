@@ -1,6 +1,6 @@
 #### Geburt
-690
+[[690]]
 #### Tod
-744
+[[744]]
 #### König
-712-744
+Langobardenkönig von [[712]] bis [[744]]

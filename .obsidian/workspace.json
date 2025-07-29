@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7941daf6cb9d3089",
+        "id": "3b00476e7e2f7ce9",
         "type": "tabs",
         "children": [
           {
-            "id": "6d6aeafceb08875b",
+            "id": "2b4fe426767f155d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Von Gregor bis Karl/Entwurf.md",
+                "file": "History/Von Gregor bis Karl/Weitere Personen/Isidor von Sevilla.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Entwurf"
+              "title": "Isidor von Sevilla"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Langobarden",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 390.5
   },
   "right": {
     "id": "8404d979b96688bf",
@@ -180,46 +180,47 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "6d6aeafceb08875b",
+  "active": "2b4fe426767f155d",
   "lastOpenFiles": [
-    "History/Von Gregor bis Karl/San Vitale (Ravenna) - Pfalzkapelle (Aachen).md",
-    "History/Von Gregor bis Karl/Entwurf.md",
-    "History/Zeittafel/805.md",
-    "History/Von Gregor bis Karl/Theodulf/Theodulf-Wiki-Orig.md",
-    "History/Von Gregor bis Karl/Theodulf/Theodulf-Vortrag-Idee.md",
-    "History/Von Gregor bis Karl/Theodulf/Theodulf-ChatGPT1.md",
-    "History/Von Gregor bis Karl/Theodulf/Theodulf in Lorsch.md",
-    "History/Von Gregor bis Karl/Theodulf/Theodulf.md",
-    "History/Von Gregor bis Karl/Gregor der Große/Leben.md",
-    "History/Goten/Gotenkrieg.md",
-    "History/Zeittafel/561.md",
-    "History/Zeittafel/562.md",
+    "History/Von Gregor bis Karl/Weitere Personen/Johannes Cassianus.md",
+    "History/Zeittafel/435.md",
+    "History/Zeittafel/350.md",
+    "History/Von Gregor bis Karl/Weitere Personen/Isidor von Sevilla.md",
+    "History/Von Gregor bis Karl/Weitere Personen/Leander von Sevilla.md",
+    "History/Von Gregor bis Karl/Weitere Personen/Ennodius von Pavia.md",
+    "History/Zeittafel/521.md",
+    "History/Zeittafel/474.md",
+    "History/Zeittafel/473.md",
+    "History/Päpste/Papst Felix III..md",
+    "History/Von Gregor bis Karl/Weitere Personen/Columban von Luxeuil.md",
+    "History/Päpste/Papst Vigilius.md",
     "History/Zeittafel/555.md",
-    "History/Zeittafel/554.md",
-    "History/Zeittafel/553.md",
-    "History/Zeittafel/552.md",
-    "History/Zeittafel/550.md",
-    "History/Zeittafel/549.md",
-    "History/Zeittafel/547.md",
-    "History/Zeittafel/546.md",
-    "History/Zeittafel/544.md",
-    "History/Zeittafel/543.md",
-    "History/Zeittafel/540.md",
-    "History/Zeittafel/538.md",
     "History/Zeittafel/537.md",
-    "History/Zeittafel/536.md",
+    "History/Zeittafel/615.md",
+    "History/Von Gregor bis Karl/Weitere Personen/Benedikt von Nursia.md",
+    "History/Von Gregor bis Karl/Gregor der Große/Schriften/Dialoge/Lebensbeschreibung Benedikts.md",
+    "History/Von Gregor bis Karl/Gregor der Große/Schriften/Dialoge/Auseinandersetzung mit Benedikt.md",
+    "Dialoge.md",
+    "History/Zeittafel/529.md",
+    "History/Zeittafel/480.md",
+    "History/Von Gregor bis Karl/Weitere Personen/Benedikt von Aniane.md",
+    "History/Zeittafel/821.md",
+    "History/Zeittafel/750.md",
+    "History/Lorsch/Personen/Lorscher Äbte/Chrodegang.md",
+    "History/Zeittafel/766.md",
+    "History/Von Gregor bis Karl/Gregor der Große/Schriften/Regula Pastoralis",
+    "History/Von Gregor bis Karl/Gregor der Große/Schriften/Kommentare",
+    "History/Von Gregor bis Karl/Gregor der Große/Schriften/Briefe",
+    "History/Von Gregor bis Karl/Weitere Personen",
+    "History/Von Gregor bis Karl/Gregor der Große/Religiöse Auseinandersetzungen",
+    "History/Von Gregor bis Karl/Gregor der Große/Schriften/Miscellaneus",
+    "History/Von Gregor bis Karl/Gregor der Große/Schriften/Dialoge",
+    "History/Von Gregor bis Karl/Gregor der Große/Schriften",
+    "History/Von Gregor bis Karl/Gregor der Große/Schriften",
+    "History/Franken/Merowinger",
+    "History/Franken/Untitled.canvas",
     "History/Langobarden Könige.canvas",
-    "History/Von Gregor bis Karl/Gregor der Große",
-    "History/Von Gregor bis Karl",
-    "History/Lorsch/Bibliothek/Kapitel",
-    "History/Lorsch/Bibliothek",
-    "History/Lorsch/Themensammlung/Bibliothek].wikitext",
-    "History/Lorsch/Themensammlung",
-    "History/Lorsch2/Themensammlung/Bibliothek].wikitext",
-    "History/Lorsch2/Themensammlung",
-    "History/Lorsch2/Personen/Lorscher Äbte",
-    "History/Lorsch2/Bibliothek/Kapitel",
-    "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/calendar1.png",
-    "Philosophie/Ledoux Conscious Awareness  2024-01-26.png"
+    "Philosophie/Ledoux Conscious Awareness  2024-01-26.png",
+    "History/Lorsch/Ereignisse/Zeitachse für das Kloster Lorsch - Meridiem_files/calendar1.png"
   ]
 }
