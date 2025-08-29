@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"b31b776e68126d8d","type":"file","file":"History/Von Gregor bis Karl/Weitere Personen/Augustinus von Canterbury.md","x":-471,"y":-93,"width":271,"height":93},
+		{"id":"655af95cf4a3b91b","type":"file","file":"History/Päpste/Papst Gregor I. der Große.md","x":0,"y":-160,"width":252,"height":99},
+		{"id":"37fd08ff303703be","type":"file","file":"History/Von Gregor bis Karl/Weitere Personen/Leander von Sevilla.md","x":21,"y":192,"width":199,"height":88},
+		{"id":"79767040499ef798","type":"file","file":"History/Von Gregor bis Karl/Weitere Personen/Isidor von Sevilla.md","x":111,"y":385,"width":209,"height":95},
+		{"id":"2b0b8528f6097ab5","type":"file","file":"History/Von Gregor bis Karl/Weitere Personen/Braulio von Saragossa.md","x":-260,"y":460,"width":235,"height":96},
+		{"id":"f1cf3a7cb66f8e38","x":-287,"y":640,"width":262,"height":100,"type":"file","file":"History/Von Gregor bis Karl/Weitere Personen/Eugenius III. von Toledo.md"},
+		{"id":"fbb9c3e932ffd904","x":-242,"y":841,"width":217,"height":99,"type":"file","file":"History/Von Gregor bis Karl/Weitere Personen/Ildefons von Toledo.md"},
+		{"id":"7a6881a5f550a29a","x":-185,"y":1043,"width":185,"height":97,"type":"file","file":"History/Von Gregor bis Karl/Weitere Personen/Julian von Toledo.md"}
+	],
+	"edges":[
+		{"id":"1f0ccaf491521e36","fromNode":"655af95cf4a3b91b","fromSide":"left","toNode":"b31b776e68126d8d","toSide":"right","label":"Missionsauftrag"},
+		{"id":"78be7e9ce7640717","fromNode":"655af95cf4a3b91b","fromSide":"bottom","toNode":"37fd08ff303703be","toSide":"top","label":"Befreundet"},
+		{"id":"09a210e0a3b59b5e","fromNode":"37fd08ff303703be","fromSide":"bottom","toNode":"79767040499ef798","toSide":"top","label":"Bruder"},
+		{"id":"c9f373fcf981a6d9","fromNode":"79767040499ef798","fromSide":"left","toNode":"2b0b8528f6097ab5","toSide":"right","label":"Schüler"},
+		{"id":"74a5f32c52922ed5","fromNode":"2b0b8528f6097ab5","fromSide":"bottom","toNode":"f1cf3a7cb66f8e38","toSide":"top"},
+		{"id":"7d5761dcd2a18805","fromNode":"f1cf3a7cb66f8e38","fromSide":"bottom","toNode":"fbb9c3e932ffd904","toSide":"top"},
+		{"id":"58424f5447142c4d","fromNode":"fbb9c3e932ffd904","fromSide":"bottom","toNode":"7a6881a5f550a29a","toSide":"top"}
+	]
+}

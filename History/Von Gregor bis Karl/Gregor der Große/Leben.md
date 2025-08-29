@@ -20,7 +20,7 @@ Mitte der 80er Jahre ([[586]] ??)kehrt er nach Rom zurück.
 Am 3. September [[590]] wird er zum Papst und Nachfolger von Pelagius gewählt.
 Mehr als 850 Briefe und viele weitere Schriften.
 Zunehmende Trennung zwischen Ost- und Westkirche.
-[[604]] stirbt Gregor.
+am 12. März [[604]] (Julianischer Kalender) stirbt Gregor in Rom.
 
 ## Verhandlungen mit den Langobarden
 [[593]]/[[594]] [[Agilulfo]] attackiert Rom
