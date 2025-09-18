@@ -1,0 +1,5 @@
+Aus der Sicht eines mittelalterlichen Verlegers
+Im Mittelalter gab es keine Verleger! Warum nicht? Wann entstanden die ersten Verlage? In der frühen Neuzeit? Zusammenhang mit Druck und industrieller Papierproduktion?
+Übergang von nachfrageorientiertem zu angebotsorientiertem Markt. Ökonomischer Aspekt.
+In Mittelalter sind Bücher Unikate. Reproduktion hat nicht zum Ziel massenweise identische Kopien des selben Archetyps zu produzieren. Normalerweise wird ein Buch immer für einen dedizierten Kunden produziert. Textauswahl und Zusammenstellung ist kundenspezifisch. Wahl des Schrift Typs, der Tinten, des Pergaments, des Formats, der Illustration, des Einbands.in der Regel werden die Bücher von verschiedenen Schreibern kopiert.
+Dennoch gibt es Funktionen eines modernen Verlags, die auch in der Spätantike und im frühen Mittelalter erfüllt werden mussten, damit Bücher überhaupt produziert, weitergegeben, aufbewahrt, bekannt gemacht und gelesen werden konnten. Das fängt mit dem Schreiben und der Auswahl der Texte an. Wer hatte überhaupt die materiellen Möglichkeiteneinen längerer Text zu schreiben und zu vervielfältigen?
