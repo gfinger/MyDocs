@@ -7,4 +7,16 @@ Dennoch gibt es Funktionen eines modernen Verlags, die auch in der Spätantike u
 
 # Peter Stein: Schriftlichkeit
 Im 4. Jhd. v. Chr. wuchs die Zahl der Schriftrollen stark an. Zu Platons Lebzeiten gab es gewerbsmäßigen Handel mit Rollen und Bibliotheken (Tempelbibliotheken, Archive, Privatbibliotheken). Philosophenschulen entstehen: Platons Akademie, Aristoteles Peripatetiker, Epikur, Zenon.
-Der Buchrollenbestand der Bibliothek in Alexandria wuchs bis zum Ende des Ptolomäer Reichs auf 700.000 an. Rollen wurden gezielt gesammelt und kopiert, katalogisiert und kommentiert.
+Der Buchrollenbestand der Bibliothek in Alexandria wuchs bis zum Ende des Ptolomäer Reichs auf 700.000 an. Rollen wurden gezielt gesammelt und kopiert, katalogisiert und kommentiert
+
+# Die wunderbare Buchvermehrung im 9. Jahrhundert
+## Wachstum der Buchproduktion
+## Buch "on demand"
+## Kein Buchmarkt
+### Überlassung von Büchern zu einem "gerechten Preis"
+Im Netzwerk der Klöster wurden Bücher weitergegeben, getauscht aber ohne ökonomisches Interesse, sondern eher aus geistlichem Motiv. Materielle Gegenleistungen waren möglich in Form von anderen Büchern oder Geschenken.
+Bücher hatten Tauschcharakter aber waren nicht Objekte eines offenen Marktes. (Depreux)
+### Verkauf der Bibliothek Karls d.G.
+
+
+
