@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Kaiser und Papst in der Spätantike"
             }
+          },
+          {
+            "id": "48691c931bfc2e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History/Lorsch/Bibliothek/Kapitel/Quellen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Quellen"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,34 +206,34 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "1673bcdfbaa83458",
+  "active": "48691c931bfc2e1e",
   "lastOpenFiles": [
+    "History/Lorsch/Bibliothek/Kapitel/Was lesen, was schreiben?.md",
+    "History/Lorsch/Bibliothek/Kapitel/Quellen.md",
+    "History/Lorsch/Bibliothek/Kapitel/Späte Produktion 860-1000.md",
+    "History/Lorsch/Bibliothek/Kapitel/Schreiber.md",
+    "History/Lorsch/Bibliothek/Kapitel/Rado.md",
+    "History/Lorsch/Bibliothek/Kapitel/Lob des Rhabanus Maurus.md",
+    "History/Lorsch/Bibliothek/Kapitel/Leiden des Schreibens.md",
+    "History/Lorsch/Bibliothek/Kapitel/Kataloge.md",
+    "History/Lorsch/Bibliothek/Kapitel/Karolingische Schrift.md",
+    "History/Lorsch/Bibliothek/Kapitel/Heidnische Autoren.md",
+    "History/Lorsch/Bibliothek/Kapitel/Bildungsnetzwerk.md",
+    "History/Lorsch/Bibliothek/Kapitel/Arzneibuch.md",
+    "History/Lorsch/Bibliothek/Kapitel/Aufbewahrungsort.md",
+    "History/Lorsch/Bibliothek/Kapitel/Ausstattung neuer Pfarreien und Klöster.md",
+    "History/Lorsch/Bibliothek/Die Klosterbibliothek Lorschs.md",
+    "History/Lorsch/Bibliothek/Bibliothek und Scriptorium.md",
+    "History/Lorsch/Bibliothek/Kapitel/Bibliothek Karls des Großen.md",
+    "History/Lorsch/Personen/Lorscher Äbte/Richbod.md",
+    "History/Von Gregor bis Karl/Alkuin/De litteris colendis.md",
+    "History/Von Gregor bis Karl/Buchwege von der Spätantike ins frühe Mittelalter.md",
     "History/Päpste/Papst Hadrian I..md",
     "History/Von Gregor bis Karl/Kaiser und Papst in der Spätantike.md",
     "History/Päpste/Papst Gregor II..md",
     "History/Zeittafel/731.md",
     "History/Päpste/Papst Stephan II..md",
     "History/Zeittafel/800.md",
-    "History/Langobarden/Personen/Aistulf.md",
-    "History/Zeittafel/729.md",
-    "History/Zeittafel/649.md",
-    "History/Päpste/Papst Martin I..md",
-    "History/Römische Kaiser/Kaiser Konstans II..md",
-    "History/Zeittafel/619.md",
-    "History/Zeittafel/571.md",
-    "History/Zeittafel/572.md",
-    "History/Päpste/Papst Gregor I. der Große.md",
-    "History/Zeittafel/490.md",
-    "History/Zeittafel/488.md",
-    "History/Römische Kaiser/Kaiser Flavius Honorius.md",
-    "History/Zeittafel/402.md",
-    "History/Von Gregor bis Karl/Entwurf 1.md",
-    "History/Von Gregor bis Karl/Augustinus/Pseudo-Augustinus.md",
-    "History/Von Gregor bis Karl/Buchwege von der Spätantike ins frühe Mittelalter.md",
-    "History/Von Gregor bis Karl/Grammatische Handschriften in Lorsch.md",
-    "History/Von Gregor bis Karl/Cassiodorus/Cassiodor in Lorsch.md",
-    "History/Von Gregor bis Karl/Cassiodorus/Boethius in Lorsch.md",
-    "History/Von Gregor bis Karl/Cassiodorus/Codex Renati.md",
     "History/Von Gregor bis Karl/Augustinus",
     "History/Augustinus-Retractiones.txt",
     "History/Augustinus-Retractiones",
