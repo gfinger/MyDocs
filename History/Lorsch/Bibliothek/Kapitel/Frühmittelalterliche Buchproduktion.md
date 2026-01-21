@@ -1,0 +1,1 @@
+Aus der Zeit vor dem Jahr 800 AD sind heute weniger als 2000 Codices oder Coex-Fragmente erhalrten. Dagegen sind es alleine aus dem 9. Jahrhundert mehr als 7000. (Bischoff: Katalog der festländischen Handschriften; Costambey, Innes: Introduction: A Study in the Education of Society, S. 2).

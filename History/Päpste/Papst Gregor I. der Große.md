@@ -1,3 +1,3 @@
 Papst von [[590]] bis [[604]]
-[[Leben]] Gregors
+[[History/Von Gregor bis Karl/Gregor der Große/Leben]] Gregors
 

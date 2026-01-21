@@ -4,59 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "3b00476e7e2f7ce9",
+        "id": "37a8f2dd55d098ff",
         "type": "tabs",
         "children": [
           {
-            "id": "1673bcdfbaa83458",
+            "id": "19eed0bbd3d09807",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Von Gregor bis Karl/Kaiser und Papst in der Spätantike.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Kaiser und Papst in der Spätantike"
-            }
-          },
-          {
-            "id": "48691c931bfc2e1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Lorsch/Bibliothek/Kapitel/Quellen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Quellen"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Paulus Diaconus",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,34 +167,35 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "48691c931bfc2e1e",
+  "active": "e71ba0843a5255ae",
   "lastOpenFiles": [
-    "History/Lorsch/Bibliothek/Kapitel/Was lesen, was schreiben?.md",
-    "History/Lorsch/Bibliothek/Kapitel/Quellen.md",
-    "History/Lorsch/Bibliothek/Kapitel/Späte Produktion 860-1000.md",
-    "History/Lorsch/Bibliothek/Kapitel/Schreiber.md",
-    "History/Lorsch/Bibliothek/Kapitel/Rado.md",
-    "History/Lorsch/Bibliothek/Kapitel/Lob des Rhabanus Maurus.md",
-    "History/Lorsch/Bibliothek/Kapitel/Leiden des Schreibens.md",
-    "History/Lorsch/Bibliothek/Kapitel/Kataloge.md",
-    "History/Lorsch/Bibliothek/Kapitel/Karolingische Schrift.md",
-    "History/Lorsch/Bibliothek/Kapitel/Heidnische Autoren.md",
-    "History/Lorsch/Bibliothek/Kapitel/Bildungsnetzwerk.md",
-    "History/Lorsch/Bibliothek/Kapitel/Arzneibuch.md",
-    "History/Lorsch/Bibliothek/Kapitel/Aufbewahrungsort.md",
-    "History/Lorsch/Bibliothek/Kapitel/Ausstattung neuer Pfarreien und Klöster.md",
-    "History/Lorsch/Bibliothek/Die Klosterbibliothek Lorschs.md",
+    "History/Päpste/Papst Felix III..md",
+    "History/Päpste/Papst Gregor I. der Große.md",
+    "History/Päpste/Papst Gregor II..md",
+    "History/Von Gregor bis Karl/Prolog.md",
+    "History/Von Gregor bis Karl/Gregor der Große/Religiöse Auseinandersetzungen/Dreikapitelstreit.md",
+    "History/Lorsch/Bibliothek/Wikipedia Bibliothek und Skriptorium.md",
+    "History/Von Gregor bis Karl/Gregor der Große/Schriften/Briefe/Briefe zur politischen und militärischen Autorität.md",
+    "History/Von Gregor bis Karl/Paulus Diaconus/Leben.md",
+    "History/Zeittafel/783.md",
+    "History/Zeittafel/787.md",
+    "History/Zeittafel/785.md",
+    "History/Franken/Karolinger/Karl der Großel den Großen.md",
+    "History/Zeittafel/776.md",
+    "History/Zeittafel/782.md",
+    "History/Von Gregor bis Karl/Montecassino.md",
+    "History/Langobarden/Ravenna.md",
+    "History/Zeittafel/799.md",
+    "History/Von Gregor bis Karl/Alkuin/De litteris colendis.md",
+    "History/Von Gregor bis Karl/Paulus Diaconus",
+    "History/Von Gregor bis Karl/Alkuin/Alkuin.md",
+    "History/Lorsch/Themensammlung/Konzept Karolingisches Geistesleben.md",
     "History/Lorsch/Bibliothek/Bibliothek und Scriptorium.md",
     "History/Lorsch/Bibliothek/Kapitel/Bibliothek Karls des Großen.md",
-    "History/Lorsch/Personen/Lorscher Äbte/Richbod.md",
-    "History/Von Gregor bis Karl/Alkuin/De litteris colendis.md",
     "History/Von Gregor bis Karl/Buchwege von der Spätantike ins frühe Mittelalter.md",
-    "History/Päpste/Papst Hadrian I..md",
-    "History/Von Gregor bis Karl/Kaiser und Papst in der Spätantike.md",
-    "History/Päpste/Papst Gregor II..md",
-    "History/Zeittafel/731.md",
-    "History/Päpste/Papst Stephan II..md",
-    "History/Zeittafel/800.md",
+    "History/Lorsch/Bibliothek/Kapitel/Frühmittelalterliche Buchproduktion.md",
+    "History/Von Gregor bis Karl/Theodulf/Theodulf in Lorsch.md",
+    "History/Von Gregor bis Karl/Cassiodorus/Boethius in Lorsch.md",
     "History/Von Gregor bis Karl/Augustinus",
     "History/Augustinus-Retractiones.txt",
     "History/Augustinus-Retractiones",
@@ -244,7 +206,6 @@
     "History/Von Gregor bis Karl/Gregor der Große/Schriften/Kommentare",
     "History/Von Gregor bis Karl/Gregor der Große/Schriften/Briefe",
     "History/Von Gregor bis Karl/Weitere Personen",
-    "History/Von Gregor bis Karl/Gregor der Große/Religiöse Auseinandersetzungen",
     "History/Franken/Untitled.canvas",
     "History/Langobarden Könige.canvas",
     "Philosophie/Ledoux Conscious Awareness  2024-01-26.png",

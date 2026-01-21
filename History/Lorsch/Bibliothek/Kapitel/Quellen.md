@@ -23,3 +23,12 @@
 	4. „Denk daran, lieber Leser, mich dem Nazarius zurückzugeben, denn eines anderen Herrn Recht will ich nicht erleiden.“
 2. Nachträgliche aus dem 12. Jahrhundert, aus Lorsch stammende Inhaltsangaben, die in den Codices notiert wurden.
 3. Einträge, die im 15. Jahrhundert in Codices notiert wurden, die aus Lorsch in die Bibliotheca Palatina gebracht wurden.
+## Weitere Quellen
+### Alkuin
+1. Mahnung an die Schreiber (_MGH Poetae Latini Aevi Carolini_, Bd. 1, S. 320. Carmina 94).
+	1. Abschrift nach korrekten Vorlagen
+	2. Orthographie und Interpunktion
+	3. Wetschätzung des Schreibens
+### Benedikt
+1. Regula Benedicti, cap. 48 („De opere manuum quotidiano“):
+   "In den Tagen der Fastenzeit sollen alle (Mönche) jeweils einen Codex aus der Bibliothek erhalten, den sie der Reihe nach vollständig lesen. Diese Codices sind zu Beginn der Fastenzeit auszugeben."
