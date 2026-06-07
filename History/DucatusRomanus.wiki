@@ -1,0 +1,40 @@
+[[File:Italiabizantino-lombarda-pt-v2.svg|mini|Italien und das römische Dukat im 7. Jahrhundert]]
+
+Der '''Ducatus Romanus''' (''Dukat von Rom'', gelegentlich auch ''Herzogtum Rom'') war eine geographische, militärische und administrative Ordnungseinheit im [[Byzantinisches Reich|byzantinischen]] Italien des 7. und frühen 8. Jahrhunderts. Er umfasste große Teile [[Latium|Latiums]], den südlichen Teil der [[Toskana|Toscana]] sowie kleinere Gebiete [[Umbrien|Umbriens]]. Formal unterstand der Ducatus dem [[Exarchat von Ravenna|Exarchen von Ravenna]] und damit der kaiserlichen Zentralgewalt in [[Konstantinopel]]. Aufgrund der wachsenden politischen Autorität des [[Papst|Papstes]] und der zunehmenden Bedeutung lokaler militärischer Strukturen gewann Rom jedoch schrittweise an faktischer Eigenständigkeit. Die Geschichte des ''Ducatus Romanus'' war geprägt von der Abwehr [[Langobardenreich|langobardischer]] Expansion sowie von wiederkehrenden Konflikten mit dem [[Kaiser]] in Konstantinopel, dessen Durchsetzungsfähigkeit in Italien im Verlauf des 8. Jahrhunderts deutlich abnahm.
+
+== Duces ==
+
+== Quellen ==
+* {{LibPont|Ausgabe=duchesne|Bd=1|S=328-329|Vita=Severinus}}
+* {{LibPont|Ausgabe=duchesne|Bd=1|S=331-333|Vita=Theodorus}}
+* {{LibPont| Ausgabe=duchesne|Bd=1|Vita=Benedictus II | S=363-364}}
+* {{LibPont| Ausgabe=duchesne|Bd=1|Vita=Constantinus | S=389-395}}
+* {{MGH|Epp|1}}
+* {{MGH|Epp|2}}
+* {{Literatur | Autor=Gregorius der Große | Hrsg=Kranzfelder, Theodor|Datum=1874 | Titel=Ausgewählte Schriften des heiligen Gregorius des großen, Papstes und Kirchenlehrers: Ausgewählte Briefe | Ort=Kempten | Sammelwerk=Bibliothek der Kirchenväter | Nummer=27 | Online=https://bkv.unifr.ch/de/works/cpl-1714-bkv/versions/greg-m-epist-bkv}}
+* {{Literatur | Autor=Muratori, Lodovico Antonio | Titel=Rerum Italicarum scriptores ab anno aerae christianae quingentesimo ad millesimumquingentesimum | Band=12| Jahr=1728 | Ort=Mailand |Online=https://archive.org/embed/RerumItalicarumScriptores12}}
+
+== Literatur ==
+* {{Literatur |Autor=Judith Herrin |Titel=Ravenna: Hauptstadt des Imperiums, Schmelztiegel der Kulturen |Auflage=2., unveränderte Auflage |Verlag=wbg Theiss |Ort=Darmstadt |Datum=2025 |ISBN=978-3-8062-4416-8}}
+* {{Literatur | Autor=Heinrich Gelzer | Datum=1890 | Titel=Georgii Cyprii Descriptio orbis romani, accedit Leonis Imperatoris Diatyposis Genuina adhuc inedita | Verlag=Teubner | Ort=Leipzig | Online=https://archive.org/stream/georgiicypriide00basigoog#page/n5/mode/1up|Abruf=2025-12-05}}
+* {{Literatur | Autor=Bernard Bavant | Sammelwerk=Mélanges de l’Ecole française de Rome. Moyen-Age, Temps modernes | Titel=Le duché byzantin de Rome. Origine, durée et extension géographique | Band=91 | Nummer=1 | Seiten=41–88 | Datum=1979 | DOI=10.3406/mefr.1979.2486}}
+* {{Literatur | Autor=Giogio Ravegnati | Datum=2019 | Titel=Bisanzio e l’Occidente medievale | Verlag=il Mulino | Ort=Bologna | ISBN=978-88-15-35219-4}}
+* {{Literatur | Autor=Tommaso di Carpegna Falconieri | Jahr=2012 | Titel=La militia a Roma: il formarsi di una nuova aristocrazia (secoli VII-VIII) | Online=https://www.persee.fr/doc/efr_0223-5099_2012_act_461_1_10474}}
+* {{Literatur | Autor=Ludo Moritz Hartmann | Datum=1900 | Titel=Geschichte Italiens im Mittelalter | Ort=Leipzig | Band=2 | Online=http://www.archive.org/details/geschichteitalie02hart|Abruf=2025-12-05}}
+* {{Literatur | Autor=Rosamond McKitterick | Datum=2020 | Titel=Rome and the invention of the papacy: the liber pontificalis | Ort=Cambridge | Sammelwerk=The James Lydon lectures in medieval history and culture}}
+* {{Literatur | Autor=André Guillou | Sammelwerk=Mélanges de l’école française de Rome | Titel=Inscriptions du duché de Rome | Band=83 | Nummer=2 | Seiten=149–158 | Datum=1971 | DOI=10.3406/mefr.1971.844}}
+* {{Literatur | Autor=Peter Eich | Datum=2016 | Titel=Gregor der Große. Bischof von Rom zwischen Antike und Mittelalter | Verlag=Schöningh | Ort=Paderborn}}
+* {{Literatur | Autor=Girolamo Arnaldi, Federico Marazzi | Datum=2017 | Titel=Tarda Antichità  e Alto Medioevo in Italia | Ort=Roma | Online=https://www.academia.edu/31879714/Tarda_Antichit%C3%A0_e_Alto_Medioevo_in_Italia_Girolamo_Arnaldi_e_Federico_Marazzi | ISBN=978-88-6728-805-2}}
+* {{Literatur | Autor=Andrew J. Ekonomou | Datum=2007 | Titel=Byzantine Rome and the Greek Popes | Verlag=Lexington Books | Online=https://archive.org/details/grpopes/page/n271/mode/2up}}
+* {{Literatur | Autor=Tommaso di Carpegna Falconieri | Datum=2012 | Kapitel=L’héritage byzantin en Italie (VIIIe-XIIe siècle). II, Les cadres juridiques et sociaux et les institutions publiques [actes des tables rondes tenues à Rome les 4 et 5 mai 2009 et les 26 et 27 février 2010] | Titel=La militia a Roma: il formarsi di una nuova aristocrazia (secoli VII-VIII) | Ort=Rome | Sammelwerk=Publications de l’École française de rome | Online=https://www.persee.fr/doc/efr_0223-5099_2012_act_461_1_10474}}
+* {{Literatur | Autor=Clemens Gantner | Datum=2014 | Titel=Freunde Roms und Völker der Finsternis | Ort=Wien Köln Weimar | Online=http://library.oapen.org/handle/20.500.12657/33295 | ISBN=978-3-205-79593-3}}
+* {{Literatur | Autor=Paolo Delogu | Datum=2010 | Titel=Le Origini del Medioevo | Ort=Roma | Online=http://www.rmoa.unina.it/3303/1/Delogu-Origini_medioevo.pdf | ISBN=978-88-7801-414-5}}
+
+== Einzelnachweise ==
+<references>
+</references>
+
+[[:Kategorie:Herzogtum]]
+[[:Kategorie:Geschichte Roms im Mittelalter]]
+[[:Kategorie:Geschichte (Latium)]]
+[[:Kategorie:Exarchat von Ravenna]]

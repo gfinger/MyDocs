@@ -18,5 +18,11 @@ Im Netzwerk der Klöster wurden Bücher weitergegeben, getauscht aber ohne ökon
 Bücher hatten Tauschcharakter aber waren nicht Objekte eines offenen Marktes. (Depreux)
 ### Verkauf der Bibliothek Karls d.G.
 
+## Von Syrien nach England
+[[Theodor von Tarsus]] --> [[Benedict Biscop]] --> [[Beda Venerabilis]] --> [[Alkuin]]
+griechische Bildung
+Bücher aus Rom nach England (kauf aus [[Cassiodorus]]s Bibliothek?)
+Rolle des Klosters Lerins
+
 
 

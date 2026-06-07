@@ -8,7 +8,7 @@ tags:
   - Byzanz
   - Ostrom
 ---
-[[535]] Theodahad lässt Amalasuntha (Tochter Theoderichs) ermorden und wird Herrscher der Ostgoten.  Oströmische Truppen rücken auf Italien vor.
+[[535]] Theodahad lässt Amalasuntha (Tochter Theoderichs) ermorden und wird Herrscher der Ostgoten.  Oströmische Truppen rücken auf Italien vor, zunächst Sizilien.
 [[536]] Einnahme Roms durch den oströmischen Feldherren Belisar (9. Dezember).
 Theodahad wird von Witigis gestürzt und getötet. 
 [[537]] - [[538]] Rom wird von den ostgotischen Truppen belagert (Januar 537 - März 538). Danach Befreiung (Entsetzung) durch oströmische Truppen.
