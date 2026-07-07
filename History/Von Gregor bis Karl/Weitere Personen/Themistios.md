@@ -1,0 +1,2 @@
+Einfluss auf [[Boethius]]' _Diferentiis Topicis_ 
+Die Handschrift _De Arte Dialectica_, die im wesentlichen aus Exzerpten [[Cassiodorus|Cassiodor]]s und Boethius' besteht, wird in Lorsch Themistios zugeschrieben. 

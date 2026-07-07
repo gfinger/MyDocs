@@ -2,7 +2,7 @@ Geboren in den späten 20er Jahren oder den frühen 30ern des 8. Jahrhunderts im
 Eltern: Warnefried und Teodolinda.
 Gestorben 13.04.[[799]] im Kloster von Montecassino.
 Möglicherweise relevant: der Patriarch von Aquileia Callisto transferiert den Bischofssitz 737 nach Cividale, wodurch Paul in einem politisch wie kirchlich wichtigen Zentrum aufwächst. Langobardenkönig ist zu dieser Zeit [[Liutprando]].
-Im Jahr [[751]] erobert der Langobardenkönig [[Aistulf]] Ravenna und beendet damit das Exarchat von [[Ravenna]].
+Im Jahr [[751]] erobert der Langobardenkönig [[Aistulf]] Ravenna und beendet damit das Exarchat von [[History/Langobarden/Ravenna]].
 
 [[774]] besiegt Karl die Langobarden, erobert Pavia und macht sich selbst zum König der Langobarden.
 [[776]] Aufstand des friulinischen Herzogs Hrodgaud gegen Karl. Dies war möglicherweise der Grund für die Gefangenname von Paulus Bruder Arichis.

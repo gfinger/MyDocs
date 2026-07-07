@@ -7,7 +7,7 @@ Colloquium in Cambridge 2017 "Books and Bones"
 Entdecker des Arzneibuchs: Karl Sudhoff, 1914: Bamberg, Codex Medicinalis
 Verteidigung der Heilkunde, Karolingische Bildungsoffensive
 Karolingische Minuskeln, Lorscher Stil
-unter Abt Richbod: Scriptorium, Bibliothek
+unter Abt [[Richbod]]: Scriptorium, Bibliothek
 kommt über Piacenzza (Otto III.) nach Bamberg (Heinrich II.)
 Unesco Weltdocumentenerbe (Codex Medicinalis, Lorscher Evangeliar)
 Keine Wirkungsgeschichte bekannt
@@ -20,8 +20,8 @@ Ablehnende Haltung gegenüber der Medizin aus fundamentalistisch religiösen Gr�
 Gott schickt Krankheit als Strafe, als Bewährung, zum Schutz
 Krankheit kommt von Gott und kann nur von Gott genommen werden
 Superbia ist die Ursünde: So sein wie Gott, Adam und Eva
-Alkuin sorgt dafür dass die Disziplinen der Septem Artes in Lehrbüchern verbreitet werden
-Erste Rechtfertigung bei Isidor von Sevilla
+[[Alkuin]] sorgt dafür dass die Disziplinen der Septem Artes in Lehrbüchern verbreitet werden
+Erste Rechtfertigung bei [[Isidor von Sevilla und Cassiodor]]
 Positive Bewertung der Ärzte unter Alkuin
 Oft Verbindung von Medizin und Metrik (Dichtkunst) beides wird durch die Karolingische Bildung nei bewertet. In der Hofschule Karls in Aachen. Utilitas: Ist es nützlich, dann behalten wir es.
 Vergil in einer Lorscher Handschrift, jetzt in der Palatina im Vatican
