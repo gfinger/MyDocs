@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "922336963819d795",
+        "id": "aa9cc464967ec3d2",
         "type": "tabs",
         "children": [
           {
-            "id": "e3a27d7e29b6be50",
+            "id": "57610c08e87c9463",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v6.md",
+                "file": "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v6"
+              "title": "lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-4"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 646.5
+    "width": 527.5
   },
   "right": {
     "id": "8404d979b96688bf",
@@ -181,40 +181,40 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "e3a27d7e29b6be50",
+  "active": "57610c08e87c9463",
   "lastOpenFiles": [
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v39.md",
+    "History/Lorsch/Bibliothek/Handbuch_v39.md",
+    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-12.md",
     "History/Lorsch/Bibliothek/Tabellen/lorsch-bischoff_gesamttabelle_102-135_korrigiert.md",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v6.md",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v5-5.md",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v5-4.md",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v5-2.md",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v5-3.md",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v5-2.1.md",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v5-2 copy.md",
+    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-4.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v31.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_v32.md",
+    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-3.md",
+    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v6-5.md",
+    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-1.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v24.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_v25.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v21.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_v23.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v19.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_v21.md",
+    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v6-3.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v17.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_v19.md",
+    "History/Lorsch/Bibliothek/Tabellen/alt/LHS0008_Bibliotheca_Laureshamensis_Arbeitsentwurf_v2_vollstaendig.md",
+    "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-bischoff_seiten-132-135.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_v10.md",
+    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v6-2.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v8.md",
+    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v6-1.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v7.md",
     "History/Lorsch/Bibliothek/Tabellen/-lorsch-forschung_v5-3.xlsx",
     "History/Lorsch/Bibliothek/Tabellen/~$-lorsch-forschung_v5-3.xlsx",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v5-1 copy.md",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_v5-2.md",
-    "Test.md",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v5-1.md",
     "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_v5-2.xlsx",
     "History/Lorsch/Bibliothek/Tabellen/~$lorsch-forschung_v5-2.xlsx",
     "History/Lorsch/Bibliothek/Kapitel/lorsch-forschung_v5-2.xlsx",
     "History/Lorsch/Bibliothek/Kapitel/~$lorsch-forschung_v5-2.xlsx",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v5.md",
-    "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v4.md",
-    "History/Lorsch/Bibliothek/Tabellen/alt/LHS0008_Bibliotheca_Laureshamensis_Arbeitsentwurf_v2_vollstaendig.md",
-    "History/Lorsch/Bibliothek/Kapitel/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v4.md",
-    "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-forschung.md",
-    "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-forschung_seiten-132-135.md",
-    "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-forschung_seiten-126-131.md",
-    "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-forschung_seiten-120-125.md",
-    "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-forschung_seiten-114-119.md",
-    "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-forschung_seiten-108-113.md",
-    "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-forschung_seiten-102-107.md",
-    "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-forschung_gesamttabelle_102-135_arbeitsstand.md",
-    "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v3.md",
-    "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-bischoff_seiten-132-135.md",
     "History/Lorsch/Bibliothek/Tabellen/alt",
     "History/Lorsch/Bibliothek/Tabellen",
     "History/Von Gregor bis Karl/Personen.canvas",
