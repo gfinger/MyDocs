@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "21ebf17f4ac918bc",
+        "id": "545ab974423217b9",
         "type": "tabs",
         "children": [
           {
-            "id": "30df05ef4bc2a152",
+            "id": "18f534dd0e14a191",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Lorsch/Bibliothek/Kapitel/Ausstattung neuer Pfarreien und Klöster.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Ausstattung neuer Pfarreien und Klöster"
-            }
-          },
-          {
-            "id": "16e406db20b626e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "History/Lorsch/Personen/Lorscher Äbte/Samuel.md",
+                "file": "History/Von Gregor bis Karl/Buchwege von der Spätantike ins frühe Mittelalter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Samuel"
+              "title": "Buchwege von der Spätantike ins frühe Mittelalter"
+            }
+          },
+          {
+            "id": "3d8b06b0a1c160fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Klinik Entlassung.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Klinik Entlassung"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +75,7 @@
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
-          "title": "Files"
+          "title": "Dateiexplorer"
         }
       },
       {
@@ -130,7 +131,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "History/Lorsch/Literatur.md",
+            "file": "History/Von Gregor bis Karl/Buchwege von der Spätantike ins frühe Mittelalter.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -174,31 +175,54 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false
     }
   },
-  "active": "9c8300aa71a3058a",
+  "active": "3d8b06b0a1c160fc",
   "lastOpenFiles": [
-    "History/Lorsch/Bibliothek/Die Klosterbibliothek Lorschs.md",
-    "History/Lorsch/Personen/Lorscher Äbte/Samuel.md",
-    "History/Lorsch/Bibliothek/Kapitel/Ausstattung neuer Pfarreien und Klöster.md",
-    "History/Lorsch/Bibliothek/Bibliothek und Scriptorium.md",
-    "History/Lorsch/Bibliothek/Kapitel/Kataloge.md",
-    "History/Lorsch/Personen/Lorscher Äbte/Adalung.md",
-    "History/LOrsch/Personen/Äbte/Samuel.md",
-    "History/Lorsch/Personen/Lorscher Äbte/Richbod.md",
-    "History/LOrsch/Personen/Äbte",
-    "History/LOrsch/Personen",
-    "History/LOrsch",
-    "History/Lorsch/Buch/Arzneibuch.md",
-    "Karolingische Schriftkultur (Becker, Licht).md",
-    "History/Lorsch/Buch/Nibelungenepos.md",
-    "History/Lorsch/Literatur.md",
-    "History/Pavia/Basilica San Salvatore.md"
+    "History/Von Gregor bis Karl/Buchwege von der Spätantike ins frühe Mittelalter.md",
+    "Klinik Entlassung.md",
+    "Varia",
+    "History/Von Gregor bis Karl/Entwurf 1.md",
+    "Grammatische Handschriften in Lorsch.md",
+    "History/Von Gregor bis Karl/Cassiodorus/Magister Officiorum.md",
+    "History/Von Gregor bis Karl/Gregor der Große/Leben.md",
+    "History/Goten/Gotenkrieg.md",
+    "Philosophie/Bewußtsein/Repräsentation/Repräsentationen.md",
+    "Philosophie/Bewußtsein/Repräsentation/Die Auflösung des Leib-Seele Problems.md",
+    "Philosophie/ToC/Names/Rorty.md",
+    "Philosophie/ToC/Names/Wittgenstein.md",
+    "Philosophie/ToC/Names/Dawkins.md",
+    "Philosophie/ToC/Topics/Wahrheit.md",
+    "Philosophie/ToC/Topics/Denken.md",
+    "Philosophie/ToC/Topics/Repräsentation.md",
+    "Philosophie/ToC/Topics/Mathematik.md",
+    "Philosophie/Bewußtsein/Untitled.md",
+    "Philosophie/Bewußtsein/Repräsentation",
+    "Philosophie/ToC/Names",
+    "Philosophie/ToC/Topics",
+    "Philosophie/Alltagspsychologie/Sprachpraxis und Kausalität.md",
+    "Philosophie/Alltagspsychologie/Relevanz der Alltagspsychologie.md",
+    "Philosophie/Alltagspsychologie/Neuronale Bestimmung des Gehörten.md",
+    "Philosophie/Alltagspsychologie/Wittgenstein zur Philosophie der Psychologie.md",
+    "Philosophie/Alltagspsychologie/Gebrauch des Wortes Denken.md",
+    "Philosophie/Alltagspsychologie/Sprachspiele und Non-verbale Kommunikation.md",
+    "Philosophie/Philosophisches Tagebuch/2024-02-02.md",
+    "Philosophie/Philosophisches Tagebuch/2024-01-29.md",
+    "Philosophie/Philosophisches Tagebuch/2024-01-26.md",
+    "Philosophie/Bewußtsein",
+    "Philosophie/ToC",
+    "Philosophie/Alltagspsychologie",
+    "Philosophie/Ledoux Conscious Awareness  2024-01-26.png",
+    "Philosophie/Philosophisches Tagebuch",
+    "Philosophie/Wahrheit",
+    "Philosophie/Books",
+    "History/Langobarden Könige.canvas"
   ]
 }
