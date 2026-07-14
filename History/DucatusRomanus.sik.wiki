@@ -1,0 +1,181 @@
+[[File:Italiabizantino-lombarda-pt-v2.svg|mini|Italien und das römische Dukat im 7. Jahrhundert]]
+
+Der '''Ducatus Romanus''' (''Dukat von Rom'', gelegentlich auch ''Herzogtum Rom'') war eine geographische, militärische und administrative Ordnungseinheit im [[Byzantinisches Reich|byzantinischen]] Italien des 7. und frühen 8. Jahrhunderts. Er umfasste große Teile [[Latium|Latiums]], den südlichen Teil der [[Toskana|Toscana]] sowie kleinere Gebiete [[Umbrien|Umbriens]]. Formal unterstand der Ducatus dem [[Exarchat von Ravenna|Exarchen von Ravenna]] und damit der kaiserlichen Zentralgewalt in [[Konstantinopel]]. Aufgrund der wachsenden politischen Autorität des [[Papst|Papstes]] und der zunehmenden Bedeutung lokaler militärischer Strukturen gewann Rom jedoch schrittweise an faktischer Eigenständigkeit. Die Geschichte des ''Ducatus Romanus'' war geprägt von der Abwehr [[Langobardenreich|langobardischer]] Expansion sowie von wiederkehrenden Konflikten mit dem [[Kaiser]] in Konstantinopel, dessen Durchsetzungsfähigkeit in Italien im Verlauf des 8. Jahrhunderts deutlich abnahm.
+
+== Geschichte ==
+
+=== Neuordnung des byzantinischen Italiens nach Justinian ===
+
+[[Datei:Italia590.jpg|mini|Italien in den 580er Jahren]]
+
+Nach dem Sieg Kaiser [[Justinian I.]] über die [[Ostgoten]] im Jahr [[554]] konnte das [[Byzantinisches Reich|Byzantinische Reich]] den Eroberungszügen der [[Langobarden]] ab [[568]] in Italien wenig entgegenzusetzen, weil das Heer an anderer Stelle gebunden war. Die verbliebenen römischen Gebiete ordnete Kaiser [[Tiberios I.]] zu fünf Provinzen (Eparchien), darunter die Provinz ''Urbicaria'', die Reste [[Ligurien]]s, die [[Cottische Alpen|Cottischen Alpen]], [[Tuscien]], die Valeria, das [[Picenum]] und den äußersten Norden [[Kampanien|Campaniens]] mit der Stadt [[Rom]] umfasste.<ref>{{Literatur | Autor=Heinrich Gelzer | Datum=1890 | Titel=Georgii Cyprii Descriptio orbis romani | Ort=Leipzig}}</ref><ref>{{Literatur | Autor=Bernard Bavant | Titel=Le duché byzantin de Rome. Origine, durée et extension géographique |Datum=1979 | Fundstelle=vgl. S.49–50}}</ref>
+
+Die seit [[Diokletian]] bestehenden Ordnung, die eine strikte Trennung zwischen militärischer Kontrolle und ziviler Administration vorsah, mußte angesichts der ständigen Bedrohung durch die Langobarden einer Unterordnung aller staatlicher Ämter unter einer starken militärischen Führung weichen, auch weil die senatorische Führungselite, die über lange Zeit zentrale Verwaltungsaufgaben übernommen hatte, während des [[Gotenkrieg (535–554)|Gotenkrieges]] weitgehend verschwunden war<ref>{{Literatur | Autor=Ludo Moritz Hartmann | Datum=1900 | Titel=Geschichte Italiens im Mittelalter | Band=2 | Fundstelle=S. 133}}</ref>. Kaiser [[Maurikios]] unterstellte spätestens ab [[584]] alle byzantinischen Gebiete des italienischen Festlands dem [[Exarchat (Byzantinisches Reich)|Exarchen]] von [[Ravenna]] als oberstem militärischem Befehlshaber. Der Titel ''Exarch von Italien (exarchus Italiae'') ist das erste mal auf einer auf den 1. August 608 datierten Inschrift auf einer Säule zu Ehren des Kaisers [[Phokas]] überliefert<ref>{{Literatur | Autor=Giogio Ravegnati | Datum=2019 | Titel=Bisanzio e l’Occidente medievale | Ort=Bologna | Fundstelle=Kapitel „L’esarcato d’Italia“}}</ref><ref>{{Literatur | Autor=Tommaso di Carpegna Falconieri | Jahr=2012 | Titel=La militia a Roma | Fundstelle=S. 563–564}}</ref><ref>{{Literatur | Autor=Judith Herrin | Datum=2022 | Titel=Ravenna. Hauptstadt des Imperiums, Schmelztiegel der Kulturen | Fundstelle=S. 261-263}}</ref>. Nach und nach entstanden innnerhalb des Exarchats neue regionale Kommandostrukturen, die von hochrangigen Militärs angeführt wurden und in den Quellen als [[Dux (Titel)|''duces'']], [[Magister militum|''magistri militum'']] oder [[Chartularius|''cartularii'']] erscheinen, gelegentlich auch mit dem Ehrentitel ''vir gloriosus''. Die erste explizite Nennung eines ''ducatus Romanae'' läßt sich erst für das Jahr 713 nachweisen, wenngleich schon 638 ein ''exercitus Romanus'' erwähnt wird, das von einem ''cartualrius'' angeführt wird<ref>{{LibPont|Vita=Constantinus|S=392}}</ref><ref>{{LibPont|Vita=Severinus|S=328}}</ref>.
+
+=== Militärische Heerführer in Rom zur Zeit Gregors des Großen ===
+Aus einem Brief des Papstes [[Pelagius II.]] an seinen Gesandten in [[Konstantinopel]], den späteren Papst [[Gregor der Große|Gregor den Großen]], vom 4. Oktober [[584]] geht hervor, dass weite Teile des römischen Gebiets (''maxime partes Romanae'') ohne ausreichenden militärischen Schutz waren. Der Exarch von Ravenna sah sich außerstande, Truppen zur Abwehr langobardischer Überfälle zu entsenden, weshalb Pelagius Kaiser [[Maurikios]] um militärische Verstärkung durch die Entsendung eines ''magister militum'' und eines ''dux'' ersuchte<ref>{{MGH|Epp|2|440|441}}</ref><ref>{{Literatur | Autor=Ludo Moritz Hartmann | Datum=1900 | Titel=Geschichte Italiens im Mittelalter | Band=2,1 | Fundstelle=S. 63, 156 Anm. 4}}</ref><ref>{{Literatur | Autor=Bernard Bavant | Titel=Le duché byzantin de Rome. Origine, durée et extension géographique | Datum=1979 | Fundstelle=S. 55}}</ref>.
+
+Angesichts der fortdauernden Bedrohung Roms durch [[Ariulf]], den ''dux'' von [[Spoleto]], griff Gregor nach seinem Amtsantritt als Bischof von Rom ([[590]]) zunehmend selbst in militärische Entscheidungen ein. So forderte er [[592]] die ''magistri militum'' Mauricius und Vitalianus auf, den Feind durch ein Vorgehen in dessen Rücken zu binden, während die Verteidigung Roms einem ''filius noster gloriosus magister militum'' oblag, bei dem es sich vermutlich um den [[593]] genannten ''vir gloriosus Castus'' handelt<ref>{{MGH|Epp|1|128|129}}</ref><ref>{{MGH|Epp|1|207|208}}</ref>. Castus ist bereits zuvor bei [[Theophylaktos Simokates]] als {{lang|grc|λοχαγός}} (''lochagós'') und {{lang|grc|ταξίαρχος}} (''taxiárchos'') belegt, beides hochrangige Offizierstitel der byzantinischen Armee<ref>{{Literatur | Autor=Bernard Bavant | Titel=Le duché byzantin de Rome. Origine, durée et extension géographique | Datum=1979 | Fundstelle=vgl. S. 64}}</ref>.
+
+Auch wenn in den Quellen weder die Bezeichnung ''dux Romae'' noch der Begriff ''ducatus Romanus'' ausdrücklich verwendet werden, wertet Bernard Bavant diese Befunde als Hinweis darauf, dass sich um die 590er Jahre ein römisches Dukat unter der Leitung eines Dux herauszubilden begann<ref>{{Literatur | Autor=Bernard Bavant | Datum=1979 | Titel=Le duché byzantin de Rome | Fundstelle=S. 64}}</ref>. Andere Autoren äußern sich in dieser Frage zurückhaltender<ref>{{Literatur | Autor=Rosamond McKitterick | Datum=2020 | Titel=Rome and the invention of the papacy | Fundstelle=S. 40–42}}</ref><ref>{{Literatur | Autor=Clemens Gantner | Datum=2014 | Titel=Freunde Roms und Völker der Finsternis | Fundstelle=S. 64}}</ref><ref>{{Literatur | Autor=Paolo Delogu | Datum=2010 | Titel=Le Origini del Medioevo | Fundstelle=248}}</ref>.
+
+Der Langobardenkönig [[Agilulf (Langobarde)|Agilulf]] rückte 593 bis vor die Stadt vor und verwüstete das Umland. Angesichts der akuten Gefahr schloss Papst Gregor, der einst selbst ein hohes Amt in der Stadtverwaltung innehatte, möglicherweise als Stadtpraefekt<ref>{{Literatur | Autor=Peter Eich | Datum=2016 | Titel=Gregor der Große. Bischof von Rom zwischen Antike und Mittelalter| Ort=Paderborn | Fundstelle=S. 61/2}}</ref>, unterstützt vom ''praefectus praetorio Gregorius'' sowie dem ''magister militum Castus'' eigenmächtig und ohne Zustimmung des Exarchen von Ravenna oder des Kaisers Maurikios ein Waffenstillstandsabkommen mit Agilulf, das den Abzug der Langobarden gegen eine jährliche Geldzahlung vorsah. Diese Kompetenzüberschreitung Gregors, die in Konstantinopel scharf missbilligt wurde<ref>{{MGH|Epp|1|320}}</ref>, belegt die zunehmende politische Autorität des Papstes gegenüber den kaiserlichen Amtsträgern in Rom<ref>{{Literatur | Autor=Ludo Moritz Hartmann | Datum=1900 | Titel=Geschichte Italiens im Mittelalter | Band=2,1 | Fundstelle=S. 106/7}}</ref><ref>{{Literatur | Autor=Gregor Eich | Datum=2016 | Titel=Gregor der Große. Bischof von Rom zwischen Antike und Mittelalter | Fundstelle=S. 196-203 | Ort=Paderborn}}</ref>.
+
+=== Aufstände des Cartularius Mauricius ===
+Im Laufe des 7. Jahrhunderts wandelte sich das dem byzantinischen Kaiser beziehungsweise dem Exarchen von Ravenna unterstehende mobile Feldheer, das zuvor je nach Bedarf an verschiedenen Fronten in Ost und West eingesetzt worden war, in Italien zunehmend zu lokal fest stationierten Garnisonen, unter anderem weil Städte und Verkehrwege im Exarchat der ständigen langobardischen Bedrohung ausgesetzt waren. Entsprechend gewann auch die Stellung der militärischen Befehlshaber an Bedeutung - nicht nur die des Exarchen in Ravenna sondern auch die der lokalen Kommandeure in den Städten<ref>{{Literatur | Autor=Ludo Moritz Hartmann | Datum=1900 | Titel=Geschichte Italiens im Mittelalter | Fundstelle=1. Hälfte, S. 126-128}}</ref>. 
+
+Ein aufschlußreiches Beispiel für die schwer zu kontrollierende Macht der lokalen Anführer bietet der Falls des ''cartularius'' [[Maurikios Chartularios|Mauricius]] mitte des 6. Jahrhunderts in Rom. Nach dem Tod des Papstes [[Honorius I.]] kursierten in Rom Gerüchte, der Papst habe angeblich vom Kaiser [[Herakleios]] angewiesenen Sold des Heeres unterschlagen und sich einen unangemessenen Reichtum angeeignet. Der Nachfolger des ''Honorius'' [[Severinus (Papst)|Severinus]] war zwar bereits gewählt, aber die kaiserliche Bestätigung ließ eineinhalb Jahre auf sich warten. In diese Zeit, also um [[639]], fällt ein Aufstand eben dieses ''cartularius Mauricius'', dem es gelang das römische Heer (''exercitus Romanus'') gegen den Papst mobilisieren, die Bewaffneten der Stadt zusammenziehen und mit ihnen den Lateran zu besetzen. Mauricius informierte daraufhin den Exarchen [[Isaacius (Exarch)|Isaacius]], der persönlich nach Rom kam und den Kirchenschatz beschlagnahmen ließ<ref>{{LibPont|Vita=Severinus|S=328/9}}</ref>.
+
+[[642]], also wenige Jahre später, ließ derselbe ''cartularius Mauricius'' die stadtrömischen Truppen ebenso wie die Soldaten der umliegenden Kastelle einen Treueeid schwören, wonach keiner den Befehlen des Exarchen Isaacius oder seiner Leute Folge leisten dürfe, da dieser sich selbst zu Kaiser erheben wolle. Isaacius schickte daraufhin einen ''magister militum'' namens ''Donatus'' mit einem Heer nach Rom, um den Aufstand niederzuschlagen. Aus Furcht vor Donus liefen nun alle, die vorher Mauricius Treue geschworen hatten, zu ihm über. Mauricius wurde gefangen genommen, enthauptet und sein Kopf im Zirkus von Ravenna zur Abschreckung zur Schau gestellt<ref>{{LibPont|Vita=Theodorus|S=331/2}}</ref><ref>{{Literatur | Autor=Ludo Moritz Hartmann | Datum=1900 | Titel=Geschichte Italiens im Mittelalter | Fundstelle=1. Hälfte, S. 214}}</ref>. 
+
+Die Vorgänge verdeutlichen, dass das römische Heer in dieser Zeit ein politischer Akteur von erheblichem Gewicht war und dass Mauricius vor Ort eine bemerkenswerte Machtposition hatte, nicht nur über das Heer sondern auch über die ''iudices'' der Stadt, die ihn zu einem Oberhaupt der städtischen Amtsträger gemacht zu haben scheinen<ref>{{Literatur | Autor=Bernard Bavant | Datum=1979 | Titel=Le duché byzantin de Rome | Fundstelle=S. 67}}</ref>.
+
+Nach wie vor verfügte der Kaiser jedoch über ausreichende militärische Macht, um seinen Willen auch in Rom durchzusetzen. Am 17. Juni [[653]] ließ [[Konstans II.]] Papst [[Martin I. (Papst)|Martin I.]], der sich geweigert hatte, den vom Kaiser vertretenen [[Monotheletismus]] zu unterstützen, in der [[Lateranbasilika]] durch den Exarchen Theodorus Calliopas und den kaiserlichen Kämmerer Theodor Pellurius festnehmen und nach Konstantinopel bringen. Wegen des Vorwurfs, die Usurpation des Exarchen Olympios unterstützt zu haben, wurde Martin zum Tode verurteilt; das Urteil wurde jedoch nicht vollstreckt. Stattdessen verbannte man ihn nach [[Cherson]], wo er starb<ref>{{LibPont|Vita=Martinus|S=338}}</ref><ref>{{Literatur | Autor=Ludo Moritz Hartmann | Datum=1900 | Titel=Geschichte Italiens im Mittelalter | Fundstelle=1. Hälfte S. 229–230}}</ref>.
+
+=== Georgius, Consul et Dux ===
+Ein interessanter Hinweis auf einen römischen Dux kommt aus Terracina, wo eine um [[663]] entstandene Inschrift in der Kirche [[San Cesareo (Terracina)]] einen ''Georgius, consul et dux'' nennt. Der griechische Anfang beginnt auf Griechisch "{{lang|grc|Ὀρθοδοξ(ῶν) χαὶ νικ(η) τ(ῶν) β(ασιλέων) πολλὰ τὰ ἔτη}}" („Langes Leben den orthodoxen und siegreichen Kaisern“), eine Huldigung an den oströmischen Kaiser [[Konstans II.]], der als erster Basileus seit über zwei Jahrhunderten wieder mit einem Heer nach Italien kam – weniger um die Langobarden zurückzudrängen als um die byzantinische Kontrolle des Mittelmeers gegen die Araber zu sichern.<ref>{{Literatur | Autor=Girolamo Arnaldi, Federico Marazzi | Datum=2017 | Titel=Tarda Antichità e Alto Medioevo in Italia | Fundstelle=S. 88–89}}</ref> Die Inschrift wird lateinisch fortgesetzt: "{{lang|la|Mundificatus est forus iste tempore domini Georgii consul et dux}}", also: „Dieser Bereich wurde instand gesetzt zur Zeit des Herrn Georgius, Konsul und Dux“.<ref>{{Literatur | Autor=André Guillou | Datum=1971 | Titel=Inscriptions du duché de Rome | Fundstelle=S. 150–156}}</ref> Da Terracina am südlichen Rand des zu Rom gehörigen Teils des Exarchats lag, dürfte es sich bei Georgius wahrscheinlich um einen römischen Dux gehandelt haben.<ref>{{Literatur | Autor=Andrew J. Ekonomou | Datum=2007 | Titel=Byzantine Rome and the Greek Popes | Fundstelle=S. 271–272}}</ref>
+
+=== Die Wahl des Papstes durch „clerus, populus atque exercitus“ ===
+
+In der zweiten Hälfte des 7. Jahrhunderts kam es zu einem Konflikt zwischen dem Papst und dem Erzbistum Ravenna über dessen kirchenrechtliche Stellung. Kaiser [[Constans II.]] hatte dem Bischof von Ravenna im Jahr [[666]] eine weitgehende Autonomie ([[Autokephalie (Kirche)|Autocephalie]]) zugestanden, die von Rom jedoch nicht anerkannt wurde. Unter Papst [[Agatho (Papst)| Agathon]] (678–681) und Kaiser [[Konstantin IV.]] wurde diese Sonderstellung um [[680]] wieder aufgehoben und Ravenna erneut der römischen Jurisdiktion unterstellt. In diesem Zusammenhang erwähnt [[Andrea Dandolo]], ein Geschichtsschreiber des frühen 14. Jahrhunderts, einen gewissen ''Olympius dux imperialis'', der im Jahr 680 als kaiserlicher Beauftragter zwischen dem Papst und dem Erzbischof Theodor von Ravenna auftrat. Seine Vermittlungsrolle war dabei durch seine militärische Autorität abgesichert<ref>{{Literatur | Autor=Andrea Dandolo | Titel=Chronicon Venetum | Sammelwerk=Rerum Italicarum scriptores |Hrsg= Muratori| Fundstelle=col. 122}}</ref>. Bernard Bavant vermutet, dass es sich bei Olympius, der im Auftrag des Kaisers an der Durchsetzung der Entscheidung beteiligt war, um den römischen Dux gehandelt haben könnte<ref>{{Literatur | Autor=Bernard Bavant | Titel=Le duché byzantin de Rome. Origine, durée et extension géographique | Datum=1979 | Fundstelle=S. 66–67}}</ref>. Wie oben erwähnt, gibt es andere Autoren, die diesbezüglich skeptischer sind. Auf jeden Fall belegt diese Episode die weiterhin entscheidende Rolle des Kaisers bei der Besetzung oberster kirchlicher Ämter in Italien, und die eines Dux imperialis bei der Durchsetzung seiner Anweisungen.
+
+Der Bericht über die Wahl von Papst [[Benedikt II.]] im Jahr [[683]] nennt erstmals ausdrücklich die drei Gruppen, die an der Erhebung eines neuen Papstes beteiligt waren: „clerus, populus atque exercitus Romanae civitatis“.<ref>{{LibPont|Vita=Benedictus II|S=363}}</ref> Der Klerus wählte den Kandidaten, während Volk und städtisches Heer die Wahl unterstützten und durch Akklamation legitimierten. Weiterhin war die kaiserliche Bestätigung erforderlich, vertreten durch den Exarchen, bevor die episkopale Weihe erfolgen konnte. Die Dreierformel erscheint auch bei späteren Papstwahlen und belegt die zunehmende Einbindung des städtischen Heeres in die politische Struktur der Stadt Rom.<ref>{{Literatur | Autor=Tommaso di Carpegna Falconieri | Datum=2012 | Titel=La militia a Roma: il formarsi di una nuova aristocrazia (secoli VII-VIII) | Ort=Rom | Fundstelle=S. 566–568}}</ref>
+
+=== Verlust der kaiserlichen Kontrolle im 8. Jahrhundert ===
+Unter Kaiser [[Justinian II.]] verschärften sich die Spannungen zwischen Papsttum und Kaiserhof weiter. Auslöser war das vom Kaiser [[692]] einberufene [[Quinisextum]], ein Konzil, das weniger christologische Fragen als kirchliche Disziplinar- und Rechtsnormen behandelte. Papst [[Sergius I.]] verweigerte die Anerkennung der Beschlüsse. Justinian versuchte daraufhin, deren Unterzeichnung mit Gewalt zu erzwingen, und entsandte den [[Protospatharios]] Zacharias, um den Papst festnehmen zu lassen. Anders als im Fall Martins I. einige Jahrzehnte zuvor scheiterte dieser Zugriff jedoch am Widerstand lokaler Truppen aus Rom, Ravenna, der [[Pentapolis (Italien)|Pentapolis]] und den umliegenden Gebieten. Die kaiserliche Autorität konnte sich in Rom nur noch punktuell und gewaltsam, nicht mehr durch eine stabile Verwaltung oder dauerhafte militärische Präsenz durchsetzen; die militärische Initiative lag nun bei lokalen Kräften, die der römischen Kirche verbunden waren<ref>{{LibPont|Vita=Sergius|S=373}}</ref><ref>{{Literatur | Autor=Ludo Moritz Hartmann | Datum=1900 | Titel=Geschichte Italiens im Mittelalter | Band=2,2 | Fundstelle=S. 71–74}}</ref>.
+
+Auch weiterhin blieb das Verhältnis zwischen Kaiser und Papst von Machtkonflikten geprägt. Kaiser [[Philippikos Bardanes|Philippikos]], der Nachfolger Justinians, bekannte sich zum [[Monotheletismus]] und hob per Dekret die Beschlüsse des [[Drittes Konzil von Konstantinopel|dritten Konzils von Konstantinopel]] auf. Papst [[Konstantin I. (Papst)|Konstantin I.]] brandmarkte den Kaiser als [[Häresie|häretisch]] und verweigerte ihm die Anerkennung. Erneut versuchte der Kaiser, seine Anordnungen in Italien militärisch durchzusetzen, und beauftragte einen gewissen Petrus damit, mit Unterstützung aus Ravenna das römische Dukat (''pro ducatu Romanae urbis'') zu übernehmen<ref>{{LibPont|Vita=Constantinus |S=392}}</ref>. Nach [[Louis Duchesne]] handelt es sich hierbei um die erste explizite Nennung eines römischen Dux<ref>{{LibPont|Vita=Constantinus |S=393}}</ref>. In Rom traf Petrus jedoch auf den amtierenden Dux Christophorus, was zu schweren bewaffneten Auseinandersetzungen führte, die erst durch das Eingreifen des Papstes beendet wurden. Noch während dieser Unruhen wurde Philippikos gestürzt. Sein Nachfolger [[Anastasios II.]] nahm die häretischen Maßnahmen zurück und wurde in Rom anerkannt, woraufhin Petrus den Dukat tatsächlich übernehmen konnte<ref>{{LibPont|Vita=Constantinus |S=391–393}}</ref><ref>{{Literatur | Autor=Bernard Bavant | Titel=Le duché byzantin de Rome. Origine, durée et extension géographique | Datum=1979 | Fundstelle=S. 72}}</ref>.
+
+In derselben Konfliktphase berichtet der Liber Pontificalis von Exhilaratus, der ausdrücklich als dux bezeichnet wird und dessen Handeln als durch diabolische Verführung motiviert beschrieben wird. Er versuchte, gestützt auf kaiserliche Autorität, in Kampanien Anhänger zu mobilisieren, um den Papst zu töten. Die römische Bevölkerung stellte sich jedoch geschlossen gegen ihn, ergriff ihn gemeinsam mit seinem Sohn und tötete beide. Auch dieses Geschehen wird nicht nur politisch, sondern religiös interpretiert: Der Tod des Exhilaratus erscheint als Durchsetzung des göttlich Richtigen gegen einen Amtsträger, der sich gegen den Papst und damit gegen den Willen Gottes gestellt hatte.
+
+In einem weiteren Schritt wurde Paulus, patricius et exarchus, nach Italien entsandt, um die kaiserliche Politik militärisch durchzusetzen. Auch dieser Versuch blieb erfolglos. Der Widerstand der römischen Bevölkerung wurde dabei durch langobardische Kräfte, insbesondere aus dem Herzogtum Spoleto, unterstützt, die ein Vorgehen des Exarchen verhinderten. Insgesamt zeichnet der Liber Pontificalis ein Bild, in dem sich in der Auseinandersetzung zwischen Kaiser und Papst nicht nur politische Loyalitäten verschieben, sondern in dem der Sieg über kaiserlich orientierte Duces als sichtbarer Ausdruck göttlicher Gerechtigkeit zugunsten der römischen Kirche verstanden wird.
+
+Die enge Verbindung von stadtrömischer Aristokratie, militärischer Führung und kirchlicher Verwaltung wird in der Person des Theodotus, Onkel und Erzieher des Papstes Hadrian I., besonders deutlich. In der Vita Hadriani erscheint Theodotus als consul et dux, der später das Amt des primicerius sanctae ecclesiae innehatte, eine zentrale Leitungsfunktion innerhalb der römischen Kirchenverwaltung. Weitere Zeugnisse, darunter eine Stifterinschrift in Santa Maria Antiqua aus der Zeit Papst Zacharias’, bezeichnen ihn als primicerius defensorum und dispensator der Kirche, während er in späteren Jahren als primicerius notariorum belegt ist. Diese Ämterfolge zeigt den Übergang eines führenden Mitglieds der stadtrömischen Elite aus militärisch-administrativen Funktionen in den inneren Verwaltungsapparat der römischen Kirche und verdeutlicht die personelle und institutionelle Verschränkung von weltlicher und kirchlicher Herrschaft in Rom des 8. Jahrhunderts.
+
+=== Personenübersicht der Amtsträger Roms in byzantinischer Zeit<ref>{{Literatur | Autor=Bernard Bavant | Titel=Le duché byzantin de Rome. Origine, durée et extension géographique | Datum=1979 | Fundstelle=vgl. S. 88}} </ref> ===
+{| class="wikitable"
+! Zeit
+! Name
+! Bezeichnung im Liber Pontificalis / in zeitgenössischen Quellen
+! Zeitgenössischer Papst
+! Zeitgenössischer Kaiser
+|-
+| 592–595
+| Castus
+| ''magister militum''
+| Gregor I.
+| Maurikios
+|-
+| 639–642
+| Mauricius
+| ''chartularius''
+| Severinus; Johannes IV.; Theodor I.
+| Herakleios
+|-
+| 663
+| Georgius
+| ''consul et dux'' (epigraphisch belegt)
+| Vitalian
+| Konstans II.
+|-
+| um 680
+| Olympius
+| ''dux imperialis'' (nur bei Andrea Dandolo überliefert)
+| Agatho
+| Konstantin IV.
+|-
+| 711–713
+| Christophorus
+| ''dux'' (''qui erat dux'')
+| Konstantin I.
+| Philippikos
+|-
+| 713
+| Petrus
+| ''dux'' (''Petrum ducem'')
+| Konstantin I.
+| Anastasios II.
+|-
+| 724 oder 725
+| Basilius
+| ''dux'' (''Basilius dux'')
+| Gregor II.
+| Leo III.
+|-
+| 725
+| Marinus
+| ''imperialis spatharius, qui Romanum ducatum tenebat''
+| Gregor II.
+| Leo III.
+|-
+| 725
+| (Name unbekannt)
+| ''spatharius'' (aus Konstantinopel entsandt)
+| Gregor II.
+| Leo III.
+|-
+| 726 oder 727
+| Exhilaratus
+| ''dux'' (''Exhilaratus dux'')
+| Gregor II.
+| Leo III.
+|-
+| 728
+| Petrus
+| ''dux'' (''obtinet Petrus ducatum'')
+| Gregor II.
+| Leo III.
+|-
+| zwischen 728 und 739?
+| Theodotus
+| ''consul et dux'', später ''[[primicerius]] sanctae ecclesiae''
+| Gregor III.; Zacharias
+| Leo III.; Konstantin V.
+|-
+| um 739–743
+| Stephanus
+| ''patricius''
+| Gregor III.; Zacharias
+| Konstantin V.
+|-
+| um 752–756
+| Eustathius
+| (keine ausdrückliche Amtsbezeichnung überliefert)
+| Zacharias; Stephan II.
+| Konstantin V.
+|}
+
+== Quellen ==
+* {{LibPont|Ausgabe=duchesne|Bd=1|S=328-329|Vita=Severinus}}
+* {{LibPont|Ausgabe=duchesne|Bd=1|S=331-333|Vita=Theodorus}}
+* {{LibPont| Ausgabe=duchesne|Bd=1|Vita=Benedictus II | S=363-364}}
+* {{LibPont| Ausgabe=duchesne|Bd=1|Vita=Constantinus | S=389-395}}
+* {{MGH|Epp|1}}
+* {{MGH|Epp|2}}
+* {{Literatur | Autor=Gregorius der Große | Hrsg=Kranzfelder, Theodor|Datum=1874 | Titel=Ausgewählte Schriften des heiligen Gregorius des großen, Papstes und Kirchenlehrers: Ausgewählte Briefe | Ort=Kempten | Sammelwerk=Bibliothek der Kirchenväter | Nummer=27 | Online=https://bkv.unifr.ch/de/works/cpl-1714-bkv/versions/greg-m-epist-bkv}}
+* {{Literatur | Autor=Muratori, Lodovico Antonio | Titel=Rerum Italicarum scriptores ab anno aerae christianae quingentesimo ad millesimumquingentesimum | Band=12| Jahr=1728 | Ort=Mailand |Online=https://archive.org/embed/RerumItalicarumScriptores12}}
+
+== Literatur ==
+* {{Literatur |Autor=Judith Herrin |Titel=Ravenna: Hauptstadt des Imperiums, Schmelztiegel der Kulturen |Auflage=2., unveränderte Auflage |Verlag=wbg Theiss |Ort=Darmstadt |Datum=2025 |ISBN=978-3-8062-4416-8}}
+* {{Literatur | Autor=Heinrich Gelzer | Datum=1890 | Titel=Georgii Cyprii Descriptio orbis romani, accedit Leonis Imperatoris Diatyposis Genuina adhuc inedita | Verlag=Teubner | Ort=Leipzig | Online=https://archive.org/stream/georgiicypriide00basigoog#page/n5/mode/1up|Abruf=2025-12-05}}
+* {{Literatur | Autor=Bernard Bavant | Sammelwerk=Mélanges de l’Ecole française de Rome. Moyen-Age, Temps modernes | Titel=Le duché byzantin de Rome. Origine, durée et extension géographique | Band=91 | Nummer=1 | Seiten=41–88 | Datum=1979 | DOI=10.3406/mefr.1979.2486}}
+* {{Literatur | Autor=Giogio Ravegnati | Datum=2019 | Titel=Bisanzio e l’Occidente medievale | Verlag=il Mulino | Ort=Bologna | ISBN=978-88-15-35219-4}}
+* {{Literatur | Autor=Tommaso di Carpegna Falconieri | Jahr=2012 | Titel=La militia a Roma: il formarsi di una nuova aristocrazia (secoli VII-VIII) | Online=https://www.persee.fr/doc/efr_0223-5099_2012_act_461_1_10474}}
+* {{Literatur | Autor=Ludo Moritz Hartmann | Datum=1900 | Titel=Geschichte Italiens im Mittelalter | Ort=Leipzig | Band=2 | Online=http://www.archive.org/details/geschichteitalie02hart|Abruf=2025-12-05}}
+* {{Literatur | Autor=Rosamond McKitterick | Datum=2020 | Titel=Rome and the invention of the papacy: the liber pontificalis | Ort=Cambridge | Sammelwerk=The James Lydon lectures in medieval history and culture}}
+* {{Literatur | Autor=André Guillou | Sammelwerk=Mélanges de l’école française de Rome | Titel=Inscriptions du duché de Rome | Band=83 | Nummer=2 | Seiten=149–158 | Datum=1971 | DOI=10.3406/mefr.1971.844}}
+* {{Literatur | Autor=Peter Eich | Datum=2016 | Titel=Gregor der Große. Bischof von Rom zwischen Antike und Mittelalter | Verlag=Schöningh | Ort=Paderborn}}
+* {{Literatur | Autor=Girolamo Arnaldi, Federico Marazzi | Datum=2017 | Titel=Tarda Antichità  e Alto Medioevo in Italia | Ort=Roma | Online=https://www.academia.edu/31879714/Tarda_Antichit%C3%A0_e_Alto_Medioevo_in_Italia_Girolamo_Arnaldi_e_Federico_Marazzi | ISBN=978-88-6728-805-2}}
+* {{Literatur | Autor=Andrew J. Ekonomou | Datum=2007 | Titel=Byzantine Rome and the Greek Popes | Verlag=Lexington Books | Online=https://archive.org/details/grpopes/page/n271/mode/2up}}
+* {{Literatur | Autor=Tommaso di Carpegna Falconieri | Datum=2012 | Kapitel=L’héritage byzantin en Italie (VIIIe-XIIe siècle). II, Les cadres juridiques et sociaux et les institutions publiques [actes des tables rondes tenues à Rome les 4 et 5 mai 2009 et les 26 et 27 février 2010] | Titel=La militia a Roma: il formarsi di una nuova aristocrazia (secoli VII-VIII) | Ort=Rome | Sammelwerk=Publications de l’École française de rome | Online=https://www.persee.fr/doc/efr_0223-5099_2012_act_461_1_10474}}
+* {{Literatur | Autor=Clemens Gantner | Datum=2014 | Titel=Freunde Roms und Völker der Finsternis | Ort=Wien Köln Weimar | Online=http://library.oapen.org/handle/20.500.12657/33295 | ISBN=978-3-205-79593-3}}
+* {{Literatur | Autor=Paolo Delogu | Datum=2010 | Titel=Le Origini del Medioevo | Ort=Roma | Online=http://www.rmoa.unina.it/3303/1/Delogu-Origini_medioevo.pdf | ISBN=978-88-7801-414-5}}
+
+== Einzelnachweise ==
+<references>
+</references>
+
+[[:Kategorie:Herzogtum]]
+[[:Kategorie:Geschichte Roms im Mittelalter]]
+[[:Kategorie:Geschichte (Latium)]]
+[[:Kategorie:Exarchat von Ravenna]]

@@ -1,4 +1,4 @@
-# Isidor von Sevilla bei O’Donnell, _Cassiodorus_
+# [[Isidor von Sevilla]] bei O’Donnell, _Cassiodorus_
 
 ## 1. Verbindung zu Cassiodor
 

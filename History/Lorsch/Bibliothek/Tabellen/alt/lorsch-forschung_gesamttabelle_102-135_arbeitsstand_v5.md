@@ -1,0 +1,379 @@
+# Forschungstabelle – Gesamttabelle (Seiten 102–135), Arbeitsstand v5
+
+<!--
+Arbeitsstand v5 – Changelog gegenüber v4:
+- Spaltenüberschrift Traditionskreis → Überlieferungslinie.
+- Buchgattung/Fachgebiet bleiben als Buchgattung/Thema geführt.
+- Buchgattung Katalog → Bücherverzeichnis.
+- Buchgattung Sammelwerk vermieden.
+- LHS0008 vollständig nach Bibliotheca Laureshamensis in TXT0008-01 bis TXT0008-15 aufgespalten.
+- LHS0010 Oribasius nach Bibliotheca Laureshamensis in TXT0011-01 und TXT0011-02 aufgespalten.
+- LHS0318 Buchgattung → Medizinisches Handbuch.
+- Persistente TXT-IDs mit Suffixen bei Aufspaltungen.
+-->
+
+| TXT-ID | LHS-ID | Lorsch-Bezug | Text | Redaktor | Werk | Autor | Buchgattung | Werktyp | Thema | Überlieferungslinie | Bemerkungen |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| TXT0001 | LHS0001 |  | Evangelia IV |  | Evangelia |  | Evangelienbuch | Volltext | Biblische Überlieferung | Bibel | Vier Evangelien. |
+| TXT0002 | LHS0002 |  | Hieronymus in Hier. |  | Commentarii in Hieremiam | Hieronymus | Bibelkommentar | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0003 | LHS0003 |  | Evangelistar |  | Evangelistar |  | Perikopenbuch | Redaktion | Liturgie | Biblische Überlieferung |  |
+| TXT0004 | LHS0004 |  | Sacramentarium Greg. |  | Sacramentarium Gregorianum | Gregorius Magnus (trad.) | Liturgisches Buch | Redaktion | Liturgie | Liturgische Tradition | Traditionelle Zuschreibung; keine moderne Autorschaftsannahme. |
+| TXT0005 | LHS0005 |  | Origines in Iud. | Rufinus | Homiliae in Iudices | Origenes | Homilien / Bibelauslegung | Übersetzung | Exegese | Griechische Patristik | Lateinische Übersetzung; Werkidentifikation nach Bischoffs Kurzangabe. |
+| TXT0006 | LHS0006 |  | Evangelia IV |  | Evangelia |  | Evangelienbuch | Volltext | Biblische Überlieferung | Bibel |  |
+| TXT0007 | LHS0007 |  | Amalarius, Liber officialis |  | Liber officialis | Amalarius von Metz | Liturgik | Originalwerk | Liturgie | Karolingische Gelehrsamkeit |  |
+| TXT0008-01 | LHS0008 | Ja: Schriftheimat Lorsch; Katalog | Defensio artis medicinae |  | Defensio artis medicinae | Anonymus | Medizinisches Handbuch | Originalwerk | Medizin | Frühmittelalterliche Medizin | Text 1 nach Bibliotheca Laureshamensis; 1r–5r. |
+| TXT0008-02 | LHS0008 | Ja: Schriftheimat Lorsch; Katalog | Versus seu Carmina |  | Versus seu Carmina | Isidorus | Dichtung | Kompilation | Medizin | Lateinische Patristik | Text 2 nach Bibliotheca Laureshamensis; 15 Distichen aus Isidors Carmina; 5r. |
+| TXT0008-03 | LHS0008 | Ja: Schriftheimat Lorsch; Katalog | Initia medicinae |  | Initia medicinae | Anonymus | Medizinisches Handbuch | Kompilation | Medizin | Frühmittelalterliche Medizin | Text 3 nach Bibliotheca Laureshamensis; Anfang fehlt; 6r. |
+| TXT0008-04 | LHS0008 | Ja: Schriftheimat Lorsch; Katalog | Problemata Aristotelis |  | Problemata Aristotelis | Ps.-Aristoteles | Medizinisches Handbuch | Bearbeitung | Medizin | Antike Naturphilosophie | Text 4 nach Bibliotheca Laureshamensis; 6v–7v. |
+| TXT0008-05 | LHS0008 | Ja: Schriftheimat Lorsch; Katalog | Dies aegyptiaci |  | Dies aegyptiaci | Anonymus | Medizinisches Handbuch | Redaktion | Medizin | Frühmittelalterliche Medizin | Text 5 nach Bibliotheca Laureshamensis; 8r. |
+| TXT0008-06 | LHS0008 | Ja: Schriftheimat Lorsch; Katalog | Dies incerti |  | Dies incerti | Anonymus | Medizinisches Handbuch | Redaktion | Medizin | Frühmittelalterliche Medizin | Text 6 nach Bibliotheca Laureshamensis; 8r. |
+| TXT0008-07 | LHS0008 | Ja: Schriftheimat Lorsch; Katalog | Hippocras |  | Hippocras | Anonymus | Medizinisches Handbuch | Redaktion | Medizin | Frühmittelalterliche Medizin | Text 7 nach Bibliotheca Laureshamensis; 8ra/rb. |
+| TXT0008-08 | LHS0008 | Ja: Schriftheimat Lorsch; Katalog | Antemballomena sive De succedaneis |  | Antemballomena sive De succedaneis | Anonymus | Medizinisches Handbuch | Redaktion | Medizin | Frühmittelalterliche Medizin | Text 8 nach Bibliotheca Laureshamensis; 8va/vb. |
+| TXT0008-09 | LHS0008 | Ja: Schriftheimat Lorsch; Katalog | Conspectus curationum capitulationibus V comprehensarum |  | Conspectus curationum capitulationibus V comprehensarum | Anonymus | Medizinisches Handbuch | Redaktion | Medizin | Frühmittelalterliche Medizin | Text 9 nach Bibliotheca Laureshamensis; Inhaltsverzeichnis zu den fünf Rezeptbüchern; 9ra–14va. |
+| TXT0008-10 | LHS0008 | Ja: Schriftheimat Lorsch; Katalog | Hermeneumata sive Glossarium pigmentorum vel herbarum |  | Hermeneumata sive Glossarium pigmentorum vel herbarum | Anonymus | Glossar | Kompilation | Medizin | Frühmittelalterliche Medizin | Text 10 nach Bibliotheca Laureshamensis; 15ra–17rc. |
+| TXT0008-11 | LHS0008 | Ja: Schriftheimat Lorsch; Katalog | Epistula ad Pentadium de quattuor umoribus in corpore humano constitutis |  | Epistula ad Pentadium de quattuor umoribus in corpore humano constitutis | Vindicianus medicus | Brief | Exzerpt | Medizin | Spätantike Medizin | Text 11 nach Bibliotheca Laureshamensis; Exzerpt; 17rc. |
+| TXT0008-12 | LHS0008 | Ja: Schriftheimat Lorsch; Katalog | Curationes capitulationibus V comprehensae |  | Curationes capitulationibus V comprehensae | Anonymus | Medizinisches Handbuch | Kompilation | Medizin | Frühmittelalterliche Medizin | Text 12 nach Bibliotheca Laureshamensis; Hauptteil; 17v–71v. |
+| TXT0008-13 | LHS0008 | Ja: Schriftheimat Lorsch; Katalog | Index librorum imperatoris Ottonis III |  | Index librorum imperatoris Ottonis III | Leo Vercellensis (?) | Bücherverzeichnis | Nachtrag | Bibliothekswesen | Ottonische Gelehrsamkeit | Nachtrag 1 nach Bibliotheca Laureshamensis; 42v. |
+| TXT0008-14 | LHS0008 | Ja: Schriftheimat Lorsch; Katalog | De observatione ciborum epistula ad Theodericum regem Francorum |  | De observatione ciborum epistula ad Theodericum regem Francorum | Anthimus medicus | Brief | Bearbeitung | Medizin | Spätantike Medizin | Text 13 nach Bibliotheca Laureshamensis; Text mit Auslassungen und Zusätzen; 72r–75r. |
+| TXT0008-15 | LHS0008 | Ja: Schriftheimat Lorsch; Katalog | Antidotum anacardium |  | Antidotum anacardium | Anonymus | Medizinisches Handbuch | Nachtrag | Medizin | Frühmittelalterliche Medizin | Nachtrag nach Bibliotheca Laureshamensis; 75v. |
+| TXT0009 | LHS0009 |  | Cassian., Coll. I–10 |  | Collationes | Johannes Cassianus | Mönchsliteratur | Originalwerk | Mönchtum | Lateinische Patristik | Teilüberlieferung I–X. |
+| TXT0010 | LHS0009 |  | Cassian., Coll. XI–XVII |  | Collationes | Johannes Cassianus | Mönchsliteratur | Originalwerk | Mönchtum | Lateinische Patristik | Teilüberlieferung XI–XVII. |
+| TXT0011-01 | LHS0010 | Ja: Schriftheimat Lorsch | Oribasius Latinus |  | Ad Eunapium de parabilibus medicamentis (sive Euporistes) | Oribasius Latinus | Enzyklopädie | Übersetzung | Medizin | Oribasianische Tradition | Fragment; anonyme Übersetzung aus dem Griechischen; Bibliotheca Laureshamensis. |
+| TXT0011-02 | LHS0010 | Ja: Schriftheimat Lorsch | Oribasius Latinus |  | Conspectus (sive Synopsis) ad Eustathium filium | Oribasius Latinus | Enzyklopädie | Übersetzung | Medizin | Oribasianische Tradition | Fragment; anonyme Übersetzung aus dem Griechischen; Bibliotheca Laureshamensis. |
+| TXT0012 | LHS0011 |  | Beda, De temp. rat. |  | De temporum ratione | Beda Venerabilis | Lehrbuch | Originalwerk | Computus | Angelsächsische Gelehrsamkeit | Bischoff: „etc.“; weitere enthaltene Texte später erfassen. |
+| TXT0013 | LHS0012 |  | Sacramentarium |  | Sacramentarium |  | Liturgisches Buch | Redaktion | Liturgie | Liturgische Tradition | Typ später bestimmen. |
+| TXT0014 | LHS0013 |  | Ennodius, Epp. |  | Epistulae | Magnus Felix Ennodius | Briefsammlung | Originalwerk | Briefliteratur | Lateinische Patristik |  |
+| TXT0015 | LHS0014 |  | Boethius, Arithm. |  | De institutione arithmetica | Boethius | Lehrbuch | Originalwerk | Arithmetik | Spätantike Gelehrsamkeit | Quadrivium. |
+| TXT0016 | LHS0015 |  | Cant. cant. c. glossa |  | Canticum Canticorum |  | Bibel mit Glosse | Glossierung | Exegese | Biblische Überlieferung |  |
+| TXT0017 | LHS0016 |  | Sacramentarium Greg. |  | Sacramentarium Gregorianum | Gregorius Magnus (trad.) | Liturgisches Buch | Redaktion | Liturgie | Liturgische Tradition |  |
+| TXT0018 | LHS0017 |  | Homiliae (Palimps.) |  | Homiliae | verschiedene | Homiliensammlung | Anthologie | Homiletik | Karolingische Gelehrsamkeit | Einzelautoren später zu bestimmen. |
+| TXT0019 | LHS0018 |  | Evangelia IV |  | Evangelia |  | Evangelienbuch | Volltext | Biblische Überlieferung | Bibel |  |
+| TXT0020 | LHS0019 |  | Curtius, Historia Alexandri |  | Historiae Alexandri Magni | Quintus Curtius Rufus | Geschichtswerk | Originalwerk | Geschichte | Klassische lateinische Literatur |  |
+| TXT0021 | LHS0020 |  | Hegesippus |  | De excidio Hierosolymitano | Pseudo-Hegesippus | Geschichtswerk | Adaption | Geschichte | Lateinische Patristik | Zuschreibung an Hegesippus traditionell; Werk als Pseudo-Hegesippus geführt. |
+| TXT0022 | LHS0021 |  | Gregorius M., Dial. |  | Dialogi | Gregorius Magnus | Dialog / Hagiographie | Originalwerk | Hagiographie | Lateinische Patristik |  |
+| TXT0023 | LHS0022 |  | Evangelia IV |  | Evangelia |  | Evangelienbuch | Volltext | Biblische Überlieferung | Bibel |  |
+| TXT0024 | LHS0023 |  | Cicero, Ep. ad fam. |  | Epistulae ad familiares | Cicero | Briefsammlung | Originalwerk | Briefliteratur | Klassische lateinische Literatur |  |
+| TXT0025 | LHS0024 |  | Genealogia Karolinorum |  | Genealogia Karolinorum | anonym | Genealogie | Originalwerk | Geschichte | Karolingische Gelehrsamkeit |  |
+| TXT0026 | LHS0025 |  | Litanei |  | Litanei |  | Liturgischer Text | Redaktion | Liturgie | Liturgische Tradition |  |
+| TXT0027 | LHS0026 |  | Burchard v. Worms |  | Decretum | Burchard von Worms | Kanonistische Sammlung | Kompilation | Kirchenrecht | Kirchenrechtliche Tradition | Werkidentifikation wahrscheinlich aus Kurzangabe. |
+| TXT0028 | LHS0027 |  | Philo, Quaest. super Gen. |  | Quaestiones in Genesim | Philo von Alexandria | Bibelbezogene Quaestionen | Übersetzung | Exegese | Hellenistisch-jüdische Tradition | Lateinische Überlieferung; genaue Textgestalt später prüfen. |
+| TXT0029 | LHS0028 |  | Priscianus |  | Institutiones grammaticae | Priscian | Grammatik | Originalwerk | Grammatik | Spätantike Gelehrsamkeit | Werkidentifikation aus Kurzangabe. |
+| TXT0030 | LHS0029 |  | Petrus Chrysologus |  | Sermones | Petrus Chrysologus | Predigten | Originalwerk | Homiletik | Lateinische Patristik |  |
+| TXT0031 | LHS0030 |  | Hieronymus |  | Vita Malchi | Hieronymus | Hagiographie / Vita | Originalwerk | Hagiographie | Lateinische Patristik | Bischoff nennt „Hieronymus; Waltharius“; erster Text erschlossen. |
+| TXT0032 | LHS0030 |  | Waltharius |  | Waltharius | anonym | Epos | Originalwerk | Dichtung | Karolingische Gelehrsamkeit |  |
+| TXT0033 | LHS0031 |  | Biblia (Tobias) |  | Liber Tobiae |  | Bibeltext | Volltext | Biblische Überlieferung | Bibel |  |
+| TXT0034 | LHS0032 |  | Gregorius Tur., Hist. Franc. |  | Historia Francorum | Gregorius Turonensis | Geschichtswerk | Originalwerk | Geschichte | Lateinische Patristik |  |
+| TXT0035 | LHS0033 |  | Florus |  | noch zu bestimmen | Florus von Lyon | Kommentar / Exzerpt? | unsicher | Exegese | Karolingische Gelehrsamkeit | Genaue Werkidentifikation offen. |
+| TXT0036 | LHS0034 |  | Solinus |  | Collectanea rerum memorabilium | Gaius Iulius Solinus | Geographie / Naturkunde | Originalwerk | Naturkunde | Klassische lateinische Literatur | Teil einer Sammelhandschrift. |
+| TXT0037 | LHS0034 |  | Florus |  | noch zu bestimmen | Florus von Lyon | Kommentar / Exzerpt? | unsicher | Exegese | Karolingische Gelehrsamkeit | Teil einer Sammelhandschrift. |
+| TXT0038 | LHS0034 |  | etc. |  | mehrere Werke | mehrere Autoren | Sammelhandschrift | Kompilation | verschieden | Karolingische Gelehrsamkeit | Weitere Texte später bestimmen. |
+| TXT0039 | LHS0035 |  | Homiliae |  | Homiliae | verschiedene | Homiliensammlung | Anthologie | Homiletik | Karolingische Gelehrsamkeit |  |
+| TXT0040 | LHS0036 |  | Hieronymus, Epp. |  | Epistulae | Hieronymus | Briefsammlung | Originalwerk | Briefliteratur | Lateinische Patristik |  |
+| TXT0041 | LHS0037 |  | Augustinus, De Genesi (Ergänzung) |  | De Genesi contra Manichaeos | Augustinus | Traktat / Bibelauslegung | Fragment / Ergänzung | Exegese | Lateinische Patristik | Ergänzung nach Bischoff. |
+| TXT0042 | LHS0038 |  | Glossae in Bibliam etc. |  | Glossae in Bibliam | verschiedene | Glossen | Kompilation / Glossierung | Exegese | Karolingische Gelehrsamkeit | Weitere Bestandteile später bestimmen. |
+| TXT0043 | LHS0039 |  | Hieron. in Ephes. |  | Commentarius in Epistolam ad Ephesios | Hieronymus | Bibelkommentar | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0044 | LHS0039 |  | Hieron. in Titum |  | Commentarius in Epistolam ad Titum | Hieronymus | Bibelkommentar | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0045 | LHS0039 |  | Hieron. in Philem. |  | Commentarius in Epistolam ad Philemonem | Hieronymus | Bibelkommentar | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0046 | LHS0040 |  | Origenes in ep. ad Rom. | Rufinus | Commentarii in Epistolam ad Romanos | Origenes | Bibelkommentar | Übersetzung | Exegese | Griechische Patristik | Lateinische Übersetzung des Rufinus. |
+| TXT0047 | LHS0041 |  | Martianus Capella |  | De nuptiis Philologiae et Mercurii | Martianus Capella | Enzyklopädie / Lehrgedicht | Originalwerk | Artes liberales | Klassische lateinische Literatur |  |
+| TXT0048 | LHS0042 |  | Florilegium | unbekannt | mehrere Werke | mehrere Autoren | Florilegium | Kompilation | Exzerptliteratur | Karolingische Gelehrsamkeit | Einzelquellen später bestimmen. |
+| TXT0049 | LHS0043 |  | Beda in Luc. |  | In Lucae Evangelium expositio | Beda Venerabilis | Bibelkommentar | Originalwerk | Exegese | Angelsächsische Gelehrsamkeit |  |
+| TXT0050 | LHS0044 |  | Augustinus, De op. mon. |  | De opere monachorum | Augustinus | Traktat | Originalwerk | Mönchtum | Lateinische Patristik |  |
+| TXT0051 | LHS0044 |  | Augustinus, De ag. chr. |  | De agone christiano | Augustinus | Traktat | Originalwerk | Theologie | Lateinische Patristik |  |
+| TXT0052 | LHS0045 |  | Beda in Ezr. et Neh. |  | In Ezram et Neemiam | Beda Venerabilis | Bibelkommentar | Originalwerk | Exegese | Angelsächsische Gelehrsamkeit |  |
+| TXT0053 | LHS0046 |  | Comm. in ps. 101–150, etc. |  | Commentarius in Psalmos 101–150 | unbestimmt | Bibelkommentar | unsicher | Exegese | Lateinische Patristik | Autor und Werk später prüfen. |
+| TXT0054 | LHS0047 |  | Evangelistarium |  | Evangelistar |  | Perikopenbuch | Redaktion | Liturgie | Biblische Überlieferung |  |
+| TXT0055 | LHS0048 |  | Theodulfus, De spiritu s. |  | De Spiritu Sancto | Theodulfus Aurelianensis | Theologischer Traktat | Originalwerk | Theologie | Karolingische Gelehrsamkeit |  |
+| TXT0056 | LHS0049 |  | Hesychius in Lev. |  | In Leviticum | Hesychius | Bibelkommentar | Übersetzung | Exegese | Griechische Patristik | Genaue Werkform später prüfen. |
+| TXT0057 | LHS0050 |  | Augustinus, De Gen. contra Manich. |  | De Genesi contra Manichaeos | Augustinus | Traktat / Bibelauslegung | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0058 | LHS0050 |  | etc. |  | weitere Werke | verschiedene | Sammelhandschrift | Kompilation | verschieden | Karolingische Gelehrsamkeit | Weitere Texte später auflösen. |
+| TXT0059 | LHS0051 |  | Hilarius, De trin. |  | De Trinitate | Hilarius Pictaviensis | Dogmatischer Traktat | Originalwerk | Theologie | Lateinische Patristik |  |
+| TXT0060 | LHS0052 |  | Frechulfus, Hist. |  | Historiarum libri XII | Frechulfus | Geschichtswerk | Originalwerk | Geschichte | Karolingische Gelehrsamkeit |  |
+| TXT0061 | LHS0053 |  | Sacramentarium Greg. |  | Sacramentarium Gregorianum |  | Liturgisches Buch | Redaktion | Liturgie | Liturgische Tradition |  |
+| TXT0062 | LHS0054 |  | Evangelia IV |  | Evangelia |  | Evangelienbuch | Volltext | Bibel | Biblische Überlieferung |  |
+| TXT0063 | LHS0055 |  | Evangelia IV |  | Evangelia |  | Evangelienbuch | Volltext | Bibel | Biblische Überlieferung |  |
+| TXT0064 | LHS0056 |  | Vita S. Martini |  | Vita Sancti Martini | Sulpicius Severus | Hagiographie | Originalwerk | Hagiographie | Lateinische Patristik |  |
+| TXT0065 | LHS0057 |  | Vita S. Vedasti |  | Vita Sancti Vedastis | Alkuin | Hagiographie | Originalwerk | Hagiographie | Karolingische Gelehrsamkeit |  |
+| TXT0066 | LHS0058 |  | Persius; Iuvenalis |  | Satiren | Persius; Iuvenal | Dichtung | Originalwerk | Literatur | Klassische lateinische Literatur |  |
+| TXT0067 | LHS0059 |  | Codex Laureshamensis |  | Codex Laureshamensis | anonym | Urkundenbuch | Kompilation | Geschichte | Karolingische Gelehrsamkeit |  |
+| TXT0068 | LHS0060 |  | Porphyrio in Horat. |  | Commentum in Horatium | Pomponius Porphyrio | Kommentar | Originalwerk | Literatur | Klassische lateinische Literatur |  |
+| TXT0069 | LHS0061 |  | Excerpta Frisingensia |  | Excerpta Frisingensia | Alkuin u.a. | Sammlung | Kompilation | Theologie | Karolingische Gelehrsamkeit |  |
+| TXT0070 | LHS0062 |  | Sententiae |  | Sententiae | Isidor von Sevilla | Lehrschrift | Originalwerk | Theologie | Spätantike Gelehrsamkeit |  |
+| TXT0071 | LHS0063 |  | Pontificale Egilberti |  | Pontificale | anonym | Liturgisches Buch | Redaktion | Liturgie | Liturgische Tradition |  |
+| TXT0072 | LHS0064 |  | In ep. ad Romanos |  | Commentarius in ep. ad Romanos | Hrabanus Maurus | Kommentar | Originalwerk | Exegese | Karolingische Gelehrsamkeit |  |
+| TXT0073 | LHS0065 |  | Hom. in Matth. |  | Homiliae in Matthaeum | Johannes Chrysostomus | Homilien | Übersetzung | Exegese | Griechische Patristik |  |
+| TXT0074 | LHS0066 |  | Vita S. Liobae |  | Vita Sanctae Liobae | Rudolf von Fulda | Hagiographie | Originalwerk | Hagiographie | Karolingische Gelehrsamkeit |  |
+| TXT0075 | LHS0067 |  | Arnold v. St. Emmeram |  | Werk unbestimmt | Arnold von St. Emmeram | Traktat | Originalwerk | Theologie | Karolingische Gelehrsamkeit |  |
+| TXT0076 | LHS0068 |  | Servius |  | Commentarius in Vergilium | Servius | Kommentar | Originalwerk | Literatur | Klassische lateinische Literatur |  |
+| TXT0077 | LHS0069 |  | De fin. litt. |  | De finalibus litteris | Servius | Grammatik | Originalwerk | Grammatik | Klassische lateinische Literatur |  |
+| TXT0078 | LHS0070 |  | De bapt. |  | De baptismo | Augustinus | Traktat | Originalwerk | Dogmatik | Lateinische Patristik |  |
+| TXT0079 | LHS0071 |  | Smaragdus |  | Werk unbestimmt | Smaragdus | Kommentar | Originalwerk | Theologie | Karolingische Gelehrsamkeit |  |
+| TXT0080 | LHS0072 |  | Evangelistarium |  | Evangelistarium |  | Perikopenbuch | Redaktion | Liturgie | Liturgische Tradition |  |
+| TXT0081 | LHS0073 |  | Evangelistarium |  | Evangelistarium |  | Perikopenbuch | Redaktion | Liturgie | Liturgische Tradition |  |
+| TXT0082 | LHS0074 |  | Biblia |  | Biblia |  | Bibeltext | Volltext | Bibel | Biblische Überlieferung |  |
+| TXT0083 | LHS0075 |  | Biblia/Proverbia |  | Proverbia |  | Bibeltext | Volltext | Bibel | Biblische Überlieferung |  |
+| TXT0084 | LHS0076 |  | Confessiones |  | Confessiones | Augustinus | Autobiographie | Originalwerk | Autobiographie | Lateinische Patristik |  |
+| TXT0085 | LHS0077 |  | Ps.-Alcuinus |  | Werk unbestimmt | Pseudo-Alkuin | Traktat | Originalwerk | Theologie | Karolingische Gelehrsamkeit |  |
+| TXT0086 | LHS0078 |  | Naturalis historia |  | Naturalis historia | Plinius | Enzyklopädie | Originalwerk | Naturkunde | Klassische lateinische Literatur |  |
+| TXT0087 | LHS0079 |  | Evangelia IV |  | Evangelia |  | Evangelienbuch | Volltext | Bibel | Biblische Überlieferung |  |
+| TXT0088 | LHS0080 |  | Evangelia |  | Evangelia |  | Evangelienbuch | Volltext | Bibel | Biblische Überlieferung |  |
+| TXT0089 | LHS0081 |  | Evangelia |  | Evangelia |  | Evangelienbuch | Volltext | Bibel | Biblische Überlieferung |  |
+| TXT0090 | LHS0082 |  | Prophetae min. c. gl. |  | Prophetae minores cum glossa |  | Bibel mit Glosse | Glossierung | Exegese | Karolingische Gelehrsamkeit |  |
+| TXT0091 | LHS0083 |  | Epistulae |  | Epistulae | Sidonius Apollinaris | Briefsammlung | Originalwerk | Briefliteratur | Lateinische Patristik |  |
+| TXT0092 | LHS0084 |  | In Iesu Nave |  | Homiliae in Iesu Nave | Origenes | Homilien | Übersetzung | Exegese | Griechische Patristik |  |
+| TXT0093 | LHS0085 |  | In Regum |  | Homiliae in Reges | Origenes | Homilien | Übersetzung | Exegese | Griechische Patristik |  |
+| TXT0094 | LHS0086 |  | Cyprianus |  | Werk | Cyprian | Traktat | Originalwerk | Theologie | Lateinische Patristik |  |
+| TXT0095 | LHS0087 |  | Ad Ctesiphontem |  | Epistula ad Ctesiphontem | Hieronymus | Brief | Originalwerk | Theologie | Lateinische Patristik |  |
+| TXT0096 | LHS0088 |  | In ps. 118 |  | Expositio in Psalmum 118 | Ambrosius | Kommentar | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0097 | LHS0089 |  | Locutiones in Hept. |  | Locutiones in Heptateuchum | Augustinus | Kommentar | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0098 | LHS0090 |  | De baptismo |  | De baptismo | Augustinus | Traktat | Originalwerk | Dogmatik | Lateinische Patristik |  |
+| TXT0099 | LHS0091 |  | Enarrationes |  | Enarrationes in Psalmos | Augustinus | Kommentar | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0100 | LHS0092 |  | Epistulae |  | Epistulae | Augustinus | Briefsammlung | Originalwerk | Briefliteratur | Lateinische Patristik |  |
+| TXT0101 | LHS0093 |  | Enarrationes |  | Enarrationes in Psalmos | Augustinus | Kommentar | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0102 | LHS0094 |  | De pastoribus |  | De pastoribus | Augustinus | Predigt | Originalwerk | Homiletik | Lateinische Patristik |  |
+| TXT0103 | LHS0095 |  | De Genesi ad litteram |  | De Genesi ad litteram | Augustinus | Kommentar | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0104 | LHS0096 |  | In Octateuchum |  | In Octateuchum | Wigbod | Kommentar | Originalwerk | Exegese | Karolingische Gelehrsamkeit |  |
+| TXT0105 | LHS0097 |  | In Osee |  | Commentarii | Hieronymus | Kommentar | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0106 | LHS0098 |  | Hom. in ev. |  | Homiliae in Evangelia | Gregor der Große | Homilien | Originalwerk | Homiletik | Lateinische Patristik |  |
+| TXT0107 | LHS0099 |  | Tractatus |  | Tractatus | Gregor von Nazianz | Traktat | Übersetzung | Theologie | Griechische Patristik |  |
+| TXT0108 | LHS0101 |  | In Hieremiam |  | Commentarii in Hieremiam | Hieronymus | Kommentar | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0109 | LHS0102 |  | Homiliae |  | Homiliae | Pseudo-Beda | Homilien | Originalwerk | Homiletik | Angelsächsische Gelehrsamkeit |  |
+| TXT0110 | LHS0103 |  | Sententiae |  | Sententiae | Taio | Sammlung | Kompilation | Theologie | Spätantike Gelehrsamkeit |  |
+| TXT0111 | LHS0104 |  | Homiliae |  | Homiliae | Johannes Chrysostomus | Homilien | Übersetzung | Exegese | Griechische Patristik |  |
+| TXT0112 | LHS0105 |  | In Leviticum |  | Homiliae in Leviticum | Origenes | Homilien | Übersetzung | Exegese | Griechische Patristik |  |
+| TXT0113 | LHS0106 |  | In Isaiam |  | Commentarii in Isaiam | Hieronymus | Kommentar | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0114 | LHS0107 |  | Concilium Carthaginense |  | Acta concilii | anonym | Konzilsakten | Originalwerk | Kirchenrecht | Lateinische Patristik |  |
+| TXT0115 | LHS0108 |  | Concordia canonum |  | Concordia canonum | Cresconius | Kirchenrecht | Kompilation | Kirchenrecht | Lateinische Patristik |  |
+| TXT0116 | LHS0109 |  | Aeneis |  | Aeneis | Vergil | Epos | Originalwerk | Literatur | Klassische lateinische Literatur |  |
+| TXT0117 | LHS0110 |  | Collationes |  | Collationes | Johannes Cassianus | Mönchsliteratur | Originalwerk | Mönchtum | Lateinische Patristik |  |
+| TXT0118 | LHS0111 |  | Beda, etc. |  | Werk unbestimmt | Beda Venerabilis | Sammelhandschrift | Kompilation | verschieden | Angelsächsische Gelehrsamkeit | Bischoff: „etc.“; genaue Einzeltexte später zu bestimmen. |
+| TXT0119 | LHS0112 |  | Benedictionale |  | Benedictionale |  | Liturgisches Buch | Redaktion | Liturgie | Liturgische Tradition |  |
+| TXT0120 | LHS0113 |  | Benedictiones pontificales |  | Benedictiones pontificales |  | Liturgisches Buch | Redaktion | Liturgie | Liturgische Tradition |  |
+| TXT0121 | LHS0114 |  | Iulianus Pomer., De vita cont. |  | De vita contemplativa | Iulianus Pomerius | Traktat | Originalwerk | Asketik | Lateinische Patristik |  |
+| TXT0122 | LHS0115 |  | Beda, De re metr., etc. |  | De arte metrica | Beda Venerabilis | Lehrschrift | Originalwerk | Metrik | Angelsächsische Gelehrsamkeit | Bischoff: „etc.“; weitere Texte später bestimmen. |
+| TXT0123 | LHS0116 |  | Berno, Tonarius |  | Tonarius | Berno von Reichenau | Musiktheoretischer / liturgischer Text | Originalwerk | Musik | Hochmittelalter |  |
+| TXT0124 | LHS0117 |  | Sacramentarium Greg. |  | Sacramentarium Gregorianum | Gregorius Magnus (trad.) | Liturgisches Buch | Redaktion | Liturgie | Liturgische Tradition |  |
+| TXT0125 | LHS0118 |  | Lex Romana Visig. |  | Lex Romana Visigothorum |  | Rechtstext | Redaktion | Recht | Spätantike Gelehrsamkeit |  |
+| TXT0126 | LHS0119 |  | Seneca, Ep. |  | Epistulae morales ad Lucilium | Seneca | Briefsammlung | Originalwerk | Philosophie | Klassische lateinische Literatur |  |
+| TXT0127 | LHS0120 |  | Evangelia IV |  | Evangelia |  | Evangelienbuch | Volltext | Bibel | Biblische Überlieferung | Vier Evangelien. |
+| TXT0128 | LHS0121 |  | Ep. Pauli |  | Epistulae Pauli |  | Bibeltext | Volltext | Bibel | Biblische Überlieferung |  |
+| TXT0129 | LHS0121 |  | Act. Ap. |  | Actus Apostolorum |  | Bibeltext | Volltext | Bibel | Biblische Überlieferung |  |
+| TXT0130 | LHS0121 |  | Ep. cath. |  | Epistulae catholicae |  | Bibeltext | Volltext | Bibel | Biblische Überlieferung |  |
+| TXT0131 | LHS0122 |  | Evangelia IV |  | Evangelia |  | Evangelienbuch | Volltext | Bibel | Biblische Überlieferung |  |
+| TXT0132 | LHS0123 |  | Hilarianus |  | Werk unbestimmt | Hilarianus | Chronographie / Computus? | Originalwerk | Chronographie | Spätantike Gelehrsamkeit | Genaue Werkidentifikation später prüfen. |
+| TXT0133 | LHS0123 |  | Idacius |  | Chronicon | Hydatius | Chronik | Originalwerk | Geschichte | Lateinische Patristik |  |
+| TXT0134 | LHS0123 |  | Fredegar |  | Chronica | Fredegar / Pseudo-Fredegar | Chronik | Kompilation | Geschichte | Frühmittelalterliche Gelehrsamkeit | Traditionskreis ggf. später normieren. |
+| TXT0135 | LHS0124 |  | Evangelia IV |  | Evangelia |  | Evangelienbuch | Volltext | Bibel | Biblische Überlieferung |  |
+| TXT0136 | LHS0125 |  | Porphyrio in Horat. |  | Commentum in Horatium | Pomponius Porphyrio | Kommentar | Originalwerk | Literatur | Klassische lateinische Literatur |  |
+| TXT0137 | LHS0126 |  | Volusius Maecianus, De asse |  | Distributio item vocabulorum ac notarum partium in rebus pecuniariis | Volusius Maecianus | Traktat | Originalwerk | Kirchenrecht | Klassische lateinische Literatur | Kurztitel nach Bischoff: De asse. |
+| TXT0138 | LHS0127 |  | Cicero, De inv. |  | De inventione | Cicero | Rhetorik | Originalwerk | Rhetorik | Klassische lateinische Literatur |  |
+| TXT0139 | LHS0127 |  | Priscianus |  | Werk unbestimmt | Priscian | Grammatik | Originalwerk | Grammatik | Spätantike Gelehrsamkeit |  |
+| TXT0140 | LHS0128 |  | Augustinus, De disc. christ. |  | De doctrina christiana | Augustinus | Traktat | Originalwerk | Exegese | Lateinische Patristik | Bischoff: „De disc. christ.“ = wohl De doctrina christiana. |
+| TXT0141 | LHS0128 |  | etc. |  | weitere Werke | verschiedene | Sammelhandschrift | Kompilation | verschieden | Lateinische Patristik | Weitere Texte später bestimmen. |
+| TXT0142 | LHS0129 |  | Genesis – II. Paral. |  | Genesis – II Paralipomenon |  | Bibeltext | Volltext | Bibel | Biblische Überlieferung |  |
+| TXT0143 | LHS0130 |  | Octateuchus |  | Octateuchus |  | Bibeltext | Volltext | Bibel | Biblische Überlieferung |  |
+| TXT0144 | LHS0131 |  | Libri Regum |  | Libri Regum |  | Bibeltext | Volltext | Bibel | Biblische Überlieferung |  |
+| TXT0145 | LHS0132 |  | Tobias |  | Liber Tobiae |  | Bibeltext | Volltext | Bibel | Biblische Überlieferung |  |
+| TXT0146 | LHS0132 |  | Iudith |  | Liber Iudith |  | Bibeltext | Volltext | Bibel | Biblische Überlieferung |  |
+| TXT0147 | LHS0132 |  | u. a. |  | weitere biblische Texte | verschiedene | Bibeltext | Volltext | Bibel | Biblische Überlieferung | Über Palimpsest; weitere Texte später bestimmen. |
+| TXT0148 | LHS0133 |  | Evangelia IV |  | Evangelia |  | Evangelienbuch | Volltext | Bibel | Biblische Überlieferung |  |
+| TXT0149 | LHS0134 |  | Katalog III* |  | Katalog III* | anonym | Bibliothekskatalog | Originalwerk | Bibliothekswesen | Karolingische Gelehrsamkeit |  |
+| TXT0150 | LHS0135 |  | Testamentum Brunonis |  | Testamentum Brunonis | Bruno | Urkunde / Testament | Originalwerk | Urkundenwesen | Hochmittelalter |  |
+| TXT0151 | LHS0136 |  | Epp. Pauli |  | Epistulae Pauli |  | Bibeltext | Volltext | Bibel | Biblische Überlieferung |  |
+| TXT0152 | LHS0136 |  | Hom. |  | Homiliae | verschiedene | Homiliensammlung | Anthologie | Homiletik | Karolingische Gelehrsamkeit | Einzelautoren später bestimmen. |
+| TXT0153 | LHS0137 |  | Commentarius in ps. |  | Commentarius in Psalmos | unbestimmt | Bibelkommentar | Originalwerk | Exegese | Angelsächsische Gelehrsamkeit | Schriftheimat Nordengland; Autor unbestimmt. |
+| TXT0154 | LHS0138 |  | Glossae in Bibliam, etc. |  | Glossae in Bibliam | verschiedene | Glossen | Kompilation / Glossierung | Exegese | Karolingische Gelehrsamkeit | Weitere Bestandteile später bestimmen. |
+| TXT0155 | LHS0139 |  | Iohannes Chrys., In ep. ad Hebr. |  | Homiliae in epistolam ad Hebraeos | Johannes Chrysostomus | Bibelkommentar / Homilien | Übersetzung | Exegese | Griechische Patristik |  |
+| TXT0156 | LHS0140 |  | Ambrosiaster in ps. |  | Commentarius in Psalmos | Ambrosiaster | Bibelkommentar | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0157 | LHS0141 |  | Hilarius in Matth. |  | Commentarius in Matthaeum | Hilarius Pictaviensis | Bibelkommentar | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0158 | LHS0142 |  | Ambrosiaster in ep. ad Cor. |  | Commentarius in epistulas ad Corinthios | Ambrosiaster | Bibelkommentar | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0159 | LHS0143 |  | Mönchsliste |  | Mönchsliste | anonym | Liste | Originalwerk | Klostergeschichte | Karolingische Gelehrsamkeit | 951–973. |
+| TXT0160 | LHS0144 |  | Hieronymus in Is. |  | Commentarii in Isaiam | Hieronymus | Bibelkommentar | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0161 | LHS0145 |  | Hieronymus in Os., etc. |  | Commentarii in Osee | Hieronymus | Bibelkommentar | Originalwerk | Exegese | Lateinische Patristik | Bischoff: „etc.“; weitere Texte später bestimmen. |
+| TXT0162 | LHS0146 |  | Hieronymus in Eccl. |  | Commentarius in Ecclesiasten | Hieronymus | Bibelkommentar | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0163 | LHS0147 |  | Hieronymus in Matth. |  | Commentarii in Matthaeum | Hieronymus | Bibelkommentar | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0164 | LHS0147 |  | etc. |  | weitere Werke | verschiedene | Sammelhandschrift | Kompilation | verschieden | Lateinische Patristik | Weitere Texte später bestimmen. |
+| TXT0165 | LHS0148 |  | Hieronymus in Matth. |  | Commentarii in Matthaeum | Hieronymus | Bibelkommentar | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0166 | LHS0149 |  | Hieronymus, Dial. adv. Pelag. |  | Dialogi adversus Pelagianos | Hieronymus | Traktat / Dialog | Originalwerk | Theologie | Lateinische Patristik |  |
+| TXT0167 | LHS0150 |  | Hieronymus, Quaest. Hebr. |  | Quaestiones Hebraicae in Genesim | Hieronymus | Bibelexegese | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0168 | LHS0151 |  | Hieronymus, Opusc. etc. |  | Opuscula | Hieronymus | Sammelhandschrift | Kompilation | Theologie | Lateinische Patristik | Weitere Texte später bestimmen. |
+| TXT0169 | LHS0152 |  | Hieronymus ad Dam. |  | Epistula ad Damasum | Hieronymus | Brief | Originalwerk | Theologie | Lateinische Patristik |  |
+| TXT0170 | LHS0152 |  | Gennadius |  | De viris illustribus | Gennadius Massiliensis | Literaturgeschichtlicher Katalog | Originalwerk | Bibliothekswesen | Lateinische Patristik |  |
+| TXT0171 | LHS0153 |  | Augustinus, De doctr. chr. |  | De doctrina christiana | Augustinus | Traktat | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0172 | LHS0154 |  | Augustinus, De doctr. chr. |  | De doctrina christiana | Augustinus | Traktat | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0173 | LHS0155 |  | Augustinus, De conc. ev. |  | De consensu evangelistarum | Augustinus | Traktat | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0174 | LHS0156 |  | Augustinus, Spec. |  | Speculum | Augustinus | Florilegium / Exzerptwerk | Originalwerk | Exzerptliteratur | Lateinische Patristik |  |
+| TXT0175 | LHS0157 |  | Augustinus, De civ. Dei (ll. 18–22) |  | De civitate Dei | Augustinus | Traktat | Teilüberlieferung | Theologie | Lateinische Patristik | Bücher XVIII–XXII. |
+| TXT0176 | LHS0158 |  | Augustinus, Contra Faustum |  | Contra Faustum Manichaeum | Augustinus | Polemischer Traktat | Originalwerk | Theologie | Lateinische Patristik |  |
+| TXT0177 | LHS0159 |  | Augustinus, De trin. |  | De trinitate | Augustinus | Dogmatischer Traktat | Originalwerk | Theologie | Lateinische Patristik |  |
+| TXT0178 | LHS0160 |  | Augustinus, Tract. in ev. Ioh. |  | In Iohannis evangelium tractatus | Augustinus | Bibelkommentar / Predigten | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0179 | LHS0161 |  | Augustinus in ev. Ioh. |  | In Iohannis evangelium tractatus | Augustinus | Bibelkommentar / Predigten | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0180 | LHS0162 |  | Augustinus, Opusc. |  | Opuscula | Augustinus | Sammelhandschrift | Kompilation | Theologie | Lateinische Patristik | Weitere Texte später bestimmen. |
+| TXT0181 | LHS0163 |  | Augustinus, Epp. etc. |  | Epistulae | Augustinus | Briefsammlung | Originalwerk | Briefliteratur | Lateinische Patristik | Bischoff: „etc.“; weitere Texte später bestimmen. |
+| TXT0182 | LHS0164 |  | Augustinus, Serm. etc. |  | Sermones | Augustinus | Predigten | Originalwerk | Homiletik | Lateinische Patristik | Bischoff: „etc.“; weitere Texte später bestimmen. |
+| TXT0183 | LHS0165 |  | Fragm. gramm. |  | Fragmenta grammatica | unbekannt | Grammatik | Fragment | Grammatik | Karolingische Gelehrsamkeit | Autor unbekannt. |
+| TXT0184 | LHS0166 |  | Aristoteles, Categ. | Boethius | Categoriae | Aristoteles | Philosophischer Traktat | Übersetzung | Philosophie | Antike Philosophie | Lateinische Übersetzung des Boethius. |
+| TXT0185 | LHS0167 |  | De essentia divin. |  | De essentia divina | unbekannt | Traktat | Originalwerk | Theologie | Karolingische Gelehrsamkeit | Weitere Texte („etc.“) später auflösen. |
+| TXT0186 | LHS0168 |  | Augustinus, Enarr. in ps. 51–100 |  | Enarrationes in Psalmos | Augustinus | Psalmenkommentar | Originalwerk | Exegese | Lateinische Patristik | Psalmen 51–100. |
+| TXT0187 | LHS0169 |  | Augustinus, Enarr. in ps. 101–150 |  | Enarrationes in Psalmos | Augustinus | Psalmenkommentar | Originalwerk | Exegese | Lateinische Patristik | Psalmen 101–150. |
+| TXT0188 | LHS0170 |  | In Gen. contra Manich. |  | De Genesi contra Manichaeos | Augustinus | Traktat | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0189 | LHS0171 |  | Homiliae |  | Homiliae | Augustinus | Homilien | Originalwerk | Homiletik | Lateinische Patristik |  |
+| TXT0190 | LHS0171 |  | Vita S. Landiberti |  | Vita Sancti Landiberti | unbekannt | Vita | Originalwerk | Hagiographie | Lateinische Patristik |  |
+| TXT0191 | LHS0172 |  | Homiliae |  | Homiliae | Augustinus | Homilien | Originalwerk | Homiletik | Lateinische Patristik | Weitere Texte später auflösen. |
+| TXT0192 | LHS0173 |  | Sermones |  | Sermones | Augustinus | Predigten | Originalwerk | Homiletik | Lateinische Patristik |  |
+| TXT0193 | LHS0174 |  | Marius Mercator |  | Opera | Marius Mercator | Traktat | Originalwerk | Dogmatik | Lateinische Patristik | Werk später bestimmen. |
+| TXT0194 | LHS0175 |  | In Genesim ad litteram |  | De Genesi ad litteram | Augustinus | Bibelkommentar | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0195 | LHS0176 |  | Carmina |  | Carmina | Paulinus von Nola | Dichtung | Originalwerk | Literatur | Lateinische Patristik |  |
+| TXT0196 | LHS0177 |  | De vocatione gentium |  | De vocatione omnium gentium | Prosper von Aquitanien | Traktat | Originalwerk | Theologie | Lateinische Patristik |  |
+| TXT0197 | LHS0178 |  | De vita contemplativa |  | De vita contemplativa | Iulianus Pomerius | Traktat | Originalwerk | Asketik | Lateinische Patristik |  |
+| TXT0198 | LHS0179 |  | Martyrologium |  | Martyrologium | anonym | Martyrologium | Redaktion | Liturgie | Liturgische Tradition |  |
+| TXT0199 | LHS0180 |  | Ad uxorem |  | Ad uxorem | Prosper von Aquitanien | Traktat | Originalwerk | Theologie | Lateinische Patristik | Weitere Texte („etc.“) später bestimmen. |
+| TXT0200 | LHS0181 |  | De Spiritu Sancto |  | De Spiritu Sancto | Faustus von Riez | Traktat | Originalwerk | Dogmatik | Lateinische Patristik |  |
+| TXT0201 | LHS0182 |  | Ad Reginum |  | Ad Reginum | Ferrandus von Karthago | Brief | Originalwerk | Briefliteratur | Lateinische Patristik |  |
+| TXT0202 | LHS0183 |  | Vita Karoli |  | Vita Karoli Magni | Einhard | Biographie | Originalwerk | Geschichte | Karolingische Gelehrsamkeit |  |
+| TXT0203 | LHS0184 |  | Chronicon Laurissense breve |  | Chronicon Laurissense breve | anonym | Chronik | Originalwerk | Chronographie | Karolingische Gelehrsamkeit |  |
+| TXT0204 | LHS0185 |  | Moralia in Iob I–V |  | Moralia in Iob | Gregor der Große | Bibelkommentar | Originalwerk | Exegese | Lateinische Patristik | Bücher I–V. |
+| TXT0205 | LHS0186 |  | Moralia in Iob XI–XVI |  | Moralia in Iob | Gregor der Große | Bibelkommentar | Originalwerk | Exegese | Lateinische Patristik | Bücher XI–XVI. |
+| TXT0206 | LHS0187 |  | Moralia in Iob XXXII–XXXV |  | Moralia in Iob | Gregor der Große | Bibelkommentar | Originalwerk | Exegese | Lateinische Patristik | Bücher XXXII–XXXV. |
+| TXT0207 | LHS0188 |  | Homiliae in Ezechielem |  | Homiliae in Hiezechielem | Gregor der Große | Homilien | Originalwerk | Exegese | Lateinische Patristik | Weitere Texte später auflösen. |
+| TXT0208 | LHS0189 |  | Dialogi |  | Dialogi | Gregor der Große | Dialog | Originalwerk | Hagiographie | Lateinische Patristik |  |
+| TXT0209 | LHS0190 |  | Registrum |  | Registrum epistularum | Gregor der Große | Briefsammlung | Originalwerk | Briefliteratur | Lateinische Patristik |  |
+| TXT0210 | LHS0191 |  | Variae |  | Variae | Cassiodor | Briefsammlung | Originalwerk | Briefliteratur | Spätantike Gelehrsamkeit |  |
+| TXT0211 | LHS0192 |  | In Reges |  | Quaestiones in Vetus Testamentum (In Reges) | Isidor von Sevilla | Bibelkommentar | Originalwerk | Exegese | Spätantike Gelehrsamkeit | Weitere Texte später bestimmen. |
+| TXT0212 | LHS0193 |  | Prooemia |  | Prooemia | Isidor von Sevilla | Einleitung | Originalwerk | Exegese | Spätantike Gelehrsamkeit |  |
+| TXT0213 | LHS0193 |  | Chronicon |  | Chronicon | Isidor von Sevilla | Chronik | Originalwerk | Chronographie | Spätantike Gelehrsamkeit |  |
+| TXT0214 | LHS0194 |  | Allegoriae |  | Allegoriae quaedam Sacrae Scripturae | Isidor von Sevilla | Bibelauslegung | Originalwerk | Exegese | Spätantike Gelehrsamkeit |  |
+| TXT0215 | LHS0195 |  | De fide |  | De fide catholica contra Iudaeos | Isidor von Sevilla | Traktat | Originalwerk | Dogmatik | Spätantike Gelehrsamkeit | Weitere Texte später bestimmen. |
+| TXT0216 | LHS0196 |  | Etymologiae |  | Etymologiae | Isidor von Sevilla | Enzyklopädie | Originalwerk | Artes liberales | Spätantike Gelehrsamkeit |  |
+| TXT0217 | LHS0197 |  | Etymologiae |  | Etymologiae | Isidor von Sevilla | Enzyklopädie | Originalwerk | Artes liberales | Spätantike Gelehrsamkeit |  |
+| TXT0218 | LHS0198 |  | In Proverbia |  | In Proverbia Salomonis | Beda Venerabilis | Bibelkommentar | Originalwerk | Exegese | Angelsächsische Gelehrsamkeit | Weitere Texte später bestimmen. |
+| TXT0219 | LHS0199 |  | In Canticum Canticorum |  | In Canticum Canticorum | Beda Venerabilis | Bibelkommentar | Originalwerk | Exegese | Angelsächsische Gelehrsamkeit |  |
+| TXT0220 | LHS0200 |  | In IV Evangelia |  | Expositio in quattuor Evangelia | Pseudo-Theophilus | Bibelkommentar | Originalwerk | Exegese | Spätantike Gelehrsamkeit |  |
+| TXT0221 | LHS0201 |  | Contra haeresim Felicis |  | Contra Felicem | Alkuin | Traktat | Originalwerk | Dogmatik | Karolingische Gelehrsamkeit |  |
+| TXT0222 | LHS0202 |  | De Tobia |  | De Tobia | Ambrosius | Bibelauslegung | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0223 | LHS0203 |  | In Regum |  | Commentarius in Libros Regum | Hrabanus Maurus | Bibelkommentar | Originalwerk | Exegese | Karolingische Gelehrsamkeit |  |
+| TXT0224 | LHS0204 |  | In Sapientiam |  | Commentarius in Sapientiam | Hrabanus Maurus | Bibelkommentar | Originalwerk | Exegese | Karolingische Gelehrsamkeit | Weitere Texte später bestimmen. |
+| TXT0225 | LHS0205 |  | Canones |  | Canones | verschiedene | Kanonistische Sammlung | Kompilation | Kirchenrecht | Kirchenrechtliche Tradition |  |
+| TXT0226 | LHS0206 |  | Haimo in Apocalypsin |  | Commentarius in Apocalypsin | Haimo von Auxerre | Bibelkommentar | Originalwerk | Exegese | Karolingische Gelehrsamkeit |  |
+| TXT0227 | LHS0207 |  | Hugo v. S. Victor |  | Werk unbestimmt | Hugo von St. Victor | Traktat | Originalwerk | Theologie | Hochmittelalter |  |
+| TXT0228 | LHS0208 |  | Kalendarium |  | Kalendarium | anonym | Kalender | Redaktion | Computus | Liturgische Tradition |  |
+| TXT0229 | LHS0208 |  | Liturgica |  | verschiedene liturgische Texte | verschiedene | Sammelhandschrift | Kompilation | Liturgie | Liturgische Tradition |  |
+| TXT0230 | LHS0209 |  | Ordo Romanus |  | Ordo Romanus | anonym | Liturgische Ordnung | Redaktion | Liturgie | Liturgische Tradition |  |
+| TXT0231 | LHS0210 |  | Anthologia |  | Anthologia | verschiedene | Anthologie | Kompilation | Literatur | Klassische lateinische Literatur |  |
+| TXT0232 | LHS0211 |  | Albertus de Ferrariis |  | Werk unbestimmt | Albertus de Ferrariis | Traktat | Originalwerk | Theologie | Hochmittelalter |  |
+| TXT0233 | LHS0212 |  | Missale Gallicanum Vetus |  | Missale Gallicanum Vetus | anonym | Messbuch | Redaktion | Liturgie | Liturgische Tradition |  |
+| TXT0234 | LHS0213 |  | Missale Gallicanum Vetus |  | Missale Gallicanum Vetus | anonym | Messbuch | Redaktion | Liturgie | Liturgische Tradition |  |
+| TXT0235 | LHS0214 |  | Canones |  | Canones | verschiedene | Kanonistische Sammlung | Kompilation | Kirchenrecht | Kirchenrechtliche Tradition |  |
+| TXT0236 | LHS0215 |  | Sacramentarium |  | Sacramentarium | anonym | Liturgisches Buch | Redaktion | Liturgie | Liturgische Tradition | Nachträge. |
+| TXT0237 | LHS0216 |  | Sacramentarium |  | Sacramentarium | anonym | Liturgisches Buch | Redaktion | Liturgie | Liturgische Tradition |  |
+| TXT0238 | LHS0217 |  | Sacramentarium |  | Sacramentarium | anonym | Liturgisches Buch | Redaktion | Liturgie | Liturgische Tradition |  |
+| TXT0239 | LHS0218 |  | Discipulus Umbrensium |  | Discipulus Umbrensium | anonym | Kirchenrecht | Originalwerk | Kirchenrecht | Angelsächsische Gelehrsamkeit |  |
+| TXT0240 | LHS0219 |  | Poenitentiale Egberti |  | Poenitentiale Egberti | Egbert von York | Bußbuch | Originalwerk | Kirchenrecht | Angelsächsische Gelehrsamkeit |  |
+| TXT0241 | LHS0220 |  | Regula Chrodegangi |  | Regula Chrodegangi | Chrodegang von Metz | Regel | Originalwerk | Mönchtum | Karolingische Gelehrsamkeit | Weitere Texte später bestimmen. |
+| TXT0242 | LHS0221 |  | Basilius, Admon. |  | Admonitio | Basilius | Traktat | Übersetzung | Asketik | Griechische Patristik |  |
+| TXT0243 | LHS0222 |  | Basilius, Admon. |  | Admonitio | Basilius | Traktat | Übersetzung | Asketik | Griechische Patristik |  |
+| TXT0244 | LHS0223 |  | Cassianus, Coll. |  | Collationes | Johannes Cassianus | Mönchsliteratur | Originalwerk | Mönchtum | Lateinische Patristik |  |
+| TXT0245 | LHS0224 |  | Cassianus |  | Werk unbestimmt | Johannes Cassianus | Mönchsliteratur | Originalwerk | Mönchtum | Lateinische Patristik | Genaue Werkidentifikation später prüfen. |
+| TXT0246 | LHS0225 |  | Iustiniani Edictum |  | Edictum | Justinianus | Rechtstext | Originalwerk | Recht | Spätantike Gelehrsamkeit | Fachgebiet ggf. bei Endredaktion normieren. |
+| TXT0247 | LHS0226 |  | Gregorii IX. Decret. |  | Decretales Gregorii IX | Gregor IX. | Kirchenrecht | Kompilation | Kirchenrecht | Hochmittelalter |  |
+| TXT0248 | LHS0227 |  | Clementinae c. app. |  | Clementinae cum apparatu | Clemens V. | Kirchenrecht | Kompilation | Kirchenrecht | Hochmittelalter |  |
+| TXT0249 | LHS0228 |  | Ivo Carnot., Decret. |  | Decretum | Ivo von Chartres | Kirchenrecht | Kompilation | Kirchenrecht | Hochmittelalter |  |
+| TXT0250 | LHS0229 |  | Iosephus, Antiqu., lib. 1–12 |  | Antiquitates Iudaicae | Flavius Josephus | Geschichtswerk | Übersetzung | Geschichte | Hellenistisch-jüdische Tradition | Bücher I–XII. |
+| TXT0251 | LHS0230 |  | Eusebius, Hist. eccl. | Rufinus | Historia ecclesiastica | Eusebius von Caesarea | Kirchengeschichte | Übersetzung | Geschichte | Griechische Patristik | Lateinische Übersetzung des Rufinus. |
+| TXT0252 | LHS0231 |  | Cassiodorus, Hist. Trip. |  | Historia tripartita | Cassiodor | Kirchengeschichte | Kompilation | Geschichte | Spätantike Gelehrsamkeit |  |
+| TXT0253 | LHS0232 |  | Sulpicius Sev., Chron. |  | Chronica | Sulpicius Severus | Chronik | Originalwerk | Chronographie | Lateinische Patristik |  |
+| TXT0254 | LHS0233 |  | Orosius, Hist. |  | Historiae adversus paganos | Orosius | Geschichtswerk | Originalwerk | Geschichte | Lateinische Patristik | Bischoff: „etc.“; weitere Texte später bestimmen. |
+| TXT0255 | LHS0234 |  | Beda, Martyrol. |  | Martyrologium | Beda Venerabilis | Martyrologium | Originalwerk | Liturgie | Angelsächsische Gelehrsamkeit |  |
+| TXT0256 | LHS0235 |  | Syllogae inscript. Laur. |  | Syllogae inscriptionum Laureshamenses | anonym | Inschriftensammlung | Kompilation | Geschichte | Karolingische Gelehrsamkeit |  |
+| TXT0257 | LHS0236 |  | Martyrologium Bedae |  | Martyrologium | Beda Venerabilis | Martyrologium | Originalwerk | Liturgie | Angelsächsische Gelehrsamkeit |  |
+| TXT0258 | LHS0237 |  | Isidorus, De nat. r. |  | De natura rerum | Isidor von Sevilla | Naturkundliche Schrift | Originalwerk | Naturkunde | Spätantike Gelehrsamkeit |  |
+| TXT0259 | LHS0238 |  | Vitae SS. |  | Vitae sanctorum | verschiedene | Hagiographische Sammlung | Anthologie | Hagiographie | Karolingische Gelehrsamkeit | Einzeltexte später bestimmen. |
+| TXT0260 | LHS0239 |  | Epistolae Austrasiacae |  | Epistolae Austrasiacae | verschiedene | Briefsammlung | Kompilation | Briefliteratur | Frühmittelalterliche Gelehrsamkeit | Traditionskreis ggf. in Endredaktion normieren. |
+| TXT0261 | LHS0240 |  | Macrobius, Saturn. (exc.) |  | Saturnalia | Macrobius | Dialog / Enzyklopädisches Werk | Exzerpt | Literatur | Spätantike Gelehrsamkeit | Exzerpte. |
+| TXT0262 | LHS0240 |  | Scriptores hist. Aug. (exc.) |  | Historia Augusta | Scriptores Historiae Augustae | Geschichtswerk | Exzerpt | Geschichte | Spätantike Gelehrsamkeit | Exzerpte. |
+| TXT0263 | LHS0241 |  | Fulgentius, De aet. mundi et hom. |  | De aetatibus mundi et hominis | Fulgentius | Chronographisch-enzyklopädische Schrift | Originalwerk | Chronographie | Spätantike Gelehrsamkeit |  |
+| TXT0264 | LHS0242 |  | Sallustius |  | Opera | Sallust | Geschichtswerk | Originalwerk | Geschichte | Klassische lateinische Literatur | Genaue Textidentifikation später prüfen. |
+| TXT0265 | LHS0243 |  | Sallustius |  | Opera | Sallust | Geschichtswerk | Originalwerk | Geschichte | Klassische lateinische Literatur | Genaue Textidentifikation später prüfen. |
+| TXT0266 | LHS0244 |  | Scriptores hist. Aug. |  | Historia Augusta | Scriptores Historiae Augustae | Geschichtswerk | Originalwerk | Geschichte | Spätantike Gelehrsamkeit |  |
+| TXT0267 | LHS0245 |  | Eutropius, Hist. Rom. |  | Breviarium ab urbe condita | Eutropius | Geschichtswerk | Originalwerk | Geschichte | Spätantike Gelehrsamkeit | Bischoff: „etc.“; weitere Texte später bestimmen. |
+| TXT0268 | LHS0246 |  | Jordanes |  | Werk unbestimmt | Jordanes | Geschichtswerk | Originalwerk | Geschichte | Spätantike Gelehrsamkeit | Genaue Werkidentifikation später prüfen. |
+| TXT0269 | LHS0247 |  | Wormser Briefsammlung |  | Wormser Briefsammlung | verschiedene | Briefsammlung | Kompilation | Briefliteratur | Karolingische Gelehrsamkeit |  |
+| TXT0270 | LHS0248 |  | Petrarca, De vir. ill. |  | De viris illustribus | Francesco Petrarca | Biographiensammlung | Originalwerk | Geschichte | Humanismus | Traditionskreis ggf. bei Endredaktion ergänzen/normieren. |
+| TXT0271 | LHS0249 |  | Liber hist. Franc. |  | Liber historiae Francorum | anonym | Geschichtswerk | Originalwerk | Geschichte | Frühmittelalterliche Gelehrsamkeit |  |
+| TXT0272 | LHS0249 |  | Annales Nazariani |  | Annales Nazariani | anonym | Annalen | Originalwerk | Geschichte | Karolingische Gelehrsamkeit |  |
+| TXT0273 | LHS0250 |  | Ps.-Aethicus |  | Cosmographia | Pseudo-Aethicus | Kosmographie | Originalwerk | Naturkunde | Frühmittelalterliche Gelehrsamkeit | Bischoff: „u. a.“; weitere Texte später bestimmen. |
+| TXT0274 | LHS0251 |  | Boethius, Arithm. |  | De institutione arithmetica | Boethius | Lehrschrift | Originalwerk | Arithmetik | Spätantike Gelehrsamkeit |  |
+| TXT0275 | LHS0252 |  | Macrobius, Somn. Scip. |  | Commentarii in Somnium Scipionis | Macrobius | Kommentar | Originalwerk | Philosophie | Spätantike Gelehrsamkeit | Bischoff: „etc.“; weitere Texte später bestimmen. |
+| TXT0276 | LHS0253 |  | Berno, Tonarius |  | Tonarius | Berno von Reichenau | Musiktheoretischer / liturgischer Text | Originalwerk | Musik | Hochmittelalter |  |
+| TXT0277 | LHS0254 |  | Beda, Chronica |  | Chronica | Beda Venerabilis | Chronik | Originalwerk | Chronographie | Angelsächsische Gelehrsamkeit | Bischoff: „etc.“; weitere Texte später bestimmen. |
+| TXT0278 | LHS0255 |  | Computus |  | Computus | verschiedene | Computistische Sammlung | Kompilation | Computus | Karolingische Gelehrsamkeit |  |
+| TXT0279 | LHS0255 |  | Beda, De temp. rat. |  | De temporum ratione | Beda Venerabilis | Lehrschrift | Originalwerk | Computus | Angelsächsische Gelehrsamkeit | Bischoff: „etc.“; weitere Texte später bestimmen. |
+| TXT0280 | LHS0256 |  | Cicero, De fin. bon. et mal. |  | De finibus bonorum et malorum | Cicero | Philosophischer Dialog | Originalwerk | Philosophie | Klassische lateinische Literatur |  |
+| TXT0281 | LHS0257 |  | Cicero, De nat. deorum |  | De natura deorum | Cicero | Philosophischer Dialog | Originalwerk | Philosophie | Klassische lateinische Literatur | Bischoff: „etc.“; weitere Texte später bestimmen. |
+| TXT0282 | LHS0257 |  | Walahfridus, Hort. |  | Hortulus | Walahfrid Strabo | Lehrgedicht | Originalwerk | Naturkunde | Karolingische Gelehrsamkeit |  |
+| TXT0283 | LHS0258 |  | Seneca, De benef. |  | De beneficiis | Seneca | Philosophischer Traktat | Originalwerk | Philosophie | Klassische lateinische Literatur |  |
+| TXT0284 | LHS0258 |  | Seneca, De clem. |  | De clementia | Seneca | Philosophischer Traktat | Originalwerk | Philosophie | Klassische lateinische Literatur |  |
+| TXT0285 | LHS0259 |  | Martianus Cap. |  | De nuptiis Philologiae et Mercurii | Martianus Capella | Enzyklopädie / Lehrgedicht | Originalwerk | Artes liberales | Spätantike Gelehrsamkeit |  |
+| TXT0286 | LHS0260 |  | Fulgentius, Mythologiae |  | Mythologiae | Fulgentius | Mythographische Schrift | Originalwerk | Literatur | Spätantike Gelehrsamkeit |  |
+| TXT0287 | LHS0261 |  | Fulgentius, Expos. Virg. cont. |  | Expositio Virgilianae continentiae | Fulgentius | Vergilkommentar / Allegorese | Originalwerk | Literatur | Spätantike Gelehrsamkeit |  |
+| TXT0288 | LHS0262 |  | Greg. M., Dial. 2,2 f. |  | Dialogi | Gregor der Große | Dialog / Hagiographie | Fragment | Hagiographie | Lateinische Patristik | Buch II, Kap. 2 f. |
+| TXT0289 | LHS0263 |  | Boethius, Cons. phil. |  | Consolatio philosophiae | Boethius | Philosophischer Dialog | Originalwerk | Philosophie | Spätantike Gelehrsamkeit |  |
+| TXT0290 | LHS0264 |  | Chirius Fortunatianus, etc. |  | Ars rhetorica | Chirius Fortunatianus | Rhetoriklehrbuch | Originalwerk | Rhetorik | Spätantike Gelehrsamkeit | Bischoff: „etc.“; weitere Texte später bestimmen. |
+| TXT0291 | LHS0265 |  | Vergilius |  | Opera | Vergil | Dichtung | Originalwerk | Literatur | Klassische lateinische Literatur | Genaue Textidentifikation später prüfen. |
+| TXT0292 | LHS0266 |  | Vergilius |  | Opera | Vergil | Dichtung | Originalwerk | Literatur | Klassische lateinische Literatur |  |
+| TXT0293 | LHS0266 |  | Seneca, Trag. |  | Tragoediae | Seneca | Drama | Originalwerk | Literatur | Klassische lateinische Literatur |  |
+| TXT0294 | LHS0267 |  | Servius |  | Commentarius in Vergilium | Servius | Kommentar | Originalwerk | Literatur | Spätantike Gelehrsamkeit |  |
+| TXT0295 | LHS0268 |  | Priscianus, Partitiones XII vers. Aen. |  | Partitiones duodecim versuum Aeneidos principalium | Priscian | Grammatik | Originalwerk | Grammatik | Spätantike Gelehrsamkeit |  |
+| TXT0296 | LHS0269 |  | Iuvenalis |  | Saturae | Iuvenal | Satire | Originalwerk | Literatur | Klassische lateinische Literatur |  |
+| TXT0297 | LHS0270 |  | Arator |  | De actibus apostolorum | Arator | Biblisches Epos | Originalwerk | Literatur | Lateinische Patristik |  |
+| TXT0298 | LHS0271 |  | Aldhelmus, Aenigm. |  | Aenigmata | Aldhelm | Rätseldichtung | Originalwerk | Literatur | Angelsächsische Gelehrsamkeit | Bischoff: „etc.“; weitere Texte später bestimmen. |
+| TXT0299 | LHS0272 |  | Terentius Scaurus |  | Werk unbestimmt | Terentius Scaurus | Grammatik | Originalwerk | Grammatik | Klassische lateinische Literatur | Bischoff: „u. a.“; genaue Textidentifikation später prüfen. |
+| TXT0300 | LHS0273 |  | Augustinus, Gramm. |  | Ars grammatica | Pseudo-Augustinus | Grammatik | Originalwerk | Grammatik | Spätantike Gelehrsamkeit | Bischoff: „etc.“; weitere Texte später bestimmen. |
+| TXT0301 | LHS0274 |  | Marius Victorinus, Gramm. |  | Ars grammatica | Marius Victorinus | Grammatik | Originalwerk | Grammatik | Spätantike Gelehrsamkeit | Bischoff: „etc.“; weitere Texte später bestimmen. |
+| TXT0302 | LHS0275 |  | Grammatica |  | Grammatica | unbestimmt | Grammatik | Originalwerk | Grammatik | Karolingische Gelehrsamkeit |  |
+| TXT0303 | LHS0276 |  | Pompeius, Gramm. |  | Commentum artis Donati | Pompeius | Grammatik | Originalwerk | Grammatik | Spätantike Gelehrsamkeit |  |
+| TXT0304 | LHS0277 |  | Hieronymus, Interpr. |  | Liber interpretationis Hebraicorum nominum | Hieronymus | Lexikon / Auslegungshilfe | Originalwerk | Exegese | Lateinische Patristik | Bischoff: „etc.“; weitere Texte später bestimmen. |
+| TXT0305 | LHS0278 |  | Liber Glossarum |  | Liber Glossarum | anonym | Glossar / Enzyklopädie | Kompilation | Grammatik | Karolingische Gelehrsamkeit |  |
+| TXT0306 | LHS0279 |  | Katalog III |  | Bibliothekskatalog III | anonym | Bücherverzeichnis | Redaktion | Bibliothekswesen | Karolingische Gelehrsamkeit |  |
+| TXT0307 | LHS0280 |  | Katalog II |  | Bibliothekskatalog II | anonym | Bücherverzeichnis | Redaktion | Bibliothekswesen | Karolingische Gelehrsamkeit |  |
+| TXT0308 | LHS0281 |  | Katalog I |  | Bibliothekskatalog I | anonym | Bücherverzeichnis | Redaktion | Bibliothekswesen | Karolingische Gelehrsamkeit |  |
+| TXT0309 | LHS0282 |  | Smaragdus |  | Werk unbestimmt | Smaragdus | Traktat | Originalwerk | Theologie | Karolingische Gelehrsamkeit | Werk später bestimmen. |
+| TXT0310 | LHS0283 |  | Gregorius Turon., Lib. miraculorum |  | Libri miraculorum | Gregor von Tours | Mirakelbuch | Originalwerk | Hagiographie | Lateinische Patristik |  |
+| TXT0311 | LHS0284 |  | Cyprianus, Tract. |  | Tractatus | Cyprian | Traktat | Originalwerk | Theologie | Lateinische Patristik |  |
+| TXT0312 | LHS0284 |  | Cyprianus, Ep. |  | Epistulae | Cyprian | Briefsammlung | Originalwerk | Briefliteratur | Lateinische Patristik |  |
+| TXT0313 | LHS0285 |  | Florus, Expos. missae |  | Expositio missae | Florus von Lyon | Traktat | Originalwerk | Liturgie | Karolingische Gelehrsamkeit |  |
+| TXT0314 | LHS0286 |  | Sacramentarium Greg.-Hadr. |  | Sacramentarium Gregorianum Hadrianum | anonym | Sakramentar | Redaktion | Liturgie | Liturgische Tradition |  |
+| TXT0315 | LHS0287 |  | Pontificale |  | Pontificale | anonym | Pontifikale | Redaktion | Liturgie | Liturgische Tradition |  |
+| TXT0316 | LHS0288 |  | Livius, lib. 41–45 |  | Ab urbe condita | Livius | Geschichtswerk | Originalwerk | Geschichte | Klassische lateinische Literatur | Bücher 41–45. |
+| TXT0317 | LHS0289 |  | Iordanes |  | Werk unbestimmt | Jordanes | Geschichtswerk | Originalwerk | Geschichte | Spätantike Gelehrsamkeit |  |
+| TXT0318 | LHS0290 |  | Sacramentarium (fragm.) |  | Sacramentarium | anonym | Fragment | Redaktion | Liturgie | Liturgische Tradition |  |
+| TXT0319 | LHS0291 |  | Liber Pontificalis |  | Liber Pontificalis | anonym | Papstchronik | Redaktion | Geschichte | Lateinische Patristik | Weitere Texte später bestimmen. |
+| TXT0320 | LHS0292 |  | Vita Karoli |  | Vita Karoli Magni | Einhard | Biographie | Originalwerk | Geschichte | Karolingische Gelehrsamkeit |  |
+| TXT0321 | LHS0293 |  | Annales Laureshamenses |  | Annales Laureshamenses | anonym | Annalen | Originalwerk | Chronographie | Karolingische Gelehrsamkeit |  |
+| TXT0322 | LHS0294 |  | Homilia |  | Homilia | anonym | Homilie | Originalwerk | Homiletik | Lateinische Patristik |  |
+| TXT0323 | LHS0295 |  | Vita S. Vedasti |  | Vita Sancti Vedasti | Alkuin | Vita | Originalwerk | Hagiographie | Karolingische Gelehrsamkeit |  |
+| TXT0324 | LHS0296 |  | Vitae Sanctorum |  | Vitae Sanctorum | verschiedene | Hagiographische Sammlung | Anthologie | Hagiographie | Lateinische Patristik |  |
+| TXT0325 | LHS0297 |  | In Matthaeum |  | Kommentar zu Matthäus | Christian von Stablo | Bibelkommentar | Originalwerk | Exegese | Karolingische Gelehrsamkeit |  |
+| TXT0326 | LHS0298 |  | De officiis |  | De ecclesiasticis officiis | Isidor von Sevilla | Traktat | Originalwerk | Liturgie | Spätantike Gelehrsamkeit |  |
+| TXT0327 | LHS0299 |  | Diversae quaestiones |  | Diversae quaestiones | Augustinus | Traktat | Originalwerk | Theologie | Lateinische Patristik |  |
+| TXT0328 | LHS0299 |  | Quaestiones evangeliorum |  | Quaestiones evangeliorum | Augustinus | Bibelkommentar | Originalwerk | Exegese | Lateinische Patristik |  |
+| TXT0329 | LHS0300 |  | Epistulae |  | Epistulae | Cyprian | Briefsammlung | Originalwerk | Briefliteratur | Lateinische Patristik |  |
+| TXT0330 | LHS0301 |  | Sequenzen |  | Liber hymnorum | Notker Balbulus | Sequenzen | Originalwerk | Liturgie | Karolingische Gelehrsamkeit |  |
+| TXT0331 | LHS0302 |  | Evangelistarium |  | Evangelistarium | anonym | Evangelistar | Redaktion | Liturgie | Liturgische Tradition |  |
+| TXT0332 | LHS0303 |  | Homiliae |  | Homiliae | verschiedene | Homilien | Anthologie | Homiletik | Lateinische Patristik |  |
+| TXT0333 | LHS0303 |  | Vitae SS. |  | Vitae Sanctorum | verschiedene | Hagiographie | Anthologie | Hagiographie | Lateinische Patristik |  |
+| TXT0334 | LHS0304 |  | Enzykl. Schulbuch |  | Werk unbestimmt | unbekannt | Lehrbuch | Originalwerk | Artes liberales | Karolingische Gelehrsamkeit |  |
+| TXT0335 | LHS0305 |  | Sacramentarium (Nachtr.) |  | Sacramentarium | anonym | Sakramentar | Redaktion | Liturgie | Liturgische Tradition |  |
+| TXT0336 | LHS0306 |  | Canones conc. |  | Canones conciliorum | verschiedene | Kanonessammlung | Kompilation | Kirchenrecht | Kirchenrechtliche Tradition |  |
+| TXT0337 | LHS0307 |  | Canones conc. |  | Canones conciliorum | verschiedene | Kanonessammlung | Kompilation | Kirchenrecht | Kirchenrechtliche Tradition |  |
+| TXT0338 | LHS0308 |  | Martinellus |  | Martinellus | anonym | Hagiographie | Originalwerk | Hagiographie | Karolingische Gelehrsamkeit |  |
+| TXT0339 | LHS0309 |  | Evangelia IV |  | Evangelia | anonym | Evangelienbuch | Redaktion | Bibel | Biblische Überlieferung |  |
+| TXT0340 | LHS0310 |  | Vergilius |  | Opera | Vergil | Dichtung | Originalwerk | Literatur | Klassische lateinische Literatur |  |
+| TXT0341 | LHS0311 |  | Orosius |  | Historiae adversus paganos | Orosius | Geschichtswerk | Originalwerk | Geschichte | Lateinische Patristik | Werk im Katalog nicht näher bezeichnet. |
+| TXT0342 | LHS0312 |  | Gregorius Turon. |  | Werk unbestimmt | Gregor von Tours | Geschichtswerk | Originalwerk | Geschichte | Lateinische Patristik |  |
+| TXT0343 | LHS0313 |  | Historia ecclesiastica |  | Historia ecclesiastica gentis Anglorum | Beda | Kirchengeschichte | Originalwerk | Geschichte | Angelsächsische Gelehrsamkeit |  |
+| TXT0344 | LHS0314 |  | Dialogi |  | Dialogi | Gregor der Große | Dialog | Originalwerk | Hagiographie | Lateinische Patristik |  |
+| TXT0345 | LHS0315 |  | Necrologium Laureshamense |  | Necrologium Laureshamense | anonym | Nekrolog | Redaktion | Mönchtum | Karolingische Gelehrsamkeit | Weitere Texte später bestimmen. |
+| TXT0346 | LHS0316 |  | Eclogae grammaticae |  | Eclogae grammaticae | anonym | Grammatik | Originalwerk | Grammatik | Karolingische Gelehrsamkeit |  |
+| TXT0347 | LHS0317 |  | De spiritu sancto | Hieronymus | De Spiritu Sancto | Didymus der Blinde | Traktat | Übersetzung | Dogmatik | Griechische Patristik | Hieronymus-Übersetzung. |
+| TXT0348 | LHS0318 |  | Tardae passiones |  | Tardae passiones | Caelius Aurelianus | Medizinisches Handbuch | Originalwerk | Medizin | Spätantike Gelehrsamkeit |  |

@@ -1,0 +1,1 @@
+wurde am 31.5.[[455]] von der römischen Bevölkerung gelyncht, weil er vor den anstürmenden Vandalen fliehen wollte.

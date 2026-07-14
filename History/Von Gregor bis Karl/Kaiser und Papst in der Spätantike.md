@@ -15,8 +15,8 @@ In dem Maße wie die ost-römische, byzantinische Schutzmacht im Westen an Bedeu
 [[585]] Exarch Smaragdus schließt Waffenstillstand mit den Langobarden.
 [[616]] Eleutherius wird Exarch.
 [[619]] Eleutherius will sich vom Papst zum Kaiser krönen lassen, wird allerdings von seinen Truppen ermordet.
-[[649]] [[Kaiser Konstans II.]] schickt Exarch Olympius nach Rom um [[Papst Martin I.]] verhaften zu lassen. Olympius unterstützt allerdings Martin und will sich selbst zum Kaiser krönen lassen.
-[[663]] ist der letzte 
+[[649]] [[Kaiser Constans II.]] schickt Exarch Olympius nach Rom um [[Papst Martin I.]] verhaften zu lassen. Olympius unterstützt allerdings Martin und will sich selbst zum Kaiser krönen lassen.
+[[663]] besucht Constans II. Rom. Das ist die letzte Präsenz eines byzantinischen Kaisers in Rom. 
 [[729]] ruft sich Tiberios Petasius in Italien als Basileus aus. Tiberios wird 730 vom Exarch Eutychios (unterstützt von [[Papst Gregor II.]]) gefangen genommen und exekutiert.
 [[729]] Einnahme Ravennas durch die Langobarden. Rückeroberung durch den Exarchen Eutychius.
 [[751]] Die Langobarden unter [[Aistulf]] erobern Ravenna. Ende des Exarchats.

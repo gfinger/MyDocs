@@ -1,4 +1,7 @@
-# Boethius in O’Donnell, _Cassiodorus_
+Unter [[Theoderich]] Magister Officiorum.
+[[510]] Konsul
+[[526]] wegen Hochverrat zum Tod verurteilt (genaues Datum ist nicht bekannt, möglicherweise fand die Hinrichtung bereits [[524]] stat).
+## Boethius in O’Donnell, _Cassiodorus_
 
 ## 1. Herkunft und Karriere
 
@@ -41,6 +44,10 @@
     
 
 ## 5. Werke und Nachwirkung
+Boethius’ translations of Porphyry’s Isagoge, and Aristotle’s Categories and De interpretatione, were known throughout the Middle Ages. His translations of the Sophistical Refutations, Topics and Prior Analytics were rediscovered during the first half of the twelfth century. Boethius’
+translation of the Posterior Analytics (if he made one) apparently did not
+survive into the Middle Ages.
+There are Boethius’ commentaries on the Isagoge, Categories, and De interpretatione, his account of conditional propositions in De hypotheticis syllogismis, and his treatment of topical argumentation in De topicis differentiis. Boethius’ own peculiar contribution to the history of logic was an exposition of the hypothetical syllogism which would play no role in the development of logic after the middle of the twelfth century.
 
 - Boethius’ Werke zirkulierten weiterhin, insbesondere das **Consolatio Philosophiae** (nach 524 im Gefängnis verfasst).
     

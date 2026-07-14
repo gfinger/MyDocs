@@ -18,5 +18,26 @@ Im Netzwerk der Klöster wurden Bücher weitergegeben, getauscht aber ohne ökon
 Bücher hatten Tauschcharakter aber waren nicht Objekte eines offenen Marktes. (Depreux)
 ### Verkauf der Bibliothek Karls d.G.
 
+## Von Syrien nach England
+[[Theodor von Tarsus]] --> [[Benedict Biscop]] --> [[Beda Venerabilis]] --> [[Alkuin]]
+griechische Bildung
+Bücher aus Rom nach England (kauf aus [[Cassiodorus]]s Bibliothek?)
+Rolle des Klosters Lerins
+
+# Vor Karl dem Großen
+## Pippin III.
+[[Papst Paul I.]] schickt [[Pippin III.]] Bücher (um [[758]] - [[763]]).
+In einem Brief Pauls wird eine Liste liturgischer Bücher und Bücher für den Schulbetrieb in griechischer Sprache genannt. Es ist nicht ganz klar, um welche Bücher es sich genau handelte.
+### Liturgische Bücher
+- Antiphonar
+- Responsorial
+### Schulbücher (auf Griechisch)
+- _ars grammatica Aristolis_
+- _geometria Dionisii Areopagitae_
+- _orthographia_
+- _grammatica_
+### Computus
+- horologium nocturnum
+
 
 
