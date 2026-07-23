@@ -1,0 +1,802 @@
+# Handbuch_v24 zur Forschungstabelle Lorsch
+
+**Datenbasis:** `lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-3.md`  
+**Stand:** 2026-07-08  
+**Status:** Normierung v7-3; zusätzliche, noch nicht materialisierte Entscheidungen: `Oribasianische Tradition` soll künftig zu `Spätantike Medizin` vereinheitlicht werden; `TXT0015-01` wird bei Thema/Überlieferungslinie nachnormiert.
+
+
+## Vorgemerkte Normierungsentscheidung nach v7-3
+
+| Feld | bisheriger Wert | künftiger Normwert | Status |
+| --- | --- | --- | --- |
+| `Überlieferungslinie` | `Oribasianische Tradition` | `Spätantike Medizin` | vorgemerkt, noch nicht in der Forschungstabelle materialisiert |
+| `Thema` | `Liturgie / Dichtung` | `Dichtung` | vorgemerkt, noch nicht in der Forschungstabelle materialisiert; betrifft `TXT0015-01` |
+| `Überlieferungslinie` | `St. Galler Sequenztradition` | `Karolingische Gelehrsamkeit` | vorgemerkt, noch nicht in der Forschungstabelle materialisiert; betrifft `TXT0015-01` |
+
+### Begründung
+
+`Oribasianische Tradition` ist als Datenbankwert zu speziell und für die Auswertung wenig transparent. Der Normwert `Spätantike Medizin` benennt den medizinischen Traditionszusammenhang breiter und verständlicher. Falls ein konkreter Textbezug zu Oribasius sachlich relevant ist, kann dieser in `Titel` oder `Bemerkungen` vermerkt werden.
+
+## Aktuelles Spaltenschema v7-3
+
+| Spalte | Funktion |
+| --- | --- |
+| `TXT-ID` | Primärschlüssel der Textebene. |
+| `LHS-ID` | Fremdschlüssel zur Bischoff-/Handschriftenebene. |
+| `Siegel` | BL-/Dateisigel bzw. Arbeitskennung des ausgewerteten Codex. |
+| `Seiten` | Blatt-/Seitenangaben aus dem BL-Eintrag, soweit bereits aus den Bemerkungen extrahiert. Dazu gehören auch Lagen-/Spiegelangaben wie `Vorderspiegel` oder `Hinterspiegel`, wenn der Text dort lokalisiert ist. |
+| `Autor` | Autor, zugeschriebener Autor oder `Anonymus`; leer, wenn nicht sinnvoll bestimmbar. |
+| `Titel` | Werktitel. In der Schema-Migration aus der früheren Spalte `Werk` übernommen; künftig möglichst nach BL-Titelansatz zu befüllen. |
+| `Buchgattung` | breite Großgattung oder formale Hauptgruppe. |
+| `Untergattung` | nähere Form, Gebrauchsform oder fachliche Texttradition innerhalb der Großgattung. Entspricht der früheren Spalte `Sub-Gattung`. |
+| `Thema` | inhaltlicher Gegenstand bzw. Wissensbereich. |
+| `Überlieferungslinie` | literarisch-historischer oder schulischer Traditionszusammenhang. |
+| `Bemerkungen` | Freitext für Besonderheiten, Unsicherheiten, relevante frühere Werktyp-Informationen, BL-Hinweise und redaktionelle Notizen. Blatt-/Seitenangaben sollen nicht mehr hier, sondern in `Seiten` stehen. |
+| `Lorsch-Bezug` | einfacher Marker `ja`; ans Tabellenende verschoben und perspektivisch entbehrlich, wenn nur noch Lorscher Einträge geführt werden. |
+
+## Schemaänderungen gegenüber v7
+
+| Änderung | Umsetzung |
+| --- | --- |
+| Neue Spalte `Seiten` | direkt nach `Siegel` eingefügt |
+| Blatt-/Seitenangaben in `Bemerkungen` | soweit maschinell eindeutig erkennbar nach `Seiten` verschoben |
+| Standardformel `Text [Nr.] nach Bibliotheca Laureshamensis` | aus `Bemerkungen` entfernt |
+| Standardformel `Nachtrag [Nr.] nach Bibliotheca Laureshamensis` | bereinigt; `Nachtrag` / `Nachtrag [Nr.]` bleibt erhalten, wenn sachlich sinnvoll |
+| `Bemerkungen` | von Seitenangaben und Standardformeln entlastet |
+
+
+## Normierungsänderung gegenüber v7-2
+
+| Änderung | Umsetzung |
+| --- | --- |
+| `Überlieferungslinie = Bibel` | zu `Christlicher Kanon` vereinheitlicht |
+| `Überlieferungslinie = Kirchenrechtliche Tradition` | zu `Christlicher Kanon` vereinheitlicht |
+| `Thema = Biblische Überlieferung` | zu `Bibel` vereinheitlicht |
+
+**Regel:** `Christlicher Kanon` bezeichnet in der Spalte `Überlieferungslinie` die normative christliche Kanontradition. Dazu gehören biblische Grundtexte ebenso wie kanonisch-normative Texte, insbesondere Konzilsbeschlüsse, Kanones und kirchenrechtliche Sammlungen. Das Feld `Thema` benennt dagegen den konkreten Gegenstand, z. B. `Bibel` oder `Kirchenrecht`.
+
+## Leitentscheidungen zur Klassifikation
+
+### Biblische Primärtexte
+
+Biblische Grundtexte werden als `Bibeltext` geführt. Konkrete Gebrauchsformen stehen in `Untergattung`, etwa `Evangelienbuch`, `Evangelistar`, `Perikopenbuch` oder `Bibel mit Glosse`. In der Spalte `Überlieferungslinie` gilt hierfür der Normwert `Christlicher Kanon`; im Feld `Thema` kann `Bibel` stehen.
+
+### Bibelexegese
+
+`Bibelexegese` ist der bevorzugte Oberbegriff für allgemeine biblische Auslegung. Bibelbezogene Quaestiones werden als `Bibelexegese` mit `Untergattung = Quaestiones` geführt. `Bibeltext` bleibt biblischem Grundtext vorbehalten.
+
+### Liturgische Gebrauchsbücher
+
+`Liturgisches Buch` bleibt Großgattung für Bücher und Textformen, die unmittelbar dem liturgischen Vollzug dienen. Untergattungen sind z. B. `Sakramentar`, `Messbuch`, `Pontifikale`, `Benedictionale` und `Ordo`. Erklärende Texte über Liturgie stehen dagegen unter `Fachtext`, z. B. mit `Untergattung = Liturgik` oder `Messerklärung`.
+
+
+### Sequenzen und überfeine Überlieferungslinien
+
+Sequenzen werden als `Buchgattung = Dichtung`, `Untergattung = Sequenz` geführt. Für das Feld `Thema` genügt bei Sequenzen in der Regel `Dichtung`; der liturgische Gebrauch ist durch die Untergattung und ggf. Bemerkungen erkennbar. Zu enge, nur an einem einzelnen Werk sichtbare Überlieferungslinien werden vermieden. `St. Galler Sequenztradition` wird daher für `TXT0015-01` zu `Karolingische Gelehrsamkeit` vereinheitlicht. Spezifische Schul-, Kloster- oder Lokaltraditionen sollen nur als `Überlieferungslinie` verwendet werden, wenn sie für mehrere Einträge analytisch tragfähig sind.
+
+### Fachtexte, Artes liberales, Computus und Medizin
+
+`Fachtext` ist die breite Großgattung für fachbezogene Sachtexte. Die `Untergattung` benennt die fachliche Texttradition oder den engeren Typ, z. B. `Grammatik`, `Rhetorik`, `Arithmetik`, `Computus`, `Medizin`, `Musiktheorie`, `Glossar`, `Lehrschrift`, `Traktat`, `Handbuch` oder `Rezeptsammlung`.
+
+### Weitere beschlossene Vereinheitlichungen
+
+| Entscheidung | Normierung |
+| --- | --- |
+| Bücherverzeichnis | `Katalog` |
+| Brief / Briefsammlung | `Briefe` |
+| Sequenz / Sequenzen | `Buchgattung = Dichtung`, `Untergattung = Sequenz` |
+| Dialog / Hagiographie | `Buchgattung = Hagiographie`, `Untergattung = Dialog` |
+| Genealogie | `Buchgattung = Geschichtswerk`, `Untergattung = Genealogie` |
+| Predigt / Predigten / Homiliensammlung | `Homilien` |
+
+## Aktuelle Kennzahlen v7-3
+
+| Kennzahl | Wert |
+| --- | ---: |
+| Datenzeilen | 405 |
+| Spalten | 12 |
+| befüllte `Seiten`-Zellen | 66 |
+| Buchgattungen | 79 |
+| Untergattungen inkl. leer | 31 |
+| verbleibende Standardformeln `Text ... nach Bibliotheca Laureshamensis` | 0 |
+| verbleibende `Thema = Biblische Überlieferung` | 0 |
+| verbleibende `Überlieferungslinie = Bibel` | 0 |
+| verbleibende `Überlieferungslinie = Kirchenrechtliche Tradition` | 0 |
+| `Überlieferungslinie = Christlicher Kanon` | 37 |
+
+## Aktuelle Wertelisten v7-3
+
+
+### Buchgattung
+
+| Wert | Anzahl |
+| --- | ---: |
+| `Fachtext` | 98 |
+| `Bibeltext` | 34 |
+| `Bibelkommentar` | 31 |
+| `Homilien` | 21 |
+| `Briefe` | 20 |
+| `Geschichtswerk` | 20 |
+| `Liturgisches Buch` | 19 |
+| `Kommentar` | 18 |
+| `Dichtung` | 15 |
+| `Hagiographie` | 9 |
+| `Bibelexegese` | 8 |
+| `Sammelhandschrift` | 7 |
+| `Kirchenrecht` | 6 |
+| `Chronik` | 6 |
+| `Mönchsliteratur` | 5 |
+| `Katalog` | 4 |
+| `Bibelglossen` | 4 |
+| `Kanonistische Sammlung` | 3 |
+| `Glossen` | 3 |
+| `Martyrologium` | 3 |
+| `Kirchengeschichte` | 3 |
+| `Epos` | 2 |
+| `Sammlung` | 2 |
+| `Rechtstext` | 2 |
+| `Psalmenkommentar` | 2 |
+| `Vita` | 2 |
+| `Biographie` | 2 |
+| `Hagiographische Sammlung` | 2 |
+| `Annalen` | 2 |
+| `Philosophischer Dialog` | 2 |
+| `Kanonessammlung` | 2 |
+| `Liturgischer Text` | 1 |
+| `Hagiographie / Vita` | 1 |
+| `Geographie / Naturkunde` | 1 |
+| `Kommentar / Exzerpt?` | 1 |
+| `Florilegium` | 1 |
+| `Urkundenbuch` | 1 |
+| `Autobiographie` | 1 |
+| `Klagevers` | 1 |
+| `Enzyklopädie` | 1 |
+| `Konzilsakten` | 1 |
+| `Kanonistische Sentenzen` | 1 |
+| `Chronographie / Computus?` | 1 |
+| `Bibliothekskatalog` | 1 |
+| `Urkunde / Testament` | 1 |
+| `Liste` | 1 |
+| `Traktat / Dialog` | 1 |
+| `Literaturgeschichtlicher Katalog` | 1 |
+| `Florilegium / Exzerptwerk` | 1 |
+| `Einleitung` | 1 |
+| `Anthologie` | 1 |
+| `Bußbuch` | 1 |
+| `Regel` | 1 |
+| `Inschriftensammlung` | 1 |
+| `Naturkundliche Schrift` | 1 |
+| `Dialog / Enzyklopädisches Werk` | 1 |
+| `Chronographisch-enzyklopädische Schrift` | 1 |
+| `Biographiensammlung` | 1 |
+| `Kosmographie` | 1 |
+| `Liturgische Notiz` | 1 |
+| `Philosophischer Text` | 1 |
+| `Lehrgedicht` | 1 |
+| `Enzyklopädie / Lehrgedicht` | 1 |
+| `Enzyklopädie / Naturkunde` | 1 |
+| `Mythographische Schrift` | 1 |
+| `Vergilkommentar / Allegorese` | 1 |
+| `Vita / Autorenbiographie` | 1 |
+| `Philosophischer Dialog / Prosimetrum` | 1 |
+| `Kommentar / Glossenapparat` | 1 |
+| `Dichtung / Schreiberverse` | 1 |
+| `Dichtung / Spottgedicht` | 1 |
+| `Drama` | 1 |
+| `Satire` | 1 |
+| `Biblisches Epos` | 1 |
+| `Rätseldichtung` | 1 |
+| `Lexikon / Auslegungshilfe` | 1 |
+| `Mirakelbuch` | 1 |
+| `Papstchronik` | 1 |
+| `Nekrolog` | 1 |
+
+### Untergattung
+
+| Wert | Anzahl |
+| --- | ---: |
+| `(leer)` | 255 |
+| `Traktat` | 41 |
+| `Evangelienbuch` | 14 |
+| `Medizin` | 14 |
+| `Grammatik` | 12 |
+| `Sakramentar` | 11 |
+| `Computus` | 6 |
+| `Artes liberales` | 6 |
+| `Evangelistar` | 5 |
+| `Dialog` | 4 |
+| `Quaestiones` | 4 |
+| `Lehrschrift` | 3 |
+| `Pontifikale` | 3 |
+| `Liturgik` | 2 |
+| `Sequenz` | 2 |
+| `Arithmetik` | 2 |
+| `Bibel mit Glosse` | 2 |
+| `Epitome` | 2 |
+| `Dialektik` | 2 |
+| `Musiktheorie` | 2 |
+| `Rhetorik` | 2 |
+| `Messbuch` | 2 |
+| `Genealogie` | 1 |
+| `Messerklärung` | 1 |
+| `Grammatik / Rhetorik` | 1 |
+| `Lehrnotiz` | 1 |
+| `Glossar` | 1 |
+| `Dialektik / Rhetorik` | 1 |
+| `Benedictionale` | 1 |
+| `Ordo` | 1 |
+| `Lehrschema` | 1 |
+
+### Thema
+
+| Wert | Anzahl |
+| --- | ---: |
+| `Exegese` | 74 |
+| `Liturgie` | 37 |
+| `Geschichte` | 32 |
+| `Bibel` | 27 |
+| `Theologie` | 26 |
+| `Literatur` | 18 |
+| `Medizin` | 17 |
+| `Hagiographie` | 15 |
+| `Kirchenrecht` | 14 |
+| `Briefliteratur` | 13 |
+| `Homiletik` | 13 |
+| `Grammatik` | 12 |
+| `Mönchtum` | 8 |
+| `Philosophie` | 8 |
+| `Dogmatik` | 7 |
+| `Chronographie` | 7 |
+| `Bibliothekswesen` | 6 |
+| `Computus` | 6 |
+| `Artes liberales` | 5 |
+| `Naturkunde` | 5 |
+| `Dichtung` | 4 |
+| `verschieden` | 4 |
+| `Asketik` | 4 |
+| `Arithmetik` | 2 |
+| `Exzerptliteratur` | 2 |
+| `Dialektik` | 2 |
+| `Klostergeschichte` | 2 |
+| `Metrik` | 2 |
+| `Lexikographie` | 2 |
+| `Musik` | 2 |
+| `Recht` | 2 |
+| `Rhetorik` | 2 |
+| `Philosophie / Logik` | 2 |
+| `Astronomie` | 2 |
+| `Liturgie / Dichtung` | 1 |
+| `Autobiographie` | 1 |
+| `Liturgie / Kirchenjahr` | 1 |
+| `Eschatologie` | 1 |
+| `Dichtung / Moral` | 1 |
+| `Askese / Jungfräulichkeit` | 1 |
+| `Grammatik / Rhetorik` | 1 |
+| `Anthropologie / Morallehre` | 1 |
+| `Dialektik / Rhetorik` | 1 |
+| `Kanonistik` | 1 |
+| `Urkundenwesen` | 1 |
+| `Kosmologie` | 1 |
+| `Wissenschaftstheorie` | 1 |
+| `Artes liberales / Astronomie` | 1 |
+| `Philosophie / Astronomie` | 1 |
+| `Liturgie / Eucharistie` | 1 |
+| `Biographie` | 1 |
+| `Philosophie / Exegese eines Schultextes` | 1 |
+| `Dichtung / Buchkultur` | 1 |
+| `Enzyklopädie / Artes liberales` | 1 |
+| `Exegese / Liturgie` | 1 |
+
+### Überlieferungslinie
+
+| Wert | Anzahl |
+| --- | ---: |
+| `Lateinische Patristik` | 114 |
+| `Karolingische Gelehrsamkeit` | 65 |
+| `Spätantike Gelehrsamkeit` | 49 |
+| `Christlicher Kanon` | 37 |
+| `Klassische lateinische Literatur` | 32 |
+| `Liturgische Tradition` | 28 |
+| `Angelsächsische Gelehrsamkeit` | 18 |
+| `Griechische Patristik` | 14 |
+| `Frühmittelalterliche Medizin` | 10 |
+| `Frühmittelalterliche Gelehrsamkeit` | 9 |
+| `Hochmittelalter` | 8 |
+| `Spätantike Medizin` | 2 |
+| `Oribasianische Tradition` | 2 |
+| `Hellenistisch-jüdische Tradition` | 2 |
+| `Biblische Glossentradition` | 2 |
+| `Antike Naturphilosophie` | 1 |
+| `Ottonische Gelehrsamkeit` | 1 |
+| `St. Galler Sequenztradition` | 1 |
+| `Sprachlogische Tradition` | 1 |
+| `Lorscher Überlieferung` | 1 |
+| `Antike Philosophie` | 1 |
+| `Humanismus` | 1 |
+| `Frühmittelalterliche Theologie` | 1 |
+| `Boethius-Überlieferung` | 1 |
+| `Mittelalterliche Schreibkultur` | 1 |
+| `Mittelalterliche Gelegenheitsdichtung` | 1 |
+| `Angelsächsisch-karolingische Glossentradition` | 1 |
+| `Biblische Glossentradition; Karolingische Gelehrsamkeit` | 1 |
+
+
+## v26 – Vorgemerkte Normierung: Isidor und `Lateinische Patristik` (2026-07-08)
+
+### Entscheidung
+
+Isidor von Sevilla bzw. isidorische Texte werden in der Spalte `Überlieferungslinie` nicht unter `Lateinische Patristik` geführt. Der bevorzugte Normwert ist `Spätantike Gelehrsamkeit`.
+
+### Begründung
+
+`Lateinische Patristik` soll vor allem für die lateinische Vätertradition im engeren Sinn verwendet werden. Isidor steht zwar in der christlich-lateinischen Tradition, ist für diese Tabelle aber analytisch besser als spätantiker bzw. frühmittelalterlich rezipierter Wissenskompilator zu erfassen. Seine Werke — insbesondere `Etymologiae`, `Sententiae`, `De natura rerum`, `Chronicon`, `De ecclesiasticis officiis` usw. — werden daher der Linie `Spätantike Gelehrsamkeit` zugeordnet.
+
+### Vorgemerkte Tabellenänderung
+
+| Feld | bisheriger Wert | künftiger Wert | Anwendungsfall |
+| --- | --- | --- | --- |
+| `Überlieferungslinie` | `Lateinische Patristik` | `Spätantike Gelehrsamkeit` | Isidorische Texte, soweit noch nicht entsprechend normiert |
+
+Im aktuellen Stand `v7-3` betrifft dies nach Prüfung insbesondere `TXT0008-02` (`Isidorus`, `Versus seu Carmina`). Die übrigen expliziten Isidor-Zeilen sind bereits als `Spätantike Gelehrsamkeit` geführt.
+
+## v27 – Methodische Präzisierung: Überlieferungslinie nach Textfunktion, nicht mechanisch nach Autor (2026-07-08)
+
+### Entscheidung
+
+Die Spalte `Überlieferungslinie` wird grundsätzlich vom konkreten Text, seiner Funktion und seinem Überlieferungszusammenhang her bestimmt, nicht mechanisch vom Autorennamen.
+
+### Regel
+
+Ein Autor kann in verschiedenen Überlieferungslinien erscheinen, wenn unterschiedliche Texte desselben Autors bzw. derselben Zuschreibung in unterschiedlichen funktionalen Kontexten überliefert werden.
+
+| Beispiel | maßgebliche Einordnung |
+| --- | --- |
+| Johannes Cassianus, `Collationes` | `Monastische Tradition` |
+| Gregorius Magnus (trad.), `Sacramentarium Gregorianum` | `Liturgische Tradition` |
+| Gregor der Große, `Moralia in Iob` | `Lateinische Patristik` bzw. exegetisch-patristische Tradition |
+| Isidorische Wissenskompilationen | `Spätantike Gelehrsamkeit` |
+
+### Begründung
+
+Die Überlieferungslinie soll analytisch abbilden, in welchem Traditionszusammenhang der jeweilige Text in der Lorscher Bibliothek steht. Der Autor ist dafür ein wichtiger Hinweis, aber nicht allein ausschlaggebend. Entscheidend ist die Textfunktion: liturgisches Gebrauchsbuch, monastischer Lehr- und Übungstext, patristische Exegese, spätantike Wissenskompilation usw.
+
+### Vorgemerkte Tabellenänderung
+
+| TXT-ID | Feld | bisheriger Wert | künftiger Wert | Begründung |
+| --- | --- | --- | --- | --- |
+| `TXT0009` | `Überlieferungslinie` | `Lateinische Patristik` | `Monastische Tradition` | Cassians `Collationes I–X` sind für die Tabelle primär monastische Lehr- und Übungsliteratur. |
+| `TXT0010` | `Überlieferungslinie` | `Lateinische Patristik` | `Monastische Tradition` | Cassians `Collationes XI–XVII` sind für die Tabelle primär monastische Lehr- und Übungsliteratur. |
+
+Die liturgischen Einträge zum `Sacramentarium Gregorianum` bleiben dagegen trotz gregorianischer Zuschreibung bei `Liturgische Tradition`.
+
+
+
+## v28 – Vorgemerkte Normierung: `Homiletik` als Thema vermeiden (2026-07-08)
+
+### Entscheidung
+
+`Homiletik` wird in der Spalte `Thema` nicht als Normwert für konkrete Homilienüberlieferung verwendet. Der Begriff bezeichnet eher die Lehre, Theorie oder Wissenschaft von der Predigt bzw. Homilie. Für konkrete Homilien oder Homilienbestände ist als Thema `Homilien` bzw. — wenn der Auslegungscharakter im Vordergrund steht — `Bibelexegese` zu verwenden.
+
+### Anwendung
+
+| Fall | Thema | Begründung |
+| --- | --- | --- |
+| konkrete Homilien / Homilienbestand | `Homilien` | Gegenstand ist die Textgattung selbst, nicht die Theorie der Predigt |
+| Homilien als biblische Auslegung | `Bibelexegese` | wenn der exegetische Charakter stärker analytisch relevant ist |
+| theoretischer Text über Predigt/Homilie | `Homiletik` | nur für ausdrücklich theoretische oder regelhafte Texte zur Predigtlehre |
+
+### Vorgemerkte Tabellenänderung
+
+| TXT-ID | Feld | bisheriger Wert | künftiger Wert | Begründung |
+| --- | --- | --- | --- | --- |
+| `TXT0018` | `Thema` | `Homiletik` | `Homilien` | LHS0017 trägt den Titel `Homiliae`; gemeint ist ein Homilienbestand, nicht Predigtlehre. |
+
+
+## v29 – Vorgemerkte Normierung: Pseudo-Hegesippus nicht `Lateinische Patristik` (2026-07-08)
+
+### Entscheidung
+
+Pseudo-Hegesippus, `De excidio Hierosolymitano`, wird in der Spalte `Überlieferungslinie` nicht unter `Lateinische Patristik` geführt. Der bevorzugte Normwert ist `Spätantike Gelehrsamkeit`.
+
+### Begründung
+
+`Lateinische Patristik` bleibt für patristische Autoritäts- und Exegesetraditionen im engeren Sinn reserviert. `De excidio Hierosolymitano` ist in der Tabelle bereits als `Geschichtswerk` erfasst; analytisch ist der Text besser als spätantike lateinisch-christliche Geschichtsdarstellung bzw. Wissensüberlieferung zu behandeln. Die Josephus-/Hegesippus-Bezüge können bei Bedarf in `Bemerkungen` erscheinen, sollen aber keine eigene Überlieferungslinie erzwingen.
+
+### Vorgemerkte Tabellenänderung
+
+| TXT-ID | Feld | bisheriger Wert | künftiger Wert | Begründung |
+| --- | --- | --- | --- | --- |
+| `TXT0021` | `Überlieferungslinie` | `Lateinische Patristik` | `Spätantike Gelehrsamkeit` | Pseudo-Hegesippus ist hier als spätantikes Geschichtswerk relevant, nicht als Patristik im engeren Sinn. |
+
+
+## v30 – Vorgemerkte Normierung: `Hellenistisch-jüdische Tradition` zu `Antik-jüdische Literatur` (2026-07-08)
+
+### Entscheidung
+
+Der bisherige Wert `Hellenistisch-jüdische Tradition` wird in der Spalte `Überlieferungslinie` künftig durch `Antik-jüdische Literatur` ersetzt.
+
+### Definition
+
+`Antik-jüdische Literatur` bezeichnet jüdische Autoren und Werke der hellenistischen und römischen Zeit, die in lateinischer bzw. christlicher Rezeption überliefert sind. Der Begriff umfasst insbesondere Philo von Alexandria und Flavius Josephus.
+
+### Begründung
+
+`Hellenistisch-jüdische Tradition` ist zwar für Philo grundsätzlich passend, aber für Josephus zu eng und insgesamt etwas sperrig. `Antik-jüdische Literatur` ist breiter, verständlicher und trägt beide bisher betroffenen Einträge. Die Linie bleibt zugleich spezifisch genug, um Philo und Josephus nicht unpassend unter `Spätantike Gelehrsamkeit` oder `Klassische lateinische Literatur` einzuordnen.
+
+### Vorgemerkte Tabellenänderung
+
+| Feld | bisheriger Wert | künftiger Wert | Anwendungsfall |
+| --- | --- | --- | --- |
+| `Überlieferungslinie` | `Hellenistisch-jüdische Tradition` | `Antik-jüdische Literatur` | Philo von Alexandria, Flavius Josephus und vergleichbare jüdische Autoren/Werke der hellenistischen und römischen Zeit |
+
+Im aktuellen Stand `v7-3` betrifft dies nach Prüfung `TXT0028` und `TXT0250`.
+
+
+## v31 – Vorgemerkte Normierung: Gregor von Tours nicht `Lateinische Patristik` (2026-07-08)
+
+### Entscheidung
+
+Gregor von Tours wird in der Spalte `Überlieferungslinie` nicht unter `Lateinische Patristik` geführt. Für die derzeit betroffenen Einträge ist der bevorzugte Normwert `Frühmittelalterliche Gelehrsamkeit`.
+
+### Begründung
+
+`Lateinische Patristik` bleibt für patristische Autoritäts-, Exegese- und Lehrtraditionen im engeren Sinn reserviert. Gregor von Tours gehört für diese Datenbank eher in den Bereich frühmittelalterlicher, insbesondere merowingisch-fränkischer Geschichts- und Hagiographieüberlieferung. Da wir Ein-Werk- oder Ein-Zeilen-Sondertraditionen vermeiden wollen, wird vorläufig kein eigener Normwert wie `Merowingische Historiographie` eingeführt. Die konkrete Textform bleibt über `Buchgattung` und `Thema` sichtbar.
+
+### Anwendung
+
+| TXT-ID | Titel | Feld | bisheriger Wert | künftiger Wert | Begründung |
+| --- | --- | --- | --- | --- | --- |
+| `TXT0034` | `Historia Francorum` | `Überlieferungslinie` | `Lateinische Patristik` | `Frühmittelalterliche Gelehrsamkeit` | Frühmittelalterlich-fränkisches Geschichtswerk, nicht Patristik im engeren Sinn. |
+| `TXT0310` | `Libri miraculorum` | `Überlieferungslinie` | `Lateinische Patristik` | `Frühmittelalterliche Gelehrsamkeit` | Frühmittelalterliche hagiographische bzw. Mirakelüberlieferung; das Thema bleibt `Hagiographie`. |
+| `TXT0342` | `Werk unbestimmt` | `Überlieferungslinie` | `Lateinische Patristik` | `Frühmittelalterliche Gelehrsamkeit` | Zuschreibung an Gregor von Tours reicht nicht für Patristik; bei unbestimmtem Werk ist die breitere frühmittelalterliche Linie vorzuziehen. |
+
+### Allgemeine Regel
+
+Gregor von Tours wird nicht pauschal als `Lateinische Patristik` behandelt. Die konkrete Einordnung richtet sich nach dem Text: Geschichtswerke bleiben als `Geschichtswerk`/`Geschichte` erfasst, hagiographische Texte als `Hagiographie`; die Überlieferungslinie ist vorläufig `Frühmittelalterliche Gelehrsamkeit`, solange keine tragfähigere, mehrfach belegte Speziallinie eingeführt wird.
+
+---
+
+## v32 – Materialisierung der gesammelten Normierungsentscheidungen als Forschungstabelle v7-4 (2026-07-08)
+
+Die seit `v7-3` gesammelten Normierungsentscheidungen wurden als Forschungstabelle `v7-4` materialisiert. Das Spaltenschema blieb unverändert.
+
+Umgesetzt wurden insbesondere:
+
+| Bereich | Umsetzung |
+|---|---|
+| Cassian, `Collationes` | Titelpräzisierung zu `Collationes I–X` bzw. `Collationes XI–XVII`; Überlieferungslinie zu `Monastische Tradition` |
+| Medizinische Traditionslinie | `Oribasianische Tradition` zu `Spätantike Medizin` |
+| Sequenz `TXT0015-01` | Thema zu `Dichtung`; Überlieferungslinie zu `Karolingische Gelehrsamkeit` |
+| Isidor | `TXT0008-02` zu `Spätantike Gelehrsamkeit` |
+| Homilien | `TXT0018`, Thema `Homiletik` zu `Homilien` |
+| Pseudo-Hegesippus | `TXT0021` zu `Spätantike Gelehrsamkeit` |
+| Philo/Josephus | `Hellenistisch-jüdische Tradition` zu `Antik-jüdische Literatur` |
+| Gregor von Tours | betroffene Einträge zu `Frühmittelalterliche Gelehrsamkeit` |
+
+Prüfung der Forschungstabelle `v7-4`:
+
+| Kennzahl | Ergebnis |
+|---|---:|
+| Datenzeilen | 405 |
+| Spalten | 12 |
+| geänderte Zeilen gegenüber `v7-3` | 13 |
+| geänderte Zellen gegenüber `v7-3` | 16 |
+| fehlerhafte Tabellenzeilen | 0 |
+| doppelte TXT-IDs | 0 |
+
+
+
+## Aktualisierung v33: Homilien / Homiletik
+
+`Homiletik` wird nicht als Thema für konkrete Homilienbestände verwendet. Bei Titeln wie `Homiliae` gilt als Thema `Homilien`; `Homiletik` bleibt höchstens für theoretische Texte über Predigt/Homilie reserviert.
+
+Materialisiert in Forschungstabelle v7-6 für `TXT0039`.
+
+
+## Nachtrag v34: Bibelglossen als bibelexegetische Glossenüberlieferung
+
+Für Einträge des Typs `Glossae in Bibliam` gilt: Wenn der Textbestand eindeutig biblische Glossen umfasst, wird die Buchgattung als `Bibelglossen` geführt; die Überlieferungslinie kann `Biblische Glossentradition` lauten, sofern kein präziserer, wiederholt verwendbarer Traditionszusammenhang vorliegt. `Karolingische Gelehrsamkeit` soll hier nicht als Ersatz für die eigentliche Glossen- bzw. Auslegungstradition dienen.
+
+## Nachtrag v35 – LHS0038 / St. Peter perg. 87
+
+### Korrektur zur Überlieferungslinie bei `TXT0042`
+
+Der Sonderwert `Biblische Glossentradition` wird für `LHS0038` nicht als Normwert fortgeführt. Er ist zu speziell und widerspricht der Reduktionsmaxime für die Spalte `Überlieferungslinie`.
+
+Für die Lorscher Faszikel von St. Peter perg. 87 gilt vorläufig:
+
+| Sachverhalt | Normierung |
+|---|---|
+| Datierung Mitte oder 3. Viertel 11. Jh. | nicht streng ottonisch, sondern eher frühsalisch; in der Tabelle breit als `Frühmittelalterliche Gelehrsamkeit` geführt |
+| Bibelglossar | `Buchgattung = Bibelglossen`, `Thema = Exegese` |
+| allgemeine Glossare | `Buchgattung = Fachtext`, `Untergattung = Glossar`, `Thema = Lexikographie` |
+| Faszikel II, 14. Jh., Entstehungsort unbekannt | kein `Lorsch-Bezug`; Überlieferungslinie bleibt vorläufig leer |
+
+Die oberste Gliederung des BL-Inhaltsverzeichnisses wird für `LHS0038` in fünf Einträge umgesetzt: `Glossarium biblicum`, `Glossarium de diversis`, `Glossarium de diversis auctoribus`, `Interpretationes nominum Hebraicorum secundum Hieronymum`, `Glossarium Latinum`.
+
+
+
+---
+
+## Nachtrag v36 – LHS0038: Ausschluss des nicht-Lorscher Faszikel II
+
+Für `LHS0038` / Karlsruhe, BLB, St. Peter perg. 87 wird der zweite Faszikel (`Glossarium Latinum`, 3ra-57vb) nicht in der Forschungstabelle geführt. Er ist nach der BL-Beschreibung ein eigenständiger Faszikel des 14. Jh. mit unbekanntem Entstehungsort und ohne Lorsch-Bezug.
+
+Damit gilt für diesen Codex:
+
+| Bereich | Tabellenbehandlung |
+|---|---|
+| Faszikel I, Bll. [1]-2 und 62-106 | wird in vier Einträgen geführt, da Lorsch-Bezug besteht |
+| Faszikel II, Bll. 3-61 | wird gelöscht / nicht geführt, da kein Lorsch-Bezug besteht |
+
+Die frühere Zeile `TXT0042-05` (`Glossarium Latinum`) ist damit aufgehoben.
+
+Der Sonderwert `Biblische Glossentradition` wird weiterhin nicht verwendet. Für die Lorscher Faszikel bleibt die breite Überlieferungslinie `Frühmittelalterliche Gelehrsamkeit`.
+
+## Normierungsentscheidung v37: Keine Slash-Werte in Buchgattung und Untergattung
+
+Für die Spalten `Buchgattung` und `Untergattung` werden keine Mischwerte mit Schrägstrich mehr verwendet. Wenn ein bisheriger Gattungswert zwei Aspekte verband, wird er auf die beiden Klassifikationsachsen verteilt:
+
+- `Buchgattung` enthält die breitere formale Gattung.
+- `Untergattung` enthält die nähere Textform, Gebrauchsfunktion oder fachliche Ausprägung.
+- Unsichere oder sekundäre Aspekte, die nicht mehr sinnvoll in die zwei Felder passen, werden nur in begründeten Einzelfällen in `Bemerkungen` gesichert.
+
+Beispiele:
+
+| bisher | künftig |
+|---|---|
+| `Hagiographie / Vita` | `Buchgattung = Hagiographie`, `Untergattung = Vita` |
+| `Dichtung / Schreiberverse` | `Buchgattung = Dichtung`, `Untergattung = Schreiberverse` |
+| `Kommentar / Glossenapparat` | `Buchgattung = Kommentar`, `Untergattung = Glossenapparat` |
+| `Vergilkommentar / Allegorese` | `Buchgattung = Kommentar`, `Untergattung = Allegorese` |
+| `Enzyklopädie / Naturkunde` | `Buchgattung = Fachtext`, `Untergattung = Enzyklopädie` |
+| `Geographie / Naturkunde` | `Buchgattung = Fachtext`, `Untergattung = Geographie` |
+
+Die Regel betrifft zunächst nur `Buchgattung` und `Untergattung`. Schrägstriche in `Thema` können später gesondert bereinigt werden, weil dort gelegentlich bewusst zwei Gegenstandsbereiche angezeigt werden.
+
+
+
+## Nachtrag v38 – Untergattungen `Vita` und `Schreiberverse`; Begriff `Allegorese`
+
+### `Vita`
+
+`Vita` wird vorläufig nicht als eigene Untergattung geführt. Bei hagiographischen Lebensbeschreibungen genügt in der Regel die Buchgattung `Hagiographie`; die konkrete Vita ist bereits im Titel erkennbar.
+
+Normierung:
+
+| bisher | künftig |
+|---|---|
+| `Buchgattung = Hagiographie`, `Untergattung = Vita` | `Buchgattung = Hagiographie`, `Untergattung` leer |
+
+### `Schreiberverse`
+
+`Schreiberverse` wird vorläufig nicht als eigene Untergattung geführt. Gemeint sind kurze metrische Schreibervermerke oder Verse im Umfeld des Schreibvorgangs bzw. Kolophons. Für die Forschungstabelle genügt `Buchgattung = Dichtung`; die genauere Information bleibt im Titel oder in den Bemerkungen.
+
+Normierung:
+
+| bisher | künftig |
+|---|---|
+| `Buchgattung = Dichtung`, `Untergattung = Schreiberverse` | `Buchgattung = Dichtung`, `Untergattung` leer |
+
+### `Allegorese`
+
+`Allegorese` bezeichnet eine allegorische Auslegung: Ein Text wird nicht nur wörtlich verstanden, sondern als Träger eines verborgenen moralischen, philosophischen, theologischen oder kosmologischen Sinns gelesen.
+
+Für die Tabelle ist wichtig: `Allegorese` ist eher eine Interpretationsweise als eine stabile Buch- oder Untergattung. Ob der Wert als Untergattung erhalten bleibt, wird gesondert entschieden. Eine mögliche spätere Normierung wäre: `Buchgattung = Kommentar`, `Untergattung` leer oder `Untergattung = Kommentar`, mit Hinweis auf allegorische Deutung in den Bemerkungen.
+
+## Nachtrag v39 – `Allegorese` und `Schreiberverse` nur in Bemerkungen
+
+`Allegorese` und `Schreiberverse` werden nicht als Untergattungen geführt. Beide Werte sind für die Untergattung zu fein bzw. bezeichnen eher eine Interpretationsweise oder einen besonderen Beitexttyp.
+
+Normierung:
+
+| bisher | künftig |
+|---|---|
+| `Buchgattung = Kommentar`, `Untergattung = Allegorese` | `Buchgattung = Kommentar`, `Untergattung` leer; Hinweis `Allegorese` in `Bemerkungen` |
+| `Buchgattung = Dichtung`, `Untergattung = Schreiberverse` | `Buchgattung = Dichtung`, `Untergattung` leer; Hinweis `Schreiberverse` in `Bemerkungen` |
+
+Damit bleibt die Untergattungsspalte schlank. Spezifische Hinweise, die nur einzelne Einträge betreffen, werden in der Bemerkungsspalte gesichert.
+
+
+
+## Nachtrag v40 – BL-Neuauswertung Pal. lat. 1588 / LHS0264
+
+Der bisherige Platzhalter zu `LHS0264` wurde auf Grundlage des BL-Begleittexts zu Vatikan, BAV, Pal. lat. 1588 ersetzt. Die rhetorische Sammelhandschrift wird nicht mehr als Einzelwerk `Ars rhetorica` mit `etc.` geführt, sondern nach den obersten BL-Inhaltseinheiten aufgespalten.
+
+Normierungsentscheidung für diese Handschrift:
+
+| Bereich | Erfassung |
+|---|---|
+| Rhetorische Lehr- und Schultexte | `Buchgattung = Fachtext`, `Untergattung = Rhetorik` |
+| Dialektischer Lehrtext | `Buchgattung = Fachtext`, `Untergattung = Dialektik` |
+| Kommentar zu Ciceros Rhetorik | `Buchgattung = Kommentar`, Thema `Rhetorik` |
+| Censorinus / Ps.-Censorinus | `Buchgattung = Fachtext`, `Untergattung = Enzyklopädie` |
+| Cassiodor-Nachtrag | eigene Zeile, da BL ihn als Nachtrag 39v–41v ausweist |
+
+Der Nachtrag wird trotz späterer Einfügung in der Handschrift geführt, da er im BL-Begleittext als eigener Bestandteil von Pal. lat. 1588 beschrieben ist und zur rhetorischen Sammelfunktion des Codex gehört.
+
+## Nachtrag v41 – Pal. lat. 824 / LHS0231
+
+Für `LHS0231` / `bav_pal_lat_824` wurde der bisherige Eintrag `TXT0252` auf Grundlage des BL-Begleittexts in zwei Zeilen aufgeteilt:
+
+- `TXT0252-01`: Epiphanius scholasticus / Cassiodor, `Historia ecclesiastica tripartita e Socrate scholastico, Sozomeno et Theodoreto collecta et e Graeco in Latinum versa`, `1v-168v`, `Überlieferungslinie = Spätantike Gelehrsamkeit`.
+- `TXT0252-02`: Bernardus Claraevallensis, `Epistula 238`, `168v`, Nachtrag, unvollständig, `Überlieferungslinie = Mittelalterliche Gelehrsamkeit`.
+
+`Mittelalterliche Gelehrsamkeit` wird hier als breiter Normwert für einen mittelalterlichen theologischen bzw. kirchlichen Nachtrag verwendet; es wird keine Sonderlinie für Bernhard oder die Zisterzienser eingeführt.
+
+
+
+## Nachtrag v42: Pal. lat. 273 / LHS0191
+
+Der bisherige Einzeleintrag zu `Cassiodor, Variae` wird nach BL auf fünf oberste Inhaltseinheiten aufgesplittet. Für `Marbodus Redonensis, De ornamentis verborum` gilt `Buchgattung = Fachtext`, `Untergattung = Rhetorik`. Für `De Homeri centone et Eudoxia augusta` wird `Untergattung = Literaturkunde` verwendet. Für `Versus de terra et firmamento una cum tractatulo de ventis XII` wird `Untergattung = Kosmographie` verwendet. Für die mittelalterlichen Nachträge bzw. Zusatztexte wird `Überlieferungslinie = Mittelalterliche Gelehrsamkeit` verwendet.
+
+
+## Nachtrag v43: Pal. lat. 814 / LHS0229
+
+Der Eintrag zu `LHS0229 / TXT0250` wurde auf Grundlage des BL-Begleittexts zu `bav_pal_lat_814` präzisiert. Der Titel wird nach BL als `Antiquitates Iudaicae (libb. I-XII) curis Cassiodori e Graeco versae` geführt. Die Einordnung bleibt `Buchgattung = Geschichtswerk`, `Thema = Geschichte`, `Überlieferungslinie = Antik-jüdische Literatur`. Die spezifische lateinische Überlieferung durch Cassiodor wird im Titel und in den Bemerkungen sichtbar, ohne eine neue Sondertradition einzuführen.
+
+
+## Nachtrag v44: Pal. lat. 24 / LHS0132 und Spalte `palimpsestiert`
+
+Die Forschungstabelle erhält eine neue Spalte `palimpsestiert`. Sie steht unmittelbar vor `Lorsch-Bezug`, damit `Lorsch-Bezug` weiterhin die letzte Spalte der Tabelle bleibt.
+
+Normierung:
+
+| Wert | Bedeutung |
+|---|---|
+| `ja` | Der konkrete Texteintrag ist als ältere, radierte bzw. palimpsestierte Schrift überliefert. |
+| leer | Der konkrete Texteintrag ist nicht selbst palimpsestiert oder der Befund ist nicht einschlägig. |
+
+Für Pal. lat. 24 gilt daher: Die jüngere biblische Schrift wird nicht mit `ja` markiert, obwohl sie auf wiederverwendeten Palimpsestblättern steht. Mit `ja` markiert werden nur die älteren, radierten Untertexte.
+
+Der bisherige Block `LHS0132` wurde auf Grundlage des BL-Begleittexts zu `bav_pal_lat_24` ersetzt. Erfasst werden fünf Einträge der jüngeren Schrift und zwölf Einträge der älteren, radierten Schrift. Die älteren Untertexte erhalten `palimpsestiert = ja`.
+
+## Nachtrag v45: Pal. lat. 1519 / LHS0257
+
+Der bisherige Block zu `LHS0257` wurde auf Grundlage des BL-Begleittexts zu `bav_pal_lat_1519` ersetzt. Die Handschrift wird nicht mehr nur mit `Cicero, De natura deorum` und `Walahfrid Strabo, Hortulus` geführt, sondern nach den drei obersten BL-Inhaltseinheiten erfasst:
+
+- `TXT0281-01`: Cicero, `De natura deorum`, `1r-40v`, unvollständig.
+- `TXT0281-02`: Cicero, `De divinatione`, `40ar-85v`, unvollständig.
+- `TXT0281-03`: Walahfridus Strabo, `De cultura hortorum sive Hortulus`, `85va-88vb`, Ende fehlt.
+
+Normierung: Für den `Hortulus` wird `Buchgattung = Dichtung`, `Untergattung = Lehrgedicht` verwendet. Die althochdeutschen Glossen auf 85va werden in den `Bemerkungen` gesichert, nicht als eigener Texteintrag. Die neue Spalte `palimpsestiert` bleibt bei allen drei Einträgen leer.
+
+## Nachtrag v46: Pal. lat. 1513 / LHS0256
+
+Der Eintrag zu `LHS0256 / TXT0280` wurde auf Grundlage des BL-Begleittexts zu `bav_pal_lat_1513` präzisiert. BL weist eine einzige oberste Inhaltseinheit aus: Cicero, `De finibus bonorum et malorum`, `1va-44rb`, unvollständig. Daher erfolgt keine Aufspaltung.
+
+Normierung: Die Einordnung bleibt `Buchgattung = Philosophischer Dialog`, `Thema = Philosophie`, `Überlieferungslinie = Klassische lateinische Literatur`. Die besondere Überlieferungsstellung der Handschrift — ältester überlieferter Textzeuge, Zugehörigkeit zur sog. deutschen Familie bzw. zu den codices meliores — wird in den `Bemerkungen` gesichert. `palimpsestiert` bleibt leer.
+
+
+
+## Nachtrag v48 / Materialisierung v7-21 – Rollback Zürich, Ms. C 132
+
+Die Materialisierung v7-20 wurde zurückgenommen. Die Zuordnung von `Zürich, Zentralbibliothek, Ms. C 132` zu `LHS0127` war fehlerhaft.
+
+Grund:
+- Die Bischoff-Ausgangstabelle führt `LHS0127` als `Vat. lat. 11506` mit `Cicero, De inv.; Priscianus`, Entstehung `IX¾`, Herkunft/Provenienz `Weißenburg`.
+- Der BL-Begleittext `zbz_msc132` beschreibt dagegen `Zürich, Zentralbibliothek, Ms. C 132`: Cicero, `De inventione`, `Rhetorica ad Herennium`, späterer Index und Sakramentarfragment; das ist nicht dieselbe Handschrift.
+
+Regel: Eine BL-Beschreibung darf eine Tabellenzeile nur ersetzen, wenn Signatur/Siegel bzw. Handschriftenidentität sicher übereinstimmen. Inhaltliche Ähnlichkeit, z. B. `Cicero, De inventione`, genügt nicht.
+
+Folge:
+- `v7-21` stellt für `LHS0127` wieder die zwei Zeilen aus `v7-19` her.
+- `zbz_msc132` wird vorerst nicht in die Forschungstabelle aufgenommen, solange keine passende LHS-ID aus der Bischoff-Ausgangstabelle feststeht.
+
+## Nachtrag v49: Pal. lat. 1756 / LHS0276
+
+Der Eintrag `LHS0276 / TXT0303` wurde auf Grundlage des BL-Begleittexts zu `bav_pal_lat_1756` ersetzt. Die Handschrift besteht aus zwei Faszikeln; der BL-Begleittext weist drei oberste Inhaltseinheiten aus:
+
+- `TXT0303-01`: Pompeius grammaticus, `Commentum artis Donati`, `1r-157v`, Faszikel I, Heidelberg 1464.
+- `TXT0303-02`: Anonymus (Pseudo-Cicero), `Rhetorica ad C. Herennium`, `168ra-190rb`, Faszikel II, Entstehungsort unbekannt, 13./14. Jh.
+- `TXT0303-03`: Anonymus, `Exercitationes rhetoricae`, `190va-191vb`, Faszikel II.
+
+Normierung: `Commentum artis Donati` bleibt `Buchgattung = Fachtext`, `Untergattung = Grammatik`. Die rhetorischen Texte werden als `Fachtext`, `Untergattung = Rhetorik` geführt. Für die `Exercitationes rhetoricae` wird `Überlieferungslinie = Mittelalterliche Gelehrsamkeit` verwendet.
+
+Lorsch-Bezug: Bei allen drei Einträgen bleibt `Lorsch-Bezug` leer. Der BL-Begleittext vermerkt ausdrücklich, dass fraglich ist, ob die Handschrift oder einer ihrer Teile jemals in Lorsch war. Die Nennung von Handschriften gleichen Inhalts in den karolingischen Lorscher Bibliothekskatalogen wird nur in den Bemerkungen gesichert.
+
+Palimpsest-Regel: Faszikel II ist auf palimpsestiertem Pergament geschrieben; die ältere radierte Schrift ist nach BL jedoch nur wenig älter und nicht als eigener Text identifiziert. Daher bleibt `palimpsestiert` bei den erfassten Obertexten leer.
+
+
+
+## Nachtrag v50: Nebenliste für nicht bei Bischoff bestätigte Lorscher Identität
+
+Neben der Haupttabelle wird eine separate Kontrolltabelle geführt:
+
+- `lorsch_nebenliste_nicht_bischoff_bestaetigte_lorsch_identitaet_v1.md`
+- `lorsch_nebenliste_nicht_bischoff_bestaetigte_lorsch_identitaet_v1.tsv`
+
+Zweck: Erfassung von Texten bzw. Codexteilen, deren Lorscher Identität nicht durch die Bischoff-/LHS-Ausgangstabelle gesichert ist.
+
+Regel:
+- Bloßer Schreibort Lorsch, ähnliche Inhaltsangabe oder eine Handschrift gleichen Inhalts genügt nicht für eine LHS-Zuordnung.
+- In der Haupttabelle verbleibende, aber nicht als Lorsch bestätigte Fälle behalten ein leeres Feld `Lorsch-Bezug`.
+- Nicht identifizierte außerbischoffliche Codices erhalten keine LHS-ID und bleiben außerhalb der Haupttabelle.
+
+Der erste Stand der Nebenliste umfasst:
+
+1. `LHS0231 / bav_pal_lat_824`: Pal. lat. 824, in der Haupttabelle geführt, aber ohne Lorsch-Bezug; BL nennt Provenienz Heidelberg und nur eine Handschrift gleichen Inhalts in den karolingischen Lorscher Bibliothekskatalogen.
+2. `LHS0276 / bav_pal_lat_1756`: Pal. lat. 1756, in der Haupttabelle geführt, aber ohne Lorsch-Bezug; BL hält offen, ob die Handschrift oder einer ihrer Teile jemals in Lorsch war.
+3. `zbz_msc132`: Zürich, Zentralbibliothek, Ms. C 132; nach Rollback nicht in der Haupttabelle geführt, da keine sichere Bischoff-/LHS-Identität vorliegt.
+
+## Nachtrag v51: Auslagerung der Nebenlisten-Einträge aus der Haupttabelle
+
+Die Nebenliste wird ab `v2` als echte Auslagerungsliste geführt. Einträge, deren Lorscher Identität nicht durch die Bischoff-/LHS-Ausgangstabelle gesichert ist, werden nicht mehr parallel in der Haupttabelle geführt.
+
+Materialisierung:
+- Aus der Haupttabelle `v7-22` entfernt und in der Nebenliste belassen:
+  - `TXT0252-01` und `TXT0252-02` zu `bav_pal_lat_824 / Pal. lat. 824`.
+  - `TXT0303-01`, `TXT0303-02` und `TXT0303-03` zu `bav_pal_lat_1756 / Pal. lat. 1756`.
+- `zbz_msc132` bleibt weiterhin ausschließlich in der Nebenliste und erhält keine LHS-ID.
+- Die Nebenliste wurde von `v1` auf `v2` aktualisiert; die Spalte `Haupttabelle` entfällt.
+
+Regel: Die Haupttabelle enthält nur Texte mit gesicherter Bischoff-/LHS-Identität. Unsichere, außerbischoffliche oder nur durch Schreibort/ähnlichen Inhalt verbundene Fälle werden ausschließlich in der Nebenliste geführt.
+
+## Nachtrag v52: Pal. lat. 889 / LHS0243
+
+Der bisherige Platzhalter `LHS0243 / TXT0265 / Sallust / Opera` wurde auf Grundlage des BL-Begleittexts zu `bav_pal_lat_889` ersetzt. Die Handschriftenidentität ist gesichert: Die Bischoff-Ausgangstabelle führt `Pal. lat. 889` als Lorscher Sallust-Handschrift, und BL bestätigt Entstehungsort und Provenienz Lorsch.
+
+Erfasst werden nach den obersten BL-Inhaltseinheiten:
+
+- `TXT0265-01`: `Hymnus de oratione dominica`, Nachtrag auf dem ungezählten Blatt vor Bl. 1r.
+- `TXT0265-02`: Iuvenalis, `De Catilina, Cicerone et Mario excerpta IV ex Saturis`, Nachtrag auf dem ungezählten Blatt vor Bl. 1r.
+- `TXT0265-03`: Anonymus, `Accessus in Sallustium`, Nachtrag auf dem ungezählten Blatt vor Bl. 1v.
+- `TXT0265-04`: Sallustius, `De coniuratione Catilinae cum glossis`, ungezähltes Bl. vor Bl. 1v und 1r-35v.
+- `TXT0265-05`: Sallustius, `De bello Iugurthino`, ungezähltes Bl. vor Bl. 1v und 35v-102v.
+- `TXT0265-06`: Anonymus, `Translatio sanctorum Benedicti et Scholasticae in Galliam`, 102v-103v.
+
+Normierung: Die beiden Sallust-Texte bleiben `Buchgattung = Geschichtswerk`, `Thema = Geschichte`, `Überlieferungslinie = Klassische lateinische Literatur`. Der Accessus wird als `Fachtext`, `Untergattung = Accessus`, `Thema = Literaturkunde` geführt. Die Translatio wird als `Hagiographie`, `Thema = Heiligenverehrung`, `Überlieferungslinie = Hagiographische Tradition` geführt. Die neue Spalte `palimpsestiert` bleibt bei allen Einträgen leer.
+
+## Nachtrag v53: Pal. lat. 492 / LHS0211
+
+Der bisherige Platzhalter `LHS0211 / TXT0232 / Albertus de Ferrariis / Werk unbestimmt` wurde auf Grundlage des BL-Begleittexts zu `bav_pal_lat_492` ersetzt. Die Handschriftenidentität ist gesichert: Die Bischoff-Ausgangstabelle führt `Pal. lat. 492` mit `Albertus de Ferrariis; Eberhardus praep. Laur.`; BL bestätigt die Provenienz Lorsch, erschlossen aus Briefen u. Ä. des Lorscher Propstes Eberhard.
+
+Erfasst werden nach den obersten BL-Inhaltseinheiten:
+
+- `TXT0232-01`: Albertus Trottus (de Ferrariis), `De horis canonicis`, 2r-19v.
+- `TXT0232-02`: Iohannes Serra, `Ars nova epistolarum`, 25v-54r.
+- `TXT0232-03`: Eberhardus praepositus Laureshamensis, `Epistulae et testimonium de visitatione a. 1467-1469`, 54v-60r.
+- `TXT0232-04`: Balthasar Rasinus, `Epistulae`, 61r-78r.
+- `TXT0232-05`: Cicero, `Epistulae ad familiares selectae`, 79r-111r.
+- `TXT0232-06`: Eberhardus praepositus Laureshamensis, `Testimonium de visitatione a. 1469`, 111v-112v.
+- `TXT0232-07`: Guarinus Veronensis und andere, `Epistulae et orationes`, 115r-213v.
+- `TXT0232-08`: Homerus Latinus (Baebius Italicus ?), `Ilias Latina`, 215r-233v.
+
+Normierung: `De horis canonicis` wird als `Fachtext`, `Untergattung = Liturgik`, `Thema = Liturgie` geführt. Die Brieflehre des Iohannes Serra wird als `Fachtext`, `Untergattung = Brieflehre` geführt. Die Eberhard-Texte erhalten `Überlieferungslinie = Lorscher Überlieferung`; humanistische Brief- und Redesammlungen erhalten `Überlieferungslinie = Humanismus`. Die `Ilias Latina` wird als `Dichtung`, `Untergattung = Epos` geführt. Die Spalte `palimpsestiert` bleibt bei allen Einträgen leer.
+
+
+
+## Nachtrag v54: Pal. lat. 1741 / LHS0272 in Nebenliste ausgelagert
+
+Der bisherige Platzhalter `LHS0272 / TXT0299 / Terentius Scaurus / Werk unbestimmt` wurde nicht in der Haupttabelle ausgebaut, sondern aus der Haupttabelle entfernt und in der Nebenliste erfasst.
+
+Grund: Der BL-Begleittext zu `bav_pal_lat_1741` beschreibt die Provenienz nur als `Lorsch (?) (LEHMANN 1911); Heidelberg`. Der Laurissano-Hinweis betrifft die von Johannes Sichardus besorgte Abschrift bzw. den Druck des Terentius-Scaurus-Texts aus einem `codex Laurissanus`; er sichert nicht die Lorscher Identität der gesamten humanistischen Sammelhandschrift. Da der bisherige Haupttabelleneintrag zudem keinen `Lorsch-Bezug = ja` hatte, wird Pal. lat. 1741 nach der v51-Regel ausschließlich in der Nebenliste geführt.
+
+Die Nebenliste `v3` ergänzt 17 oberste BL-Inhaltseinheiten:
+
+- `TXT0299-01`: Anonymus, `Schemata diversa (de genealogia deorum, poetis, montibus, fluviis etc.) cum notis`, 1v-5v.
+- `TXT0299-02`: Anonymus, `Fabularius compendiosus in Ovidii Metamorphoses`, 6r-26r.
+- `TXT0299-03`: Conradus de Mure, `Fabularius`, 28r-157r.
+- `TXT0299-04`: Albericus Londoniensis (?), `Mythographus Vaticanus III qui dicitur`, 159r-192v.
+- `TXT0299-05`: Cicero, `Epistulae ad familiares aliquae subsequentis glossis`, 209r-239v.
+- `TXT0299-06`: Anonymus, `Moralia quaedam, proverbium et Iuvenalis versus`, 240r/v.
+- `TXT0299-07`: Anonymus, `Reformatio des heiligen gerichtes lingua Germanica`, 241r-242r.
+- `TXT0299-08`: Petrus Antonius Finariensis, `Epistulae Heidelbergae scriptae II`, 242r-243r.
+- `TXT0299-09`: Q. Terentius Scaurus, `De orthographia liber subsequente De ordinatione partium orationis appendice`, 245r-249v.
+- `TXT0299-10`: Cicero, `Oratio pro M. Marcello`, 255r-259r.
+- `TXT0299-11`: Pseudo-Cicero, `De optimo genere oratorum`, 260r-262v.
+- `TXT0299-12`: Rufinus grammaticus Antiochenus, `De numeris oratorum`, 262v-266r.
+- `TXT0299-13`: Martianus Capella, `Ex libro V De nuptiis Philologiae et Mercurii excerpta`, 266v-270v.
+- `TXT0299-14`: Anonymus, `De figuris rhetoricis notae diversae`, 270v/271r.
+- `TXT0299-15`: Rufius (?) Festus, `Breviarium rerum gestarum populi Romani`, 271r-278r.
+- `TXT0299-16`: Anonymus, `Registrum super libros Laurentii Vallae`, 283ra-285va.
+- `TXT0299-17`: Anonymus, `Liber monstrorum de diversis generibus`, 286r-291v.
+
+Die Spalte `palimpsestiert` ist nicht betroffen.
+
+
+## Nachtrag v55: Nebenliste v4 – Häse 328 zu Pal. lat. 1756 / Commentum artis Donati
+
+Die Nebenliste wird von `v3` auf `v4` aktualisiert. Bei `TXT0303-01 / LHS0276 / bav_pal_lat_1756 / Pompeius grammaticus / Commentum artis Donati` wird ergänzt, dass nach dem BL-Begleittext in den karolingischen Lorscher Bibliothekskatalogen laut HÄSE 2002, Nr. 328, eine Handschrift gleichen Inhalts belegt ist.
+
+Diese Ergänzung ist als Hinweis auf einen Lorscher Textbestand gleichen Inhalts zu verstehen. Sie hebt die Nebenlisten-Einstufung nicht auf, weil BL zu Pal. lat. 1756 weiterhin ausdrücklich offen lässt, ob diese Handschrift oder einer ihrer Teile jemals in Lorsch war.
