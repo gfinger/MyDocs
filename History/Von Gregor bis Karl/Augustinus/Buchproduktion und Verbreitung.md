@@ -14,6 +14,10 @@
 | II, 15 – *De Trinitate*                     | *…subtracti sunt mihi minus emendati quam deberent ac possent, quando eos edere voluissem.*                                                 | „…sie wurden mir entwendet, weniger emendiert, als sie hätten sein sollen, und verbreitet, bevor ich sie hätte herausgeben wollen.“                                                             | Verlust der Kontrolle durch unerlaubte Abschriften.                  |
 | Epilogus                                    | *…haec opera … me dictasse recolui…*                                                                                                        | „…ich erinnere mich, dass ich diese Werke diktiert habe…“                                                                                                                                       | Normaler Produktionsprozess: Diktat an Schreiber, nicht Autographie. |
 
+# Augustinus, Brief an Aurelius
+[[bav_pal_lat_202]]
+[[Epistola 174]]
+
 
 # Augustinus, Retractationes – Buchwege (Produktion, Vervielfältigung, Verbreitung, Kontrolle)
 

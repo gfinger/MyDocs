@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5e45dc326e30dd5c",
+        "id": "fb97c8d88644219d",
         "type": "tabs",
         "children": [
           {
-            "id": "d696d19129a0ea9b",
+            "id": "7e8653296f6579b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-40.md",
-                "mode": "preview",
-                "source": true,
+                "file": "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-51.md",
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,10 +28,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-40"
+              "title": "lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-51"
+            }
+          },
+          {
+            "id": "89f98222fe11f20b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -51,7 +64,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -63,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Alexandrinus",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 583.5
+    "width": 352.5
   },
   "right": {
     "id": "8404d979b96688bf",
@@ -181,34 +196,37 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "d696d19129a0ea9b",
+  "active": "89f98222fe11f20b",
   "lastOpenFiles": [
-    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v71.md",
-    "History/Lorsch/Bibliothek/Tabellen/Handbuch_v71.md",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-22.md",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-bischoff_gesamttabelle_102-135_korrigiert_v2.md",
-    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v69.md",
-    "History/Lorsch/Bibliothek/Tabellen/Handbuch_v69.md",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-40.md",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-38.md",
-    "History/Lorsch/Bibliothek/Kapitel/Wiederentdeckung der Kirchenväter.md",
-    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v67.md",
-    "History/Lorsch/Bibliothek/Tabellen/Handbuch_v67.md",
-    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v66.md",
-    "History/Lorsch/Bibliothek/Tabellen/Handbuch_v66.md",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-37.md",
-    "History/Lorsch/Bibliothek/Kapitel/Arzneibuch.md",
-    "History/Lorsch/Bibliothek/Kapitel/Aufbewahrungsort.md",
-    "History/Lorsch/Bibliothek/Kapitel/Heidnische Autoren.md",
-    "History/Lorsch/Bibliothek/Kapitel/Was lesen, was schreiben?.md",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-35.md",
-    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v64.md",
-    "History/Lorsch/Bibliothek/Tabellen/Handbuch_v64.md",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-bischoff_gesamttabelle_102-135_korrigiert.md",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-34.md",
-    "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-26.md",
-    "History/Lorsch/Bibliothek/Tabellen/alt/Handbuch_v55.md",
-    "History/Lorsch/Bibliothek/Tabellen/alt/Handbuch_ChangeLog_v55.md",
+    "History/Lorsch/Bibliothek/Kapitel/Palaeographische Detektivarbeit/Historia Ecclestiastica.md",
+    "History/Lorsch/Bibliothek/Kapitel/Palaeographische Detektivarbeit/De Arte Dialectica.md",
+    "History/Lorsch/Bibliothek/Kapitel/Palaeographische Detektivarbeit/De Nuptiis Philologiae et Mercurii.md",
+    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-49.md",
+    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-51.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_v80.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v80.md",
+    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-50.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_v79.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v79.md",
+    "History/Lorsch/Bibliothek/Tabellen/alt/Handbuch_ChangeLog_v74.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_v78.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v78.md",
+    "History/Von Gregor bis Karl/Augustinus/Epistola 174.md",
+    "History/Von Gregor bis Karl/Augustinus/Buchproduktion und Verbreitung.md",
+    "History/Lorsch/Bibliothek/Bibliotheca Laureshamensis Digital/bav_pal_lat_202.md",
+    "History/Lorsch/Bibliothek/Bibliotheca Laureshamensis Digital/bav_pal_lat_822.md",
+    "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-48.md",
+    "History/Lorsch/Bibliothek/Tabellen/alt/Handbuch_v77.md",
+    "History/Lorsch/Bibliothek/Tabellen/alt/Handbuch_ChangeLog_v77.md",
+    "History/Von Gregor bis Karl/Cassiodorus/Cassiodorus.md",
+    "History/Von Gregor bis Karl/Weitere Personen/Martianus Capella.md",
+    "History/Lorsch/Bibliothek/Bibliotheca Laureshamensis Digital/ublei_bpl36.md",
+    "History/Lorsch/Bibliothek/Bibliotheca Laureshamensis Digital/bnf_lat16668.md",
+    "History/Lorsch/Bibliothek/Bibliotheca Laureshamensis Digital/bav_pal_lat_1577.md",
+    "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-45.md",
+    "History/Lorsch/Bibliothek/Kapitel/Palaeographische Detektivarbeit",
+    "History/Von Gregor bis Karl/Boethius",
+    "History/Lorsch/Bibliothek/Bibliotheca Laureshamensis Digital",
     "History/Lorsch/Bibliothek/Tabellen/-lorsch-forschung_v5-3.xlsx",
     "History/Lorsch/Bibliothek/Tabellen/~$-lorsch-forschung_v5-3.xlsx",
     "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_v5-2.xlsx",
@@ -216,10 +234,7 @@
     "History/Lorsch/Bibliothek/Kapitel/lorsch-forschung_v5-2.xlsx",
     "History/Lorsch/Bibliothek/Kapitel/~$lorsch-forschung_v5-2.xlsx",
     "History/Lorsch/Bibliothek/Tabellen/alt",
-    "History/Lorsch/Bibliothek/Tabellen",
     "History/Von Gregor bis Karl/Personen.canvas",
-    "History/Städte",
-    "History/Ravenna",
     "Pasted image 20260607183850.png",
     "History/Franken/Untitled.canvas",
     "History/Langobarden Könige.canvas",
