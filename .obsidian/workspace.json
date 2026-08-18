@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fb97c8d88644219d",
+        "id": "bd555742219a6c0e",
         "type": "tabs",
         "children": [
           {
-            "id": "7e8653296f6579b1",
+            "id": "6861b919528000d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-51.md",
+                "file": "History/Lorsch/Phillips/Analyse Phillipps 1347.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-51"
-            }
-          },
-          {
-            "id": "89f98222fe11f20b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
+              "title": "Analyse Phillipps 1347"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,46 +183,52 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "89f98222fe11f20b",
+  "active": "e71ba0843a5255ae",
   "lastOpenFiles": [
-    "History/Lorsch/Bibliothek/Kapitel/Palaeographische Detektivarbeit/Historia Ecclestiastica.md",
-    "History/Lorsch/Bibliothek/Kapitel/Palaeographische Detektivarbeit/De Arte Dialectica.md",
-    "History/Lorsch/Bibliothek/Kapitel/Palaeographische Detektivarbeit/De Nuptiis Philologiae et Mercurii.md",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-49.md",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-51.md",
-    "History/Lorsch/Bibliothek/Tabellen/Handbuch_v80.md",
-    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v80.md",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-50.md",
-    "History/Lorsch/Bibliothek/Tabellen/Handbuch_v79.md",
-    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v79.md",
-    "History/Lorsch/Bibliothek/Tabellen/alt/Handbuch_ChangeLog_v74.md",
-    "History/Lorsch/Bibliothek/Tabellen/Handbuch_v78.md",
-    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v78.md",
+    "History/Lorsch/Phillips/Bilder/20260818200711.png",
+    "History/Lorsch/Phillips/Bilder/20260818182018.png",
+    "History/Lorsch/Phillips/Bilder/20260818181641.png",
+    "History/Lorsch/Phillips/Bilder/20260818181544.png",
+    "History/Lorsch/Phillips/Bilder/20260818180845.png",
+    "History/Lorsch/Phillips/Bilder/20260818175917.png",
+    "Pasted image 20260607183850.png",
+    "History/Lorsch/Phillips/Analyse Phillipps 1347.md",
+    "Philosophie/Bewußtsein/Repräsentation/Repräsentationen.md",
+    "History/Lorsch/Phillips/Bilder",
+    "History/Lorsch/Phillips",
+    "Bilder",
+    "Untitled.canvas",
+    "History/Untitled.md",
+    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-53.md",
+    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-52.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_v82.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v82.md",
+    "History/Von Gregor bis Karl/Karolingische Renaissance/Die Rolle Karls des Großen.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_v81.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v81.md",
+    "History/Lorsch/Bibliothek/Kapitel/Palaeographische Detektivarbeit/Commentarium in Octateuchum.md",
+    "History/Von Gregor bis Karl/Weitere Personen/Wigbod.md",
     "History/Von Gregor bis Karl/Augustinus/Epistola 174.md",
+    "History/Von Gregor bis Karl/Augustinus/Pseudo-Augustinus.md",
     "History/Von Gregor bis Karl/Augustinus/Buchproduktion und Verbreitung.md",
-    "History/Lorsch/Bibliothek/Bibliotheca Laureshamensis Digital/bav_pal_lat_202.md",
-    "History/Lorsch/Bibliothek/Bibliotheca Laureshamensis Digital/bav_pal_lat_822.md",
-    "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-48.md",
-    "History/Lorsch/Bibliothek/Tabellen/alt/Handbuch_v77.md",
-    "History/Lorsch/Bibliothek/Tabellen/alt/Handbuch_ChangeLog_v77.md",
-    "History/Von Gregor bis Karl/Cassiodorus/Cassiodorus.md",
-    "History/Von Gregor bis Karl/Weitere Personen/Martianus Capella.md",
-    "History/Lorsch/Bibliothek/Bibliotheca Laureshamensis Digital/ublei_bpl36.md",
-    "History/Lorsch/Bibliothek/Bibliotheca Laureshamensis Digital/bnf_lat16668.md",
-    "History/Lorsch/Bibliothek/Bibliotheca Laureshamensis Digital/bav_pal_lat_1577.md",
-    "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-45.md",
+    "History/Buchkonzepte/Konzept Karolingisches Geistesleben.md",
+    "History/Buchkonzepte",
+    "History/Von Gregor bis Karl/Karolingische Renaissance/Karolingische Renaissance.md",
+    "History/Von Gregor bis Karl/Grammatische Handschriften in Lorsch.md",
+    "History/Von Gregor bis Karl/Karolingische Renaissance",
+    "History/Von Gregor bis Karl/Entwurf 1.md",
+    "History/Von Gregor bis Karl/Karolingische Renaissance/Karolingische Renaissance versus Humanistische Renaissance.md",
+    "2026-08-17.md",
+    "History/Franken/Karolinger/Karl der Große.md",
+    "History/Von Gregor bis Karl/Paulus Diaconus/Leben.md",
+    "History/Von Gregor bis Karl/Prolog.md",
+    "History/Von Gregor bis Karl/Theodulf/Theodulf-ChatGPT1.md",
     "History/Lorsch/Bibliothek/Kapitel/Palaeographische Detektivarbeit",
     "History/Von Gregor bis Karl/Boethius",
     "History/Lorsch/Bibliothek/Bibliotheca Laureshamensis Digital",
     "History/Lorsch/Bibliothek/Tabellen/-lorsch-forschung_v5-3.xlsx",
     "History/Lorsch/Bibliothek/Tabellen/~$-lorsch-forschung_v5-3.xlsx",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_v5-2.xlsx",
-    "History/Lorsch/Bibliothek/Tabellen/~$lorsch-forschung_v5-2.xlsx",
-    "History/Lorsch/Bibliothek/Kapitel/lorsch-forschung_v5-2.xlsx",
-    "History/Lorsch/Bibliothek/Kapitel/~$lorsch-forschung_v5-2.xlsx",
-    "History/Lorsch/Bibliothek/Tabellen/alt",
     "History/Von Gregor bis Karl/Personen.canvas",
-    "Pasted image 20260607183850.png",
     "History/Franken/Untitled.canvas",
     "History/Langobarden Könige.canvas",
     "Philosophie/Ledoux Conscious Awareness  2024-01-26.png",
