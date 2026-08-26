@@ -1,4 +1,18 @@
-Im folgenden werden die Codices _Laud misc. 159_ mit __A__, _Pal. lat. 276_ mit __B__ und _Phillipps 1347_ mit __C__ abgekürzt.
+Im folgenden werden folgende Buchstaben für die die Codices verwendet
+- __A__ : _Laud misc. 159_ 
+- __B__ : _Pal. lat. 276_ 
+- __C__ : _Phillipps 1347_
+
+## Generelle Auffälligkeiten
+### Abbreviaturen
+__C__ verwendet ein sehr elaboriertes System von Abbreviaturen. Bei __A__ fehlen diese vollständig.
+
+### Orthographische Modernisierung
+1. In __C__ wird _ae_ nahezu durchgängig zu _e_: A _caelum, quae, caeli, terrae_ → C _celum, que, celi, terre_
+2. In __C__ wechselt  _i_ zu _y_: A _sidera_ → C _sydera_ (bisher nur hier beobachtet)
+3. In __C__ wechselt _ti_ zu _zi_: A _tertio / tertia_ → C _tercio / tercia_ (bisher nur hier beobachtet)
+
+
 ## C f. 3r -- A ff. 1r–1v
 Das Manuskript C beginnt auf Folio 3r mit dem fälschlicherweise Beda Venerabilis zugeschriebenen Text _De sex dierum creatione_. Dem korrespondieren Folio 1r und der Anfang von Folio 1v.
 
@@ -8,11 +22,11 @@ Phillipps und Laud stimmen im Haupttext von f. 3r bzw. ff. 1r–1v in Struktur u
 1. **Incipit:** Die Eingangsrubrik _In nomine Dei summi incipit explanatio sex dierum in quibus Deus caelum et terram ceteraque condidit..._ aus C fehlt in A.
 ![[20260818175917.png]]
 
-2. **Kapitelüberschrift:** Die Überschrift _De Prima Die_, mit der der Text der PL92 einsetzt, fehlt sowohl in A als auch in C.
+2. **Kapitelüberschrift:** Die Überschrift _De Prima Die_, mit der der Text der PL93 einsetzt, fehlt sowohl in A als auch in C.
 
 3. **Haupttext:** Beide Handschriften liefern im Großen und Ganzen denselben Text. Es werden die ersten drei Kapitel der Genesis erläutert, beginnend mit _In principio creavit Deus caelum et terram. Istud capitulum omnium librorum caput est. Omnis enim scriptura divina bipertita est ..._
 
-4. **Struktur:** A und C gliedern den Text mit denselben Kapitel- und Abschnittsüberschriften in derselben Reihenfolge.  Eine Ausnahme ist die Abschnittsüberschrift _Recapitulatio_ in C, die in A (und PL 92) etwas ausführlicher _Item recapitulatio_ lautet.
+4. **Struktur:** A und C gliedern den Text mit denselben Kapitel- und Abschnittsüberschriften in derselben Reihenfolge.  Eine Ausnahme ist die Abschnittsüberschrift _Recapitulatio_ in C, die in A (und PL 93) etwas ausführlicher _Item recapitulatio_ lautet.
 
 ![[20260818181641.png]]
 
@@ -29,7 +43,7 @@ Phillipps und Laud stimmen im Haupttext von f. 3r bzw. ff. 1r–1v in Struktur u
 
 6. **Zusammenfassung:**
 
-| Typ | A | C | PL92 |
+| Typ | A | C | PL93 |
 |---|---|---|---|
 | Kapitelüberschrift | fehlt | fehlt | *De prima die* |
 | Incipit | fehlt | *In nomine Dei summi incipit explanatio sex dierum ...* | fehlt |
@@ -67,23 +81,23 @@ Beide Texte überliefern nahezu identisch den Schluss der _De sex dierum creatio
 
 ![[20260819175602.png]]
 
-4. **Annotation:** In A steht über "Nunc ergo" in _Ecce Adam factus est quasi unus ex nobis, sciens bonum et malum. Nunc ergo, ne forte mittat manum suam ..._ interlinear "videlicet". C hat dafür keine Entsprechung, und auch der Text in PL92 hat ebenfalls kein "videlicet".
+4. **Annotation:** In A steht über "Nunc ergo" in _Ecce Adam factus est quasi unus ex nobis, sciens bonum et malum. Nunc ergo, ne forte mittat manum suam ..._ interlinear "videlicet". C hat dafür keine Entsprechung, und auch der Text in PL93 hat ebenfalls kein "videlicet".
 
-5. **Grammatischer Fehler:**  In der Überschrift _Et literum hoc semita est redeuntibus_ ist in A und C "hoc" grammatisch nicht korrekt. PL92 korrigiert zu "haec".
+5. **Grammatischer Fehler:**  In der Überschrift _Et literum hoc semita est redeuntibus_ ist in A und C "hoc" grammatisch nicht korrekt. PL93 korrigiert zu "haec".
 
 6. **Schlusswort:** A beendet den Text mit einem _amen_ in schlichten, lateinischen Buchstaben. C dagegen verwendet griechische Majuskeln.
 
 7. **Zusammenfassung:**
 
-| Typ                | A                                                   | C                     | PL92                       |
+| Typ                | A                                                   | C                     | PL93                       |
 | ------------------ | --------------------------------------------------- | --------------------- | -------------------------- |
 | Kapitelüberschrift | *flammea framea versatile*                          | *flammea frammea*     | *flammea framea versatili* |
-| Fehler             | *framea* korrekt                                    | *frammea* falsch, mit zwei "m" | *framea* korrekt  |
+| Fehler             | *framea* korrekt                                    | *frammea* falsch, mit zwei "m" | *framea* korrekt           |
 | Annotation         | *versatilis flammea*,  *framea* interlinear ergänzt | *versatilis flammea*  | *versatilis framea*        |
 | Annotation         | *flammea vero*, *framea* interlinear ergänzt        | *flammea vero framea* | *flammea vero framea*      |
 | Annotation         | *Nunc ergo_*, *videlicet* interlinear ergänzt       | _Nunc ergo_           | _Nunc ergo_                |
 | Fehler             | _hoc semita_                                        | _hoc semita_          | _haec semita_              |
-| Schlusswort.       | _amen_ in lateinischer Schrift                      | _AMHN_ in griechischen Majuskeln | _Amen_          |
+| Schlusswort.       | _amen_ in lateinischer Schrift                      | _AMHN_ in griechischen Majuskeln | _Amen_                     |
 
 ### Hexameron Bedae
 Direkt nach "De creatione" wird in A und C das Hexameron des Beda durch eine Widmungsrubrik eingeleitet. Der Text des Hexameron in diesem Abschnitt scheint identisch zu sein. Die Widmungsrubrik unterscheidet sich aber in drei Punkten:
@@ -111,10 +125,10 @@ Die Unterschiede in den Rubriken, seien es Widmungstexte, Kapitel- oder Abschnit
 ## C f. 26r -- A ff. 29r-29v
 
 ## Incipit
-Im Wortlaut identisch in der Gestaltung stark unterschiedlich ist das Incipit zu Wigbods Kommentar:
+**A** und **C** sind im Wortlaut weitgehend identisch, in der Gestaltung stark unterschiedlich ist das Incipit zu Wigbods Kommentar:
 > _Incipit liber questionum super Genesis_ (In Laon 273 und 279 ist vor _Genesis_ _Librum_ ergänzt).
 > _ex dictis sanctorum patrum_
-> _Augustini, Gregorii, Hieronimi, Ambrosii, Hilarii, Isidori, Eucherii, Iunilli_
+> _Augustini, Gregorii, Hieronimi, Ambrosii, Hilarii, Isidori, Eucherii, Iunilii_
 Admont 174 startet (quasi interlinear) mit dem Incipit _Alchwinus super ..._
 Wien 1004 hat ein einfaches _Super genesim_
 
@@ -126,27 +140,45 @@ Wigbods Kommentar ist formal als Dialog zwischen Schüler und Lehrer aufgebaut. 
 - Es gibt Stellen, an denen **beide Δ/M haben, A im Text und C marginal**.
 - Es gibt Stellen, an denen sie **in beiden im Text stehen**.
 
-|Dialog / Textstelle|A – Laud misc. 159|C – Phillipps 1347|Befund|
-|---|---|---|---|
-|**1.** _Primo omnium praeceptorum..._|**Δ marginal**, links vor der großen P-Initiale|**Δ innerhalb der großen P-Initiale**|Sprecherzuweisung stimmt überein; Position verschieden|
-|_Sicut a maioribus nostris insinuatum..._|**M marginal**|**M marginal**|vollständige Übereinstimmung|
-|**2.** _Genesis unde hoc nomen accepit?_|**Δ marginal**|**kein Δ**|**Sprecherzuweisung fehlt in C**|
-|_LXXta etenim interpretes..._ / _Septuaginta etenim interpretes..._|**M marginal**|**kein M**|**Sprecherzuweisung fehlt in C**; A kürzt _Septuaginta_ als _LXXta_ ab, C schreibt es aus|
-|**3.** _Genesis iuxta fidem historiae quae describit?_|**Δ marginal**|**Δ im Haupttext**, nach _In libro prooemiorum_|Sprecherzuweisung stimmt überein; Position verschieden|
-|_Fabricam describit mundi et hominis conditionem..._|**M marginal**|**M im Haupttext**|Sprecherzuweisung stimmt überein; Position verschieden|
-|**4.** _Haec scriptura quae de praesenti saeculo loquens significat nosse cupio_|**Δ im Haupttext**, nach _Iunilius_|**Δ marginal**|Sprecherzuweisung stimmt überein; Position umgekehrt|
-|_Quinque: aut generationem..._|**M im Haupttext**|**M im Haupttext**|vollständige Übereinstimmung|
+| Dialog / Textstelle                                                              | A – Laud misc. 159                              | C – Phillipps 1347                              | Befund                                                                                    |
+| -------------------------------------------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **1.** _Primo omnium praeceptorum..._                                            | **Δ marginal**, links vor der großen P-Initiale | **Δ innerhalb der großen P-Initiale**           | Sprecherzuweisung stimmt überein; Position verschieden                                    |
+| _Sicut a maioribus nostris insinuatum..._                                        | **M marginal**                                  | **M marginal**                                  | vollständige Übereinstimmung                                                              |
+| **2.** _Genesis unde hoc nomen accepit?_                                         | **Δ marginal**                                  | **kein Δ**                                      | **Sprecherzuweisung fehlt in C**                                                          |
+| _LXXta etenim interpretes..._ / _Septuaginta etenim interpretes..._              | **M marginal**                                  | **kein M**                                      | **Sprecherzuweisung fehlt in C**; A kürzt _Septuaginta_ als _LXXta_ ab, C schreibt es aus |
+| **3.** _Genesis iuxta fidem historiae quae describit?_                           | **Δ marginal**                                  | **Δ im Haupttext**, nach _In libro prooemiorum_ | Sprecherzuweisung stimmt überein; Position verschieden                                    |
+| _Fabricam describit mundi et hominis conditionem..._                             | **M marginal**                                  | **M im Haupttext**                              | Sprecherzuweisung stimmt überein; Position verschieden                                    |
+| **4.** _Haec scriptura quae de praesenti saeculo loquens significat nosse cupio_ | **Δ im Haupttext**, nach _Iunilius_             | **Δ marginal**                                  | Sprecherzuweisung stimmt überein; Position umgekehrt                                      |
+| _Quinque: aut generationem..._                                                   | **M im Haupttext**                              | **M im Haupttext**                              | vollständige Übereinstimmung                                                              |
+| **5.** _Quibusmodo de generationem..._                                           | **D im Haupttext**                              | **D im Haupttext                                | vollständige Übereinstimmung                                                              |
+| _Tribus aut enim ..._                                                            | **M im Haupttext**                              | **M im Haupttext                                | vollständige Übereinstimmung                                                              |
+f. 26
 ### Orthographie
-1. Generell ist zu beobachten dass ein "ae" in **A** in **C** sehr oft (immer?) zu "e" wird.
-   Beispiele: Braesith -> Bresith, haec -> hec, quae -> que, caelum - celum. hebraeo -> hebreao, saeculo -> seculo, praeceptorum -> preceptorum, paecipue -> precipue
-2. Aus der in römischen Ziffern geschriebenen Ordnungszahl LXXta in **A** wird septuaginta in **C**
-3. Aus IN LIBRO PROHEMIORUM in **A** wird IN LIBRO PROEMIORUM in **C**
+1. In der Aufzählung der Patres schreibt **A** fehlerhaft _Iunilli_ (wie Laon 273) und **C** korrekt _Iunilii_ (wie Laon 279).
+2. Generell ist zu beobachten dass ein "ae" in **A** in **C** sehr oft (immer?) zu "e" wird.
+   Beispiele: Bedae -> Bede, Braesith -> Bresith, haec -> hec, quae -> que, caelum - celum. hebraeo -> hebreo, saeculo -> seculo, praeceptorum -> preceptorum, praecipue -> precipue
+3. Aus der in römischen Ziffern geschriebenen Ordnungszahl LXXta in **A** wird septuaginta in **C**
+4. Aus IN LIBRO PROHEMIORUM in **A** wird IN LIBRO PROEMIORUM in **C**
 
 ### Hervorhebung durch Majuskeln
 In C werden die Namen Petrus, Moyse, Braesith, Iunilius durch Majuskeln hervorgehoben. In A wird Petrus und Moyse nicht hervorgehoben.
 In beiden Texten wird die Abschnittsüberschrift "In libro prohemiorum" durch Majuskeln hervorgehoben.
 
+### Marginalzeichen
+A enthält mehrfach ein komplexes h-förmiges Marginalzeichen. Es findet sich nicht in C. Sehr ähnliche Zeichen finden sich auch in Laon 279, dort jedoch an anderen Textstellen.
 
+## C f. 30v o. 31r(?) -- A f. 33v
+Der Dateiname der hier untersuchten Seite des Codex C "Phillips_Wigbod_Germany_1080-1100_f29v" legt nahe, dass wir Folio 29 recto vor uns haben. Die Länge des Textes die zwischen f. 26r und dem Text dieser Seite liegen, in Codex A sind das 9 Seiten, schließt aus, dass wir hier f. 29r vor uns haben. Ich gehe hier zwischen 30v oder 31r aus.
 
+### Fehlerhäufigkeit
+Im Vergleich zur entsprechenden Seite in A weist C viele Auslassungsfehler auf, die am Rand, auf dem Seitenfuß oder interlinear von mehreren Händen korrigiert werden. In C findet sich auch eine Wiederholung des Satzes _Angeli postmodum facti sunt_ im Haupttext, ohne erkennbaren Grund, die weder in A noch in PL93 vorliegt.
+
+### Wortstellung
+Gegenüber PL93 weißt A an zwei Stellen signifikante Abweichungen auf, die nicht nur die Orthographie oder die Grammatik betreffen.
+
+| |__A__|__C__|__PL 93__|Befund|
+|---|---|---|---|---|
+|1|_utroque **dicta sunt modo**_|_utroque **dicta sunt modo**_|_utroque **modo dicta sunt**_|A und C haben dieselbe, von PL abweichende Wortstellung.|
+|2|_et **sic** hoc caelum_|_et **sic** hoc celum_|_et hoc coelum_|A und C enthalten gemeinsam **sic**, das in PL fehlt. _caelum/celum/coelum_ ist daneben nur orthographische Variation.|
 
 
