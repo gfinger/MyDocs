@@ -123,6 +123,7 @@ Die bisher verglichenen Stellen sind mit einer direkten oder indirekten Abhängi
 Die Unterschiede in den Rubriken, seien es Widmungstexte, Kapitel- oder Abschnittsüberschriften, könnten sich zum einen daraus erklären, dass generell die Rubriken eher dem Hintergrund der kopierenden Schreiber-Gruppe entsprechen und oft nicht eins-zu-eins übernommen werden. Zum anderen scheint es als ob der Schreiber des Haupttextes in C den Rubrikatoren einfach nicht genug Platz gelassen hat, um die Rubrik des Originals vollständig zu übernehmen.
 
 ## C f. 26r -- A ff. 29r-29v
+Anfang _Questiones in Octateuchum_ von Wigbod
 
 ## Incipit
 **A** und **C** sind im Wortlaut weitgehend identisch, in der Gestaltung stark unterschiedlich ist das Incipit zu Wigbods Kommentar:
@@ -181,4 +182,16 @@ Gegenüber PL93 weißt A an zwei Stellen signifikante Abweichungen auf, die nich
 |1|_utroque **dicta sunt modo**_|_utroque **dicta sunt modo**_|_utroque **modo dicta sunt**_|A und C haben dieselbe, von PL abweichende Wortstellung.|
 |2|_et **sic** hoc caelum_|_et **sic** hoc celum_|_et hoc coelum_|A und C enthalten gemeinsam **sic**, das in PL fehlt. _caelum/celum/coelum_ ist daneben nur orthographische Variation.|
 
+## C. f. 59 -- A f. 61v, 62r
+### Fehlerhafte Kopien Griechischer Wörter
+Alle Textzeugen von Wigbods Kommentar weichen in der Niederschrift zweier auf C f.59 zu findenden griechischen Wörter von der in PL 93 widergegebenen Version ab:
+ΑΔΕΧΠΟΚΟΝ --> ἀνώνυμον καὶ ἀδέσποτον
+ΦΙΛΕΓΛΗΜΟΝΙ --> φιλεγκλήμονι
+Sie überliefern diese griechischen Ausdrücke aus Hieronymus’ Brief 73 in verderbter und sinnentstellender Form. Die Varianten stimmen untereinander weitgehend überein, sodass davon auszugehen ist, dass die fehlerhaften Formen bereits in einem gemeinsamen Vorfahren der erhaltenen Textzeugen enthalten waren, der diesen mittelbar oder unmittelbar als Vorlage diente. Da der kritische Apparat von Hilbergs (CSEL 55) Hieronymus-Ausgabe zeigt, dass bereits in der frühen Überlieferung des Briefes – darunter in einer Handschrift des 8. Jahrhunderts – verderbte Formen der betreffenden griechischen Ausdrücke vorkamen, lässt sich nicht ausschließen, dass bereits Wigbods Hieronymus-Vorlage einen fehlerhaften griechischen Text bot und Wigbod diesen übernahm.
+In der Hervagius-Ausgabe, die in PL93 wieder abgedruckt wurde, wurden diese verderbten griechischen Wörter korrigiert. Allerdings ist unklar auf welcher Grundlage Hervagius diese Korrektur vornahm, da sie auch nicht vollständig mit Hilbergs Text übereinstimmt.
 
+### Fehlerkorrektur
+Der Text "Unde et sacerdotes **ex semine Abre** nati fratres ex se quos benedicebant" wird in C zuächst fehlerhaft widergegeben, als "Unde et sacerdotes **in eternum Abre** nati fratres ex se quos benedicebant", dann aber interlinear korrigiert. Die Korrektur erfolgt zwar in andersfarbiger Tinte, könnte aber dennoch von derselben Schreiberhand ausgeführt worden sein. A enthält diesen Fehler / dies Korrektur nicht. Prinzipiell könnte es sich in C um die Kopie einer bereits fehlerhaften Vorlage handeln, die später mithilfe einer zweiten Vorlage korrigiert wurde. Da alle anderen Textzeugen den entsprechenden Text korrekt darstellen, und außerdem die Korrektur anscheinend von derselben Hand ausgeführt wurde, erscheint dies aber unwahrscheinlich.
+
+## C f. 88v
+### Inhaltsverzeichnis

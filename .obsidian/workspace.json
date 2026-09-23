@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Lorsch/Phillips/Analyse Phillipps 1347.md",
+                "file": "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-bischoff_gesamttabelle_102-135_korrigiert_v2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Analyse Phillipps 1347"
+              "title": "lorsch-bischoff_gesamttabelle_102-135_korrigiert_v2"
             }
           }
         ]
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 271.2421875
   },
   "right": {
     "id": "8404d979b96688bf",
@@ -183,11 +183,20 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "04bdc22efb3ea943",
+  "active": "e71ba0843a5255ae",
   "lastOpenFiles": [
+    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-55.md",
+    "History/Lorsch/Phillips/Analyse Phillipps 1347.md",
+    "History/Von Gregor bis Karl/Entwurf 1.md",
+    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-53.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_v84.md",
+    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v84.md",
+    "History/Lorsch/Bibliothek/Bibliotheca Laureshamensis Digital/bav_pal_lat_822.md",
+    "History/Lorsch/Bibliothek/Tabellen/alt/Handbuch_ChangeLog_v78.md",
+    "History/Lorsch/Bibliothek/Tabellen/alt/Handbuch_v39.md",
+    "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-49.md",
     "Untitled 1.base",
     "Untitled.base",
-    "History/Lorsch/Phillips/Analyse Phillipps 1347.md",
     "History/Lorsch/Phillips/Bilder/20260820175728.png",
     "History/Lorsch/Phillips/Bilder/20260820175441.png",
     "History/Lorsch/Phillips/Bilder/20260820175420.png",
@@ -204,13 +213,12 @@
     "Bilder",
     "Untitled.canvas",
     "History/Untitled.md",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-53.md",
-    "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-52.md",
+    "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-52.md",
     "History/Lorsch/Bibliothek/Tabellen/Handbuch_v82.md",
     "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v82.md",
     "History/Von Gregor bis Karl/Karolingische Renaissance/Die Rolle Karls des Großen.md",
-    "History/Lorsch/Bibliothek/Tabellen/Handbuch_v81.md",
-    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v81.md",
+    "History/Lorsch/Bibliothek/Tabellen/alt/Handbuch_v81.md",
+    "History/Lorsch/Bibliothek/Tabellen/alt/Handbuch_ChangeLog_v81.md",
     "History/Lorsch/Bibliothek/Kapitel/Palaeographische Detektivarbeit/Commentarium in Octateuchum.md",
     "History/Von Gregor bis Karl/Weitere Personen/Wigbod.md",
     "History/Von Gregor bis Karl/Augustinus/Epistola 174.md",
@@ -221,17 +229,9 @@
     "History/Von Gregor bis Karl/Karolingische Renaissance/Karolingische Renaissance.md",
     "History/Von Gregor bis Karl/Grammatische Handschriften in Lorsch.md",
     "History/Von Gregor bis Karl/Karolingische Renaissance",
-    "History/Von Gregor bis Karl/Entwurf 1.md",
-    "History/Von Gregor bis Karl/Karolingische Renaissance/Karolingische Renaissance versus Humanistische Renaissance.md",
-    "2026-08-17.md",
-    "History/Franken/Karolinger/Karl der Große.md",
-    "History/Von Gregor bis Karl/Paulus Diaconus/Leben.md",
-    "History/Von Gregor bis Karl/Prolog.md",
-    "History/Von Gregor bis Karl/Theodulf/Theodulf-ChatGPT1.md",
     "History/Lorsch/Bibliothek/Kapitel/Palaeographische Detektivarbeit",
     "History/Von Gregor bis Karl/Boethius",
     "History/Lorsch/Bibliothek/Bibliotheca Laureshamensis Digital",
-    "History/Lorsch/Bibliothek/Tabellen/-lorsch-forschung_v5-3.xlsx",
     "History/Von Gregor bis Karl/Personen.canvas",
     "History/Franken/Untitled.canvas",
     "History/Langobarden Könige.canvas"
