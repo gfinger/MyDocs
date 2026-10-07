@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "53c73b869e3aaf44",
+        "id": "42e119a8ded6470a",
         "type": "tabs",
         "children": [
           {
@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-bischoff_gesamttabelle_102-135_korrigiert_v2.md",
+                "file": "History/Lorsch/Phillips/Phillipps_Befunde.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lorsch-bischoff_gesamttabelle_102-135_korrigiert_v2"
+              "title": "Phillipps_Befunde"
             }
           }
         ]
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271.2421875
+    "width": 363.76953125
   },
   "right": {
     "id": "8404d979b96688bf",
@@ -183,10 +183,23 @@
       "markwhen:Create new Markwhen file": false
     }
   },
-  "active": "e71ba0843a5255ae",
+  "active": "04bdc22efb3ea943",
   "lastOpenFiles": [
+    "History/Lorsch/Phillips/Codices.md",
+    "History/Lorsch/Phillips/Phillipps_Befunde.md",
+    "History/Lorsch/Phillips/Phillipps_Auswertung (1).md",
+    "History/Lorsch/Phillips/Phillipps_Befunde (1).md",
+    "History/Lorsch/Phillips/Phillipps_Fragen (1).md",
+    "Untitled.md",
+    "History/Lorsch/Phillips/alt/Analyse Phillipps 1347_alt.md",
+    "History/Lorsch/Phillips/alt",
+    "History/Lorsch/Phillips/alt/Analyse_Phillipps_1347.md",
+    "History/Lorsch/Phillips/alt/Phillipps_Auswertung.md",
     "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-55.md",
-    "History/Lorsch/Phillips/Analyse Phillipps 1347.md",
+    "History/Lorsch/Phillips/alt/Phillipps_Fragen.md",
+    "History/Lorsch/Bibliothek/Tabellen/alt/Handbuch_ChangeLog_v55.md",
+    "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-bischoff_gesamttabelle_102-135_korrigiert_v2.md",
+    "History/Lorsch/Bibliothek/Tabellen/lorsch-bischoff_gesamttabelle_102-135_korrigiert.md",
     "History/Von Gregor bis Karl/Entwurf 1.md",
     "History/Lorsch/Bibliothek/Tabellen/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-53.md",
     "History/Lorsch/Bibliothek/Tabellen/Handbuch_v84.md",
@@ -215,23 +228,10 @@
     "History/Untitled.md",
     "History/Lorsch/Bibliothek/Tabellen/alt/lorsch-forschung_gesamttabelle_102-135_arbeitsstand_v7-52.md",
     "History/Lorsch/Bibliothek/Tabellen/Handbuch_v82.md",
-    "History/Lorsch/Bibliothek/Tabellen/Handbuch_ChangeLog_v82.md",
-    "History/Von Gregor bis Karl/Karolingische Renaissance/Die Rolle Karls des Großen.md",
-    "History/Lorsch/Bibliothek/Tabellen/alt/Handbuch_v81.md",
-    "History/Lorsch/Bibliothek/Tabellen/alt/Handbuch_ChangeLog_v81.md",
-    "History/Lorsch/Bibliothek/Kapitel/Palaeographische Detektivarbeit/Commentarium in Octateuchum.md",
-    "History/Von Gregor bis Karl/Weitere Personen/Wigbod.md",
-    "History/Von Gregor bis Karl/Augustinus/Epistola 174.md",
-    "History/Von Gregor bis Karl/Augustinus/Pseudo-Augustinus.md",
-    "History/Von Gregor bis Karl/Augustinus/Buchproduktion und Verbreitung.md",
-    "History/Buchkonzepte/Konzept Karolingisches Geistesleben.md",
     "History/Buchkonzepte",
-    "History/Von Gregor bis Karl/Karolingische Renaissance/Karolingische Renaissance.md",
-    "History/Von Gregor bis Karl/Grammatische Handschriften in Lorsch.md",
     "History/Von Gregor bis Karl/Karolingische Renaissance",
     "History/Lorsch/Bibliothek/Kapitel/Palaeographische Detektivarbeit",
     "History/Von Gregor bis Karl/Boethius",
-    "History/Lorsch/Bibliothek/Bibliotheca Laureshamensis Digital",
     "History/Von Gregor bis Karl/Personen.canvas",
     "History/Franken/Untitled.canvas",
     "History/Langobarden Könige.canvas"

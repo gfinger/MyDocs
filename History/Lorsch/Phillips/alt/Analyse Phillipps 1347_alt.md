@@ -193,5 +193,57 @@ In der Hervagius-Ausgabe, die in PL93 wieder abgedruckt wurde, wurden diese verd
 ### Fehlerkorrektur
 Der Text "Unde et sacerdotes **ex semine Abre** nati fratres ex se quos benedicebant" wird in C zuächst fehlerhaft widergegeben, als "Unde et sacerdotes **in eternum Abre** nati fratres ex se quos benedicebant", dann aber interlinear korrigiert. Die Korrektur erfolgt zwar in andersfarbiger Tinte, könnte aber dennoch von derselben Schreiberhand ausgeführt worden sein. A enthält diesen Fehler / dies Korrektur nicht. Prinzipiell könnte es sich in C um die Kopie einer bereits fehlerhaften Vorlage handeln, die später mithilfe einer zweiten Vorlage korrigiert wurde. Da alle anderen Textzeugen den entsprechenden Text korrekt darstellen, und außerdem die Korrektur anscheinend von derselben Hand ausgeführt wurde, erscheint dies aber unwahrscheinlich.
 
-## C f. 88v
-### Inhaltsverzeichnis
+## C f. 88v -- A f. 97v-98r
+### Aufbau
+C f. 88v zeigt den Beginn des Exodus-Kommentars. Die Seite beginnt mit einem _Capitualrium_ der 59 folgenden Kapitel. Es endet mit einem _Expliciunt capitula_ endet. Anschließend leitet ein Incipit den eigentlichen Kommentar ein.  Das erste Kapitel übernimmt Wigbod aus Isidors _Prooemia_ 19 (PL 83, 159C), die folgenden Kapitel aus Isidors _Quaestiones in Exodum_ (PL 83, 287C). Kapitel 1 und 2 werden mit einem Überleitungstext verbunden, die sich nicht bei Isidor dindet.
+Im Grundaufbau stimmen alle 6 untersuchten Textzeugen überein. Im Einzelnen bestehen jedoch bemerkenswerte Unterschiede.  
+PL 93 bietet kein vorangestelltes _Capitularium_. Die Titel, die in den _Capitualarien_ der Textzeugen erscheinen als Überschriften der jeweiligen Kapitel. 
+In Phillips, Oxford, Laon 273 und 279 werden die Kapitel zusätzlich am Rand mit römischen Ziffern gekennzeichnet. In Admont und Wien gibt es keine Nummerierung der einzelnen Kapitel. 
+### Synopse
+Bezüglich einiger signifikanter Merkmale lassen sich die Handschriften in zwei Gruppen unterteilen.
+- G1: Phillipps, Oxford, Laon 273, Laon 279
+- G2: Admont 174, Wien 1004
+- 
+Die Handschriften der zweiten Gruppe leiten den Exodus-Kommentar mit einem ausführlicheren Incipit ein, als die der ersten Gruppe. In dem der ersten Gruppe wird Wigbod als Verfasser genannt, der diese _Explantio_ für Kaiser Karl aus Texten verschiedener heiliger Väter, die hier alle aufgezählt werden, zusammengestellt hätte. Die Textzeugen der ersten Gruppe begnügen sich mit einem kürzeren Incipit, das allgemein auf die _sancti patres_ verweist und weder Wigbod noch Karl benennt.
+
+Die Textzeugen der ersten Gruppe enthalten eine nicht-isidorische Überleitung zwischen Kapitel 1 und 2 (zwischen Isidors Prooemium und seiner Quaestiones), die Textzeugen der zweiten Gruppe nicht. Innerhalb der ersten Gruppe unterscheidet sich wiederum Phillipps von Oxford und Laon im Wortlaut der Überleitung. 
+
+Die Textzeugen der Gruppe 1 unterscheiden sich von den beiden der Gruppe 2 in einer Textvariante: Gruppe zwei spricht von den _decem plagem Aegypti_ , während Gruppe 1  _decem_  durch _necem_ ersetzt. Interessanterweise folgt PL93 der Textvariante der Gruppe 1, während PL83 der viel plausibleren Variante der Gruppe 2 entspricht. 
+
+| Merkmal                           | C (Phillips)                                                                                                                 | A (Oxford)                            | Laon 273/279 | Admont 174                                                                                                                                                                                                      | Wien 1004                                                       | PL 93                                                                  | Isidor PL 83                                                           |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| **Vorangestelltes Capitularium ** | ja                                                                                                                           | ja                                    | ja           | ja                                                                                                                                                                                                              | ja                                                              | **nein**, die Einträge des Capitularium werden zu Kapitelüberschriften | **nein**, die Einträge des Capitularium werden zu Kapitelüberschriften |
+| **Kapitelaufbau im Text**         | Kapitelzählung entsprechend Capitularium als Marginalie.<br>Jedes Kapitel beginnt mit einer Initialie auf einer neuen Zeile. | wie C                                 | wie C        | Keine fortlaufende Numerierung der Kapitel.<br>Die Auszeichnung der Kapitel wird nicht konsequent durchgeführt.                                                                                                 | Keine Kapitelzählung.<br>Keine Auszeichnung der Kapitelanfänge. | Kapitelzählung und Titel als Überschrift                               | Kapitelzählung und Titel als Überschrift                               |
+| **Incipit nach Capitularium**     | INCIPIT EXPLANATIO SANCTORUM PATRUM QUORUM IN PRAEFATIONE PRIMA HUIUS LIBRI MEMINI SUPER EXODUM                              | wie C                                 | wie C        | INCIPIT EXPLANATIO QUAM FECIT _WIGBOD_ PRESBITER DOMINI _CAROLI IMPERATORIS_ EX LIBRIS SANCTORUM PATRUM, ID EST _HIERONIMI, AUGUSTINI, AMBROSII, HILARII, EUCHERII, GREGORII, ISIDORI, IUNILII, BEDE_, IN EXODO | wie Admont                                                      | QUAESTIONUM SUPER EXODUM, EX DICTIS PATRUM, DIALOGUS. Vor dem Prolog.  |                                                                        |
+| **decem/necem plagas Aegypti**    | necem                                                                                                                        | necem                                 | necem        | decem                                                                                                                                                                                                           | decem                                                           | necem                                                                  | decem                                                                  |
+| **Überleitung nach Kapitel I**    | Redeamus ad expositionis ordinem                                                                                             | Nunc ad expositionis ordinem redeamus | wie A        | fehlt                                                                                                                                                                                                           | fehlt                                                           | fehlt                                                                  | in den Isidor-Quellen nicht vorhanden                                  |
+
+## C f. 89r -- A 98r-98v
+
+Die Handschrift C weicht an zwei Stellen von den korrespondierenden Texten A (Oxford), Laon 273/279, Wien, Admont und auch der gedruckten Version in PL93 ab. Darüber hinaus fällt eine Korrektur in C auf. Zunächst wurde das Wort _cedat_ vergessen und dann nachträglich interlinear nachgetragen. Die anderen Textzeugen sind an dieser Stelle fehlerfrei.
+
+| Kapitel | Stelle              | C (Phillipps)                                                    | A (Oxford)                       | Laon 273/279       | Wien               | Admont             | PL 93              | Bewertung                                                                                               |
+| ------- | ------------------- | ---------------------------------------------------------------- | -------------------------------- | ------------------ | ------------------ | ------------------ | ------------------ | ------------------------------------------------------------------------------------------------------- |
+| **III** | Joseph              | `Sic et **verus noster** Ioseph`                                 | `Sic et **noster verus** Ioseph` | `noster verus`     | `noster verus`     | `noster verus`     | `noster verus`     | C-Sonderlesart gegenüber allen anderen Textzeugen. Einfacher Abschreibfehler unwahrscheinlich.          |
+| **V**   | Pharaos Befehl      | `... feminas **reservare**`                                      | `... feminas **vivere**`         | `vivere`           | `vivere`           | `vivere`           | `vivere`           | C-Sonderlesart gegenüber allen anderen Textzeugen. Einfacher Abschreibfehler unwahrscheinlich.          |
+| **VII** | Haus auf dem Felsen | C¹ ohne `cedat`; C² interlinear `cedat`, danach **`ut corruat`** | `cedat **et** corruat`           | `cedat et corruat` | `cedat et corruat` | `cedat et corruat` | `cedat et corruat` | zunächst Kopierauslassung in C, anschließend korrigiert; `ut/et` wahrscheinlich einfacher Schreibfehler |
+
+## C f. 98v -- A 110v/r
+
+**C und A unterscheiden sich im ersten Kapitel deutlich in einer Textvariante.** A und alle übrigen bislang untersuchten Handschriften lesen _omnes illae hostiae cessaverunt_, während in C _illae_ fehlt: _omnes hostiae cessaverunt_. Dass dieser Unterschied nicht zwingend als einfacher Abschreibfehler von C erklärt werden muss, zeigt der Befund der gedruckten Überlieferung: Der Wigbod-Text in PL 93 stimmt mit C überein und lässt _illae_ ebenfalls aus, während der Isidor-Text in PL 83 wie A und die übrigen Handschriften _omnes illae hostiae cessaverunt_ bietet. **Möglicherweise weist dies darauf hin, dass C und die in PL 93 repräsentierte Wigbod-Überlieferung auf einen anderen Überlieferungszweig zurückgehen als A und die übrigen untersuchten Handschriften.**
+
+## C f. 102v -- A f. 115v/116r
+
+_Ab Abraham usque ad David generationes quatuordecim,_  
+_et a David usque ad transmigrationem Babylonis generationes quatuordecim,_  
+_et a transmigratione Babylonis usque ad Christum generationes quatuordecim,_  
+_id est, generationes simul quadraginta et duae._
+
+| Zeuge/Zustand                  | Abraham → David | David → Babylon |                       Babylon → Christus |
+| ------------------------------ | --------------: | --------------: | ---------------------------------------: |
+| **PL 83 / Isidor**             |       vorhanden |   **vorhanden** |                                vorhanden |
+| **A, Haupttext vor Korrektur** |       vorhanden |       **fehlt** |                                vorhanden |
+| **A, nach Randnachtrag**       |       vorhanden |     **ergänzt** |                                vorhanden |
+| **PL 93 / Wigbod**             |       vorhanden |       **fehlt** |                                vorhanden |
+| **C, Haupttext vor Korrektur** |       vorhanden |       **fehlt** | nur `generationes XIV`, Einleitung fehlt |
+| **C, nach Randnachtrag**       |       vorhanden |       **fehlt** |                              **ergänzt** |
