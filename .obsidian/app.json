@@ -9,5 +9,6 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "readableLineLength": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "strictLineBreaks": false
 }

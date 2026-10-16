@@ -1,6 +1,8 @@
+var __create = Object.create;
 var __defProp = Object.defineProperty;
 var __getOwnPropDesc = Object.getOwnPropertyDescriptor;
 var __getOwnPropNames = Object.getOwnPropertyNames;
+var __getProtoOf = Object.getPrototypeOf;
 var __hasOwnProp = Object.prototype.hasOwnProperty;
 var __export = (target, all) => {
   for (var name in all)
@@ -14,6 +16,14 @@ var __copyProps = (to, from, except, desc) => {
   }
   return to;
 };
+var __toESM = (mod, isNodeMode, target) => (target = mod != null ? __create(__getProtoOf(mod)) : {}, __copyProps(
+  // If the importer is in node compatibility mode or this is not an ESM
+  // file that has been converted to a CommonJS file using a Babel-
+  // compatible transform (i.e. "__esModule" has not been set), then set
+  // "default" to the CommonJS "module.exports" for node compatibility.
+  isNodeMode || !mod || !mod.__esModule ? __defProp(target, "default", { value: mod, enumerable: true }) : target,
+  mod
+));
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
 var __async = (__this, __arguments, generator) => {
   return new Promise((resolve, reject) => {
@@ -45,7 +55,7 @@ __export(main_exports, {
 module.exports = __toCommonJS(main_exports);
 
 // src/ZoteroBridge.ts
-var import_obsidian6 = require("obsidian");
+var import_obsidian5 = require("obsidian");
 
 // node_modules/@vanakat/plugin-api/index.js
 var import_obsidian = require("obsidian");
@@ -59,17 +69,17 @@ function registerAPI(name, api, plugin) {
 
 // src/ZoteroBridgeSettings.ts
 var DEFAULT_SETTINGS = {
-  connectionType: 1 /* ZotServer */,
+  connectionType: 2 /* LocalAPIV3 */,
   userOrGroup: "users/0",
   host: "localhost",
   port: "23119"
 };
 
 // src/ZoteroAdapter.ts
-var import_obsidian3 = require("obsidian");
+var import_obsidian2 = require("obsidian");
+var http = __toESM(require("http"));
 
 // src/ZoteroItem.ts
-var import_obsidian2 = require("obsidian");
 var ZoteroItem = class {
   constructor(raw) {
     this.raw = raw;
@@ -77,18 +87,32 @@ var ZoteroItem = class {
   getKey() {
     return this.raw.data.key;
   }
+  /**
+   * Library path for zotero:// URIs: `groups/<id>` for group library items,
+   * `library` (the personal library) otherwise. ZotServer responses carry no
+   * library information, so they fall back to the personal library.
+   */
+  getLibraryUri() {
+    const library = this.raw.library;
+    if (library && library.type === "group" && library.id != null) {
+      return `groups/${library.id}`;
+    }
+    return "library";
+  }
   getTitle() {
-    return this.raw.data.title || this.raw.data.shortTitle || this.getNoteExcerpt() || "[No Title]";
+    return this.raw.data.title || this.raw.data.shortTitle || "[No Title]";
   }
   getShortTitle() {
     return this.raw.data.shortTitle;
   }
   getCreatorSummary() {
     if (this.raw.hasOwnProperty("meta") && this.raw.meta.hasOwnProperty("creatorSummary")) {
-      return this.raw.meta.creatorSummary;
-    } else {
-      return this.getAuthor() ? this.getAuthor().fullName : "";
+      const summary = this.raw.meta.creatorSummary;
+      if (summary !== void 0 && summary !== null) {
+        return summary;
+      }
     }
+    return this.getAuthor() ? this.getAuthor().fullName : "";
   }
   getAuthors() {
     return this.getCreators().filter((creator) => creator.creatorType === "author").map(this.normalizeName);
@@ -100,19 +124,17 @@ var ZoteroItem = class {
     return this.raw.data.creators || [];
   }
   getDate() {
-    let date = this.raw.data.date;
+    const noDate = { year: null, month: null, day: null };
     if (this.raw.hasOwnProperty("meta") && this.raw.meta.hasOwnProperty("parsedDate")) {
-      date = this.raw.meta.parsedDate;
+      const parsedFromMeta = this.formatDate(this.raw.meta.parsedDate, noDate);
+      if (parsedFromMeta.year !== null) {
+        return parsedFromMeta;
+      }
     }
-    return date ? this.formatDate(date) : { year: null, month: null, day: null };
-  }
-  getNoteExcerpt() {
-    if (this.raw.data.note) {
-      const div = document.createElement("div");
-      div.appendChild((0, import_obsidian2.sanitizeHTMLToDom)(this.raw.data.note));
-      return (div.textContent || div.innerText || "").trim().substring(0, 50) + "...";
+    if (this.raw.data.date) {
+      return this.formatDate(this.raw.data.date, noDate);
     }
-    return "";
+    return noDate;
   }
   normalizeName(creator) {
     const names = {
@@ -121,19 +143,29 @@ var ZoteroItem = class {
       fullName: ""
     };
     if (creator.hasOwnProperty("name")) {
-      const delimiter = creator.name.lastIndexOf(" ");
-      names.firstName = creator.name.substring(0, delimiter + 1).trim();
-      names.lastName = creator.name.substring(delimiter).trim();
-      names.fullName = creator.name;
+      const trimmedName = creator.name.trim();
+      const delimiter = trimmedName.lastIndexOf(" ");
+      if (delimiter === -1) {
+        names.firstName = "";
+        names.lastName = trimmedName;
+      } else {
+        names.firstName = trimmedName.substring(0, delimiter).trim();
+        names.lastName = trimmedName.substring(delimiter + 1).trim();
+      }
+      names.fullName = trimmedName;
     } else {
-      names.fullName = `${names.firstName} ${names.lastName}`;
+      const parts = [names.firstName, names.lastName].filter((part) => part);
+      names.fullName = parts.join(" ");
     }
     return names;
   }
-  formatDate(date) {
+  formatDate(date, noDate) {
+    if (date === null || date === void 0) {
+      return noDate;
+    }
     const dateObject = new Date(date);
     if (isNaN(dateObject.getTime())) {
-      return null;
+      return noDate;
     }
     return {
       year: dateObject.getUTCFullYear(),
@@ -144,6 +176,7 @@ var ZoteroItem = class {
   getValues() {
     return {
       key: this.getKey(),
+      libraryUri: this.getLibraryUri(),
       title: this.getTitle(),
       shortTitle: this.getShortTitle(),
       date: this.getDate(),
@@ -155,6 +188,41 @@ var ZoteroItem = class {
 };
 
 // src/ZoteroAdapter.ts
+var SEARCH_RESULTS_LIMIT = 50;
+function localApiRequest(url) {
+  return new Promise((resolve, reject) => {
+    const req = http.get(url, {
+      headers: {
+        "Accept": "application/json",
+        "User-Agent": "ZoteroBridge",
+        "Zotero-Allowed-Request": "true"
+      }
+    }, (response) => {
+      let body = "";
+      response.setEncoding("utf8");
+      response.on("data", (chunk) => body += chunk);
+      response.on("end", () => {
+        if (!response.statusCode || response.statusCode < 200 || response.statusCode >= 300) {
+          reject(new Error(`Zotero Local API returned HTTP ${response.statusCode}: ${body}`));
+          return;
+        }
+        resolve(body);
+      });
+    });
+    req.on("error", reject);
+    req.setTimeout(5e3, () => {
+      req.destroy(new Error("Zotero Local API request timed out"));
+    });
+  });
+}
+function localApiRequestWithFallback(url) {
+  return (0, import_obsidian2.request)({
+    url,
+    method: "get",
+    contentType: "application/json",
+    headers: { "Zotero-Allowed-Request": "true" }
+  }).catch(() => localApiRequest(url));
+}
 var LocalAPIV3Adapter = class {
   constructor(settings) {
     this.settings = settings;
@@ -165,23 +233,16 @@ var LocalAPIV3Adapter = class {
   search(query) {
     return this.items({
       itemType: "-attachment",
-      q: query
+      q: query,
+      limit: SEARCH_RESULTS_LIMIT.toString()
     });
   }
   groups() {
-    return (0, import_obsidian3.request)({
-      url: `http://${this.settings.host}:${this.settings.port}/api/users/0/groups`,
-      method: "get",
-      contentType: "application/json"
-    }).then(JSON.parse).then((groups) => groups.map((group) => group.data));
+    return localApiRequestWithFallback(`http://${this.settings.host}:${this.settings.port}/api/users/0/groups`).then(JSON.parse).then((groups) => groups.map((group) => group.data));
   }
   items(parameters) {
-    return (0, import_obsidian3.request)({
-      url: `${this.baseUrl}/items?` + new URLSearchParams(parameters).toString(),
-      method: "get",
-      contentType: "application/json"
-    }).then(JSON.parse).then((items) => items.filter((item) => !["attachment", "note"].includes(item.data.itemType)).map((item) => new ZoteroItem(item))).catch(() => {
-      new import_obsidian3.Notice(`Couldn't connect to Zotero, please check the app is open and Zotero Local API is enabled`);
+    return localApiRequestWithFallback(`${this.baseUrl}/items?` + new URLSearchParams(parameters).toString()).then(JSON.parse).then((items) => items.filter((item) => !["attachment", "note"].includes(item.data.itemType)).map((item) => new ZoteroItem(item))).catch(() => {
+      new import_obsidian2.Notice(`Couldn't connect to Zotero, please check the app is open and Zotero Local API is enabled`);
       return [];
     });
   }
@@ -199,7 +260,7 @@ var ZotServerAdapter = class {
     });
   }
   items(parameters) {
-    return (0, import_obsidian3.request)({
+    return (0, import_obsidian2.request)({
       url: `${this.baseUrl}/search`,
       method: "post",
       contentType: "application/json",
@@ -207,8 +268,8 @@ var ZotServerAdapter = class {
         condition: "quicksearch-titleCreatorYear",
         value: parameters.q
       }])
-    }).then(JSON.parse).then((items) => items.filter((item) => !["attachment", "note"].includes(item.itemType)).map((item) => new ZoteroItem({ data: item }))).catch(() => {
-      new import_obsidian3.Notice(`Couldn't connect to Zotero, please check the app is open and ZotServer is installed`);
+    }).then(JSON.parse).then((items) => items.filter((item) => !["attachment", "note"].includes(item.itemType)).slice(0, SEARCH_RESULTS_LIMIT).map((item) => new ZoteroItem({ data: item }))).catch(() => {
+      new import_obsidian2.Notice(`Couldn't connect to Zotero, please check the app is open and ZotServer is installed`);
       return [];
     });
   }
@@ -219,8 +280,8 @@ var ZoteroAdapters = {
 };
 
 // src/ZoteroSuggestModal.ts
-var import_obsidian4 = require("obsidian");
-var ZoteroSuggestModal = class extends import_obsidian4.SuggestModal {
+var import_obsidian3 = require("obsidian");
+var ZoteroSuggestModal = class extends import_obsidian3.SuggestModal {
   constructor(app, adapter, onSelect) {
     super(app);
     this.adapter = adapter;
@@ -276,22 +337,22 @@ var ZoteroBridgeApi = class {
 };
 
 // src/ZoteroBridgeSettingTab.ts
-var import_obsidian5 = require("obsidian");
-var ZoteroBridgeSettingTab = class extends import_obsidian5.PluginSettingTab {
+var import_obsidian4 = require("obsidian");
+var ZoteroBridgeSettingTab = class extends import_obsidian4.PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
     this.plugin = plugin;
   }
   display() {
     this.containerEl.empty();
-    new import_obsidian5.Setting(this.containerEl).setName("Connection type").setDesc("Note that you either need to install ZotServer plugin in Zotero 6 or enable Local API support in Zotero 7 advanced settings.").addDropdown((dropdown) => {
+    new import_obsidian4.Setting(this.containerEl).setName("Connection type").setDesc("Note that you either need to install ZotServer plugin in Zotero 6 or enable Local API support in Zotero 7 advanced settings.").addDropdown((dropdown) => {
       dropdown.addOption(1 /* ZotServer */.toString(), "Zotero 6 ZotServer Plugin").addOption(2 /* LocalAPIV3 */.toString(), "Zotero 7 Local API (v3)").setValue(this.plugin.settings.connectionType.toString()).onChange((value) => __async(this, null, function* () {
         yield this.plugin.saveSettings({
           connectionType: +value
         });
       }));
     });
-    new import_obsidian5.Setting(this.containerEl).setName("User or group").setDesc("This parameter only works with Zotero 7 connection type.").addDropdown((dropdown) => __async(this, null, function* () {
+    new import_obsidian4.Setting(this.containerEl).setName("User or group").setDesc("This parameter only works with Zotero 7 connection type.").addDropdown((dropdown) => __async(this, null, function* () {
       const adapter = new LocalAPIV3Adapter(this.plugin.settings);
       const groups = yield adapter.groups();
       dropdown.addOption(`users/0`, "My Library");
@@ -304,7 +365,7 @@ var ZoteroBridgeSettingTab = class extends import_obsidian5.PluginSettingTab {
         });
       }));
     }));
-    new import_obsidian5.Setting(this.containerEl).setName("Zotero server port").setDesc(`Don't change unless you really know what you are doing`).addText((txt) => {
+    new import_obsidian4.Setting(this.containerEl).setName("Zotero server port").setDesc(`Don't change unless you really know what you are doing`).addText((txt) => {
       txt.setValue(this.plugin.settings.port.toString()).onChange((value) => __async(this, null, function* () {
         yield this.plugin.saveSettings({
           port: value
@@ -315,7 +376,7 @@ var ZoteroBridgeSettingTab = class extends import_obsidian5.PluginSettingTab {
 };
 
 // src/ZoteroBridge.ts
-var ZoteroBridge = class extends import_obsidian6.Plugin {
+var ZoteroBridge = class extends import_obsidian5.Plugin {
   onload() {
     return __async(this, null, function* () {
       this.settings = Object.assign({}, DEFAULT_SETTINGS, yield this.loadData());
@@ -327,6 +388,7 @@ var ZoteroBridge = class extends import_obsidian6.Plugin {
   saveSettings(newSettings) {
     return __async(this, null, function* () {
       Object.assign(this.settings, newSettings);
+      this.zoteroAdapter = new ZoteroAdapters[this.settings.connectionType](this.settings);
       yield this.saveData(this.settings);
     });
   }
