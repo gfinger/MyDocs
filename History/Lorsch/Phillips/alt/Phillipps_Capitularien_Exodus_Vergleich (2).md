@@ -1,0 +1,568 @@
+# Exodus-Capitularien – Vergleich mit PL 93, Herwagen (1563) und Isidor (PL 83, Clm 14166, Clm 14288)
+
+Stand: 30. Oktober 2026. Mit Herwagen (1563), Isidor in PL 83 und den Isidor-Capitularien in Clm 14166, ff. 128r–128v, und Clm 14288, ff. 66v–67r.
+
+## Referenz und Verfahren
+
+PL 96 enthält Martènes Wigbod-Ausgabe aus dem Trierer Textzeugen. Dieser Druck endet mit Genesis 3 und enthält keinen Exodus-Kommentar. Die entsprechende Vergleichsquelle ist PL 93, *Quaestionum super Exodum ex dictis patrum dialogus*, Sp. 363–386. Der folgende Abgleich verwendet ausdrücklich PL 93, nicht PL 96.
+
+PL 93 druckt kein vorangestelltes Capitularium. Als Referenz dienen daher seine Kapitelüberschriften im laufenden Kommentar. Sie wurden am Druckbild überprüft. Die sechs Handschriften werden anhand ihrer vorangestellten Kapitelverzeichnisse verglichen. Kapitelüberschrift im Haupttext und Eintrag im Verzeichnis werden damit getrennt erfasst.
+
+Herwagen wird nach dem *Octavus tomus* der Basler Beda-Ausgabe von 1563 verglichen: *Quaestionum super Exodum ex dictis patrum dialogus*, Sp. 271–299. Auch dieser Druck enthält vor dem Exodus-Kommentar kein Capitularium. Verglichen werden deshalb seine 56 nummerierten Überschriften im laufenden Text. Alle Druckseiten von Sp. 271 bis 300 wurden am Bild kontrolliert; Sp. 300 enthält bereits den Beginn des Leviticus-Kommentars. Die Spaltenangaben folgen der gedruckten Zählung, nicht den PDF-Seitennummern.
+
+Isidor wird nach PL 83, *Mysticorum expositiones sacramentorum seu Quaestiones in Vetus Testamentum*, Abschnitt *In Exodum*, Sp. 287–322, verglichen. Maßgeblich sind auch hier die nummerierten Überschriften im laufenden Kommentar. Sämtliche 59 Überschriften wurden unmittelbar am bereitgestellten Digitalisat kontrolliert; sie stehen auf PDF-S. 148–163. Die eigene *Praefatio* steht davor in Sp. 287. Der Isidor-Abgleich folgt in einer gesonderten Tabelle, damit die vorhandene Handschriftentabelle und ihre Referenz PL 93 erhalten bleiben.
+
+Zusätzlich wird das vorangestellte Exodus-Capitularium in München, BSB, Clm 14166, ff. 128r–128v, unmittelbar nach den vorgelegten Bildern verglichen. Der betreffende Isidor-Teil wird ans Ende des 8. Jahrhunderts datiert. Die neue Handschriftenspalte der Haupttabelle enthält die Lesart und ihre Stelle. Das Zeichen = bezieht sich auch dort auf die PL-93-Referenz. Die Zeilen werden auf jeder Seite ab der obersten beschriebenen Zeile gezählt. Im Münchener Capitularium beginnt die Liste auf 128r, Z. 19, und setzt sich auf 128v ab Z. 1 fort. Die Münchener Titel sind nicht fortlaufend nummeriert. Ihre Zuordnung erfolgt nach den Nummern von PH/OX.
+
+Zusätzlich wird Clm 14288, ff. 66v–67r, nach den beiden neu vorgelegten Bildern verglichen. Das Capitularium steht vollständig auf 66v, sein Explicit auf 67r. Clm 14288 hat im Unterschied zu Clm 14166 eine durchgehende Kapitelzählung I–LIX. Die neue Spalte nennt diese eigenen Nummern sowie Spalte und Zeile. Auf 66v zählt die gemeinsame Eingangsüberschrift als Z. 1. Kapitel I beginnt links in Z. 2, Kapitel XXX rechts in Z. 2. Wortendungen am rechten Rand werden ihrem Titel zugeordnet. Ein zusätzlicher Tabelleneintrag zwischen den PH/OX-Nummern XXXI und XXXII erfasst *De lapideis tabulis*, das in Clm 14288 als XXXI gezählt wird.
+
+Für das erste Exodus-Kapitel wird zusätzlich Isidors anderes Werk *In libros Veteris ac Novi Testamenti prooemia*, § 19 (*De Exodo*), PL 83, Sp. 159, herangezogen. Der neu vorgelegte Textzeuge Pal. lat. 277, f. 3r, überliefert den Anfang dieser Inhaltsübersicht. Der entsprechende Abschnitt unten trennt den unmittelbaren Bildvergleich von der ergänzenden Kontrolle des vollständigen Prooemiums in PL 83.
+
+Die Tabelle umfasst die 59 Positionen der Referenzzählung von PH/OX und zusätzlich den in Clm 14288 verzeichneten Isidor-Titel *De lapideis tabulis*. Abbreviaturen sind aufgelöst. Großschreibung, Interpunktion sowie geläufige Schreibvarianten wie *ae/e*, *i/j*, *u/v*, *Moysi/Moysy* und *capitola/capitula* sind vereinheitlicht. Zahlzeichen wie LXX werden ausgeschrieben. Die Tabelle ist keine diplomatische Transkription. Das Druckzeichen & wird als *et* wiedergegeben; römische Kapitelzahlen werden auf die in PL 93 verwendete Form vereinheitlicht. Eckige Klammern ergänzen einen im Herwagen-Druckbild nicht erkennbaren Buchstaben.
+
+Das Zeichen = bedeutet Übereinstimmung mit der Überschrift in der Spalte PL 93 nach dieser Normalisierung. Abweichende Lesarten werden ausgeschrieben. Unterstrichen sind möglichst eng die ersetzten oder zusätzlichen Wörter. Auslassungen sind am ausgeschriebenen Wortlaut erkennbar. Ein Fragezeichen bezeichnet eine noch unsichere Lesung. Hochgestellte ¹ und ² unterscheiden den lokalen Textstand vor und nach einem Nachtrag, ohne eine Hand zu identifizieren.
+
+## Vollständiger Abgleich der Überschriften
+
+Die Nummer in der ersten Spalte folgt PL 93. Die dritte Spalte nennt die entsprechende Nummer in PH/OX. Die Nummerierung in LA279 und die fehlende fortlaufende Nummerierung in WI/AD werden unten erläutert. Herwagen hat dieselbe Kapitelzählung wie PL 93. Seine Spalte bezieht sich auf Überschriften im Kommentar; die Handschriftenspalten beziehen sich weiterhin auf die Capitularien. Die Kapitelnummer innerhalb der Clm-14288-Spalte ist dessen eigene Nummer, nicht die Nummer von PH/OX.
+
+| Nr. PL 93 | Sp. PL 93 | Nr. PH/OX | Überschrift PL 93 als Referenz | Sp. Herwagen | Herwagen (1563) | Clm 14166, Capitularium | Clm 14288, Capitularium | OX | PH | LA273 | LA279 | WI | AD |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| I | 365 | I | *Exodus quae in se contineat* | 271 | = | Kein entsprechender Titel | Kein entsprechender Titel | = | = | = | = | *Exodus quae in se <u>ipso</u> continet* | *Exodus quae in se <u>ipso</u> continet* |
+| II | 365 | II | *De septuaginta animabus* | 271 | = | 128r, Z. 19<br>= | 66va, Z. 2<br>I: = | *De <u>sexaginta</u> animabus* | *De <u>sexaginta</u> animabus* | *De <u>sexaginta</u> animabus* | *De <u>sexaginta</u> animabus* | *De <u>sexaginta</u> animabus* | *De <u>sexaginta</u> animabus* |
+| III | 365 | III | *De morte Ioseph* | 271 | = | 128r, Z. 19<br>= | 66va, Z. 3<br>II: = | = | = | = | = | = | = |
+| IV | 365 | IV | *De afflictione populi* | 272 | = | 128r, Z. 20<br>= | 66va, Z. 4<br>III: = | = | = | = | = | = | = |
+| V | 365 | V | *De masculorum nece* | 272 | = | 128r, Z. 20<br>*De masculorum ne…*<br>(Endwort unsicher) | 66va, Z. 5<br>IV: = | = | = | = | = | = | = |
+| VI | 365 | VI | *De inventione Moysi* | 272 | = | 128r, Z. 21<br>= | 66va, Z. 6<br>V: = | = | = | = | = | = | = |
+| VII | 366 | VII | *De occiso Aegyptio* | 272 | = | 128r, Z. 21<br>= | 66va, Z. 7<br>VI: = | = | = | = | = | = | = |
+| VIII | 366 | VIII | *De manifestatione Domini in rubo* | 273 | = | 128r, Z. 21–22<br>= | 66va, Z. 8<br>VII: = | = | = | = | = | = | *De manifestatione Domini in rub<u>r</u>o* |
+| IX | 366 | IX | *De virga in serpentem conversa* | 273 | = | 128r, Z. 22<br>*De virga in serpente conversa* | 66va, Z. 9<br>VIII: = | = | = | = | = | = | = |
+| X | 367 | X | *De manu Moysi in sinum missa* | 274 | = | 128r, Z. 23<br>*De manu Moysi in sinu missa* | 66va, Z. 10<br>IX: *De manu Moysi in sinu missa*<br>(Lesung der Wortgrenze und von *sinu* vorläufig) | = | = | = | = | *De manu Moysi in sinum <u>in sinum</u> missa* | = |
+| XI | 367 | XI | *De aquis conversis in sanguinem* | 274 | = | 128r, Z. 23–24<br>*De aquis in sanguine convers…*<br>(Partizipendung unsicher) | 66va, Z. 11<br>X: = | = | = | = | = | = | = |
+| XII | 367 | XII | *De ingressu Moysi ad Pharaonem* | 274 | = | 128r, Z. 24<br>*De ingressione Moysi ad Pharaonem* | 66va, Z. 12<br>XI: = | = | = | = | = | = | = |
+| XIII | 367 | XIII | *De virga in draconem conversa* | 275 | *De virga in draconem conver[s]a* | 128r, Z. 24–25<br>*De virga in dracone* | 66va, Z. 13<br>XII: *De virga in draconem* | *De virga in draconem* | = | *De virga in draconem* | *De virga in draconem* | *De virga in draconem* | *De virga in draconem* |
+| XIV | 368 | XIV | *De obduratione Pharaonis* | 275 | = | 128r, Z. 25<br>= | 66va, Z. 14<br>XIII: = | = | = | = | = | = | = |
+| XV | 368 | XV | *De decem plagis* | 275 | = | 128r, Z. 25<br>= | 66va, Z. 15<br>XIV: = | = | = | = | = | = | = |
+| XVI | 369 | XVI | *De Pascha* | 277 | = | 128r, Z. 26<br>= | 66va, Z. 16<br>XV: = | = | = | = | = | = | = |
+| XVII | 370 | XVII | *De argento et auro Aegyptiorum sublato* | 278 | = | 128r, Z. 26<br>= | 66va, Z. 17<br>XVI: = | = | = | = | = | = | = |
+| XVIII | 370 | XVIII | *De Azymo* | 278 | = | 128v, Z. 1<br>*De azyma* | 66va, Z. 18<br>XVII: *De azym<u>a</u>* | *De azym<u>a</u>* | *De azym<u>a</u>* | *De azym<u>a</u>* | *De azym<u>a</u>* | *De azym<u>a</u>* | *De azym<u>a</u>* |
+| XIX | 370 | XIX | *De columna ignis et nubis* | 278 | = | 128v, Z. 1<br>= | 66va, Z. 19<br>XVIII: = | = | *De colu<u>mb</u>a ignis et nubis* | = | = | = | = |
+| XX | 370 | XX | *De divisione maris* | 279 | = | 128v, Z. 1<br>= | 66va, Z. 20<br>XIX: = | = | = | = | = | = | = |
+| XXI | 371 | XXI | *De cantico glorificationis* | 279 | = | 128v, Z. 2<br>= | 66va, Z. 21<br>XX: = | = | = | = | = | = | = |
+| XXII | 371 | XXII | *De aquis maris* | 279 | = | 128v, Z. 2<br>*De aquis amaris* | 66va, Z. 22<br>XXI: = | = | = | LA273¹: =<br>LA273²: *De aquis <u>a</u>maris* | = | = | = |
+| XXIII | 371 | XXIII | *De duodecim fontibus et septuaginta palmis* | 280 | = | 128v, Z. 2<br>*De duodecim fontibus* | 66va, Z. 23<br>XXII: = | = | = | = | = | = | = |
+| XXIV | 372 | XXIV | *De carnibus alitum et manna* | 280 | = | 128v, Z. 3<br>= | 66va, Z. 24<br>XXIII: = | = | = | = | = | = | = |
+| XXV | 372 | XXV | *De petra virga percussa* | 281 | = | 128v, Z. 3<br>= | 66va, Z. 25<br>XXIV: = | = | = | = | = | = | = |
+| XXVI | 372 | XXVI | *De pugna contra Amalech* | 281 | = | 128v, Z. 4<br>*De pugna Amalech* | 66va, Z. 26<br>XXV: *De pugna Amalech* | *De pugna Amalech* | *De pugna Amalech* | *De pugna Amalech* | *De pugna Amalech* | *De pugna Amalech* | *De pugna Amalech* |
+| XXVII | 373 | XXVII | *De cognato Moysi* | 282 | = | 128v, Z. 4<br>= | 66va, Z. 27<br>XXVI: = | = | = | = | = | = | = |
+| XXVIII | 373 | XXVIII | *De ascensione Moysi in montem* | 282 | = | 128v, Z. 4<br>= | 66va, Z. 28<br>XXVII: = | = | = | = | = | = | = |
+| XXIX | 373 | XXIX | *De monte Sina et tonitruis* | 282 | = | 128v, Z. 5<br>*De monte Sina et tonitruis cum fulgoribus et caligine* | 66va, Z. 29<br>XXVIII: *De monte Sina et tonitruis*<br>(Zusatz am Seitenfuß: *cum fulgoribus et caliginis* (?)<br>Zuordnung siehe unten) | = | = | = | = | = | = |
+| XXX | 374 | XXX | *De decem verbis* | 283 | = | 128v, Z. 5<br>= | 66va, Z. 30<br>XXIX: *De decem verbis*<br>(Daneben der Zusatz *cum fulgoribus et caliginis* (?)) | = | = | = | = | = | = |
+| XXXI | 375 | XXXI | *De duabus tabulis* | 284 | = | 128v, Z. 6<br>= | 66vb, Z. 2<br>XXX: = | = | = | = | = | = | = |
+| – | – | – | Keine eigene Überschrift.<br>Isidor-Titel: *De lapideis tabulis* | – | Keine eigene Überschrift | Kein entsprechender Titel | 66vb, Z. 3<br>XXXI: *De lapideis tabulis* | Kein entsprechender Titel | Kein entsprechender Titel | Kein entsprechender Titel | Kein entsprechender Titel | Kein entsprechender Titel | Kein entsprechender Titel |
+| XXXII | 375 | XXXII | *De eo quod iussum est: Altare de terra facietis* | 285 | = | 128v, Z. 6<br>*De id quod iussum est: Altare de terra fac…*<br>(Verb am Ende abgekürzt) | 66vb, Z. 4<br>XXXII: = | = | = | = | = | *De eo quod iussum est: Altare de terra facietis <u>mihi</u>* | *De quod iussum est: Altare de terra facietis <u>mihi</u>* |
+| XXXIII | 375 | XXXIII | *De eo quod ait: Non aedificabitis illud de sectis lapidibus* | 285 | = | 128v, Z. 7<br>*De id quod non ait: aedificabis illud de sectis lapidibus*<br>(Lesung und Wortfolge vorläufig) | 66vb, Z. 5<br>XXXIII: *De <u>id</u> quod ait: Non aedificabitis illud desectis lapidibus* | *De <u>id</u> quod ait: Non aedificabitis illud desectis lapidibus* | *De <u>id</u> quod ait: Non aedificabitis illud desectis lapidibus* | *De <u>id</u> quod ait: Non aedificabitis illud desectis lapidibus* | *De <u>id</u> quod ait: Non aedificabitis illud desectis lapidibus* | *De <u>id</u> quod ait: Non aedificabitis illud* | Titel fehlt |
+| XXXIV | 376 | XXXIV | *De eo quod ait: Non accedetis ad eum per gradus* | 285 | = | 128v, Z. 7–8<br>*De id quod non accedes ad eum per gradus* | 66vb, Z. 6<br>XXXIV: *De <u>id</u> quod ait: Non accedetis ad eum per gradus* | *De <u>id</u> quod ait: Non acced<u>i</u>tis ad eum per gradus* | *De <u>id</u> quod ait: Non acced<u>i</u>tis ad eum per gradus* | *De <u>id</u> quod ait: Non acced<u>i</u>tis ad eum per gradus* | *De <u>id</u> quod ait: Non acced<u>i</u>tis ad eum per gradus* | *De <u>id</u> quod ait: Non accedetis ad eum per gradus* | *De <u>id</u> quod ait: Non accedetis ad eum per gradus* |
+| XXXV | 376 | XXXV | *De Hebraeo sex annis serviente* | 285 | = | 128v, Z. 8<br>= | 66vb, Z. 7<br>XXXV: = | = | = | = | = | = | = |
+| XXXVI | 376 | XXXVI | *De talione* | 286 | = | 128v, Z. 9<br>= | 66vb, Z. 8<br>XXXVI: = | = | = | = | = | = | = |
+| XXXVII | 376 | XXXVII | *De decimis et primitiis offerendis* | 286 | = | 128v, Z. 9<br>= | 66vb, Z. 9<br>XXXVII: *De decimis et primiteis offerendis*<br>(Schreibung *primiteis*, vorläufige Lesung) | = | = | = | = | *De decimis et <u>primitivis</u> offerendis* (?) | *De decimis et <u>primitivis</u> offerendis* (?) |
+| XXXVIII | 377 | XXXVIII | *De vitulo combusto igni* | 287 | = | 128v, Z. 9–10<br>= | 66vb, Z. 10<br>XXXVIII: = | = | = | = | = | = | = |
+| XXXIX | 377 | XXXIX | *De interfectis tribus milibus hominum* | 287 | = | 128v, Z. 10<br>= | 66vb, Z. 11<br>XXXIX: = | = | = | = | = | = | = |
+| XL | 378 | XL | *De confractione tabularum* | 288 | = | 128v, Z. 10–11<br>= | 66vb, Z. 12<br>XL: = | = | = | = | = | = | = |
+| XLI | 378 | XLI | *De quadraginta diebus quos ieiunavit Moyses* | 288 | = | 128v, Z. 11<br>= | 66vb, Z. 13<br>XLI: = | = | = | = | = | = | = |
+| XLII | 378 | XLII | *De eo quod dicit Dominus ad Moysen: Posteriora mea videbis* | 288 | = | 128v, Z. 12<br>*De id quod Dominus dicit ad Moysen: Posteriora mea videbis* | 66vb, Z. 14–15<br>XLII: *De <u>id</u> quod <u>Dominus dicit</u> ad Moysen: Posteriora mea videbis* | OX¹: *De <u>id</u> quod dicit ad Moysen: Posteriora mea videbis*<br>OX²: *De <u>id</u> quod dicit Dominus ad Moysen: Posteriora mea videbis* | *De <u>id</u> quod <u>Dominus dicit</u> ad Moysen: Posteriora mea videbis* | *De <u>id</u> quod <u>Dominus dicit</u> ad Moysen: Posteriora mea videbis* | *De <u>id</u> quod <u>Dominus dicit</u> ad Moysen: Posteriora mea videbis* | *De <u>id</u> quod <u>Dominus dicit</u> ad Moysen: Posteriora mea videbis* | *De <u>id</u> quod <u>Dominus dicit</u> ad Moysen: Posteriora mea videbis* |
+| XLIII | 381 | XLIII | *De glorificatione Moysi* | 291 | = | 128v, Z. 12–13<br>= | 66vb, Z. 15<br>XLIII: = | = | = | = | Titel fehlt | = | = |
+| XLIV | 381 | XLIV | *De aedificatione arcae* | 292 | = | 128v, Z. 13<br>= | 66vb, Z. 16<br>XLIV: = | = | = | = | = | = | = |
+| XLV | 381 | XLV | *De urna aurea, tabulis et virga* | 292 | = | 128v, Z. 13–14<br>= | 66vb, Z. 17<br>XLV: = | = | = | = | = | = | = |
+| XLVI | 382 | XLVI | *De propitiatorio et cherubin* | 292 | = | 128v, Z. 14<br>= | 66vb, Z. 18<br>XLVI: = | = | = | = | = | = | = |
+| XLVII | 382 | XLVII | *De altare* | 293 | = | 128v, Z. 14<br>= | 66vb, Z. 19<br>XLVII: = | = | = | = | = | *De altar<u>i</u>* | *De altar<u>i</u>* |
+| XLVIII | 382 | XLVIII | *De mensa* | 293 | = | 128v, Z. 15<br>= | 66vb, Z. 19<br>XLVIII: = | = | = | = | = | = | = |
+| XLIX | 382 | XLIX | *De candelabro et oleo* | 293 | = | 128v, Z. 15<br>= | 66vb, Z. 20<br>XLIX: = | = | = | = | = | = | = |
+| L | 382 | L | *De tabernaculo* | 293 | = | 128v, Z. 15<br>= | 66vb, Z. 21<br>L: = | = | = | = | = | = | = |
+| LI | 383 | LI | *De columnis et basibus et capitula* | 294 | = | 128v, Z. 15–16<br>*De columnis eius bases et capitula* | 66vb, Z. 22<br>LI: *De columnis <u>eius</u> et basibus et capitula* | *De columnis <u>eius</u> et basibus et capitula* | *De columnis <u>eius</u> et basibus et capitula* | *De columnis <u>eius</u> et basibus et capitula* | *De columnis <u>eius</u> et basibus et capitula* | *De columnis <u>eius</u> et basibus et <u>capitalibus</u>* | *De columnis <u>eius</u> et basibus et <u>capitalibus</u>* |
+| – | – | LII | Keine eigene Überschrift.<br>Handschriftentitel: *De tabulis aureatis* | – | Keine eigene Überschrift | 128v, Z. 16<br>*De tabulis aureatis*<br>(genaue Wortform vorläufig) | 66vb, Z. 23<br>LII: *De tabulis auratis* | vorhanden | vorhanden | vorhanden | vorhanden | vorhanden | vorhanden |
+| – | – | LIII | Keine eigene Überschrift.<br>Handschriftentitel: *De decem cortinis* | – | Keine eigene Überschrift | 128v, Z. 16–17<br>*De decem cortinis* | 66vb, Z. 23<br>LIII: *De decem cortinis* | vorhanden | vorhanden | vorhanden | vorhanden | Titel fehlt | Titel fehlt |
+| – | – | LIV | Keine eigene Überschrift.<br>Handschriftentitel: *De undecim velis cilicinis* | – | Keine eigene Überschrift | 128v, Z. 17<br>*De undecim velis cilicinis* | 66vb, Z. 24<br>LIV: *De undecim velis cilicinus*<br>(Endung *-nus* vorläufig) | vorhanden | vorhanden | vorhanden | vorhanden | Titel fehlt | Titel fehlt |
+| LII | 383 | LV | *De oppanso velo in medio tabernaculi* | 294 | = | 128v, Z. 17–18<br>= | 66vb, Z. 25<br>LV: = | = | *De <u>appanso</u> velo in medio tabernaculi* (?) | = | = | *De <u>expanso</u> velo in medio tabernaculi* | *De <u>expanso</u> velo in medio tabernaculi* |
+| LIII | 383 | LVI | *De diversis donariis ad constructionem tabernaculi* | 295 | = | 128v, Z. 18<br>= | 66vb, Z. 26<br>LVI: = | = | = | = | = | *De diversis donariis ad <u>constructa</u> tabernaculi* | *De diversis donariis ad <u>constructa</u> tabernaculi* |
+| LIV | 385 | LVII | *De unguento quo perungitur tabernaculum* | 297 | = | 128v, Z. 19<br>*De unguento quo perunguitur tabernacul…*<br>(Endabbreviatur nicht vollständig aufgelöst) | 66vb, Z. 27<br>LVII: *De ungento co perunguitur tabernaculum*<br>(Schreibungen *ungento*, *co* und *perunguitur*) | = | = | = | = | = | = |
+| LV | 385 | LVIII | *De incenso composito* | 297 | = | 128v, Z. 19<br>= | 66vb, Z. 28<br>LVIII: = | = | = | = | = | = | = |
+| LVI | 385 | LIX | *De veste pontificis* | 297 | = | 128v, Z. 20<br>= | 66vb, Z. 29<br>LIX: = | = | = | = | = | = | = |
+
+## Erläuterungen zu den Abweichungen
+
+- I: OX, PH, LA273 und LA279 lesen wie PL 93 *contineat*. Die frühere pauschale Wiedergabe als *continet* war zu berichtigen. WI und AD haben *in se ipso continet*.
+- II: Alle sechs Verzeichnisse haben *sexaginta*, PL 93 *septuaginta*. Die entsprechende Auslegung beginnt mit den siebzig Seelen. Der Verzeichniseintrag und der folgende Kommentar dürfen hier nicht gleichgesetzt werden.
+- VIII: AD hat *in rubro* gegenüber *in rubo* in den übrigen Verzeichnissen und PL 93.
+- XIII: *conversa* steht in PH und PL 93. Es fehlt in den fünf anderen Verzeichnissen.
+- XIX: PH liest im Haupttext des Verzeichnisses *columba*. Kleine Zusatzzeichen werden hier nicht als sichere Berichtigung ausgewertet.
+- XXII: In LA273 steht ein kleines *a* über dem Beginn von *maris*. Mit diesem Nachtrag ergibt sich *amaris*. Die übrigen Verzeichnisse und PL 93 haben *maris*.
+- XXVI: *contra* steht in PL 93. Es fehlt in allen sechs Verzeichnissen.
+- XXXII: WI und AD ergänzen *mihi*. In AD fehlt zugleich *eo*.
+- XXXIII: Die vorhandenen Handschrifteneinträge beginnen mit *De id*, PL 93 mit *De eo*. WI lässt zusätzlich *desectis lapidibus* weg. In AD fehlt der gesamte Eintrag. Die Druckschreibung *de sectis* und die Zusammenschreibung *desectis* in den Handschriften sind in der Tabelle sichtbar, ohne daraus eine inhaltliche Differenz abzuleiten.
+- XXXIV: OX, PH und die beiden Laoner Verzeichnisse lesen *acceditis*, WI, AD und PL 93 *accedetis*. Alle sechs Verzeichnisse haben einleitend *De id* gegenüber *De eo* im Druck.
+- XXXVII: In WI und AD erscheint die Wortform als *primitivis*. Die Unterscheidung von *ii* und *iu* bleibt bei diesen Bildern unsicher. Diese Lesung ist vorläufig und wird nicht als sicherer Unterschied gewertet.
+- XLII: In OX ist *Dominus* über der Zeile nachgetragen. Mit diesem Nachtrag entspricht die Wortfolge *dicit Dominus* derjenigen von PL 93. Die übrigen Verzeichnisse haben *Dominus dicit*. Alle sechs Verzeichnisse unterscheiden sich vom Druck durch *De id* statt *De eo*.
+- LI: Alle sechs Verzeichnisse haben zusätzlich *eius*. WI und AD lesen außerdem *capitalibus* statt *capitula*.
+- LII–LIV der Handschriften: PL 93 bietet keine eigenen Überschriften für die vergoldeten Bretter, die zehn Vorhänge und die elf härenen Decken. Unter seiner Überschrift LI, *De columnis et basibus et capitula*, folgt bereits der Text *Interim et tabulas deauratas erigi praecipit …* (Sp. 383). Das Fehlen einer eigenen Überschrift *De tabulis aureatis* bedeutet hier also keine Auslassung der Auslegung über die Bretter. In OX lautet dieser Verzeichnistitel *De tabulis auratis*. Die genaue Buchstabenfolge des entsprechenden Wortes in PH bleibt zu sichern.
+- LV der Handschriften = LII in PL 93: WI und AD haben eindeutig *expanso*. OX, LA273 und LA279 lesen *oppanso*, wie PL 93. PH ist vorläufig als *appanso* zu lesen. Eine einheitliche Referenzlesart *expanso* für sämtliche Zeugen wäre daher nicht zutreffend.
+- LVI der Handschriften = LIII in PL 93: WI und AD haben *ad constructa* gegenüber *ad constructionem* in PH, OX, den Laoner Verzeichnissen und PL 93. Das Zeichen vor *structa* wird als *con*-Abbreviatur aufgelöst.
+
+## Herwagen-Ausgabe von 1563: Ergebnis des Abgleichs
+
+Herwagen und PL 93 haben dieselben 56 nummerierten Kapitel in derselben Reihenfolge. Der normalisierte Wortlaut der Überschriften stimmt überein; der unten genannte Buchstabenausfall bei XIII ist in der Tabelle sichtbar gemacht. Herwagen bestätigt insbesondere *septuaginta* (II), *conversa* (XIII), *azymo* (XVIII), *contra Amalech* (XXVI), *De eo* (XXXIII, XXXIV und XLII), *accedetis* (XXXIV), die Wortfolge *dicit Dominus* (XLII) sowie das Fehlen von *eius* bei LI. Die bereits beschriebenen Unterschiede der Handschriften zu PL 93 bestehen somit auch gegenüber Herwagen.
+
+- XIII, Sp. 275: Im untersuchten Druckbild ist das *s* von *conversa* nicht erkennbar; sichtbar ist *conver a*. Die Tabelle gibt das Wort deshalb als *conver[s]a* wieder. Das ganze Wort ist vorhanden, während OX, LA273, LA279, WI und AD es im Capitularium auslassen.
+- LI, Sp. 294: *De columnis et basibus et capitula*. Unmittelbar darunter beginnt *Interim et tabulas deauratas erigi praecipit …*. Eine eigene Überschrift für *De tabulis aureatis* steht auch bei Herwagen nicht.
+- Die drei zusätzlichen Handschriftentitel LII–LIV, *De tabulis aureatis*, *De decem cortinis* und *De undecim velis cilicinis*, haben bei Herwagen wie in PL 93 keine eigenen Überschriften. Auf LI folgt unmittelbar LII. Daraus allein folgt keine Auslassung der zugehörigen Auslegung; deren Umfang ist am Haupttext zu prüfen.
+- LII, Sp. 294, entsprechend LV der Handschriften: Der Druck liest eindeutig *De oppanso velo in medio tabernaculi*, mit zwei *p*. Er stimmt hier mit PL 93 überein. Die Lesart *expanso* bleibt in diesem Vergleich für WI und AD belegt.
+- XLIII, Sp. 291: *De glorificatione Moysi* ist als eigener nummerierter Titel vorhanden. Das Fehlen dieses Titels im Capitularium von LA279 findet sich somit in keinem der beiden verglichenen Drucke.
+- Innerhalb von XLII steht auf Sp. 291 die unnummerierte Zwischenüberschrift *Recapitulatio*. Sie zählt nicht als zusätzliches nummeriertes Kapitel. Der *Octavi tomi elenchus* am Bandanfang verzeichnet Werke, darunter *Quaestiones super Exodum* mit der Anfangsspalte 271; er ist kein Exodus-Capitularium.
+
+Für die Überlieferungsbewertung ist damit gesichert: Die Gliederung in 56 statt 59 Titel ist bereits im Druck von 1563 belegt. Sie entstand nicht erst mit PL 93. Die übereinstimmende Druckgliederung erlaubt für sich genommen noch keine Bestimmung der von Herwagen benutzten Handschrift.
+
+## Isidor, Clm 14166: Vergleich des Capitulariums auf ff. 128r–128v
+
+### Titelbestand und Reihenfolge
+
+Clm 14166 enthält 58 Verzeichniseinträge. Die Rubrik *Incipit quaestio Exodi* steht auf 128r, Z. 18, unmittelbar vor der Liste. Sie ist nicht als eigener Kapitelverzeichniseintrag mitgezählt. Das Verzeichnis beginnt mit *De septuaginta animabus* und endet mit *De veste pontificis*. Danach beginnt auf 128v, Z. 21, die Exodus-Vorrede *Quaedam mysteria ex libro Geneseos …*.
+
+Wigbods erster Abschnitt beruht auf Isidors *Prooemia*, nicht auf dem Anfang der *Quaestiones in Exodum*. Der ihm zugeordnete erste Titel *Exodus quae in se contineat* hat deshalb im hier verglichenen Isidor-Capitularium keine Entsprechung. Nach Abzug dieses zusätzlichen ersten Wigbod-Titels stimmen die 58 Kapitelthemen und ihre Reihenfolge in Clm 14166, PH, OX und LA273 überein. Dies ist eine Aussage zum Titelbestand und zur Reihenfolge, nicht zur vollständigen Wortlautgleichheit.
+
+Nach *De duabus tabulis* folgt in Clm 14166 unmittelbar *De id quod iussum est: Altare de terra fac…* (128v, Z. 6). Ein eigener Eintrag *De lapideis tabulis* steht hier nicht. Damit entspricht Clm 14166 in diesem Punkt den Wigbod-Capitularien und unterscheidet sich von der gedruckten Isidor-Gliederung in PL 83. Die frühere Gegenüberstellung mit „Isidors 59 Kapiteln“ gilt ausdrücklich für PL 83, nicht für sämtliche Isidor-Handschriften.
+
+| Zeuge | Tatsächlich verzeichnete Titel | Verhältnis zum Titelbestand von Clm 14166 |
+| --- | --- | --- |
+| Clm 14166 | 58 | Referenzbestand ohne den Abschnitt aus den *Prooemia* |
+| PH, OX, LA273 | je 59 | zusätzlich der erste Wigbod-Titel zum Exzerpt aus den *Prooemia* |
+| LA279 | 58 | zusätzlicher erster Wigbod-Titel, dagegen kein Eintrag *De glorificatione Moysi* |
+| WI | 57 | zusätzlicher erster Wigbod-Titel, dagegen keine Einträge *De decem cortinis* und *De undecim velis cilicinis* |
+| AD | 56 | wie WI, außerdem kein Eintrag zum Verbot des Altars aus behauenen Steinen |
+
+Die hier genannten Einträge zur Verherrlichung des Mose, zum Altar aus behauenen Steinen und zu den beiden Arten von Vorhängen sind in Clm 14166 vorhanden. Die bekannten Verzeichnisauslassungen in LA279, WI und AD finden sich dort nicht. Die Reihenfolge der jeweils vorhandenen Titel stimmt auch in diesen drei Wigbod-Zeugen mit der Münchener Folge überein.
+
+### Wortlautbefunde
+
+Die Einzelstellen sind vollständig in der Haupttabelle ergänzt. Orthographische Einzelheiten werden wie dort normalisiert. Gesicherte Wörter und Wortfolgen werden von offenen Endungs- und Abbreviaturlesungen getrennt.
+
+- II der Wigbod-Zählung: Clm 14166 hat *septuaginta*. Alle sechs Wigbod-Capitularien haben *sexaginta*. Der frühe Isidor-Zeuge teilt diese Abweichung der Wigbod-Verzeichnisse somit nicht.
+- VIII–X: *De manifestatione Domini in rubo*, *De virga in serpente conversa* und *De manu Moysi in sinu missa* stehen den Wigbod-Titeln nahe. PL 83 hat dagegen *De igne in rubo*, *De virga in serpentem versa* und *De manu Moysis leprosa*. Die Formen *serpente* und *sinu* sind in der Münchener Spalte beibehalten, ohne sie stillschweigend an *serpentem* und *sinum* anzugleichen.
+- XI: Clm 14166 stellt *in sanguine* vor das Partizip. Die Wigbod-Verzeichnisse haben *conversis in sanguinem*. Die Endung des Münchener Partizips ist noch nicht sicher gelesen.
+- XII: *ingressione* in Clm 14166 steht *ingressu* in den Wigbod-Verzeichnissen gegenüber.
+- XIII: In Clm 14166 fehlt das Partizip bei *De virga in dracone*. Damit entspricht der Titel im Umfang OX, LA273, LA279, WI und AD. PH ergänzt wie Herwagen/PL 93 *conversa*. Die Form *dracone* bleibt als Münchener Lesart sichtbar.
+- XVIII: *azyma* wie in allen sechs Wigbod-Verzeichnissen. Herwagen/PL 93 haben *azymo*, PL 83 *azymis*.
+- XXI–XXIV: *De cantico glorificationis* und *De carnibus alitum et manna* stimmen mit den Wigbod-Titeln überein, während PL 83 das erste Mal nur *De cantico* und das zweite Mal *De cibis alitum et manna* hat. Umgekehrt steht in Clm 14166 *De aquis amaris* wie in LA273² und PL 83. Der Titel *De duodecim fontibus* enthält wie PL 83 keinen Zusatz *et septuaginta palmis*, den alle sechs Wigbod-Verzeichnisse haben.
+- XXVI: Clm 14166 hat *De pugna Amalech*, ohne *contra*, wie alle sechs Wigbod-Verzeichnisse und PL 83.
+- XXIX: Der Münchener Titel *De monte Sina et tonitruis cum fulgoribus et caligine* enthält die Wigbod-Wortgruppe *monte Sina et tonitruis* und zusätzlich *cum fulgoribus et caligine*. PL 83 hat den kürzeren Titel *De tonitruis et fulguribus*.
+- XXXII–XXXIV: Die längeren, mit *De id quod* eingeleiteten Münchener Titel ähneln den Wigbod-Verzeichnissen. PL 83 hat hier knappe Sachüberschriften. Die Endabbreviatur *fac…* bei XXXII und die Wortfolge bei XXXIII bleiben zu prüfen. Bei XXXIV steht in Clm 14166 *non accedes*, ohne *ait*, gegenüber *ait: non acceditis* in OX/PH/LA273/LA279 und *ait: non accedetis* in WI/AD.
+- XXXIX: *De interfectis tribus milibus hominum* enthält wie alle sechs Wigbod-Verzeichnisse *hominum*. Das Wort fehlt in der Überschrift von PL 83.
+- XLII: *De id quod Dominus dicit ad Moysen: Posteriora mea videbis* entspricht PH, LA273, LA279, WI und AD. OX² hat dagegen *De id quod dicit Dominus …*, mit interlinearem *Dominus*. PL 83 formuliert *Quod Dominus Deus dixit ad Moysem …*.
+- XLV: Zwischen *aurea* und *tabulis* steht in Clm 14166 wie in den Wigbod-Verzeichnissen kein zusätzliches *et*. PL 83 hat dort *et*.
+- XLVII: Clm 14166 liest *De altare*, wie PH/OX/LA273/LA279 und Herwagen/PL 93. WI/AD und PL 83 haben *De altari*.
+- LI: *De columnis eius bases et capitula* enthält wie alle sechs Wigbod-Verzeichnisse *eius* und *et capitula*. Es fehlt jedoch das *et* vor *bases*. Die Wigbod-Verzeichnisse haben hier *et basibus*, WI/AD am Schluss *capitalibus*. PL 83 bietet *De columnis et earum basibus*, ohne *capitula*. Die Münchener Form *capitola* ist in der Tabelle als *capitula* normalisiert.
+- LII–LIV: Die drei eigenen Einträge zu Brettern, zehn Vorhängen und elf härenen Decken stehen in Clm 14166 wie in PH/OX/LA273/LA279. Herwagen/PL 93 haben dafür keine eigenen Überschriften. WI/AD verzeichnen nur den Titel zu den Brettern.
+- LV–LVI: Clm 14166 hat *oppanso*, wie OX/LA273/LA279 und die verglichenen Drucke, gegenüber *expanso* in WI/AD und vorläufig *appanso* in PH. Bei den Gaben für das Tabernakel steht wie in PH/OX/LA273/LA279 *ad constructionem*, gegenüber *ad constructa* in WI/AD.
+- LVIII: Der Münchener Titel liest *De incenso composito*, wie die Wigbod-Verzeichnisse und Herwagen/PL 93. Er bestätigt die abweichende Druckform *incenco* von PL 83 nicht.
+
+### Noch offene Lesungen im neuen Bildmaterial
+
+Das Endwort nach *De masculorum* auf 128r, Z. 20, bleibt unsicher. Bei XI ist die Endung des Partizips zu sichern. Die Abbreviatur *fac…* am Ende von XXXII wird nicht auf eine bestimmte Verbendung festgelegt. Bei XXXIII erscheint die Folge vorläufig als *quod non ait: aedificabis …*. Diese Lesung wird noch nicht als gesicherte Wortumstellung gewertet. Die genaue Schreibung bei *De tabulis aureatis* und die Endabbreviatur nach *perunguitur* bleiben offen. Die Zuordnung und Zählung dieser Einträge ist davon nicht betroffen.
+
+### Folgerung für die Herkunft der Kapitelüberschriften
+
+Die grundlegende Titelfolge der Wigbod-Capitularien ist, ohne den zusätzlichen Anfang aus den *Prooemia*, auch in einem Isidor-Textzeugen vom Ende des 8. Jahrhunderts belegt. Zahlreiche Formulierungen, die von den Isidor-Überschriften in PL 83 abweichen, sind dort bereits vorhanden.
+
+Das spricht für die Hypothese, dass Wigbod eine bereits mit solchen Titeln versehene Isidor-Fassung benutzte und den Titel zum *Prooemia*-Exzerpt ergänzte. Der Befund belegt eine gemeinsame Titeltradition. Er weist weder Clm 14166 als unmittelbare Vorlage Wigbods nach noch klärt er, ob die Titel ursprünglich von Isidor oder von einer späteren Überlieferungsstufe stammen.
+
+## Isidor, Clm 14288: Vergleich des Capitulariums auf ff. 66v–67r
+
+### Titelbestand und Reihenfolge
+
+Clm 14288 enthält auf f. 66v 59 Titel. Die Zählung beginnt links mit I, *De septuaginta animabus*, setzt sich rechts mit XXX, *De duabus tabulis*, fort und endet bei LVIIII, *De veste pontificis*. Eine ausgelassene oder doppelt vergebene Kapitelnummer ist in diesem Verzeichnis nicht festzustellen. Auf f. 67r folgen das Explicit *Expliciunt capitula de libro Exodo* und *Incipit liber Exodi*. Die Abbreviatur im Explicit ist aufgelöst.
+
+Damit entspricht der Themenbestand samt Reihenfolge dem Isidor-Druck in PL 83. Gegenüber Clm 14166 kommt genau ein eigener Titel hinzu: XXXI, *De lapideis tabulis*. In Clm 14166 folgt auf *De duabus tabulis* unmittelbar der Titel zum Erdaltar. Der zusätzliche Titel von Clm 14288 steht dagegen wie in PL 83 zwischen diesen beiden Einträgen.
+
+Wigbods erster Titel gehört zum Exzerpt aus Isidors *Prooemia*. Er hat in beiden Münchener Isidor-Capitularien keine Entsprechung. Daher entsprechen Clm 14288 I–XXX den PH/OX-Nummern II–XXXI. Bei XXXI, *De lapideis tabulis*, gibt es keinen entsprechenden Wigbod-Titel. Ab XXXII stimmen die Nummern wieder überein. Die gleiche Endzahl 59 in Clm 14288 und PH/OX/LA273 bezeichnet somit verschieden zusammengesetzte Titelbestände.
+
+| Zeuge | Tatsächlich verzeichnete Titel | Verhältnis zu Clm 14288 |
+| --- | --- | --- |
+| Clm 14288 | 59 | Referenzbestand |
+| Isidor, PL 83 | 59 | gleicher Themenbestand und gleiche Reihenfolge, teilweise andere Formulierungen |
+| Clm 14166 | 58 | kein eigener Titel *De lapideis tabulis* |
+| PH, OX, LA273 | je 59 | kein *De lapideis tabulis*, dafür erster Titel zum Exzerpt aus den *Prooemia* |
+| LA279 | 58 | wie PH/OX, zusätzlich kein Verzeichniseintrag *De glorificatione Moysi* |
+| WI | 57 | wie PH/OX, zusätzlich keine Einträge zu zehn Vorhängen und elf härenen Decken |
+| AD | 56 | wie WI, außerdem kein Eintrag zum Altar aus behauenen Steinen |
+
+Die Reihenfolge aller jeweils vorhandenen Themen ist dieselbe. Die aus LA279, WI und AD bekannten Verzeichnisauslassungen stehen in Clm 14288 nicht. Aus dem zusätzlichen oder fehlenden Titel allein folgt keine Aussage über das Vorhandensein des zugehörigen Auslegungstextes.
+
+### Wortlautbefunde
+
+Die Einzelstellen sind in der Haupttabelle vollständig ergänzt. Die folgende Auswahl nennt die für die Herkunft der Titel aussagekräftigen Unterschiede. Die Nummern folgen hier Clm 14288.
+
+| Nr. Clm 14288 | Clm 14288 | Clm 14166 | Wigbod-Capitularien | Isidor, PL 83 |
+| --- | --- | --- | --- | --- |
+| I | *septuaginta* | *septuaginta* | alle sechs *sexaginta* | *septuaginta* |
+| VII | *De manifestatione Domini in rubo* | ebenso | ebenso, AD *rubro* | *De igne in rubo* |
+| VIII | *De virga in serpentem conversa* | *De virga in serpente conversa* | *De virga in serpentem conversa* | *De virga in serpentem versa* |
+| IX | *De manu Moysi in sinu missa* (Wortgrenze vorläufig) | *De manu Moysi in sinu missa* | *in sinum missa*, WI wiederholt *in sinum* | *De manu Moysis leprosa* |
+| X | *De aquis conversis in sanguinem* | *De aquis in sanguine convers…* | wie Clm 14288 | wie Clm 14288 |
+| XI | *ingressu* | *ingressione* | *ingressu* | *ingressu*, Namensform *Moysis* |
+| XII | *De virga in draconem* | *De virga in dracone* | wie Clm 14288, PH zusätzlich *conversa* | *De virga in draconem versa* |
+| XVI | *De argento et auro Aegyptiorum sublato* | ebenso | ebenso | *De thesauris Aegyptiorum* |
+| XVII | *azyma* | *azyma* | *azyma* | *azymis* |
+| XVIII | *columna ignis et nubis* | ebenso | ebenso, PH *columba* | *columna ignis et nube* |
+| XX | *De cantico glorificationis* | ebenso | ebenso | *De cantico* |
+| XXI | *De aquis maris* | *De aquis amaris* | wie Clm 14288, LA273² *amaris* | *De aquis amaris* |
+| XXII | *De duodecim fontibus et septuaginta palmis* | ohne *et septuaginta palmis* | wie Clm 14288 | ohne *et septuaginta palmis* |
+| XXIII | *De carnibus alitum et manna* | ebenso | ebenso | *De cibis alitum et manna* |
+| XXV | *De pugna Amalech* | ebenso | ebenso | ebenso |
+| XXVIII | *De monte Sina et tonitruis* | zusätzlich *cum fulgoribus et caligine* | wie der Hauptteil in Clm 14288 | *De tonitruis et fulguribus* |
+| XXXI | *De lapideis tabulis* | kein eigener Titel | kein eigener Titel | ebenso |
+| XXXII | *De eo quod iussum est: Altare de terra facietis* | *De id quod iussum est: Altare de terra fac…* | OX/PH/Laon wie Clm 14288, WI/AD zusätzlich *mihi*, AD ohne *eo* | *De altari de terra* |
+| XXXIII | *De id quod ait: Non aedificabitis illud desectis lapidibus* | *De id quod non ait: aedificabis …* (vorläufig) | OX/PH/Laon wie Clm 14288, WI kürzer, AD ohne Titel | *De non sectis lapidibus faciendo* |
+| XXXIV | *De id quod ait: Non accedetis ad eum per gradus* | *De id quod non accedes ad eum per gradus* | wie WI/AD, OX/PH/Laon *acceditis* | *De non ascendendo ad id per gradus* |
+| XXXIX | mit *hominum* | mit *hominum* | mit *hominum* | ohne *hominum* |
+| XLII | *De id quod Dominus dicit ad Moysen: Posteriora mea videbis* | ebenso | ebenso außer OX¹ ohne *Dominus*, OX² *dicit Dominus* | *Quod Dominus Deus dixit ad Moysem …* |
+| XLV | *De urna aurea, tabulis et virga* | ebenso | ebenso | zusätzlich *et* vor *tabulis* |
+| XLVII | *De altare* | *De altare* | PH/OX/Laon *altare*, WI/AD *altari* | *De altari* |
+| LI | *De columnis eius et basibus et capitula* | *De columnis eius bases et capitula* | wie PH/OX/Laon, WI/AD *capitalibus* | *De columnis et earum basibus* |
+| LII | *De tabulis auratis* | *aureatis* (Wortform vorläufig) | OX *auratis*, genaue PH-Wortform offen | *De tabulis deauratis* |
+| LV | *oppanso* | *oppanso* | OX/Laon *oppanso*, WI/AD *expanso*, PH vorläufig *appanso* | *oppanso* |
+| LVI | *ad constructionem* | *ad constructionem* | PH/OX/Laon ebenso, WI/AD *ad constructa* | *ad constructionem* |
+| LVIII | *incenso* | *incenso* | *incenso* | Drucklesart *incenco* |
+
+Bei *De pugna Amalech* fehlt in allen vier hier unterschiedenen Überlieferungsgruppen das in Herwagen/PL 93 gedruckte *contra*. Die eigene Überschrift *De lapideis tabulis* und die Gliederung in Titel LII–LIV entsprechen in Clm 14288 dagegen PL 83. Die drei letztgenannten Titel haben in Herwagen/PL 93 keine eigenen Überschriften.
+
+### Zusatz am Seitenfuß und kleinere Lesungsfragen
+
+Auf f. 66v steht rechts neben dem letzten Titel der linken Spalte, XXIX *De decem verbis*, der nicht eigens nummerierte Zusatz *cum fulgoribus et caliginis* (letzte Endung vorläufig). Zwischen *verbis* und dem Zusatz steht ein gebogener Strich. Inhaltlich und im Vergleich mit Clm 14166 liegt eine Zuordnung zu XXVIII, *De monte Sina et tonitruis*, nahe. Die räumliche Stellung neben XXIX beweist diese Zuordnung jedoch nicht. Haupttabelle und Vergleich behandeln den Zusatz deshalb gesondert. Es handelt sich nicht um einen sechzigsten Titel. Eine Datierung oder Zuweisung des Zusatzes an eine bestimmte Hand wird hier nicht vorgenommen.
+
+In IX erscheint die Folge als *in sinu missa*. Ob bei der Wortgrenze zugleich ein nicht eigens geschriebenes oder abgekürztes Schluss-*m* von *sinum* mitzulesen ist, bleibt offen. Bei XXXVII wird vorläufig *primiteis* gelesen. In LIV erscheint die letzte Endung als *cilicinus*. LVII bietet die Schreibungen *ungento co perunguitur tabernaculum*, sinngemäß zum Salböl, mit *co* für *quo*. Diese Einzelheiten werden vorerst nicht als Belege einer bestimmten Überlieferungsverbindung gewertet.
+
+### Übergang zum Kommentar auf f. 67r
+
+Nach dem Explicit des Capitulariums und *Incipit liber Exodi* folgt zunächst die unnummerierte Vorrede *Quaedam mysteria ex libro Geneseos et obscuriora rerum gestarum …*. Erst danach beginnt das als I bezeichnete Kapitel *Primo omnium septuaginta animae cum Iacob introierunt in Aegypto …*. Das mit *Exodus continet Hebraeorum servitutem …* beginnende Exzerpt aus Isidors anderem Werk, den *Prooemia*, steht hier nicht vor dem ersten Kapitel. Die Vorrede *Quaedam mysteria …* ist von diesem Prooemia-Exzerpt zu unterscheiden.
+
+### Folgerung für die Herkunft der Kapitelüberschriften
+
+Gesichert ist, dass die frühe Isidor-Überlieferung verschiedene Titelbestände kennt: Clm 14166 hat 58 Titel ohne *De lapideis tabulis*, Clm 14288 59 Titel mit diesem Eintrag. Gleichzeitig teilen beide Handschriften zahlreiche längere Formulierungen der Wigbod-Verzeichnisse, die von den in PL 83 gedruckten Isidor-Überschriften abweichen. Dazu gehören besonders die Titel zur Offenbarung im Dornbusch, zur Hand des Mose, zu Gold und Silber der Ägypter sowie zum Lobgesang und zum Fleisch der Vögel.
+
+Der Befund stärkt die Hypothese, dass Wigbods Titel auf eine bereits vorhandene Isidor-Titeltradition zurückgehen. Clm 14288 zeigt außerdem, dass Nähe im Wortlaut und Gleichheit des Titelbestands getrennt zu bewerten sind. Obwohl hier ein Titel mehr als in Clm 14166 steht, finden sich auch Lesarten näher bei den Wigbod-Verzeichnissen, etwa *maris*, die siebzig Palmen und *eius et basibus et capitula*. Eine direkte Vorlage oder die Richtung der Beziehungen zwischen den Handschriften ist damit nicht bestimmt. Auch die Herkunft der Titel von Isidor selbst bleibt offen.
+
+## Isidor in PL 83: vollständiger Abgleich
+
+Isidors Druck hat ebenfalls 59 nummerierte Kapitel. Die gleiche Gesamtzahl wie in PH, OX und LA273 bedeutet jedoch keine identische Gliederung: Für den ersten Handschriftentitel *Exodus quae in se contineat* gibt es bei Isidor keinen entsprechenden nummerierten Titel. Umgekehrt hat Isidor nach *De duabus tabulis* ein eigenes Kapitel XXXI, *De lapideis tabulis*, das in den sechs verglichenen Capitularien sowie bei Herwagen und in PL 93 keinen eigenen Titel hat.
+
+Dadurch entspricht Isidor I–XXX den Handschriftentiteln II–XXXI. Ab XXXII stimmen die Nummern Isidors und der Referenzzählung von PH/OX wieder überein. Die drei Titel LII–LIV der Handschriften haben bei Isidor eigene nummerierte Kapitel. In Herwagen und PL 93 fehlen dafür eigene Überschriften; dort entsprechen deshalb die letzten fünf Kapitel LII–LVI den Nummern LV–LIX bei Isidor und in PH/OX.
+
+Die folgenden Lesarten sind wie in der Haupttabelle normalisiert. Die Überschrift aus PL 83 wird stets ausgeschrieben. Das Zeichen = in der letzten Spalte bezeichnet Übereinstimmung mit PL 93; Unterstreichungen markieren zusätzliche oder ersetzte Wörter gegenüber PL 93. Auslassungen werden im Befund genannt. Bei den drei Titeln ohne eigene Überschrift in PL 93 wird ausdrücklich auf den Handschriftentitel Bezug genommen. Die gedruckte Schreibung *millibus* bleibt sichtbar, ohne daraus einen inhaltlichen Unterschied zu *milibus* abzuleiten. Die Namensformen *Moysi/Moysis* und *Moysen/Moysem* bleiben unterscheidbar. Bei *r[u]bo* ist ein im vorliegenden Druckbild ausgefallener oder nicht erkennbarer Buchstabe ergänzt.
+
+| Nr. PH/OX | Nr. PL 93 / Herwagen | Nr. Isidor | Sp. PL 83 | Überschrift Isidor (PL 83) | Befund gegenüber PL 93; Bezug zu den Capitularien |
+| --- | --- | --- | --- | --- | --- |
+| I | I | – | 287 | Kein entsprechender nummerierter Titel; eigene *Praefatio* vor Kapitel I | Die Isidor-Vorrede ist kein gleichlautender Eintrag *Exodus quae in se contineat*. |
+| II | II | I | 287 | *De septuaginta animabus* | =; alle sechs Capitularien haben dagegen *sexaginta*. |
+| III | III | II | 287 | *De morte Ioseph* | = |
+| IV | IV | III | 288 | *De afflictione populi* | = |
+| V | V | IV | 288 | *De masculorum nece* | = |
+| VI | VI | V | 288 | *De inventione Moysi* | = |
+| VII | VII | VI | 289 | *De occiso Aegyptio* | = |
+| VIII | VIII | VII | 289 | *De <u>igne</u> in r[u]bo* | *igne* statt *manifestatione Domini*. Kein Beleg für ADs *rubro*. |
+| IX | IX | VIII | 290 | *De virga in serpentem <u>versa</u>* | *versa* statt *conversa*. |
+| X | X | IX | 290 | *De manu <u>Moysis leprosa</u>* | *Moysis leprosa* statt *Moysi in sinum missa*. |
+| XI | XI | X | 291 | *De aquis conversis in sanguinem* | = |
+| XII | XII | XI | 291 | *De ingressu <u>Moysis</u> ad Pharaonem* | Namensform *Moysis* statt *Moysi*. |
+| XIII | XIII | XII | 292 | *De virga in draconem <u>versa</u>* | *versa* statt *conversa*; das Partizip fehlt in fünf der sechs Capitularien. |
+| XIV | XIV | XIII | 292 | *De obduratione Pharaonis* | = |
+| XV | XV | XIV | 292 | *De decem plagis* | = |
+| XVI | XVI | XV | 294 | *De Pascha* | = |
+| XVII | XVII | XVI | 295 | *De <u>thesauris Aegyptiorum</u>* | Anstelle von *De argento et auro Aegyptiorum sublato*. |
+| XVIII | XVIII | XVII | 295 | *De <u>azymis</u>* | *azymis* statt *azymo*; die sechs Capitularien haben *azyma*. |
+| XIX | XIX | XVIII | 296 | *De columna ignis et <u>nube</u>* | *nube* statt *nubis*; *columna*, nicht PHs *columba*. |
+| XX | XX | XIX | 296 | *De divisione maris* | = |
+| XXI | XXI | XX | 296 | *De cantico* | Ohne *glorificationis*. |
+| XXII | XXII | XXI | 297 | *De aquis <u>amaris</u>* | *amaris* statt *maris*; entspricht dem durch Nachtrag erreichten Stand LA273². |
+| XXIII | XXIII | XXII | 297 | *De duodecim fontibus* | Ohne *et septuaginta palmis*. |
+| XXIV | XXIV | XXIII | 297 | *De <u>cibis</u> alitum et manna* | *cibis* statt *carnibus*. |
+| XXV | XXV | XXIV | 299 | *De petra virga percussa* | = |
+| XXVI | XXVI | XXV | 299 | *De pugna Amalech* | Ohne *contra*, wie alle sechs Capitularien. |
+| XXVII | XXVII | XXVI | 299 | *De cognato <u>Moysis</u>* | Namensform *Moysis* statt *Moysi*. |
+| XXVIII | XXVIII | XXVII | 300 | *De ascensione <u>Moysis</u> in montem* | Namensform *Moysis* statt *Moysi*. |
+| XXIX | XXIX | XXVIII | 300 | *De tonitruis <u>et fulguribus</u>* | Ohne *monte Sina*; zusätzlich *et fulguribus*. |
+| XXX | XXX | XXIX | 301 | *De decem verbis* | = |
+| XXXI | XXXI | XXX | 303 | *De duabus tabulis* | = |
+| – | – | XXXI | 303 | *De lapideis tabulis* | Zusätzliches eigenes Isidor-Kapitel; kein eigener Titel in den sechs Capitularien, Herwagen oder PL 93. Dies ist eine Aussage zur Gliederung, nicht zur Vollständigkeit des Auslegungstextes. |
+| XXXII | XXXII | XXXII | 304 | *De <u>altari</u> de terra* | Verkürzter Titel statt *De eo quod iussum est: Altare de terra facietis*. |
+| XXXIII | XXXIII | XXXIII | 304 | *De <u>non sectis lapidibus faciendo</u>* | Anders formuliert als *De eo quod ait: Non aedificabitis illud de sectis lapidibus*. |
+| XXXIV | XXXIV | XXXIV | 304 | *De <u>non ascendendo ad id</u> per gradus* | Anders formuliert als *De eo quod ait: Non accedetis ad eum per gradus*. |
+| XXXV | XXXV | XXXV | 304 | *De Hebraeo sex annis serviente* | = |
+| XXXVI | XXXVI | XXXVI | 305 | *De talione* | = |
+| XXXVII | XXXVII | XXXVII | 305 | *De decimis et primitiis offerendis* | =; kein Beleg für die vorläufige Lesung *primitivis* in WI/AD. |
+| XXXVIII | XXXVIII | XXXVIII | 306 | *De vitulo combusto igni* | = |
+| XXXIX | XXXIX | XXXIX | 307 | *De interfectis tribus millibus* | Ohne *hominum*; Druckschreibung *millibus*. |
+| XL | XL | XL | 307 | *De confractione tabularum* | = |
+| XLI | XLI | XLI | 308 | *De quadraginta diebus quos ieiunavit Moyses* | = |
+| XLII | XLII | XLII | 308 | *<u>Quod Dominus Deus dixit</u> ad <u>Moysem</u>: Posteriora mea videbis* | Anstelle von *De eo quod dicit Dominus ad Moysen: Posteriora mea videbis*. |
+| XLIII | XLIII | XLIII | 309 | *De glorificatione <u>Moysis</u>* | Namensform *Moysis* statt *Moysi*; als eigener Titel vorhanden, anders als im Capitularium von LA279. |
+| XLIV | XLIV | XLIV | 310 | *De aedificatione arcae* | = |
+| XLV | XLV | XLV | 311 | *De urna aurea <u>et</u> tabulis et virga* | Zusätzliches *et* vor *tabulis*. |
+| XLVI | XLVI | XLVI | 311 | *De propitiatorio et cherubi<u>m</u>* | *cherubim* statt *cherubin*. |
+| XLVII | XLVII | XLVII | 312 | *De altar<u>i</u>* | *altari* statt *altare*; wie WI und AD. |
+| XLVIII | XLVIII | XLVIII | 312 | *De mensa* | = |
+| XLIX | XLIX | XLIX | 312 | *De candelabro et oleo* | = |
+| L | L | L | 313 | *De tabernaculo* | = |
+| LI | LI | LI | 313 | *De columnis et <u>earum</u> basibus* | Zusätzlich *earum* vor *basibus*, ohne *et capitula*. Auch kein *eius* wie in den sechs Capitularien. |
+| LII | – | LII | 313 | *De tabulis deauratis* | Eigenes nummeriertes Kapitel; gegenüber den Handschriftentiteln *aureatis/auratis* abweichend *deauratis*. |
+| LIII | – | LIII | 314 | *De decem cortinis* | Eigenes nummeriertes Kapitel; Titel in WI und AD nicht verzeichnet. |
+| LIV | – | LIV | 314 | *De undecim velis cilicinis* | Eigenes nummeriertes Kapitel; Titel in WI und AD nicht verzeichnet. |
+| LV | LII | LV | 315 | *De oppanso velo in medio tabernaculi* | =; wie OX, LA273 und LA279, gegenüber *expanso* in WI/AD und vorläufig *appanso* in PH. |
+| LVI | LIII | LVI | 316 | *De diversis donariis ad constructionem tabernaculi* | =; wie PH, OX und die Laoner Capitularien, gegenüber *ad constructa* in WI/AD. |
+| LVII | LIV | LVII | 318 | *De unguento quo perungitur tabernaculum* | = |
+| LVIII | LV | LVIII | 318 | *De incen<u>c</u>o composito* | Der Haupttext druckt *incenco*, nicht *incenso*. Diese Drucklesart wird nicht stillschweigend berichtigt. |
+| LIX | LVI | LIX | 318 | *De veste pontificis* | = |
+
+### Ergebnis und Grenzen des Isidor-Vergleichs
+
+- Die Gliederung der Tabernakel-Auslegung in eigene Kapitel LII–LIV ist auch bei Isidor in PL 83 vorhanden. Sie ist deshalb kein Unterscheidungsmerkmal der Wigbod-Capitularien gegenüber der hier gedruckten Isidor-Fassung. Herwagen und PL 93 fassen diesen Teil ohne die drei eigenen Überschriften zusammen.
+- Isidors 59 Kapitel und die 59 Titel in PH/OX/LA273 sind trotz gleicher Zahl verschieden zusammengesetzt: Dem zusätzlichen ersten Handschriftentitel steht Isidors eigener Titel *De lapideis tabulis* gegenüber. Ein bloßer Vergleich der Endzahlen würde diesen Unterschied verdecken.
+- Isidor bestätigt einzelne Lesarten, die vom Wortlaut in Herwagen/PL 93 abweichen: *amaris* wie LA273², das Fehlen von *contra* wie in allen sechs Capitularien und *altari* wie in WI/AD. Daraus allein folgt noch keine unmittelbare Abhängigkeit dieser Lesarten von einer bestimmten Isidor-Handschrift.
+- Umgekehrt liest Isidor *septuaginta* wie die beiden Drucke des Dialogus, nicht *sexaginta* wie alle sechs Capitularien. *Expanso* wird durch PL 83 nicht bestätigt: Der Druck hat *oppanso*, ebenso wie Herwagen/PL 93 und die dafür gesicherten Capitularien OX/LA273/LA279.
+- Der Haupttext von PL 83 hat im letzten Teil die auffällige Drucklesart *incenco*. Die Angabe beschreibt diesen Druck, nicht eine hier nachgewiesene mittelalterliche Variante.
+
+Arévalo bemerkt zu Kapitel XXXIII in der Anmerkung von PL 83, Sp. 304: *Hos titulos non ab auctore, sed ab exscriptoribus factos satis constat.* Nach seinem editorischen Urteil stammen diese Titel von Abschreibern und nicht vom Autor. Dieser Hinweis wird als Urteil des Herausgebers festgehalten; dieses Urteil ist vom nun vorliegenden Einzelbefund des Isidor-Capitulariums in Clm 14166 zu unterscheiden. Die Tabelle vergleicht daher die in PL 83 gedruckten Kapitelüberschriften, ohne deren Wortlaut oder Zählung ungeprüft Isidor selbst zuzuschreiben.
+
+Der Abgleich betrifft die Titel, ihre Reihenfolge und ihre Zuordnung. Er ersetzt keine vollständige Kollation der Auslegungstexte. Insbesondere ist das Fehlen einer eigenen Überschrift *De lapideis tabulis* in den anderen Zeugen kein Nachweis, dass dort die entsprechende Auslegung fehlt.
+
+## Stellen der abweichenden oder zusätzlich verzeichneten Titel
+
+Die Zeilenzählung in OX beginnt mit *Incipiunt capitula libri huius*, diejenige in PH mit dem ersten Titel. Die Angaben beziehen sich auf das Capitularium.
+
+| Nr. PH/OX | Stelle OX | Stelle PH |
+| --- | --- | --- |
+| I | 97va, Z. 2 | 88va, Z. 1 |
+| II | 97va, Z. 3 | 88va, Z. 2 |
+| VIII | 97va, Z. 9 | 88va, Z. 8 |
+| X | 97va, Z. 11 | 88va, Z. 10 |
+| XIII | 97va, Z. 14 | 88va, Z. 13 |
+| XVIII | 97va, Z. 19 | 88va, Z. 18 |
+| XIX | 97va, Z. 20 | 88va, Z. 19 |
+| XXII | 97va, Z. 23 | 88va, Z. 22 |
+| XXVI | 97va, Z. 27 | 88va, Z. 26 |
+| XXXII | 97va, Z. 33 | 88va, Z. 32 |
+| XXXIII | 97va, Z. 34 | 88va, Z. 33 |
+| XXXIV | 97va, Z. 35 | 88va, Z. 34 |
+| XXXVII | 97vb, Z. 2 | 88va, Z. 37 |
+| XLII | 97vb, Z. 7 | 88vb, Z. 4 |
+| XLIII | 97vb, Z. 8 | 88vb, Z. 5 |
+| XLVII | 97vb, Z. 12 | 88vb, Z. 9 |
+| LI | 97vb, Z. 16 | 88vb, Z. 13 |
+| LII | 97vb, Z. 17 | 88vb, Z. 14 |
+| LIII | 97vb, Z. 18 | 88vb, Z. 15 |
+| LIV | 97vb, Z. 19 | 88vb, Z. 16 |
+| LV | 97vb, Z. 20 | 88vb, Z. 17 |
+| LVI | 97vb, Z. 21 | 88vb, Z. 18 |
+
+## Umfang und Reihenfolge der Handschriftenverzeichnisse
+
+LA273 enthält wie PH und OX 59 Titel. In LA279 fehlt der Eintrag *De glorificatione Moysi* im Capitularium. Das entsprechende Kapitel XLIII ist im Haupttext auf f. 122vb vorhanden. WI und AD lassen die beiden aufeinanderfolgenden Titel *De decem cortinis* und *De undecim velis cilicinis* aus. In AD fehlt zusätzlich der Titel zum Verbot eines Altars aus behauenen Steinen.
+
+Die Reihenfolge der vorhandenen Titel stimmt in allen sechs Verzeichnissen überein. PL 93 hat 56 nummerierte Kapitelüberschriften, die Verzeichnisse von PH, OX und LA273 jeweils 59 Titel. Diese Zahlen bezeichnen unterschiedliche Gliederungen. Sie sind keine Zählung fehlender Textabschnitte.
+
+| Zeuge | Folios des Capitulariums | Zahl tatsächlich vorhandener Titel | Fehlende Titel gegenüber PH/OX |
+| --- | --- | --- | --- |
+| OX | 97v | 59 | keine |
+| PH | 88v | 59 | keine |
+| LA273 | 117r–117v | 59 | keine |
+| LA279 | 115r–115v | 58 | *De glorificatione Moysi* (XLIII) |
+| WI | 112r–113r | 57 | *De decem cortinis* (LIII)<br>*De undecim velis cilicinis* (LIV) |
+| AD | 124r–125r | 56 | *De id quod ait: Non aedificabitis illud desectis lapidibus* (XXXIII)<br>*De decem cortinis* (LIII)<br>*De undecim velis cilicinis* (LIV) |
+
+Gezählt werden einzelne Titel einschließlich des ersten *Exodus*-Titels. *De altari* und *De mensa* zählen auch dort als zwei Titel, wo sie auf derselben Zeile stehen. Die Angaben betreffen die Kapitelverzeichnisse. Das in LA279 nicht verzeichnete Kapitel XLIII ist im Haupttext vorhanden. Die entsprechenden Auslegungsabschnitte zu den Titelauslassungen in WI und AD sind gesondert zu prüfen.
+
+## Nummerierung in LA279
+
+In LA273 steht *De glorificatione Moysi* auf f. 117rb als XLIII. In LA279 folgt auf f. 115rb nach XLII (*… Posteriora mea videbis*) bereits *De aedificatione arcae*, das dort als XLIII gezählt wird. Die folgenden Nummern liegen zunächst um eins unter der Referenzzählung von PH/OX. Am Ende von f. 115rb steht LII (52) bei *De decem cortinis*. Am Beginn von f. 115va folgt unmittelbar LIIII (54) bei *De undecim velis cilicinis*. LIII (53) wird übersprungen. Von diesem Eintrag an stimmen die Nummern wieder mit PH/OX überein. Das Verzeichnis endet bei *De veste pontificis* mit LVIIII (59).
+
+LA279 hat damit 58 tatsächlich vorhandene Titel bei einer bis 59 reichenden Nummerierung.
+
+| Stelle LA279 | Nummer | Titel |
+| --- | --- | --- |
+| 115rb, letzter Eintrag | LII (52) | *De decem cortinis* |
+| Übergang zu 115va | LIII (53) fehlt | kein eigener Eintrag |
+| 115va, erster Eintrag | LIIII (54) | *De undecim velis cilicinis* |
+| 115va, letzter Eintrag | LVIIII (59) | *De veste pontificis* |
+
+## Kapitel XLIII im Haupttext von LA279
+
+Die Doppelseite in `024086201_MS0279_0132_2816x1808.jpg` zeigt links f. 122v und rechts f. 123r. Auf f. 122vb ist der im Capitularium fehlende Abschnitt zur Verherrlichung des Mose vorhanden und ausdrücklich als XLIII nummeriert.
+
+Der Abschnitt beginnt mit aufgelösten Abbreviaturen:
+
+> *Quod vero descendente de monte Moyse cum tabulis facies eius glorificata videbatur …*
+
+Er behandelt das verherrlichte Antlitz des Mose und den Schleier als Bild des verhüllten Sinns des Gesetzes. Am Schluss steht:
+
+> *Revella oculos meos et considerabo mirabilia de lege tua.*
+
+Unmittelbar anschließend beginnt auf derselben Spalte Kapitel XLIIII mit:
+
+> *Iam nunc arcam testamenti Domini inspiciamus …*
+
+Damit ist nachgewiesen, dass Kapitel XLIII im Haupttext überliefert ist. Die Auslassung betrifft seinen Eintrag im Capitularium. Eine vollständige Wortlautkollation dieses Kapitels mit den anderen Handschriften ist damit noch nicht erfolgt.
+
+## Anlage und Übergang zum Kommentar
+
+| Merkmal | PH | OX | LA273 | LA279 | WI | AD |
+| --- | --- | --- | --- | --- | --- | --- |
+| Kapitelnummern | I–LIX | I–LIX | I–LIX | I–LIX, LIII übersprungen | keine fortlaufende Nummerierung | keine fortlaufende Nummerierung |
+| Rest einer Kapitelnummer | entfällt | entfällt | entfällt | entfällt | XLVIII vor *De mensa* | XLVIII vor *De mensa* |
+| Anlage des Verzeichnisses | zweispaltig | zweispaltig | zweispaltig | zweispaltig | auf 112r/v einspaltig, Schluss auf 113r zweispaltig | einspaltig |
+| Abschlussformel des Verzeichnisses | *Expliciunt capitula* | *Expliciunt capitula* | *Expliciunt* | *Expliciunt* | anschließend unmittelbar Incipit | anschließend unmittelbar Incipit |
+| Incipit des Kommentars | kurze Fassung | kurze Fassung | kurze Fassung | kurze Fassung | ausführliche Fassung mit Wigbod und Karl | ausführliche Fassung mit Wigbod und Karl |
+
+Die kurze Fassung des Incipits in LA273 und LA279 lautet, mit aufgelösten Abbreviaturen:
+
+> *Incipit explanatio sanctorum patrum quorum in praefatione prima huius libri memini super Exodum.*
+
+WI 113r liest am Schluss des Capitulariums zuerst die linke Spalte vollständig und danach die rechte. AD überliefert dieselbe Folge in einer Spalte. Eine alternierende Reihenfolge ist nicht festzustellen.
+
+Am rechten Rand des AD-Verzeichnisses stehen vielfach durch Wellenlinien angeschlossene Wortenden. Diese gehören zum Wortlaut der Titel und sind keine Kapitelnummern.
+
+## Kontrolle des unmittelbar folgenden Textes
+
+Die neu vorgelegten Laoner Bilder erlauben zugleich eine Berichtigung der bisherigen Zusammenfassung zu B08: Herwagen wird hier zusätzlich nach dem Beginn des Kommentars auf Sp. 271 erfasst.
+
+| Stelle | PH | OX | LA273 | LA279 | WI | AD | Herwagen (Sp. 271) |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Wort vor *plagas Aegypti* im ersten Absatz | *necem* | *necem* | *decem* | *decem* | *decem* | *decem* | *necem* |
+| Überleitung zum folgenden Absatz | *Redeamus ad expositionis ordinem* | *Nunc ad expositionis ordinem redeamus* | *Nunc ad expositionis ordinem redeamus* | *Nunc ad expositionis ordinem redeamus* | fehlt | fehlt | fehlt; unmittelbar anschließend Kapitel II |
+
+Die Lesart *decem* ist in LA273 117va und LA279 115va unmittelbar sichtbar. Die frühere Zusammenfassung von LA273/LA279 mit OX unter *necem* ist zu berichtigen. Herwagen liest *Exodus continet Hebraeorum servitutem ac necem, plagas Aegypti …*. Die Rückkehrformel *[Nunc] ad expositionis ordinem redeamus* fehlt; auf den einleitenden Absatz folgt unmittelbar *De septuaginta animabus*, Kapitel II.
+
+## Herkunft des ersten Exodus-Kapitels: Isidors Prooemia und Pal. lat. 277
+
+Das erste Kapitel *Exodus quae in se contineat* verwendet Isidors Inhaltsübersicht des Exodus aus den *Prooemia*, § 19 (*De Exodo*), PL 83, Sp. 159. Die Abfolge und die weitgehend wörtliche Entsprechung zeigen einen Textbezug, der über eine bloße Übereinstimmung der behandelten Bibelstellen hinausgeht. Die Inhaltsübersicht ist bei Wigbod als Antwort des Lehrers in den Dialog eingebaut. Mit dem folgenden Kapitel II, *De septuaginta animabus*, beginnt die Zuordnung zu Kapitel I von Isidors *Quaestiones in Exodum*.
+
+Damit ist auch der zusätzliche erste Titel der Wigbod-Capitularien gegenüber den *Quaestiones in Exodum* erklärt: Er gehört zu einem vorangestellten Exzerpt aus den *Prooemia*. Die oben beschriebene unterschiedliche Kapitelzählung bleibt bestehen; der erste Wigbod-Abschnitt hat nun eine eigene Isidor-Quellenzuordnung.
+
+### Unmittelbarer Vergleich mit Pal. lat. 277, f. 3r
+
+Die vorgelegte Seite enthält zunächst den Schluss der allgemeinen Einleitung, dann die Überleitung zu den Buchinhalten, das Genesis-Prooemium und den Anfang des Exodus-Prooemiums. Die folgenden Stellen des Exodus-Abschnitts sind auf f. 3r sichtbar. Abbreviaturen werden aufgelöst, *ae/e*, *i/j*, *u/v* und die Namenschreibung normalisiert. Der Beginn der Zeile mit der Wolke lautet im Bild *in nubem*, während OX und PL 83 *et nubem* haben. Das Wortende am Blattfuß nach *gloriae decantat…* wird hier nicht diplomatisch aufgelöst.
+
+Wigbod wird unmittelbar nach OX, f. 98ra, verglichen; der entsprechende Absatz in Herwagen, Sp. 271, wurde zusätzlich kontrolliert. Für PH und die übrigen Handschriften wird bei *decem/necem* auf die bereits dokumentierte Vergleichsstelle zurückgegriffen.
+
+| Textglied | Isidor: Pal. lat. 277, f. 3r | Wigbod: OX, f. 98ra | Befund |
+| --- | --- | --- | --- |
+| Einleitung | *Exodus continet Hebraeorum servitutem* | *Exodus continet Hebraeorum servitutem* | Wörtliche Entsprechung nach Normalisierung. |
+| Zehn Plagen | *ac decem plagas Aegypti* | *ac necem plagas Aegypti* | Pal. lat. 277 bestätigt *decem* wie Isidor in PL 83 und wie LA273/LA279/WI/AD; PH/OX/Herwagen haben *necem*. |
+| Auszug | *egressum populi* | *egressum populi* | Wörtliche Entsprechung. |
+| Wolke | *in nubem protegentem* | *et nubem protegentem* | Gleiche Nominalgruppe; abweichender Anschluss *in* gegenüber *et*. |
+| Meerübergang | *transitum etiam Rubri maris* | *transitum etiam Rubri maris* | Wörtliche Entsprechung. |
+| Pharao | *mersumque Pharaonem* | *mersumque cum curribus Pharaonem* | OX und Herwagen haben zusätzlich *cum curribus*. Dieser Zusatz steht auch im Isidor-Druck PL 83, fehlt aber an der sichtbaren Stelle in Pal. lat. 277. |
+| Lobgesang | *et gloriae decantat…* | *et gloriae decantationem* | Gleicher Ausdruck für den Lobgesang; Wortende in Pal. lat. 277 hier nicht abschließend aufgelöst. |
+
+Die auf f. 3r unmittelbar vorangehende Genesis-Inhaltsübersicht beginnt bei Isidor mit *Genesis iuxta fidem historiae describit …*. Wigbods Schüler fragt dagegen: *Exodus iuxta fidem historiae quae describit?* Die gleiche Formel *iuxta fidem historiae* und das Verb *describere* stehen damit bereits in Isidors benachbartem Genesis-Prooemium. Dies ist ein weiterer beobachtbarer Zusammenhang der Formulierung; daraus folgt keine Identifizierung einer bestimmten Vorlage.
+
+### Ergänzender Vergleich mit dem vollständigen Isidor-Prooemium in PL 83
+
+Die folgenden Textglieder liegen hinter dem auf dem vorgelegten Pal.-lat.-277-Blatt sichtbaren Abschnitt. Ihre Isidor-Lesarten sind deshalb ausschließlich für PL 83, Sp. 159, nachgewiesen; sie werden Pal. lat. 277 nicht zugeschrieben.
+
+| Stelle | Isidor: Prooemia § 19, PL 83, Sp. 159 | Wigbod: OX, f. 98ra; Herwagen, Sp. 271 | Befund |
+| --- | --- | --- | --- |
+| Wüste | *ingressum quoque eremi* | *congressum quoque eremi* | *congressum* gegenüber *ingressum*. Die Schreibung *heremi* in OX ist hier normalisiert. |
+| Manna und Fels | *cibum mannae, quo aliti sunt, percussionem quoque rupis, et fluenta in dulcedinem versa* | *cibum mannae et fluenta in dulcedinem versa* | Der Satzteil *quo aliti sunt, percussionem quoque rupis* fehlt in OX und Herwagen. |
+| Weihe des Tabernakels | *dedicationemque tabernaculi* | *dedicationem quoque tabernaculi* | *-que* gegenüber *quoque*. |
+| Schluss | *et oblationem* | *et oblationum* | *oblationum* gegenüber *oblationem*. |
+| Überleitung zum folgenden Kommentarabschnitt | keine entsprechende Rückkehrformel am Ende des Prooemiums | OX: *Nunc ad expositionis ordinem redeamus*; Herwagen: fehlt | Die Formel in OX verbindet die eingeschobene Inhaltsübersicht mit der anschließenden Auslegung. Ihr Wortlaut und ihr Fehlen in anderen Zeugen bleiben getrennt zu erfassen. |
+
+Für die fehlende Passage nach *cibum mannae* ist der Apparat der Isidor-Ausgabe wesentlich: PL 83, Sp. 159, Anm. 19, berichtet unter Berufung auf Mariana, dass *quo aliti sunt, percussionem quoque rupis* in einigen Handschriften fehlt. Die kürzere Fassung von OX und Herwagen kann deshalb bereits in der Isidor-Überlieferung vorgelegen haben. Sie darf ohne weitere Kollation nicht als bewusste Kürzung Wigbods bezeichnet werden.
+
+### Einordnung des Befunds
+
+Gesichert ist die Verwendung von Isidors Exodus-Prooemium im ersten Kapitel der untersuchten Wigbod-Fassung. Pal. lat. 277 bezeugt denselben Text und bestätigt besonders *decem*. Der Textzeuge ist jedoch nicht wortgleich mit OX: Sichtbare Unterschiede sind *in* gegenüber *et* vor *nubem* und das Fehlen von *cum curribus*. Eine unmittelbare Abschrift gerade aus Pal. lat. 277 ist damit nicht nachgewiesen. Für eine genauere Überlieferungszuordnung wären die Fortsetzung des Pal.-lat.-277-Prooemiums und weitere Isidor-Zeugen zu kollationieren.
+
+## Verwendete Bilder
+
+Bei den Laoner Dateien zeigt jeweils die rechte Bildhälfte die im Dateinachweis genannte Rectoseite. Die folgende Bilddatei enthält deren Versoseite in der linken Hälfte.
+
+| Zeuge | Folio | Bilddatei |
+| --- | --- | --- |
+| Isidor, Clm 14166 | 128r | [BSB Clm 14166 128r.jpg](https://chatgpt.com/library?file_id=libfile_22431428d2a081919a1e1f91ee26f671&account_id=personal) |
+| Isidor, Clm 14166 | 128v | [BSB Clm 14166 128v.jpg](https://chatgpt.com/library?file_id=libfile_8df8e3fcd13881918613110c2b516a95&account_id=personal) |
+| Isidor, Clm 14288 | 66v | [BSB Clm 14288 66v.jpg](https://chatgpt.com/library?file_id=libfile_3953fda1b3908191ba43ad074232db0d&account_id=personal) |
+| Isidor, Clm 14288 | 67r | [BSB Clm 14288 67r.jpg](https://chatgpt.com/library?file_id=libfile_83e763fecae08191b6bfc1dd40feda30&account_id=personal) |
+| Isidor, Pal. lat. 277 | 3r | [pal_lat_277_003r.jpg](https://chatgpt.com/library?file_id=libfile_50120649f43481918843325851c7a994&account_id=personal) |
+| PH | 88v | [Phillips_Wigbod_Germany_1080-1100_f88v.jpg](https://chatgpt.com/library?file_id=libfile_e3f95cdb2b5c819185fa26f4d21c930b&account_id=personal) |
+| OX | 97v | [097v.jpg](https://chatgpt.com/library?file_id=libfile_8eeabb72df04819186a3461b87cbc145&account_id=personal) |
+| OX | 98r | [098r.jpg](https://chatgpt.com/library?file_id=libfile_ff51d426fa1c8191905b9eee062d209f&account_id=personal) |
+| LA273 | 117r | [024086201_MS0273_0126_2752x1680(1).jpg](https://chatgpt.com/library?file_id=libfile_b231c4331604819189f4fee379b337d3&account_id=personal) |
+| LA273 | 117v | [024086201_MS0273_0127_2752x1680(1).jpg](https://chatgpt.com/library?file_id=libfile_5753d9bedad48191969bae631d2c49d1&account_id=personal) |
+| LA279 | 115r | [024086201_MS0279_0124_2816x1808(1).jpg](https://chatgpt.com/library?file_id=libfile_b726b630eb088191a06a38d87c2b7ed4&account_id=personal) |
+| LA279 | 115v | [024086201_MS0279_0125_2816x1808(1).jpg](https://chatgpt.com/library?file_id=libfile_0f99f150e7f88191a1993c9d708ae3a6&account_id=personal) |
+| LA279 | 122v–123r | [024086201_MS0279_0132_2816x1808.jpg](https://chatgpt.com/library?file_id=libfile_d46f320bfb8c819188c1a8358af3a7e8&account_id=personal) |
+| WI | 112r | [131ABE3A_jpg_231.jpg](https://chatgpt.com/library?file_id=libfile_4fdf1af3493c8191a82857a51aa6d30e&account_id=personal) |
+| WI | 112v | [131ABE3A_jpg_232.jpg](https://chatgpt.com/library?file_id=libfile_e1e953149708819191a38a01ede68ae1&account_id=personal) |
+| WI | 113r | [131ABE3A_jpg_233.jpg](https://chatgpt.com/library?file_id=libfile_347acd93f88c819191455846a065431e&account_id=personal) |
+| AD | 124r | [AT1000-174_0249.jpg](https://chatgpt.com/library?file_id=libfile_0273a98a9b108191bdd4404afaf4c43b&account_id=personal) |
+| AD | 124v | [AT1000-174_0250.jpg](https://chatgpt.com/library?file_id=libfile_103e55ba33f081918d39650b580d87c2&account_id=personal) |
+| AD | 125r | [AT1000-174_0251.jpg](https://chatgpt.com/library?file_id=libfile_53a6ecd37e048191ba86653d82be7a1a&account_id=personal) |
+
+## Katalognachweise zu den Isidor-Handschriften
+
+- München, Bayerische Staatsbibliothek, Clm 14166, Isidor-Teil ff. 72v–201v, Ende des 8. Jahrhunderts, wohl Regensburg. [BStK Online, Nr. 567](https://glossen.germ-ling.uni-bamberg.de/manuscripts/12713), [Earlier Latin Manuscripts, CLA 9.1291](https://elmss.universityofgalway.ie/catalogue/1786), [Digitalisat, Exodus-Beginn f. 128r, Scan 257](https://www.digitale-sammlungen.de/de/view/bsb00034750?page=257). Die neu vorgenommene Titelkollation beruht auf den beiden vom Nutzer bereitgestellten Bildern, nicht auf einem zusätzlichen Bilddownload.
+
+- München, Bayerische Staatsbibliothek, Clm 14288, erstes Drittel des 9. Jahrhunderts. Die Lokalisierung in die Umgebung von Regensburg ist mit Fragezeichen versehen. [BSB-Katalogeintrag](https://www.digitale-sammlungen.de/de/details/bsb00046649), Friedrich Helmer, *Die Handschriften aus St. Emmeram in Regensburg*, Bd. 3, 2011, S. 88–89, hier [S. 89, Scan 110](https://www.digitale-sammlungen.de/de/view/bsb00093400?page=110). Die Beschreibung nennt den Exodus-Beginn auf 66v und vorangestellte Capitulationes. [Digitalisat f. 66v, Scan 136](https://www.digitale-sammlungen.de/de/view/bsb00046649?page=136), [f. 67r, Scan 137](https://www.digitale-sammlungen.de/de/view/bsb00046649?page=137). Die Titelkollation beruht auf den beiden vom Nutzer bereitgestellten Bildern.
+
+## Druckquellen
+
+- Isidor von Sevilla, *In libros Veteris ac Novi Testamenti prooemia*, § 19, *De Exodo*, PL 83, Sp. 159; der benachbarte Genesis-Abschnitt ist § 18. Benutzt wurde dasselbe [PL-83-Digitalisat](https://chatgpt.com/library?file_id=libfile_11e72d839dc481918e2fa87c86eddd06&account_id=personal), PDF-S. 84. Die Anmerkung 19 verzeichnet das Fehlen von *quo aliti sunt, percussionem quoque rupis* in einigen Handschriften. Der unmittelbar verglichene mittelalterliche Textzeuge ist Pal. lat. 277, f. 3r, im Bildnachweis oben.
+- Isidor von Sevilla, *Mysticorum expositiones sacramentorum seu Quaestiones in Vetus Testamentum*, *In Exodum*, PL 83, Sp. 287–322; Überschriften der Kapitel I–LIX in Sp. 287–318, eigene *Praefatio* in Sp. 287. Grundlage: [PL83 Isidor Opera Omnia Tomus V.pdf](https://chatgpt.com/library?file_id=libfile_11e72d839dc481918e2fa87c86eddd06&account_id=personal). Alle 59 Kapitelüberschriften auf PDF-S. 148–163 wurden am Druckbild kontrolliert; Arévalos Anmerkung zu den Titeln steht in Sp. 304, auf PDF-S. 156. Bei VII ist der nicht erkennbare Buchstabe als *r[u]bo* ergänzt; bei LVIII bleibt die Drucklesart *incenco* erhalten.
+- Johannes Herwagen d. J. (Druck), *Opera Bedae Venerabilis presbyteri Anglosaxonis*, *Octavus tomus*, Basel 1563 (VD16 B 1418), *Quaestionum super Exodum ex dictis patrum dialogus*, Sp. 271–299. Exemplar: Universitätsbibliothek Basel, UBH Aleph H III 2. [Gesamtnachweis und Digitalisat](https://doi.org/10.3931/e-rara-95935), [Beginn des Exodus-Kommentars, Sp. 271–272](https://www.e-rara.ch/bau_1/content/zoom/27644750), [Exodus-Auszug bei e-rara](https://www.e-rara.ch/download/pdf/27644750.pdf), [Octavus Tomus.pdf](https://chatgpt.com/library?file_id=libfile_195b78708dd88191827a6a9251812acc&account_id=personal). Der gesonderte e-rara-Auszug endet bei Sp. 298 und enthält den Schluss auf Sp. 299 nicht mehr; dieser wurde im vollständigen achten Band mitgeprüft. Im vorliegenden vollständigen Band stehen das Titelblatt auf PDF-S. 2, der *Octavi tomi elenchus* auf PDF-S. 3 und der Exodus-Kommentar auf PDF-S. 139–153.
+- PL 93, *Quaestionum super Exodum ex dictis patrum dialogus*, Sp. 363–386. [Digitalisat des Bandes](https://archive.org/details/patrologiaecur93mign). Die Kapitelüberschriften beginnen in Sp. 365. [Sp. 365–366](https://archive.org/download/patrologiaecur93mign/page/n186.jpg), [Sp. 375–376](https://archive.org/download/patrologiaecur93mign/page/n191.jpg), [Sp. 381–382](https://archive.org/download/patrologiaecur93mign/page/n194.jpg), [Sp. 383–384](https://archive.org/download/patrologiaecur93mign/page/n195.jpg), [Sp. 385–386](https://archive.org/download/patrologiaecur93mign/page/n196.jpg). Kontrolliert wurden sämtliche Druckseiten von Sp. 363 bis 386.
+- PL 96, Wigbod, *Quaestiones in Octateuchum*, Martènes Trierer Textzeuge. [Vorliegender Auszug](https://chatgpt.com/library?file_id=libfile_a29a081aca408191a375554cdec09b24&account_id=personal). Der Druck endet in Sp. 1168 bei Genesis 3,24. Ein Exodus-Capitularium steht darin nicht.
+
+## Für die Überarbeitung von B08
+
+- Die Referenz ausdrücklich als PL 93 ausweisen. PL 96 enthält den hier verglichenen Exodus-Text nicht.
+- Die 59 Titel von PH/OX/LA273 den 56 Kapitelüberschriften im Druck gegenüberstellen. Die drei zusätzlichen Handschriftentitel gesondert zuordnen.
+- Die pauschale Lesart *oppanso* durch die nach Zeugen unterschiedenen Lesarten ersetzen. *Expanso* ist für WI und AD belegt.
+- Die bislang nicht erfassten Abweichungen bei I, II, VIII, XVIII, XXII, XXVI, XXXII, XXXIV, XLII, LI und LVI anhand der obigen Tabelle ergänzen. Die ausdrücklich vorläufigen Lesungen bleiben davon ausgenommen.
+- Die pauschale Angabe von 59 Titeln für alle Handschriften durch die aufgeschlüsselten Zahlen ersetzen.
+- Die Auslassung des Eintrags *De glorificatione Moysi* im Capitularium von LA279 ergänzen. Im Haupttext steht das Kapitel als XLIII auf f. 122vb. LA279 enthält 58 Titel, die Nummerierung reicht unter Überspringung von LIII bis LVIIII (59).
+- Die beiden gemeinsamen Titelauslassungen in WI und AD sowie die zusätzliche Auslassung in AD erfassen.
+- Die Angabe einer alternierenden Reihenfolge in AD streichen. Die Reihenfolge entspricht der spaltenweisen Lesung von WI.
+- LA273 und LA279 im ersten Absatz unter *decem* führen.
+- Die Abschlussformeln des Verzeichnisses nach Handschriften unterscheiden.
+
+### Ergänzungen aus dem Herwagen-Vergleich
+
+- Herwagen gesondert als Basler Druck von 1563, *Octavus tomus*, Sp. 271–299, nachweisen.
+- Die 56 nummerierten Kapitel und das Fehlen eigener Überschriften für die Handschriftentitel LII–LIV sind bereits bei Herwagen belegt.
+- Bei XIII den Buchstabenausfall im Druckbild (*conver[s]a*) kennzeichnen; bei LV der Handschriften = LII der Drucke liest auch Herwagen *oppanso*.
+- Im ersten Absatz Herwagen unter *necem* führen; die Rückkehrformel zur Auslegungsreihenfolge fehlt.
+
+### Ergänzungen aus dem Isidor-Vergleich
+
+- Isidor nach PL 83, *In Exodum*, Sp. 287–322, gesondert erfassen; seine 59 nummerierten Kapitel nicht mit den 59 Titeln von PH/OX/LA273 gleichsetzen.
+- Den fehlenden entsprechenden Isidor-Titel zum ersten Handschrifteneintrag und Isidors zusätzlichen Titel XXXI, *De lapideis tabulis*, bei der Zuordnung berücksichtigen. Ab XXXII stimmen Isidors Nummern mit der Referenzzählung von PH/OX überein.
+- Die drei eigenen Isidor-Kapitel LII–LIV zur Tabernakel-Auslegung nachweisen. Die abweichende Gliederung in Herwagen/PL 93 betrifft nicht erst einen Unterschied zwischen Handschriften und neuzeitlichen Drucken; auch die beiden PL-Abdrucke unterscheiden sich hier.
+- Die Beziehungen *amaris* / LA273², fehlendes *contra* / alle sechs Capitularien, *altari* / WI und AD sowie *oppanso* / OX und die Laoner Capitularien vermerken, ohne daraus bereits eine bestimmte Vorlage abzuleiten.
+- Die abweichenden Formulierungen und Namensformen in der Isidor-Tabelle berücksichtigen; die Drucklesart *incenco* nicht als Handschriftenbefund verwenden.
+- Arévalos Anmerkung in PL 83, Sp. 304, als editorisches Urteil zur Herkunft der Kapitelüberschriften festhalten.
+- Das erste Exodus-Kapitel als Exzerpt aus Isidors *Prooemia*, § 19, PL 83, Sp. 159, zuordnen. Pal. lat. 277, f. 3r, liefert dafür einen weiteren mittelalterlichen Vergleichstext. Die beiden Isidor-Werke bei der Quellenzuordnung getrennt führen.
+- Die im Pal.-lat.-277-Bild gesicherten Unterschiede zu OX (*decem/necem*, *in/et nubem*, fehlendes/vorhandenes *cum curribus*) sowie die im PL-Apparat belegte kürzere Überlieferungsform nach *cibum mannae* erfassen.
+
+### Ergänzungen aus Clm 14166
+
+- Den frühen Isidor-Zeugen mit 58 Titeln erfassen. Nach Abzug des zusätzlichen ersten Wigbod-Titels entspricht seine Titelfolge PH/OX/LA273.
+- Das Fehlen eines eigenen Titels *De lapideis tabulis* in Clm 14166 gegenüber PL 83 festhalten. Die 59 Kapitel des Isidor-Drucks sind keine allgemeingültige Beschreibung der Isidor-Überlieferung.
+- Die Nähe vieler Münchener Titel zu den Wigbod-Verzeichnissen anhand der Haupttabelle und des eigenen Abschnitts dokumentieren.
+- Die Annahme einer Übernahme bereits vorhandener Isidor-Titel als Hypothese führen. Die Herkunft der Titel vom Autor selbst bleibt ungeklärt.
+
+### Ergänzungen aus Clm 14288
+
+- Den zweiten frühen Isidor-Zeugen mit 59 Titeln erfassen. Sein Themenbestand entspricht PL 83, während Clm 14166 den eigenen Titel *De lapideis tabulis* nicht verzeichnet.
+- Die eigene Clm-14288-Zählung von der Referenzzählung PH/OX unterscheiden. Der zusätzlichen ersten Wigbod-Überschrift steht XXXI *De lapideis tabulis* gegenüber.
+- Die Nähe vieler Clm-14288-Titel zu den Wigbod-Verzeichnissen gesondert von der Titelgliederung beschreiben. Besonders zu beachten sind *maris*, die siebzig Palmen und *eius et basibus et capitula* gegenüber Clm 14166.
+- Den Zusatz *cum fulgoribus et caliginis* (?) am Seitenfuß getrennt erfassen. Seine Zuordnung zum Sinai-Titel ist eine durch den Parallelzeugen gestützte Deutung.
+- Die kleinen Lesungsfragen bei *sinu*, *primiteis*, *cilicinus* und *perunguitur* nicht als sichere stemmatische Merkmale auswerten.

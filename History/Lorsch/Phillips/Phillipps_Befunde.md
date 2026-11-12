@@ -9,15 +9,15 @@ Hypothesen und sämtliche stemmatischen Überlegungen stehen in [Phillipps_Auswe
 
 ## Siglen und Belegstatus
 
-| Sigle | Handschrift |
-| --- | --- |
-| OX | Oxford, Bodleian Library, MS Laud misc. 159 |
-| PH | Schøyen Collection, MS 229, ehemals Phillipps 1347 |
-| LA273 | Laon, Bibliothèque municipale, Ms. 273 |
-| LA279 | Laon, Bibliothèque municipale, Ms. 279 |
-| AD | Admont, Stiftsbibliothek, Cod. 174 |
-| WI | Wien, Österreichische Nationalbibliothek, Cod. 1004 |
-| KBR | Brüssel, KBR, 8654–72 |
+| Sigle | Handschrift                                         |
+| ----- | --------------------------------------------------- |
+| OX    | Oxford, Bodleian Library, MS Laud misc. 159         |
+| PH    | Schøyen Collection, MS 229, ehemals Phillipps 1347  |
+| LA273 | Laon, Bibliothèque municipale, Ms. 273              |
+| LA279 | Laon, Bibliothèque municipale, Ms. 279              |
+| AD    | Admont, Stiftsbibliothek, Cod. 174                  |
+| WI    | Wien, Österreichische Nationalbibliothek, Cod. 1004 |
+| KBR   | Brüssel, KBR, 8654–72                               |
 
 OX¹/OX² und PH¹/PH² bezeichnen ursprünglichen bzw. korrigierten Text an der jeweiligen Stelle, keine identifizierten Hände oder einheitlichen Korrekturphasen.
 
@@ -185,14 +185,19 @@ In PH 29va, Z. 31–32 wird der Satz *angeli postmodum facti sunt* aus Z. 29–3
 
 ## B07 – Wigbods *Quaestiones*: Genesis 14, 18-20
 **Stellen:** PH f. 59v; OX ff. 61v–62r; Wi ff-61r-61v; LA279 ff. 68v-70r; LA273 ff. 70v-72r; AD ff 66r-66v
-zusätzlich: Hieronymus, Epistola 73, f. 105v
+zusätzlich: 
+- Hieronymus, _Quaestiones Hebraicae in Genesim
+- Hieronymus, Epistola 73
+- Isidor, Quaestiones in Genesim
 
 ### B07.1 Textaufbau
-| Abschnitt auf PH 59v                 | Anfang und Ende                                                                   | Quelle                                                                        |
-| ------------------------------------ | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| Spalte a, Z. 1–9                     | _Levi Aaron, de quo postea sacerdotium …_ bis _… corpore et sanguine Domini Iesu_ | Hieronymus, _Quaestiones Hebraicae in Genesim_, zu Gen 14,18                  |
-| Spalte a, ab Z. 9/10 bis Z. 31       | _Quod autem supra diximus …_ bis _… et in futuro iudicabit_                       | Isidor, _Quaestiones in Vetus Testamentum_, Gen 11, 4, 6–8; PL83, Sp. 239–240 |
-| Spalte a, ab Z. 33; Fortsetzung in b | _Misisti mihi volumen …_                                                          | Hieronymus, Brief 73 _ad Evangelum_, Anfang                                   |
+| Abschnitt auf PH 59v                 | Anfang und Ende                                                           | Quelle                                                                                                                       |
+| ------------------------------------ | ------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| vorhergende Seite ?                  |                                                                           | Isidor, _Quaestiones in Genesim_, XI, § 4; PL83, Sp. 239                                                                     |
+| vorhergende Seite ?                  |                                                                           | Hieronymus, _Quaestiones Hebraicae in Genesim_, zu Gen 14,18; PL93, Sp. 304 C-D                                              |
+| Spalte a, Z. 1–9                     | _Levi Aaron, de quo postea sacerdotium … corpore et sanguine Domini Iesu_ | Hieronymus, _Quaestiones Hebraicae in Genesim_, zu Gen 14,18; PL93, Sp. 304 D                                                |
+| Spalte a, ab Z. 9/10 bis Z. 31       | _Quod autem supra diximus …_ bis _… et in futuro iudicabit_               | Isidor, _Quaestiones in Genesim_, XI, §4, §§6–8; PL83, Sp. 239–240<br>- §4 zweiter Teil<br>- §5 fehlt ganz<br>- §6-8 gekürzt |
+| Spalte a, ab Z. 33; Fortsetzung in b | _Misisti mihi volumen …_                                                  | Hieronymus, Brief 73 _ad Evangelum_, Anfang; PL 93, Sp. 305 B (In PH und OX _Evangelium_)                                    |
 Die Seite PH f 59v beginnt mit einem Hieronymus-Text aus _Quaestiones Hebraica in Genesim_, wechselt in Zeile 9 der ersten Spalte zu Isidors _Quaestiones in Vetus Testamentum_, und geht in Zeile 33 zu Hieronymus Brief 73 über. Der Wechsel von Hieronymus zu Isidor wird in keiner der Handschriften und auch nicht in PL 93 gekennzeichnet. Der Hieronymus-Brief wird hingegen in PH, OX, LA273 und LA279 durch eine Rubrik hervorgehoben wird. WI kennzeichnet den Briefbeginn durch eine große rote Initiale. In AD ist Platz für eine Initiale ausgespart aber nicht ausgeführt. In WI und AD scheint zudem Platz für eine nicht ausgeführt Rubrik gelassen worden zu sein.
 ### B07.2 Griechische Wörter
 
@@ -245,19 +250,94 @@ Statistische Auswertung der 17 Tabellenstellen. PH² berücksichtigt die interli
 | AD              | 5/17                     | 6/17                      |
 Die Ergänzungen in OX² schaffen an sechs weiteren Stellen eine Übereinstimmung mit PH.
 
+### B07.4 Vergleich mit Isidor
+**Wigbod baut Isidors Melchisedech-Auslegung zu einer Kompilation aus Isidor und Hieronymus um.** Er unterbricht § 4 durch einen Hieronymus-Auszug, formuliert den Anschluss an Isidor neu und fügt nach § 8 den Melchisedech-Brief ein.
+
+|Stelle|Wigbod-Handschriften|Clm 14288|PL 83 (Isidor)|PL 93 (Wigbod)|Kommentar|
+|---|---|---|---|---|---|
+|§ 4, Begegnung Abrahams mit Melchisedech|Strafft die Erzählung. _Inenarrabili parente progenitus_ und _in sacrificium Deo_ entfallen. Abraham wird ausdrücklich als beschnitten bezeichnet (_Abraham circumciso_).|Enthält beide entfallenen Wendungen.|Wie Clm|Gestraffte Erzählung wie in den Handschriften|In OX, WI und LA273 belegt. Der Zusatz _circumciso_ passt zum folgenden Hieronymus-Auszug, der die Beschneidung eigens deutet.|
+|§ 4, nach der Darbringung von Brot und Wein|Schiebt Hieronymus’ _Hebraicae quaestiones_ zu Gen 14,18 ein, von _Quia semel opusculum nostrum_ bis _corpore et sanguine Domini Iesu_.|Geht unmittelbar zu Isidors eigener Deutung über.|Wie Clm|Enthält denselben Einschub.|PH 59va, Z. 1–9 enthält den Schluss des Einschubs.|
+|§ 4, Rückkehr zu Isidor|Formuliert den Einsatz als Rückverweis _Quod autem supra diximus … ut iam ostendimus_. Die Deutung Melchisedechs auf Christus bleibt erhalten.|Isidors Satz beginnt mit _Hunc Melchisedech apostolus Paulus_.|Wie Clm|Rückverweis wie in den Handschriften|In PH, OX, WI und LA273 belegt. In PH steht der Rückanschluss in 59va, Z. 9–12.|
+|§ 5, ewiges Priestertum und Opfergabe|Geht von _per humanitatem_ direkt zum Zehnten in § 6 über.|Deutet das ewige Priestertum und die Opfergabe von Brot und Wein in einem eigenen Absatz.|Wie Clm|Springt ebenfalls zu § 6.|Der Sprung ist in PH, OX, WI und LA273 belegt. Priestertum und Opfergabe sind bereits im Hieronymus-Einschub behandelt.|
+|§ 6, Kirche und Synagoge|Nach _quam Leviticum_ folgt direkt _Qui enim benedicit_.|Deutet dazwischen den Segen Melchisedechs für Abraham auf das Priestertum von Kirche und Synagoge.|Enthält diese Deutung.|Enthält diese Deutung ebenfalls.|PH, OX, WI, LA273 und LA279 kürzen hier. Der Gedanke steht bereits im Hieronymus-Einschub.|
+|§§ 7–8, Namensdeutung _rex pacis_|Die Kurzfassung geht vom ersten _rex pacis_ direkt zu _quia per ipsum reconciliamur Deo_ über.|Deutet den Namen als „König des Friedens“ oder „König der Gerechtigkeit“ und führt dann zur Deutung auf Christus.|Enthält die Langfassung.|Enthält die Langfassung.|PH, OX und WI haben die Kurzfassung. LA273 und LA279 bewahren die Langfassung. Ob Wigbod selbst hier kürzte, bleibt offen.|
+|Nach § 8, Fortsetzung|Fügt Hieronymus’ Brief 73 über Melchisedech ein (_Misisti mihi volumen_).|Setzt die Auslegung mit _Post hanc victoriam_ fort.|Beginnt damit Caput XII.|Enthält ebenfalls den Brief.|Der Brief ist in allen sechs untersuchten Wigbod-Handschriften belegt. In PH beginnt er auf 59va, Z. 33.|
+
+### B07.5 Vergleich mit Hieronymus' _Quaestiones_
+
+| Wortlaut in Pal. lat. 183   | Geprüfte Stelle                                                                      | OX                                                    | PH                   | Andere Wigbod Handschriften                |
+| --------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------- | -------------------- | ------------------------------------------ |
+| _vel traditionum_           | 12v, über Z. 17, nach _hebraicarum_                                                  | 61va, Z. 14, Zusatz fehlt                             |                      |                                            |
+| _Noe_ nach _primogenitos_   | 12v, über Z. 21                                                                      | 61va, Z. 20, im Haupttext                             |                      |                                            |
+| _omnis enim capitis gloria_ | 12v, Z. 26–27. _Capitis_ steht in Z. 26, _gloria_ beginnt Z. 27.                     | 61va, Z. 28, _corporis_                               |                      |                                            |
+| _in verbo ordinis_          | 13r, Z. 4                                                                            | 61vb, Z. 2–3, _in verbo reconciliationis vel ordinis_ | 59va, Z. 6, ebenso   |                                            |
+| _inrationabilibus victimis_ | 13r, Z. 5                                                                            | 61vb, Z. 4–5, _rationabilium victimis_                | 59va, Z. 7–8, ebenso | alle _rationabilum_ (Admont nicht geprüft) |
+| _sed oblato pane et vino_   | 13r, Z. 5–6. _Sed oblato_ steht am Ende von Z. 5, _pane et vino_ am Anfang von Z. 6. | 61vb, Z. 5–6, _allato_                                | 59va, Z. 8, _allato_ |                                            |
+Die Übereinstimmung der fünf Handschriften spricht dafür, dass diese Abweichung vom Hieronymus-Text (_inrationabilibus_ in Pal. lat. 183) bereits früh in der Wigbod-Überlieferung vorlag.
 ## B08 – Wigbods *Quaestiones*: Exodus-Beginn und Capitularium
 
-**Stellen:** PH f. 88v; OX ff. 97v–98r.
+**Stellen:** PH f. 88v; OX ff. 97v–98r.; WI ff.112r-113r; AD ff. 124r-125r; LA273 ff. 117r-117v; LA279 ff. 115r-115v
+zusätzlich: 
+- Wigbod: *Quaestionum super Exodum ex dictis patrum dialogus*, PL93, Sp. 363–386
+- Isidor: *Mysticorum expositiones sacramentorum seu Quaestiones in Vetus Testamentum*
+	- PL83, Sp. 287–322
+	- München, BSB, Clm 14166, ff. 128r–128v
+	- München, BSB, Clm 14288, ff. 66v–67r
+- Isidor: *Prooemia*, § 19 (*De Exodo*), PL 83, Sp. 159
 
-Die verglichenen Handschriften haben ein vorangestelltes Capitularium mit 59 Kapiteln, anschließend *Expliciunt capitula* und ein Incipit. In PL 93 fehlen die vorangestellten Capitula; die entsprechenden Titel stehen als Kapitelüberschriften.
+| Merkmal                    | PH                                 | OX, LA273, LA279                        | WI, AD                          | PL 93                                                  |
+| -------------------------- | ---------------------------------- | --------------------------------------- | ------------------------------- | ------------------------------------------------------ |
+| Kapitelnummern am Rand     | vorhanden                          | vorhanden                               | keine fortlaufende Nummerierung | Nummern und Titel als Überschrift                      |
+| Incipit                    | kurzer Text unten                  | gleicher kurzer Text                    | ausführlicher Text unten        | *Quaestionum super Exodum, ex dictis patrum, dialogus* |
+| Überleitung nach Kapitel I | *Redeamus ad expositionis ordinem* | *Nunc ad expositionis ordinem redeamus* | fehlt                           | fehlt                                                  |
+| *… plagas Aegypti*         | *necem*                            | *necem*                                 | *decem*                         | *necem*; PL 83 hat *decem*                             |
+### B08.1 Capitularium
+PH stellt dem Exodus-Kommentar ein Capitularium mit 59 Titeln voran und stimmt mit OX und LA273 in Zahl, Themenbestand und Reihenfolge der Titel überein. Der Wortlaut ist weitgehend gleich. LA279 hat nur 58 Einträge, WI nur 57 und AD sogar nur 56.  In PL93 erscheinen alle 59 Titel nicht als vorangestelltes Inhaltsverzeichnis sondern als Kapitelüberschriften im laufenden Text. 
 
-| Merkmal | PH | OX, LA273, LA279 | WI, AD | PL 93 |
-| --- | --- | --- | --- | --- |
-| Kapitelnummern am Rand | vorhanden | vorhanden | keine fortlaufende Nummerierung | Nummern und Titel als Überschrift |
-| Incipit | kurzer Text unten | gleicher kurzer Text | ausführlicher Text unten | *Quaestionum super Exodum, ex dictis patrum, dialogus* |
-| Überleitung nach Kapitel I | *Redeamus ad expositionis ordinem* | *Nunc ad expositionis ordinem redeamus* | fehlt | fehlt |
-| *… plagas Aegypti* | *necem* | *necem* | *decem* | *necem*; PL 83 hat *decem* |
+Wigbods Exodus-Kommentar ist größtenteils eine Kopie der *Quaestiones* des Isidor von Sevilla.  Die Titel 2 bis 59 aus Wigbods Capitularium auch in dem der *Quaestiones* Isidors vorhanden, wenn auch teilweise mit deutlich anderem Wortlaut.
+Anders als die Kapitel 2 bis 59 ist der erste Abschnitt nicht aus den *Quaestiones* sondern aus den *Prooemia* entnommen. Das erklärt den zusätzlichen ersten Titel in den Wigbod-Capitularien. Der Titel *Exodus quae in se contineat*  nimmt den Wortlaut des ersten Satzes des Prooemiums auf: *Exodus continet Hebraeorum servitutem ...*, auf. 
+Das Isidor-*Capitularium*, wie es in PL83 erscheint, enthält zusätzlich den Titel *De lapideis tabuleis* an einundreißigster Stelle. Diesen Eintrag enthält auch die Isidor-Handschrift Clm 14288, wohingegen sie Clm 14166, einer anderen Isidor-Handschrift, fehlt. 
+Alle 6 untersuchten Wigbod-Capitularien haben den Titel des zweiten Kapitels *De sexaginta animabus* gemeinsam. Die Isidor-Handschriften sprechen dagegen inhaltlich korrekt von *De septuaginta animabus*. So erscheint dieser Titel in PL83 und PL93. 
 
+Im Wortlaut der Titel stimmen keine zwei Handschriften oder gedruckte Textausgaben vollständig überein. PH steht OX², LA273² und LA279 näher als WI und AD. PH überliefert wahrscheinlich fehlerhafte Lesarten wie *De <u>columba</u> ignis* gegenüber *Se <u>columna</u> ignis* in allen anderen Handschriften, und *De aquis maris* statt *De aquis amaris*, worin PH allerdings mit allen Handschriften übereinstimmt, mit Ausnahme von LA273² und Clm 14166. Interessanterweise stimmt hier PL93 mit PH und Clm 14288 überein, PL83 aber mit LA273² und Clm 14166. Es finden sich auch orthographische Unterschiede die als grammatische Varianten gelesen werden können: PH teilt mit allen Handschriften, bis auf WI und AD, die Schreibweise *De altare*, während WI und AD die Form *De altari* verwenden. PL83 verwendet auch *De altari*, PL93 dagegen *De altrare*. Die Überschrift *De columnis eius et basibus et <u>capitula</u>* verwendet einen grammatisch falschen Kasus in allen Handschriften bis auf WI und AD. Letztere benutzen die abweichende Form <u>capitalibus</u>. Sogar PL93 übernimmt <u>capitula</u>. 
+
+Hervorzuheben sind die teilweise deutlichen Abweichungen der Druckausgaben von Isidor in PL83 und Wigbod in PL93, sowie bereits im Baseler Druck von 1563. Anstelle von *De argento et auro Aegyptiorum sublato*, wie es in allen Isidor-Handschriften heißt, finden wir, Gold und Silber als Schatz zusammenfassend, in PL83 *De <u>thesauris</u> Aegyptiorum*. Statt *De pugna Amalech*, wie es allen Wigbod-Handschriften gemeinsam ist, finden wir in PL93 *De pugna <u>contra</u> Amalech*. Dass PL93 die *sexaginta animabus* zu *septuaginta animabus* korrigiert, den Fehler *capitula* stat *capitulis* aber unkorrigiert läßt, wurde oben schon erwähnt.
+
+Schlußfolgerungen:
+1. Die beiden Isidor-Textzeugen vom Ende des 8. bzw aus dem ersten Drittel des 9. Jahrhunderts und Wigbod-Textzeugen aus der gleichen Zeit überliefern mit Ausnahme des ersten Kapitels ein homologes, vorangestelltes Capitularium mit thematisch gleichen Titeln (Ausnahme ist ein zusätzlicher Titel in CLM 14288), die sich an einigen Stellen im Wortlaut unterscheiden, in gleicher Anordnung. Dieser Befund belegt, dass Wigbod ein bereits in der Isidor-Überlieferung vorhandenes Capitularium übernahm und nicht selbstständig hinzugefügt hat.
+2. Alle Isidor-Textzeugen betiteln das erste Kapitel mit *De septuaginta animabus* während alle Wigbod-Textzeugen übereinstimmend von *De sexaginta animabus* sprechen. Der gemeinsame Fehler spricht für eine frühe gemeinsame Überlieferungsstufe, die diese Lesart bereits enthielt. In der Überlieferungstradition der betrachteten Wigbod-Textzeugen wurde dieser Fehler bis ins 13. Jahrhundert bewahrt. Dies kann als Indiz dafür gesehen werden, dass die Überliefungstraditionen des Isidor-Kommentars und deren Zusammenstellung bei Wigbod weitgehende getrennt voneinander verliefen. Um diese These zu erhärten müssten aber noch weitere Belege gefunden werden.
+
+### B08.1.1 Titelbestand
+
+| Zeuge     | Zahl der Titel | Fehlende(-)/Hinzugefügte(+) Titel                                                                                                                           |
+| --------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| OX        | 59             | keine                                                                                                                                                       |
+| PH        | 59             | keine                                                                                                                                                       |
+| LA273     | 59             | keine                                                                                                                                                       |
+| LA279     | 58             | __-__ *De glorificatione Moysi* (XLIII)                                                                                                                     |
+| WI        | 57             | __-__ *De decem cortinis* (LIII)<br>__-__ *De undecim velis cilicinis* (LIV)                                                                                |
+| AD        | 56             | __-__ *De id quod ait: Non aedificabitis illud desectis lapidibus* (XXXIII)<br>__-__ *De decem cortinis* (LIII)<br>__-__ *De undecim velis cilicinis* (LIV) |
+| PL83      | 59             | __-__ *Exodus quae in se contineat* (I)<br>__+__ *De lapideis tabuleis* (XXXI)                                                                              |
+| CLM 14288 | 59             | __-__ *Exodus quae in se contineat* (I)<br>__+__ *De lapideis tabuleis* (XXXI)                                                                              |
+| CLM 14166 | 58             | __-__ *Exodus quae in se contineat* (I)                                                                                                                     |
+#### B08.1.2 Nähe PH zu Vergleichszeugen
+| Vergleichszeuge | Im Wortlaut gleich | Im Wortlaut abweichend | Fehlende Titel | Übereinstimmung | Abweichungen gewichtet |
+| --------------- | ------------------ | ---------------------- | -------------- | --------------- | ---------------------- |
+| OX¹             | 55                 | 3                      | 0              | 93,6%           | 8                      |
+| OX²             | 55                 | 3                      | 0              | 93,6%           | 8                      |
+| LA273¹          | 56                 | 2                      | 0              | 95,7%           |                        |
+| LA273²          | 55                 | 3                      | 0              | 93,6%           | 10                     |
+| LA279           | 55                 | 2                      | 1              | 95,7%           | 6                      |
+| WI              | 44                 | 11                     | 2              | 85,1%           | 12                     |
+| AD              | 44                 | 10                     | 3              | 83,0%           | 13                     |
+| Clm 14166       | 41                 | 11                     | 1              | 78,7%           | 27                     |
+| Clm 14288       | 49                 | 4                      | 1              | 91,5%           | 11                     |
+| PL 83           | 30                 | 27                     | 1              | 51,1%           | 60                     |
+| PL 93           | 48                 | 8                      | 3              | 85,1%           | 16                     |
+Zu den Bewertungsregeln und eine Aufstellungen aller Unterschiede siehe den Anhang.
+
+
+### B08.2 Incipit
 Kurzer Incipit:
 
 > *Incipit explanatio sanctorum patrum quorum in praefatione prima huius libri memini super Exodum.*
@@ -266,9 +346,8 @@ Ausführlicher Incipit in WI/AD:
 
 > *Incipit explanatio quam fecit Wigbod presbiter domini Caroli imperatoris ex libris sanctorum patrum, id est Hieronimi, Augustini, Ambrosii, Hilarii, Eucherii, Gregorii, Isidori, Iunilii, Bede, in Exodo.*
 
+### B08.3 Überleitung
 Als Isidor-Vergleichsstellen sind *Prooemia* 19 (PL 83, 159C) für Kapitel I und *Quaestiones in Exodum* (PL 83, 287C) für die folgenden Kapitel verzeichnet. Die Überleitung steht dort nicht.
-
-Das WI-Capitularium ist zweispaltig, das AD-Capitularium einspaltig; AD zeigt eine alternierende Reihenfolge der Einträge. In AD wurden ausgesparte, nicht ausgeführte Initialen unter anderem bei *Incipit*, *Exodus*, *Primo* und am Leviticus-Anfang beobachtet.
 
 ## B09 – Wigbods *Quaestiones*: Exodus
 
